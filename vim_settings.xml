@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/Demo.js" timestamp="1470118459042">
-        <mark key="[" line="15" column="21" />
-        <mark key="]" line="15" column="19" />
-        <mark key="." line="15" column="19" />
-        <mark key="^" line="15" column="19" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/Demo.js" timestamp="1470127667690">
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="10" />
+        <mark key="." line="20" column="10" />
+        <mark key="^" line="20" column="10" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/common/CollectionUtils.java" timestamp="1467794992879">
         <mark key="[" line="15" column="1" />
@@ -15,7 +15,12 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="3" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMapPanel.js" timestamp="1470118378146" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMapPanel.js" timestamp="1470127554483">
+        <mark key="[" line="43" column="22" />
+        <mark key="]" line="43" column="28" />
+        <mark key="." line="43" column="28" />
+        <mark key="^" line="43" column="28" />
+      </file>
       <file name="D:/IdeaProjects/lems/.editorconfig" timestamp="1467795493000">
         <mark key="[" line="2" column="2" />
       </file>
@@ -37,41 +42,43 @@
       <jump line="38" column="13" filename="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>B</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBibWFwLmFkZENvbnRyb2wobmV3IEJNYXAuTWFwVHlwZUNvbnRyb2woKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>B</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>navi</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJe2lkOiAnMicsIG5hbWU6ICeyv8PFudzA7ScsIHVybDogJyNkZXBhcnRtZW50cycsIGljb25DbHM6ICdmYSBmYS1zaXRlbWFwJyB9LAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">CiA=</text>
       </register>
-      <register name="1" type="4">
-        <text>B</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBibWFwLmFkZENvbnRyb2wobmV3IEJNYXAuTWFwVHlwZUNvbnRyb2woKSk7Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="3" type="4">
-        <text>2</text>
+        <text>,</text>
       </register>
       <register name="4" type="4">
-        <text>sitemap</text>
+        <text encoding="base64">KCA=</text>
       </register>
-      <register name="5" type="4">
-        <text>departments</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGN1cnJlbnRDaXR5OiAnsbG+qScsCg==</text>
       </register>
       <register name="6" type="4">
-        <text>部门管理</text>
+        <text>{lng: 116.404, lat: 39.915}</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>mapOptions: {
+        
+    }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGh0bWw6ICJIZWxsbywgV29ybGQhISIK</text>
+      <register name="8" type="4">
+        <text>B</text>
       </register>
       <register name="9" type="4">
         <text>,</text>
@@ -115,6 +122,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
