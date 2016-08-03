@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/Demo.js" timestamp="1470193786726">
-        <mark key="[" line="22" column="32" />
-        <mark key="]" line="19" column="7" />
-        <mark key="." line="19" column="7" />
-        <mark key="^" line="19" column="7" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/Demo.js" timestamp="1470195134999">
+        <mark key="[" line="43" column="33" />
+        <mark key="]" line="44" column="21" />
+        <mark key="." line="44" column="21" />
+        <mark key="^" line="44" column="21" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/common/CollectionUtils.java" timestamp="1467794992879">
         <mark key="[" line="15" column="1" />
@@ -37,6 +37,12 @@
         <mark key="." line="9" column="109" />
         <mark key="^" line="9" column="109" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/DemoController.js" timestamp="1470195147319">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="3" column="2" />
+        <mark key="^" line="3" column="2" />
+        <mark key="." line="3" column="2" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="73" column="21" filename="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" />
@@ -45,10 +51,12 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getPoint</text>
+        <text>,
+
+});</text>
       </register>
       <register name="-" type="4">
-        <text>getPoint</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>navi</text>
@@ -57,31 +65,33 @@
         <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Imh0dHA6Ly9hcGkubWFwLmJhaWR1LmNvbS9hcGk/dj0yLjAmYWs9OWI0MjcwODRiM2ZkOTE4ZmI1YjI5ZmI0ZmIzNjA1YmQiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="4">
-        <text>getPoint</text>
+        <text>,
+
+});</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFya2VyVG9vbC5jbG9zZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbkNsaWNrOiAnb25NYXJrQnRuQ2xpY2snCg==</text>
       </register>
       <register name="3" type="4">
-        <text>mkr.point.</text>
+        <text>o</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdXNocGluLm9wZW4oKTsK</text>
+      <register name="4" type="4">
+        <text>getPoint</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgcHVzaHBpbiA9IG5ldyBCTWFwLlB1c2hwaW5Ub29sKGJtYXApOwogICAgICAgIHB1c2hwaW4uYWRkRXZlbnRMaXN0ZW5lcigibWFya2VuZCIsIGZ1bmN0aW9uIChlKSB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCLE+rHq16K1xM671sM6IiArIGUubWFya2VyLmxuZyArICIsICIgKyBlLm1hcmtlci5sYXQpOwogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFya2VyVG9vbC5jbG9zZSgpOwo=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">aHR0cDovL2FwaS5tYXAuYmFpZHUuY29tL2FwaT92PTIuMCZhaz05YjQyNzA4NGIzZmQ5MThmYjViMjlmYjRmYjM2MDViZCI=</text>
+        <text>mkr.point.</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBibWFwLmFkZENvbnRyb2wobmV3IEJNYXAuQ29weXJpZ2h0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdXNocGluLm9wZW4oKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>MapTypeControl</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgcHVzaHBpbiA9IG5ldyBCTWFwLlB1c2hwaW5Ub29sKGJtYXApOwogICAgICAgIHB1c2hwaW4uYWRkRXZlbnRMaXN0ZW5lcigibWFya2VuZCIsIGZ1bmN0aW9uIChlKSB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCLE+rHq16K1xM671sM6IiArIGUubWFya2VyLmxuZyArICIsICIgKyBlLm1hcmtlci5sYXQpOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text encoding="base64">aHR0cDovL2FwaS5tYXAuYmFpZHUuY29tL2FwaT92PTIuMCZhaz05YjQyNzA4NGIzZmQ5MThmYjViMjlmYjRmYjM2MDViZCI=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
