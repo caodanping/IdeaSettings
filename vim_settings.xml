@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/Demo.js" timestamp="1470189897803">
-        <mark key="[" line="20" column="54" />
-        <mark key="]" line="25" column="22" />
-        <mark key="." line="25" column="22" />
-        <mark key="^" line="25" column="22" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/Demo.js" timestamp="1470191587245">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/common/CollectionUtils.java" timestamp="1467794992879">
         <mark key="[" line="15" column="1" />
@@ -24,9 +23,6 @@
       <file name="D:/IdeaProjects/lems/.editorconfig" timestamp="1467795493000">
         <mark key="[" line="2" column="2" />
       </file>
-      <file name="/a.dummy" timestamp="1470118069314">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1470118142885">
         <mark key="'" line="38" column="13" />
         <mark key="[" line="53" column="89" />
@@ -34,7 +30,12 @@
         <mark key="^" line="53" column="29" />
         <mark key="." line="53" column="92" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/index.html" timestamp="1470109635363" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/index.html" timestamp="1470190558771">
+        <mark key="[" line="9" column="40" />
+        <mark key="]" line="9" column="109" />
+        <mark key="." line="9" column="109" />
+        <mark key="^" line="9" column="109" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="73" column="21" filename="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" />
@@ -43,43 +44,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBibWFwLmFkZENvbnRyb2wobmV3IEJNYXAuQ29weXJpZ2h0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFya2VyVG9vbC5jbG9zZSgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>MapTypeControl</text>
+        <text>mkr.point.</text>
       </register>
       <register name="/" type="4">
         <text>navi</text>
       </register>
-      <register name="0" type="4">
-        <text>Copyright</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Imh0dHA6Ly9hcGkubWFwLmJhaWR1LmNvbS9hcGk/dj0yLjAmYWs9OWI0MjcwODRiM2ZkOTE4ZmI1YjI5ZmI0ZmIzNjA1YmQiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBibWFwLmFkZENvbnRyb2wobmV3IEJNYXAuQ29weXJpZ2h0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFya2VyVG9vbC5jbG9zZSgpOwo=</text>
       </register>
       <register name="2" type="4">
-        <text>MapTypeControl</text>
+        <text>mkr.point.</text>
       </register>
-      <register name="3" type="4">
-        <text>.</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwdXNocGluLm9wZW4oKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgcHVzaHBpbiA9IG5ldyBCTWFwLlB1c2hwaW5Ub29sKGJtYXApOwogICAgICAgIHB1c2hwaW4uYWRkRXZlbnRMaXN0ZW5lcigibWFya2VuZCIsIGZ1bmN0aW9uIChlKSB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCLE+rHq16K1xM671sM6IiArIGUubWFya2VyLmxuZyArICIsICIgKyBlLm1hcmtlci5sYXQpOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="5" type="4">
-        <text>/</text>
+        <text encoding="base64">aHR0cDovL2FwaS5tYXAuYmFpZHUuY29tL2FwaT92PTIuMCZhaz05YjQyNzA4NGIzZmQ5MThmYjViMjlmYjRmYjM2MDViZCI=</text>
       </register>
-      <register name="6" type="4">
-        <text>/</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBibWFwLmFkZENvbnRyb2wobmV3IEJNYXAuQ29weXJpZ2h0KCkpOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>安徽省</text>
+        <text>MapTypeControl</text>
       </register>
       <register name="8" type="4">
-        <text>合肥</text>
+        <text>.</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBibWFwLmFkZENvbnRyb2wobmV3IEJNYXAuTWFwVHlwZUNvbnRyb2woKSk7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
