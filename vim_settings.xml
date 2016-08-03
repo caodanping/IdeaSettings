@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/Demo.js" timestamp="1470188059738">
-        <mark key="[" line="21" column="33" />
-        <mark key="]" line="21" column="33" />
-        <mark key="." line="21" column="33" />
-        <mark key="^" line="16" column="12" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/Demo.js" timestamp="1470189897803">
+        <mark key="[" line="20" column="54" />
+        <mark key="]" line="25" column="22" />
+        <mark key="." line="25" column="22" />
+        <mark key="^" line="25" column="22" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/common/CollectionUtils.java" timestamp="1467794992879">
         <mark key="[" line="15" column="1" />
@@ -42,8 +42,8 @@
       <jump line="38" column="13" filename="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>MapTypeControl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBibWFwLmFkZENvbnRyb2wobmV3IEJNYXAuQ29weXJpZ2h0KCkpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>MapTypeControl</text>
@@ -51,35 +51,35 @@
       <register name="/" type="4">
         <text>navi</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBibWFwLmFkZENvbnRyb2wobmV3IEJNYXAuTWFwVHlwZUNvbnRyb2woKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>Copyright</text>
       </register>
-      <register name="1" type="4">
-        <text>MapTypeControl</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBibWFwLmFkZENvbnRyb2wobmV3IEJNYXAuQ29weXJpZ2h0KCkpOwo=</text>
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text>MapTypeControl</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
         <text>/</text>
       </register>
       <register name="6" type="4">
-        <text>安徽省</text>
+        <text>/</text>
       </register>
       <register name="7" type="4">
+        <text>安徽省</text>
+      </register>
+      <register name="8" type="4">
         <text>合肥</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBibWFwLmFkZENvbnRyb2wobmV3IEJNYXAuTWFwVHlwZUNvbnRyb2woKSk7Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
