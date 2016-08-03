@@ -24,6 +24,12 @@
       <file name="D:/IdeaProjects/lems/.editorconfig" timestamp="1467795493000">
         <mark key="[" line="2" column="2" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app.json" timestamp="1470204087407">
+        <mark key="[" line="110" column="21" />
+        <mark key="]" line="110" column="38" />
+        <mark key="." line="110" column="38" />
+        <mark key="^" line="110" column="38" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1470118142885">
         <mark key="'" line="38" column="13" />
         <mark key="[" line="53" column="89" />
@@ -31,11 +37,10 @@
         <mark key="^" line="53" column="29" />
         <mark key="." line="53" column="92" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/index.html" timestamp="1470190558771">
-        <mark key="[" line="9" column="40" />
-        <mark key="]" line="9" column="109" />
-        <mark key="." line="9" column="109" />
-        <mark key="^" line="9" column="109" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/index.html" timestamp="1470204104248">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/DemoController.js" timestamp="1470198797831">
         <mark key="[" line="3" column="33" />
@@ -50,46 +55,46 @@
       <jump line="38" column="13" filename="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>或</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Imh0dHA6Ly9hcGkubWFwLmJhaWR1LmNvbS9saWJyYXJ5L01hcmtlclRvb2wvMS4yL3NyYy9NYXJrZXJUb29sX21pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>或</text>
+        <text>${</text>
       </register>
       <register name="/" type="4">
         <text>navi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Imh0dHA6Ly9hcGkubWFwLmJhaWR1LmNvbS9hcGk/dj0yLjAmYWs9OWI0MjcwODRiM2ZkOTE4ZmI1YjI5ZmI0ZmIzNjA1YmQiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJwYXRoIjogIiR7ZnJhbWV3b3JrLmRpcn0vYnVpbGQvZXh0LWFsbC1ydGwtZGVidWcuanMiCiAgICAgICAgfSwK</text>
       </register>
-      <register name="1" type="4">
-        <text>或</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Imh0dHA6Ly9hcGkubWFwLmJhaWR1LmNvbS9saWJyYXJ5L01hcmtlclRvb2wvMS4yL3NyYy9NYXJrZXJUb29sX21pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>键</text>
+        <text>${</text>
       </register>
       <register name="3" type="4">
-        <text>右</text>
+        <text>或</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnRyb2xsZXI6ICJibWFwLWRlbW8iLAo=</text>
+      <register name="4" type="4">
+        <text>键</text>
       </register>
       <register name="5" type="4">
+        <text>右</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnRyb2xsZXI6ICJibWFwLWRlbW8iLAo=</text>
+      </register>
+      <register name="7" type="4">
         <text>,
 
 });</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbkNsaWNrOiAnb25NYXJrQnRuQ2xpY2snCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>o</text>
-      </register>
-      <register name="8" type="4">
-        <text>getPoint</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFya2VyVG9vbC5jbG9zZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
