@@ -42,11 +42,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" timestamp="1470207503650">
-        <mark key="[" line="314" column="9" />
-        <mark key="]" line="314" column="13" />
-        <mark key="." line="314" column="13" />
-        <mark key="^" line="281" column="21" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" timestamp="1470209918163">
+        <mark key="'" line="445" column="12" />
+        <mark key="[" line="418" column="42" />
+        <mark key="]" line="418" column="42" />
+        <mark key="." line="418" column="43" />
+        <mark key="^" line="415" column="9" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/DemoController.js" timestamp="1470198797831">
         <mark key="[" line="3" column="33" />
@@ -59,55 +60,66 @@
       <jump line="73" column="21" filename="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" />
       <jump line="1" column="11" filename="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" />
       <jump line="38" column="13" filename="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" />
+      <jump line="479" column="0" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
+      <jump line="518" column="25" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
+      <jump line="444" column="18" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
+      <jump line="446" column="15" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
+      <jump line="484" column="13" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
+      <jump line="421" column="9" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
+      <jump line="400" column="17" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
+      <jump line="402" column="31" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
+      <jump line="414" column="22" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
+      <jump line="418" column="43" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
+      <jump line="445" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text>this</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
-        <text>navi</text>
+        <text>this</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnSyc6IDY2LAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLl9tYXAuZ2V0Q29udGFpbmVyKCkucmVtb3ZlRXZlbnRMaXN0ZW5lcigia2V5ZG93biIsIHRoaXMuX2tleWRvd25IYW5kbGVyKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>6</text>
+        <text>this</text>
       </register>
       <register name="2" type="4">
-        <text>8</text>
+        <text encoding="base64">IHRoaXM=</text>
       </register>
       <register name="3" type="4">
-        <text>8</text>
+        <text>this</text>
       </register>
       <register name="4" type="4">
-        <text>8</text>
+        <text>this</text>
       </register>
       <register name="5" type="4">
-        <text>8</text>
+        <text>this</text>
       </register>
       <register name="6" type="4">
-        <text>8</text>
+        <text>this</text>
       </register>
       <register name="7" type="4">
-        <text>8</text>
+        <text>this</text>
       </register>
       <register name="8" type="4">
-        <text>8</text>
+        <text>this</text>
       </register>
       <register name="9" type="4">
-        <text>6</text>
+        <text>this</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>navi</last-search>
+      <last-search>this</last-search>
       <last-offset />
-      <last-pattern>navi</last-pattern>
+      <last-pattern>this</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -115,11 +127,14 @@
       <history-search>
         <entry>nav</entry>
         <entry>navi</entry>
+        <entry>bind</entry>
+        <entry>_bind</entry>
+        <entry>this</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
