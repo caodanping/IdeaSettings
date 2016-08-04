@@ -15,12 +15,6 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="3" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMapPanel.js" timestamp="1470281128243">
-        <mark key="[" line="38" column="8" />
-        <mark key="]" line="38" column="9" />
-        <mark key="." line="38" column="9" />
-        <mark key="^" line="38" column="9" />
-      </file>
       <file name="D:/IdeaProjects/lems/.editorconfig" timestamp="1467795493000">
         <mark key="[" line="2" column="2" />
       </file>
@@ -30,17 +24,27 @@
         <mark key="." line="110" column="38" />
         <mark key="^" line="110" column="38" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/index.html" timestamp="1470204104248">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/Msg.js" timestamp="1470275348632" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/scripts/SearchControl.js" timestamp="1470286993762">
+        <mark key="'" line="1751" column="16" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMapPanel.js" timestamp="1470281128243">
+        <mark key="[" line="38" column="8" />
+        <mark key="]" line="38" column="9" />
+        <mark key="." line="38" column="9" />
+        <mark key="^" line="38" column="9" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1470118142885">
         <mark key="'" line="38" column="13" />
         <mark key="[" line="53" column="89" />
         <mark key="]" line="53" column="92" />
         <mark key="^" line="53" column="29" />
         <mark key="." line="53" column="92" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/index.html" timestamp="1470204104248">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" timestamp="1470209918163">
         <mark key="'" line="445" column="12" />
@@ -49,7 +53,6 @@
         <mark key="." line="418" column="43" />
         <mark key="^" line="415" column="9" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/Msg.js" timestamp="1470275348632" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/DemoController.js" timestamp="1470198797831">
         <mark key="[" line="3" column="33" />
         <mark key="]" line="6" column="11" />
@@ -72,6 +75,9 @@
       <jump line="414" column="22" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
       <jump line="418" column="43" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
       <jump line="445" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
+      <jump line="0" column="0" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/SearchControl.js" />
+      <jump line="1754" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/SearchControl.js" />
+      <jump line="1751" column="16" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/SearchControl.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -81,7 +87,7 @@
         <text>合肥</text>
       </register>
       <register name="/" type="4">
-        <text>this</text>
+        <text>autoComp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCe1scewzrvWwzonICsgcHQubG5nICsgJywgJyArIHB0LmxhdCk7Cg==</text>
@@ -118,9 +124,9 @@
       </register>
     </registers>
     <search>
-      <last-search>this</last-search>
+      <last-search>autoComp</last-search>
       <last-offset />
-      <last-pattern>this</last-pattern>
+      <last-pattern>autoComp</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -131,6 +137,8 @@
         <entry>bind</entry>
         <entry>_bind</entry>
         <entry>this</entry>
+        <entry>autocomplete</entry>
+        <entry>autoComp</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
