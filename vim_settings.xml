@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/Demo.js" timestamp="1470297435968">
-        <mark key="[" line="67" column="18" />
-        <mark key="]" line="68" column="26" />
-        <mark key="." line="68" column="26" />
-        <mark key="^" line="68" column="26" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/Demo.js" timestamp="1470300668662">
+        <mark key="[" line="84" column="39" />
+        <mark key="]" line="84" column="58" />
+        <mark key="." line="84" column="58" />
+        <mark key="^" line="84" column="58" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/common/CollectionUtils.java" timestamp="1467794992879">
         <mark key="[" line="15" column="1" />
@@ -24,10 +24,10 @@
         <mark key="." line="110" column="38" />
         <mark key="^" line="110" column="38" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/index.html" timestamp="1470204104248">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/index.html" timestamp="1470301144850">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="129" />
+        <mark key="." line="8" column="36" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/Msg.js" timestamp="1470275348632" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/scripts/SearchControl.js" timestamp="1470293197089">
@@ -82,44 +82,44 @@
       <jump line="94" column="9" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/SearchControl.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>合肥</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzZGJsY2xpY2tyYz0iaHR0cDovL2FwaS5tYXAuYmFpZHUuY29tL2FwaT92PTIuMCZhaz05YjQyNzA4NGIzZmQ5MThmYjViMjlmYjRmYjM2MDViZCI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>合肥</text>
+        <text>dblclick</text>
       </register>
       <register name="/" type="4">
         <text>localsearch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCe1scewzrvWwzonICsgcHQubG5nICsgJywgJyArIHB0LmxhdCk7Cg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzZGJsY2xpY2tyYz0iaHR0cDovL2FwaS5tYXAuYmFpZHUuY29tL2FwaT92PTIuMCZhaz05YjQyNzA4NGIzZmQ5MThmYjViMjlmYjRmYjM2MDViZCI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>合肥</text>
+        <text>dblclick</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWtyLnNldExhYmVsKCk7Cg==</text>
+      <register name="2" type="4">
+        <text>dom</text>
       </register>
       <register name="3" type="4">
-        <text>new BMap.Label('点击可查看详情'</text>
+        <text>mkr</text>
       </register>
       <register name="4" type="4">
+        <text>合肥</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWtyLnNldExhYmVsKCk7Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>new BMap.Label('点击可查看详情'</text>
+      </register>
+      <register name="7" type="4">
         <text>击可查看详情')</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>setTitle('点</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnxPrQ3rjEtcTOu9bDOicpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnxPrQ3rjEtcTOu9bDOicpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEV4dC5Nc2cuc2hvdyh7CiAgICAgICAgICAgICAgICAgICAgdGl0bGU6ICfIt8jPz/vPoicsCiAgICAgICAgICAgICAgICAgICAgbWVzc2FnZTogJ8i3tqjSqrHkuPzOu9bDwvA/JywKICAgICAgICAgICAgICAgICAgICBidXR0b25zOiBFeHQuTXNnLllFU05PLAogICAgICAgICAgICAgICAgICAgIGljb246IEV4dC5Nc2cuUVVFU1RJT04sCiAgICAgICAgICAgICAgICAgICAgZm46IGZ1bmN0aW9uIChidG4pIHsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGJ0biA9PT0gJ3llcycpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCfOu9bDseS4/DonICsgcHQubG5nICsgJywgJyArIHB0LmxhdCk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnzrvWw7HkuPyxu8ihz/shJyk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgb2xkUG9zID0gbWtyLm9sZFBvaW50OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVsZXRlICBta3Iub2xkUG9pbnQ7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBta3Iuc2V0UG9zaXRpb24ob2xkUG9zKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnxPrQ3rjEtcTOu9bDOicpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
