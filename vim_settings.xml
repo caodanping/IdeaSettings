@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/Demo.js" timestamp="1470278517529">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="46" column="25" />
-        <mark key="." line="68" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/Demo.js" timestamp="1470279307227">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/common/CollectionUtils.java" timestamp="1467794992879">
         <mark key="[" line="15" column="1" />
@@ -74,10 +73,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnxPrQ3rjEtcTOu9bDOicpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWtyLnNldExhYmVsKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRpdGxl</text>
+        <text>new BMap.Label('点击可查看详情'</text>
       </register>
       <register name="/" type="4">
         <text>this</text>
@@ -86,31 +85,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCe1scewzrvWwzonICsgcHQubG5nICsgJywgJyArIHB0LmxhdCk7Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWtyLnNldExhYmVsKCk7Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text>new BMap.Label('点击可查看详情'</text>
+      </register>
+      <register name="3" type="4">
+        <text>击可查看详情')</text>
+      </register>
+      <register name="4" type="4">
+        <text>setTitle('点</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnxPrQ3rjEtcTOu9bDOicpCg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnxPrQ3rjEtcTOu9bDOicpCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIEV4dC5Nc2cuc2hvdyh7CiAgICAgICAgICAgICAgICAgICAgdGl0bGU6ICfIt8jPz/vPoicsCiAgICAgICAgICAgICAgICAgICAgbWVzc2FnZTogJ8i3tqjSqrHkuPzOu9bDwvA/JywKICAgICAgICAgICAgICAgICAgICBidXR0b25zOiBFeHQuTXNnLllFU05PLAogICAgICAgICAgICAgICAgICAgIGljb246IEV4dC5Nc2cuUVVFU1RJT04sCiAgICAgICAgICAgICAgICAgICAgZm46IGZ1bmN0aW9uIChidG4pIHsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGJ0biA9PT0gJ3llcycpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCfOu9bDseS4/DonICsgcHQubG5nICsgJywgJyArIHB0LmxhdCk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnzrvWw7HkuPyxu8ihz/shJyk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgb2xkUG9zID0gbWtyLm9sZFBvaW50OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVsZXRlICBta3Iub2xkUG9pbnQ7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBta3Iuc2V0UG9zaXRpb24ob2xkUG9zKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IHRpdGxl</text>
-      </register>
-      <register name="6" type="4">
-        <text>！</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IG1lc3NhZ2U=</text>
-      </register>
-      <register name="8" type="4">
-        <text>(':' + pt.lng + ', ' + pt.lat)</text>
-      </register>
       <register name="9" type="4">
-        <text>位置变更</text>
+        <text encoding="base64">IHRpdGxl</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
