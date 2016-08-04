@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/Demo.js" timestamp="1470273706654">
-        <mark key="[" line="40" column="14" />
-        <mark key="]" line="40" column="14" />
-        <mark key="." line="40" column="14" />
-        <mark key="^" line="40" column="14" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/Demo.js" timestamp="1470275750249">
+        <mark key="[" line="55" column="58" />
+        <mark key="]" line="57" column="49" />
+        <mark key="." line="57" column="49" />
+        <mark key="^" line="57" column="49" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/common/CollectionUtils.java" timestamp="1467794992879">
         <mark key="[" line="15" column="1" />
@@ -48,6 +48,7 @@
         <mark key="." line="418" column="43" />
         <mark key="^" line="415" column="9" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/Msg.js" timestamp="1470275348632" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/DemoController.js" timestamp="1470198797831">
         <mark key="[" line="3" column="33" />
         <mark key="]" line="6" column="11" />
@@ -73,43 +74,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>me.body.query('.BMap_mask', false)[0]</text>
+        <text encoding="base64">IHRpdGxl</text>
       </register>
       <register name="-" type="4">
-        <text>me.body.query('.BMap_mask', false)[0]</text>
+        <text encoding="base64">IHRpdGxl</text>
       </register>
       <register name="/" type="4">
         <text>this</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLl9tYXAuZ2V0Q29udGFpbmVyKCkucmVtb3ZlRXZlbnRMaXN0ZW5lcigia2V5ZG93biIsIHRoaXMuX2tleWRvd25IYW5kbGVyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCfOu9bDseS4/DonICsgcHQubG5nICsgJywgJyArIHB0LmxhdCk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>me.body.query('.BMap_mask', false)[0]</text>
+        <text encoding="base64">IHRpdGxl</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>！</text>
       </register>
       <register name="3" type="4">
-        <text>me.body.query('.BMap_mask', false)[</text>
+        <text encoding="base64">IG1lc3NhZ2U=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>(':' + pt.lng + ', ' + pt.lat)</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgIGxpc3RlbmVyczogewogICAgICAgIGNsaWNrOiB7CiAgICAgICAgICAgIGVsZW1lbnQ6ICdib2R5JywKICAgICAgICAgICAgZm46IGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgICAgY29uc29sZS5sb2coImtleWRvd24hIik7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9LA==</text>
+        <text>位置变更</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtZS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>dblclick</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>keydown</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCfOu9bDseS4/DonICsgcHQubG5nICsgJywgJyArIHB0LmxhdCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
