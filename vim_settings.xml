@@ -30,8 +30,8 @@
         <mark key="." line="9" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/Msg.js" timestamp="1470275348632" />
-      <file name="D:/IdeaProjects/lems/src/main/frontend/scripts/SearchControl.js" timestamp="1470286993762">
-        <mark key="'" line="1751" column="16" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/scripts/SearchControl.js" timestamp="1470293197089">
+        <mark key="'" line="94" column="9" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMapPanel.js" timestamp="1470281128243">
         <mark key="[" line="38" column="8" />
@@ -78,6 +78,7 @@
       <jump line="0" column="0" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/SearchControl.js" />
       <jump line="1754" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/SearchControl.js" />
       <jump line="1751" column="16" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/SearchControl.js" />
+      <jump line="94" column="9" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/SearchControl.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -87,7 +88,7 @@
         <text>合肥</text>
       </register>
       <register name="/" type="4">
-        <text>autoComp</text>
+        <text>localsearch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCe1scewzrvWwzonICsgcHQubG5nICsgJywgJyArIHB0LmxhdCk7Cg==</text>
@@ -124,9 +125,9 @@
       </register>
     </registers>
     <search>
-      <last-search>autoComp</last-search>
+      <last-search>localsearch</last-search>
       <last-offset />
-      <last-pattern>autoComp</last-pattern>
+      <last-pattern>localsearch</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -139,6 +140,7 @@
         <entry>this</entry>
         <entry>autocomplete</entry>
         <entry>autoComp</entry>
+        <entry>localsearch</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
