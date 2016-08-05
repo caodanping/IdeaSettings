@@ -1,13 +1,13 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/Demo.js" timestamp="1470370033243">
-        <mark key="[" line="32" column="54" />
-        <mark key="]" line="130" column="30" />
-        <mark key="^" line="130" column="30" />
-        <mark key="." line="130" column="30" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/Demo.js" timestamp="1470383442357">
+        <mark key="[" line="39" column="26" />
+        <mark key="]" line="39" column="26" />
+        <mark key="." line="39" column="26" />
+        <mark key="^" line="192" column="32" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/common/CollectionUtils.java" timestamp="1467794992879">
         <mark key="[" line="15" column="1" />
@@ -47,8 +47,8 @@
         <mark key="^" line="53" column="29" />
         <mark key="." line="53" column="92" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" timestamp="1470209918163">
-        <mark key="'" line="445" column="12" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" timestamp="1470379618413">
+        <mark key="'" line="428" column="16" />
         <mark key="[" line="418" column="42" />
         <mark key="]" line="418" column="42" />
         <mark key="." line="418" column="43" />
@@ -80,62 +80,56 @@
       <jump line="1754" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/SearchControl.js" />
       <jump line="1751" column="16" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/SearchControl.js" />
       <jump line="94" column="9" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/SearchControl.js" />
+      <jump line="428" column="16" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>116.59959</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>116.59959</text>
       </register>
       <register name="/" type="4">
-        <text>localsearch</text>
+        <text>if</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBFeHQuZ2V0RG9jKCkub24oJ2tleWRvd24nLCBtZS5fa2V5ZG93bkhhbmRsZXIsIG1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7bG5nOiAxMTYuNTk5NTksIGxhdDogMzIuNDM1MjkyLCBuYW1lOiAnus+3yrLWv+InIH0sCg==</text>
       </register>
       <register name="1" type="4">
-        <text>l</text>
+        <text>116.59959</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhldnQuZ2V0WFkoKSk7Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>console.log(evt.getTarget().id);
-        if (evt.getKey() === Ext.event.Event.ESC) {
-            this.isMarkerToolOpen = false;
-            this.markerTool.close();
-        } else</text>
+        <text>E</text>
       </register>
       <register name="4" type="4">
-        <text>if(evt.getKey() === Ext.event.Event.ESC) {
-            this.isMarkerToolOpen = false;
-            this.markerTool.close();
-        }</text>
+        <text>r</text>
       </register>
       <register name="5" type="4">
-        <text>down</text>
+        <text>o</text>
       </register>
       <register name="6" type="4">
-        <text>dom</text>
+        <text>f</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9LAo=</text>
+      <register name="7" type="4">
+        <text>item</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZENvbG9yOicjMDAwMDAwJwo=</text>
+      <register name="8" type="4">
+        <text>records</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I6ICcjRkZGRkZGJywK</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhlU3RvcmUgPT09IHN0b3JlKSByZXR1cm4gc3RvcmU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>localsearch</last-search>
+      <last-search>if</last-search>
       <last-offset />
-      <last-pattern>localsearch</last-pattern>
+      <last-pattern>if</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -149,6 +143,7 @@
         <entry>autocomplete</entry>
         <entry>autoComp</entry>
         <entry>localsearch</entry>
+        <entry>if</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
