@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/Demo.js" timestamp="1470300668662">
-        <mark key="[" line="84" column="39" />
-        <mark key="]" line="84" column="58" />
-        <mark key="." line="84" column="58" />
-        <mark key="^" line="84" column="58" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/Demo.js" timestamp="1470361178957">
+        <mark key="]" line="100" column="18" />
+        <mark key="^" line="100" column="18" />
+        <mark key="." line="100" column="18" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/common/CollectionUtils.java" timestamp="1467794992879">
         <mark key="[" line="15" column="1" />
@@ -83,10 +82,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzZGJsY2xpY2tyYz0iaHR0cDovL2FwaS5tYXAuYmFpZHUuY29tL2FwaT92PTIuMCZhaz05YjQyNzA4NGIzZmQ5MThmYjViMjlmYjRmYjM2MDViZCI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="-" type="4">
-        <text>dblclick</text>
+        <text>sty</text>
       </register>
       <register name="/" type="4">
         <text>localsearch</text>
@@ -94,32 +93,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzZGJsY2xpY2tyYz0iaHR0cDovL2FwaS5tYXAuYmFpZHUuY29tL2FwaT92PTIuMCZhaz05YjQyNzA4NGIzZmQ5MThmYjViMjlmYjRmYjM2MDViZCI+PC9zY3JpcHQ+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>dblclick</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9LAo=</text>
       </register>
-      <register name="2" type="4">
-        <text>dom</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZENvbG9yOicjMDAwMDAwJwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>mkr</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I6ICcjRkZGRkZGJywK</text>
       </register>
-      <register name="4" type="4">
-        <text>合肥</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZTogewo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWtyLnNldExhYmVsKCk7Cg==</text>
+      <register name="5" type="4">
+        <text>sty</text>
       </register>
       <register name="6" type="4">
-        <text>new BMap.Label('点击可查看详情'</text>
+        <text>panel</text>
       </register>
       <register name="7" type="4">
-        <text>击可查看详情')</text>
+        <text>html</text>
       </register>
       <register name="8" type="4">
-        <text>setTitle('点</text>
+        <text>Component</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnxPrQ3rjEtcTOu9bDOicpCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">JzxoMz5IZWxsbyBXb3JsZDwvaDM+Jw==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
