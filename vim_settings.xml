@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/Demo.js" timestamp="1470725962424">
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="156" column="7" />
-        <mark key="." line="156" column="7" />
-        <mark key="^" line="156" column="7" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/Demo.js" timestamp="1470969793482">
+        <mark key="[" line="175" column="15" />
+        <mark key="]" line="175" column="0" />
+        <mark key="." line="175" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1470966943190">
         <mark key="[" line="0" column="0" />
@@ -93,8 +92,8 @@
       <jump line="405" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>LEFT</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>LEFT</text>
@@ -105,32 +104,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7bG5nOiAxMTYuNTk5NTksIGxhdDogMzIuNDM1MjkyLCBuYW1lOiAnus+3yrLWv+InIH0sCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>LEFT</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>e</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gx9C7u7PHytDWrrzkysK8/gogICAgICAgICAgICAvLyBvbkNoYW5nZUJlZm9yZTogZnVuY3Rpb24oKXsKICAgICAgICAgICAgLy8gICAgYWxlcnQoJ2JlZm9yZScpOwogICAgICAgICAgICAvLyB9LAogICAgICAgICAgICAvLyDH0Lu7s8fK0NauuvPKwrz+CiAgICAgICAgICAgIC8vIG9uQ2hhbmdlQWZ0ZXI6ZnVuY3Rpb24oKXsKICAgICAgICAgICAgLy8gICBhbGVydCgnYWZ0ZXInKTsKICAgICAgICAgICAgLy8gfQ==</text>
       </register>
       <register name="3" type="4">
-        <text>e</text>
+        <text>LEFT</text>
       </register>
       <register name="4" type="4">
-        <text>,</text>
+        <text>e</text>
       </register>
       <register name="5" type="4">
-        <text>2</text>
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>0</text>
+        <text>,</text>
       </register>
       <register name="7" type="4">
-        <text>1</text>
+        <text>2</text>
       </register>
       <register name="8" type="4">
-        <text>mp</text>
+        <text>0</text>
       </register>
       <register name="9" type="4">
-        <text>Warehouse</text>
+        <text>1</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
