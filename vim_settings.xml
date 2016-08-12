@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/List.js" timestamp="1470974687582">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/Demo.js" timestamp="1470971330123">
         <mark key="[" line="175" column="15" />
         <mark key="]" line="15" column="3" />
@@ -44,12 +49,12 @@
         <mark key="^" line="134" column="0" />
         <mark key="." line="134" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1470966913302">
-        <mark key="'" line="38" column="13" />
-        <mark key="[" line="70" column="30" />
-        <mark key="]" line="70" column="30" />
-        <mark key="^" line="70" column="30" />
-        <mark key="." line="70" column="30" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1470974460037">
+        <mark key="'" line="45" column="13" />
+        <mark key="[" line="41" column="27" />
+        <mark key="]" line="41" column="27" />
+        <mark key="^" line="40" column="29" />
+        <mark key="." line="41" column="27" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" timestamp="1470387284609">
         <mark key="'" line="405" column="12" />
@@ -102,43 +107,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHtsbmc6IDExNy4zNjg4MjcsIGxhdDogMzEuODY0OTA1LCBuYW1lOiAnsuLK1M/uxL84JywgdHlwZTogJ1Byb2plY3RTaXRlJyB9LAo=</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIGNlbnRlcjogJ7GxvqknLA==</text>
+        <text>北</text>
       </register>
       <register name="/" type="4">
         <text>onMarkBtn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7bG5nOiAxMTYuNTk5NTksIGxhdDogMzIuNDM1MjkyLCBuYW1lOiAnus+3yrLWv+InIH0sCg==</text>
+        <text encoding="base64">CQkJe2lkOiAxLCBuYW1lOiAnze6xsbLWv+InLCBkZXNjcmlwdGlvbjogJycsIGxvY2F0aW9uWDogMTE3LjMyNTcwOSwgbG9jYXRpb25ZOiAzMS43Mjg4ODgsIG1hbmFnZXI6IHt1c2VybmFtZTogJ3poYW5ncnVpJywgZnVsbE5hbWU6ICfVxcjvJ319Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHtsbmc6IDExNy4zNjg4MjcsIGxhdDogMzEuODY0OTA1LCBuYW1lOiAnsuLK1M/uxL84JywgdHlwZTogJ1Byb2plY3RTaXRlJyB9LAo=</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIGNlbnRlcjogJ7GxvqknLA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3RvcmU6IHN0b3JlCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>百度地图Demo</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBFeHQuYXBwbHkobWUsIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGh0bWw6ICJIZWxsbywgV29ybGQhISIK</text>
+        <text encoding="base64">ICAgICAgICBzdG9yZSA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGh0bWw6ICJIZWxsbywgV29ybGQhISIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="4">
-        <text>Ext.panel.Panel</text>
+        <text>北</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>皖</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gx9C7u7PHytDWrrzkysK8/gogICAgICAgICAgICAvLyBvbkNoYW5nZUJlZm9yZTogZnVuY3Rpb24oKXsKICAgICAgICAgICAgLy8gICAgYWxlcnQoJ2JlZm9yZScpOwogICAgICAgICAgICAvLyB9LAogICAgICAgICAgICAvLyDH0Lu7s8fK0NauuvPKwrz+CiAgICAgICAgICAgIC8vIG9uQ2hhbmdlQWZ0ZXI6ZnVuY3Rpb24oKXsKICAgICAgICAgICAgLy8gICBhbGVydCgnYWZ0ZXInKTsKICAgICAgICAgICAgLy8gfQ==</text>
+        <text>北</text>
       </register>
       <register name="9" type="4">
-        <text>LEFT</text>
+        <text>皖</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -201,6 +206,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
