@@ -1,0 +1,6 @@
+<keymap version="1" name="caodanping" parent="$default">
+  <action id="InsertLiveTemplate" />
+  <action id="emacsIDEAs.AceJump">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+</keymap>
