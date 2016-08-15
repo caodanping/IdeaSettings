@@ -55,12 +55,12 @@
         <mark key="." line="74" column="33" />
         <mark key="^" line="74" column="33" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1471264022118">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1471268782666">
         <mark key="'" line="37" column="12" />
-        <mark key="[" line="167" column="0" />
-        <mark key="]" line="170" column="52" />
-        <mark key="." line="170" column="52" />
-        <mark key="^" line="170" column="52" />
+        <mark key="[" line="171" column="17" />
+        <mark key="]" line="171" column="16" />
+        <mark key="." line="171" column="17" />
+        <mark key="^" line="171" column="16" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Site.java" timestamp="1471243110652">
         <mark key="[" line="21" column="7" />
@@ -267,7 +267,7 @@
         <text>,</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>j</text>
       </register>
     </registers>
     <search>
@@ -309,6 +309,8 @@
         <entry encoding="base64">JzwsJz50IDg4</entry>
         <entry encoding="base64">JzwsJz5tIDgz</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5q</entry>
+        <entry>j</entry>
       </history-cmd>
       <history-expr />
       <history-input />
