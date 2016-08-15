@@ -55,8 +55,8 @@
         <mark key="." line="74" column="33" />
         <mark key="^" line="74" column="33" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1471268782666">
-        <mark key="'" line="37" column="12" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1471269234614">
+        <mark key="'" line="2" column="4" />
         <mark key="[" line="171" column="17" />
         <mark key="]" line="171" column="16" />
         <mark key="." line="171" column="17" />
@@ -125,10 +125,6 @@
       <file name="D:/IdeaProjects/lems/src/main/frontend/ext/src/ux/ajax/DataSimlet.js" timestamp="1471241701780" />
     </filemarks>
     <jumps>
-      <jump line="550" column="8" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
-      <jump line="552" column="16" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
-      <jump line="553" column="42" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
-      <jump line="555" column="58" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
       <jump line="584" column="92" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
       <jump line="392" column="17" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
       <jump line="405" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
@@ -225,6 +221,10 @@
       <jump line="33" column="26" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1662" column="30" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1637" column="24" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="49" column="20" filename="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" />
+      <jump line="177" column="0" filename="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" />
+      <jump line="0" column="0" filename="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" />
+      <jump line="2" column="4" filename="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -267,7 +267,7 @@
         <text>,</text>
       </register>
       <register name=":" type="4">
-        <text>j</text>
+        <text>50</text>
       </register>
     </registers>
     <search>
@@ -311,6 +311,8 @@
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5q</entry>
         <entry>j</entry>
+        <entry>1</entry>
+        <entry>50</entry>
       </history-cmd>
       <history-expr />
       <history-input />
