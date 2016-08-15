@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/List.js" timestamp="1471228844448">
-        <mark key="[" line="30" column="36" />
-        <mark key="]" line="50" column="10" />
-        <mark key="." line="50" column="10" />
-        <mark key="^" line="50" column="10" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/List.js" timestamp="1471232811340">
+        <mark key="[" line="28" column="32" />
+        <mark key="]" line="28" column="37" />
+        <mark key="." line="28" column="37" />
+        <mark key="^" line="28" column="37" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/WarehouseManagers.js" timestamp="1471231620996">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/WarehouseManagers.js" timestamp="1471232532634">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="9" column="31" />
         <mark key="." line="9" column="31" />
@@ -19,8 +19,8 @@
       <file name="D:/IdeaProjects/lems/.editorconfig" timestamp="1467795493000">
         <mark key="[" line="2" column="2" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Edit.js" timestamp="1471227109334">
-        <mark key="[" line="36" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Edit.js" timestamp="1471232490746">
+        <mark key="[" line="64" column="34" />
         <mark key="]" line="36" column="30" />
         <mark key="." line="36" column="0" />
         <mark key="^" line="41" column="52" />
@@ -54,7 +54,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="122" column="46" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1471231093517">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1471232729170">
         <mark key="'" line="37" column="12" />
         <mark key="[" line="97" column="17" />
         <mark key="]" line="99" column="36" />
