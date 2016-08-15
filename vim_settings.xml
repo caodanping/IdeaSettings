@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/List.js" timestamp="1470992255987">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/List.js" timestamp="1471228844448">
+        <mark key="[" line="30" column="36" />
+        <mark key="]" line="50" column="10" />
+        <mark key="." line="50" column="10" />
+        <mark key="^" line="50" column="10" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/Demo.js" timestamp="1470988096977">
         <mark key="[" line="176" column="0" />
@@ -27,14 +28,19 @@
       <file name="D:/IdeaProjects/lems/.editorconfig" timestamp="1467795493000">
         <mark key="[" line="2" column="2" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/dept/ListController.js" timestamp="1471225605998" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app.json" timestamp="1470204087407">
         <mark key="[" line="110" column="21" />
         <mark key="]" line="110" column="38" />
         <mark key="." line="110" column="38" />
         <mark key="^" line="110" column="38" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/ManagerController.js" timestamp="1471060869514">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/ManagerController.js" timestamp="1471227996542">
         <mark key="'" line="4" column="2" />
+        <mark key="[" line="33" column="12" />
+        <mark key="]" line="33" column="22" />
+        <mark key="^" line="33" column="22" />
+        <mark key="." line="33" column="22" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/model/Warehouse.js" timestamp="1470987562126">
         <mark key="[" line="3" column="23" />
@@ -47,6 +53,12 @@
         <mark key="]" line="8" column="129" />
         <mark key="." line="8" column="36" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Edit.js" timestamp="1471227109334">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="30" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="41" column="52" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/scripts/SearchControl.js" timestamp="1470372782805">
         <mark key="'" line="94" column="9" />
       </file>
@@ -57,31 +69,36 @@
         <mark key="^" line="68" column="3" />
         <mark key="." line="68" column="3" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/dept/Edit.js" timestamp="1471226498654">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="75" column="4" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/Warehouses" timestamp="1470987963636">
         <mark key="[" line="6" column="33" />
         <mark key="]" line="6" column="33" />
         <mark key="." line="6" column="33" />
         <mark key="^" line="6" column="33" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Manager.js" timestamp="1471223670252">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="26" column="21" />
-        <mark key="]" line="26" column="21" />
-        <mark key="." line="26" column="21" />
-        <mark key="^" line="26" column="21" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Manager.js" timestamp="1471228776767">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="46" column="9" />
+        <mark key="]" line="46" column="9" />
+        <mark key="^" line="46" column="9" />
+        <mark key="." line="46" column="9" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/dept/List.js" timestamp="1471225446126" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/BMap.js" timestamp="1470992266587">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="122" column="46" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1470990941960">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1471228504355">
         <mark key="'" line="37" column="12" />
-        <mark key="[" line="41" column="67" />
-        <mark key="]" line="41" column="67" />
-        <mark key="^" line="38" column="70" />
-        <mark key="." line="41" column="70" />
+        <mark key="[" line="129" column="42" />
+        <mark key="]" line="129" column="51" />
+        <mark key="^" line="129" column="51" />
+        <mark key="." line="129" column="51" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" timestamp="1470387284609">
         <mark key="'" line="405" column="12" />
@@ -141,57 +158,58 @@
       <jump line="12" column="2" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/ManagerController.js" />
       <jump line="21" column="8" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Manager.js" />
       <jump line="30" column="0" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Manager.js" />
+      <jump line="32" column="33" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Edit.js" />
+      <jump line="39" column="33" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Edit.js" />
+      <jump line="59" column="31" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Edit.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>departments</text>
       </register>
       <register name="/" type="4">
-        <text>ware</text>
+        <text>depart</text>
       </register>
-      <register name="0" type="4">
-        <text>{
-            text: '修改',
-        },</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYWxsb3dCbGFuazogZmFsc2UsCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>:</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="2" type="4">
-        <text>修改</text>
+        <text>departments</text>
       </register>
       <register name="3" type="4">
-        <text>新增</text>
+        <text>departments</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnRyb2xsZXI6ICJ3YXJlaG91c2UtYm1hcCIsCg==</text>
+      <register name="4" type="4">
+        <text>d</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnRyb2xsZXI6ICJ3YXJlaG91c2UtbGlzdCIsCg==</text>
+      <register name="5" type="4">
+        <text>me</text>
       </register>
       <register name="6" type="4">
-        <text>setCenter</text>
+        <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>门</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IGxvY2F0aW9uWQ==</text>
+        <text>部</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ware</last-search>
+      <last-search>depart</last-search>
       <last-offset />
-      <last-pattern>ware</last-pattern>
+      <last-pattern>depart</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -210,6 +228,7 @@
         <entry>onMarkBtn</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry>ware</entry>
+        <entry>depart</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
