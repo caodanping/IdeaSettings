@@ -92,6 +92,9 @@
         <mark key="." line="13" column="17" />
         <mark key="^" line="13" column="18" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" timestamp="1471265379528">
+        <mark key="'" line="1637" column="24" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/dept/ListController.js" timestamp="1471225605998" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app.json" timestamp="1470204087407">
         <mark key="[" line="110" column="21" />
@@ -122,30 +125,6 @@
       <file name="D:/IdeaProjects/lems/src/main/frontend/ext/src/ux/ajax/DataSimlet.js" timestamp="1471241701780" />
     </filemarks>
     <jumps>
-      <jump line="73" column="21" filename="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" />
-      <jump line="1" column="11" filename="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" />
-      <jump line="38" column="13" filename="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" />
-      <jump line="479" column="0" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
-      <jump line="518" column="25" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
-      <jump line="446" column="15" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
-      <jump line="484" column="13" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
-      <jump line="421" column="9" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
-      <jump line="400" column="17" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
-      <jump line="402" column="31" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
-      <jump line="414" column="22" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
-      <jump line="418" column="43" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
-      <jump line="445" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
-      <jump line="0" column="0" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/SearchControl.js" />
-      <jump line="1754" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/SearchControl.js" />
-      <jump line="1751" column="16" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/SearchControl.js" />
-      <jump line="94" column="9" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/SearchControl.js" />
-      <jump line="428" column="16" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
-      <jump line="444" column="4" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
-      <jump line="503" column="21" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
-      <jump line="506" column="44" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
-      <jump line="507" column="23" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
-      <jump line="510" column="26" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
-      <jump line="517" column="26" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
       <jump line="550" column="8" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
       <jump line="552" column="16" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
       <jump line="553" column="42" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
@@ -170,6 +149,82 @@
       <jump line="59" column="31" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Edit.js" />
       <jump line="125" column="8" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/ux/ajax/Simlet.js" />
       <jump line="190" column="32" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/ux/ajax/Simlet.js" />
+      <jump line="97" column="0" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="325" column="63" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="326" column="56" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="386" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="392" column="21" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="395" column="8" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="398" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="399" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="422" column="89" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="427" column="17" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="429" column="15" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="538" column="42" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="576" column="25" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="580" column="32" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1039" column="28" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1043" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1044" column="31" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1052" column="31" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1053" column="23" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1066" column="15" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1068" column="16" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1070" column="16" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1076" column="16" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1079" column="15" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1080" column="17" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1081" column="29" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1086" column="19" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1087" column="36" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1090" column="20" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1137" column="26" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1240" column="133" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1266" column="15" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1271" column="6" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1348" column="8" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1353" column="28" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1478" column="24" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1482" column="68" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1485" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1486" column="88" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1487" column="23" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1489" column="31" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1490" column="75" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1491" column="19" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1495" column="31" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1499" column="19" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1503" column="46" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1522" column="23" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1525" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1526" column="15" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1528" column="19" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1533" column="27" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1536" column="21" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1552" column="94" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1555" column="47" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1557" column="24" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1558" column="25" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1562" column="73" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1568" column="84" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1571" column="26" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1573" column="26" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1577" column="26" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1578" column="50" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1579" column="22" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1580" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1589" column="46" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1594" column="35" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1602" column="78" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1604" column="58" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1606" column="29" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1614" column="40" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="147" column="29" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="53" column="28" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="52" column="30" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="33" column="26" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1662" column="30" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
+      <jump line="1637" column="24" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -179,7 +234,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>openRequest</text>
+        <text>store</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQl2YXIgZCA9IGN0eC54aHIub3B0aW9ucy5qc29uRGF0YTsJCg==</text>
@@ -216,9 +271,9 @@
       </register>
     </registers>
     <search>
-      <last-search>openRequest</last-search>
+      <last-search>store</last-search>
       <last-offset />
-      <last-pattern>openRequest</last-pattern>
+      <last-pattern>store</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -240,6 +295,7 @@
         <entry>depart</entry>
         <entry>doPost</entry>
         <entry>openRequest</entry>
+        <entry>store</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
