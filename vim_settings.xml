@@ -9,14 +9,15 @@
         <mark key="." line="50" column="10" />
         <mark key="^" line="50" column="10" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/WarehouseManagers.js" timestamp="1471231620996">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="9" column="31" />
+        <mark key="." line="9" column="31" />
+        <mark key="^" line="9" column="31" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/NavTree.js" timestamp="1470988822376" />
       <file name="D:/IdeaProjects/lems/.editorconfig" timestamp="1467795493000">
         <mark key="[" line="2" column="2" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/index.html" timestamp="1470301144850">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="129" />
-        <mark key="." line="8" column="36" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Edit.js" timestamp="1471227109334">
         <mark key="[" line="36" column="0" />
@@ -53,12 +54,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="122" column="46" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1471228504355">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1471231093517">
         <mark key="'" line="37" column="12" />
-        <mark key="[" line="129" column="42" />
-        <mark key="]" line="129" column="51" />
-        <mark key="^" line="129" column="51" />
-        <mark key="." line="129" column="51" />
+        <mark key="[" line="97" column="17" />
+        <mark key="]" line="99" column="36" />
+        <mark key="^" line="99" column="36" />
+        <mark key="." line="99" column="36" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" timestamp="1470387284609">
         <mark key="'" line="405" column="12" />
@@ -169,11 +170,11 @@
       <jump line="59" column="31" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Edit.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGxuZw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG1vZGVsOiAnTGVtcy5tb2RlbC5XYXJlaG91c2UnLAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGxuZw==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>depart</text>
@@ -181,32 +182,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYWxsb3dCbGFuazogZmFsc2UsCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IGxuZw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIG1vZGVsOiAnTGVtcy5tb2RlbC5XYXJlaG91c2UnLAo=</text>
       </register>
       <register name="2" type="4">
+        <text>s</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">IGxuZw==</text>
+      </register>
+      <register name="4" type="4">
         <text>x</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIH0sCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>departments</text>
-      </register>
-      <register name="6" type="4">
-        <text>departments</text>
-      </register>
       <register name="7" type="4">
-        <text>d</text>
+        <text>departments</text>
       </register>
       <register name="8" type="4">
-        <text>me</text>
+        <text>departments</text>
       </register>
       <register name="9" type="4">
-        <text>;</text>
+        <text>d</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
