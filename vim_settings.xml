@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/List.js" timestamp="1471334484555">
-        <mark key="[" line="75" column="5" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="13" column="3" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/List.js" timestamp="1471335658127">
+        <mark key="[" line="76" column="16" />
+        <mark key="]" line="76" column="16" />
+        <mark key="." line="76" column="16" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/WarehouseManagers.js" timestamp="1471317491328">
         <mark key="[" line="7" column="16" />
@@ -18,8 +17,6 @@
       <file name="D:/IdeaProjects/lems/src/main/frontend/ext/src/window/MessageBox.js" timestamp="1471333619770">
         <mark key="'" line="977" column="51" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/dept/EditController.js" timestamp="1471240915402" />
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/NavTree.js" timestamp="1470988822376" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/ext/src/ux/ajax/Simlet.js" timestamp="1471246271335">
         <mark key="'" line="190" column="32" />
       </file>
@@ -39,19 +36,18 @@
       <file name="D:/IdeaProjects/lems/src/main/frontend/scripts/SearchControl.js" timestamp="1470372782805">
         <mark key="'" line="94" column="9" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/Departments.js" timestamp="1470985667606" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMapPanel.js" timestamp="1471061441002">
         <mark key="[" line="68" column="31" />
         <mark key="]" line="68" column="3" />
         <mark key="^" line="68" column="3" />
         <mark key="." line="68" column="3" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Manager.js" timestamp="1471333129358">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Manager.js" timestamp="1471335289004">
         <mark key="'" line="60" column="0" />
-        <mark key="[" line="25" column="20" />
-        <mark key="]" line="25" column="34" />
-        <mark key="^" line="25" column="34" />
-        <mark key="." line="25" column="34" />
+        <mark key="[" line="62" column="20" />
+        <mark key="]" line="62" column="24" />
+        <mark key="^" line="62" column="24" />
+        <mark key="." line="62" column="24" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1471333449668">
         <mark key="[" line="200" column="48" />
@@ -92,18 +88,17 @@
       <file name="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" timestamp="1471265379528">
         <mark key="'" line="1637" column="24" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/dept/ListController.js" timestamp="1471225605998" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app.json" timestamp="1470204087407">
         <mark key="[" line="110" column="21" />
         <mark key="]" line="110" column="38" />
         <mark key="." line="110" column="38" />
         <mark key="^" line="110" column="38" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/ManagerController.js" timestamp="1471330038272">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="^" line="81" column="17" />
-        <mark key="." line="91" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/ManagerController.js" timestamp="1471337057183">
+        <mark key="[" line="26" column="25" />
+        <mark key="]" line="26" column="27" />
+        <mark key="." line="26" column="27" />
+        <mark key="^" line="26" column="27" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/model/Warehouse.js" timestamp="1471317109741">
         <mark key="[" line="10" column="39" />
@@ -121,8 +116,6 @@
         <mark key="." line="6" column="33" />
         <mark key="^" line="6" column="33" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/dept/List.js" timestamp="1471334427475" />
-      <file name="D:/IdeaProjects/lems/src/main/frontend/ext/src/ux/ajax/DataSimlet.js" timestamp="1471241701780" />
     </filemarks>
     <jumps>
       <jump line="97" column="16" filename="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" />
@@ -228,10 +221,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>除</text>
+        <text>right</text>
       </register>
       <register name="-" type="4">
-        <text>除</text>
+        <text>right</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
@@ -240,31 +233,31 @@
         <text>onCancelWarehouse</text>
       </register>
       <register name="1" type="4">
-        <text>除</text>
+        <text>right</text>
       </register>
       <register name="2" type="4">
-        <text>删</text>
+        <text>bottom</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEV4dC5BcnJheS5yZW1vdmUod2FyZWhvdXNlcywgaXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhcmdldDogYnRuLmdldElkKCksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJvZHlCb3JkZXI6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbjogJzAgNSAwIDAnLAo=</text>
-      </register>
-      <register name="6" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IA==</text>
       </register>
+      <register name="6" type="4">
+        <text>r</text>
+      </register>
       <register name="7" type="4">
-        <text>url = url.split(0, end);</text>
+        <text>a</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZCA9IGVuZCA9PT0gMCA/IHVybC5zbGljZShiZWdpbikgOiB1cmwuc2xpY2UoYmVnaW4sIGVuZCksCg==</text>
+      <register name="8" type="4">
+        <text>v</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiZWdpbiA9IHVybC5sYXN0SW5kZXhPZignLycpICsgMSwK</text>
+      <register name="9" type="4">
+        <text>。</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
