@@ -20,11 +20,12 @@
       <file name="D:/IdeaProjects/lems/src/main/frontend/ext/src/ux/ajax/Simlet.js" timestamp="1471246271335">
         <mark key="'" line="190" column="32" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Edit.js" timestamp="1471249752288">
-        <mark key="[" line="81" column="15" />
-        <mark key="]" line="83" column="50" />
-        <mark key="^" line="83" column="50" />
-        <mark key="." line="83" column="50" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Edit.js" timestamp="1471312217966">
+        <mark key="'" line="96" column="12" />
+        <mark key="[" line="97" column="12" />
+        <mark key="]" line="97" column="12" />
+        <mark key="." line="97" column="13" />
+        <mark key="^" line="94" column="9" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Location.java" timestamp="1471230198560">
         <mark key="[" line="36" column="43" />
@@ -49,11 +50,11 @@
         <mark key="^" line="46" column="9" />
         <mark key="." line="46" column="9" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/BMap.js" timestamp="1471250333040">
-        <mark key="[" line="72" column="52" />
-        <mark key="]" line="74" column="33" />
-        <mark key="." line="74" column="33" />
-        <mark key="^" line="74" column="33" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/BMap.js" timestamp="1471312694210">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="71" column="45" />
+        <mark key="." line="71" column="45" />
+        <mark key="^" line="71" column="45" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1471269234614">
         <mark key="'" line="2" column="4" />
@@ -86,11 +87,11 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="3" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/EditController.js" timestamp="1471242200578">
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="13" column="17" />
-        <mark key="." line="13" column="17" />
-        <mark key="^" line="13" column="18" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/EditController.js" timestamp="1471312256229">
+        <mark key="[" line="17" column="21" />
+        <mark key="]" line="17" column="38" />
+        <mark key="." line="17" column="38" />
+        <mark key="^" line="17" column="38" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" timestamp="1471265379528">
         <mark key="'" line="1637" column="24" />
@@ -125,9 +126,6 @@
       <file name="D:/IdeaProjects/lems/src/main/frontend/ext/src/ux/ajax/DataSimlet.js" timestamp="1471241701780" />
     </filemarks>
     <jumps>
-      <jump line="584" column="92" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
-      <jump line="392" column="17" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
-      <jump line="405" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" />
       <jump line="87" column="0" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/BMap.js" />
       <jump line="178" column="4" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/BMap.js" />
       <jump line="97" column="16" filename="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" />
@@ -225,55 +223,62 @@
       <jump line="177" column="0" filename="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" />
       <jump line="0" column="0" filename="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" />
       <jump line="2" column="4" filename="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" />
+      <jump line="94" column="9" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Edit.js" />
+      <jump line="95" column="9" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Edit.js" />
+      <jump line="96" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Edit.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWUuX21hcmtlcnMucHVzaChta3IpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
-        <text>store</text>
+        <text>this</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQl2YXIgZCA9IGN0eC54aHIub3B0aW9ucy5qc29uRGF0YTsJCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWUuX21hcmtlcnMucHVzaChta3IpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>close();
+                view.result = 0;
+                if(view.fn) {
+                    view.fn.call(view, view.result);
+                }</text>
       </register>
       <register name="4" type="4">
-        <text>,</text>
+        <text>this</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAK</text>
+      <register name="5" type="4">
+        <text>this</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICBsbmc6IG1lLmxuZywKICAgICAgICAgICAgICAgIGxhdDogbWUubGF0</text>
+        <text>this</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhdDogbWUubGF0Cg==</text>
+      <register name="7" type="4">
+        <text>this</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxuZzogbWUubG5nLAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
         <text>,</text>
       </register>
       <register name=":" type="4">
-        <text>50</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>store</last-search>
+      <last-search>this</last-search>
       <last-offset />
-      <last-pattern>store</last-pattern>
+      <last-pattern>this</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -283,7 +288,6 @@
         <entry>navi</entry>
         <entry>bind</entry>
         <entry>_bind</entry>
-        <entry>this</entry>
         <entry>autocomplete</entry>
         <entry>autoComp</entry>
         <entry>localsearch</entry>
@@ -296,6 +300,7 @@
         <entry>doPost</entry>
         <entry>openRequest</entry>
         <entry>store</entry>
+        <entry>this</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
@@ -308,11 +313,13 @@
         <entry encoding="base64">JzwsJz50IDk1</entry>
         <entry encoding="base64">JzwsJz50IDg4</entry>
         <entry encoding="base64">JzwsJz5tIDgz</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5q</entry>
         <entry>j</entry>
         <entry>1</entry>
         <entry>50</entry>
+        <entry>t110</entry>
+        <entry>m69</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -353,6 +360,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
