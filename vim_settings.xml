@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/List.js" timestamp="1471320305680">
-        <mark key="[" line="15" column="49" />
-        <mark key="]" line="22" column="71" />
-        <mark key="." line="22" column="71" />
-        <mark key="^" line="22" column="71" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/List.js" timestamp="1471327757672">
+        <mark key="[" line="23" column="49" />
+        <mark key="]" line="23" column="77" />
+        <mark key="." line="23" column="77" />
+        <mark key="^" line="23" column="77" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/WarehouseManagers.js" timestamp="1471317491328">
         <mark key="[" line="7" column="16" />
@@ -56,11 +56,11 @@
         <mark key="." line="128" column="35" />
         <mark key="^" line="128" column="35" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1471323060540">
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="^" line="42" column="123" />
-        <mark key="." line="159" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1471326392325">
+        <mark key="[" line="40" column="123" />
+        <mark key="]" line="40" column="126" />
+        <mark key="^" line="40" column="126" />
+        <mark key="." line="40" column="126" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Site.java" timestamp="1471243110652">
         <mark key="[" line="21" column="7" />
@@ -231,8 +231,8 @@
       <jump line="96" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Edit.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -243,35 +243,32 @@
       <register name="0" type="4">
         <text>onCancelWarehouse</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7Cg==</text>
-      </register>
-      <register name="3" type="4">
+      <register name="1" type="4">
         <text>,</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NhbmNlbCcK</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-            fn: 'onShow',
-            scope: 'this'
-        }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gdmFsOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YWJJbmRleDogMCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gJzxkaXYgc3R5bGU9ImNvbG9yOnJlZCI+JyArIHZhbCArICc8L2Rpdj4nOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>1</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjYW5jZWxsZWQpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YWJJbmRleDogMSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjYW5jZWxsZWQgPSByZWMuZ2V0KCdjYW5jZWxsZWQnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb2N1c09uVG9Gcm9udDogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVuZGVyZXI6IGZ1bmN0aW9uICh2YWwsIG1ldGEsIHJlYykgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
