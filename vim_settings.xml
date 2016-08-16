@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/List.js" timestamp="1471232811340">
-        <mark key="[" line="28" column="32" />
-        <mark key="]" line="28" column="37" />
-        <mark key="." line="28" column="37" />
-        <mark key="^" line="28" column="37" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/List.js" timestamp="1471320305680">
+        <mark key="[" line="15" column="49" />
+        <mark key="]" line="22" column="71" />
+        <mark key="." line="22" column="71" />
+        <mark key="^" line="22" column="71" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/WarehouseManagers.js" timestamp="1471317491328">
         <mark key="[" line="7" column="16" />
@@ -43,12 +43,12 @@
         <mark key="^" line="68" column="3" />
         <mark key="." line="68" column="3" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Manager.js" timestamp="1471314993724">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Manager.js" timestamp="1471319791000">
         <mark key="'" line="50" column="0" />
-        <mark key="[" line="75" column="23" />
-        <mark key="]" line="76" column="24" />
-        <mark key="^" line="76" column="24" />
-        <mark key="." line="76" column="24" />
+        <mark key="[" line="36" column="20" />
+        <mark key="]" line="36" column="20" />
+        <mark key="^" line="36" column="20" />
+        <mark key="." line="36" column="20" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/BMap.js" timestamp="1471315592073">
         <mark key="[" line="125" column="0" />
@@ -56,24 +56,16 @@
         <mark key="." line="128" column="35" />
         <mark key="^" line="128" column="35" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1471317245669">
-        <mark key="[" line="42" column="106" />
-        <mark key="]" line="42" column="104" />
-        <mark key="^" line="42" column="104" />
-        <mark key="." line="42" column="104" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1471320443173">
+        <mark key="[" line="124" column="13" />
+        <mark key="]" line="124" column="13" />
+        <mark key="." line="124" column="13" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Site.java" timestamp="1471243110652">
         <mark key="[" line="21" column="7" />
         <mark key="]" line="34" column="11" />
         <mark key="." line="34" column="11" />
         <mark key="^" line="34" column="11" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" timestamp="1470387284609">
-        <mark key="'" line="405" column="12" />
-        <mark key="[" line="428" column="26" />
-        <mark key="]" line="428" column="28" />
-        <mark key="." line="428" column="28" />
-        <mark key="^" line="428" column="28" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/DemoController.js" timestamp="1470198797831">
         <mark key="[" line="3" column="33" />
@@ -109,12 +101,12 @@
         <mark key="." line="110" column="38" />
         <mark key="^" line="110" column="38" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/ManagerController.js" timestamp="1471315012387">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/ManagerController.js" timestamp="1471319649562">
         <mark key="'" line="4" column="2" />
-        <mark key="[" line="14" column="24" />
-        <mark key="]" line="14" column="32" />
-        <mark key="." line="14" column="32" />
-        <mark key="^" line="14" column="32" />
+        <mark key="[" line="63" column="21" />
+        <mark key="]" line="83" column="37" />
+        <mark key="." line="83" column="37" />
+        <mark key="^" line="83" column="37" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/model/Warehouse.js" timestamp="1471317109741">
         <mark key="[" line="10" column="39" />
@@ -239,49 +231,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{
-            fn: 'onShow',
-            scope: 'this'
-        }</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>this</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCQl2YXIgZCA9IGN0eC54aHIub3B0aW9ucy5qc29uRGF0YTsJCg==</text>
+      <register name="0" type="4">
+        <text>onCancelWarehouse</text>
       </register>
       <register name="1" type="4">
+        <text>,</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2NhbmNlbCcK</text>
+      </register>
+      <register name="3" type="4">
         <text>{
             fn: 'onShow',
             scope: 'this'
         }</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YWJJbmRleDogMCwK</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>1</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YWJJbmRleDogMSwK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb2N1c09uVG9Gcm9udDogdHJ1ZSwK</text>
-      </register>
-      <register name="6" type="4">
-        <text>, fullName: '张蕊'}</text>
-      </register>
-      <register name="7" type="4">
-        <text />
       </register>
       <register name="8" type="4">
         <text>, fullName: '张蕊'}</text>
       </register>
       <register name="9" type="4">
-        <text>, fullName: '张蕊'}</text>
+        <text />
       </register>
       <register name=":" type="4">
         <text>w</text>
