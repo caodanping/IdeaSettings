@@ -56,10 +56,11 @@
         <mark key="." line="128" column="35" />
         <mark key="^" line="128" column="35" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1471320443173">
-        <mark key="[" line="124" column="13" />
-        <mark key="]" line="124" column="13" />
-        <mark key="." line="124" column="13" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1471323060540">
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="0" />
+        <mark key="^" line="42" column="123" />
+        <mark key="." line="159" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Site.java" timestamp="1471243110652">
         <mark key="[" line="21" column="7" />
@@ -230,8 +231,8 @@
       <jump line="96" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Edit.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -242,35 +243,35 @@
       <register name="0" type="4">
         <text>onCancelWarehouse</text>
       </register>
-      <register name="1" type="4">
-        <text>,</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NhbmNlbCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7Cg==</text>
       </register>
       <register name="3" type="4">
+        <text>,</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2NhbmNlbCcK</text>
+      </register>
+      <register name="5" type="4">
         <text>{
             fn: 'onShow',
             scope: 'this'
         }</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YWJJbmRleDogMCwK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>1</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YWJJbmRleDogMSwK</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb2N1c09uVG9Gcm9udDogdHJ1ZSwK</text>
-      </register>
-      <register name="8" type="4">
-        <text>, fullName: '张蕊'}</text>
-      </register>
-      <register name="9" type="4">
-        <text />
       </register>
       <register name=":" type="4">
         <text>w</text>
