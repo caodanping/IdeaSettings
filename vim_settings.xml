@@ -43,31 +43,38 @@
         <mark key="^" line="68" column="3" />
         <mark key="." line="68" column="3" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Manager.js" timestamp="1471228776767">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Manager.js" timestamp="1471314993724">
         <mark key="'" line="50" column="0" />
-        <mark key="[" line="46" column="9" />
-        <mark key="]" line="46" column="9" />
-        <mark key="^" line="46" column="9" />
-        <mark key="." line="46" column="9" />
+        <mark key="[" line="75" column="23" />
+        <mark key="]" line="76" column="24" />
+        <mark key="^" line="76" column="24" />
+        <mark key="." line="76" column="24" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/BMap.js" timestamp="1471312694210">
-        <mark key="[" line="29" column="17" />
-        <mark key="]" line="71" column="45" />
-        <mark key="." line="71" column="45" />
-        <mark key="^" line="71" column="45" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/BMap.js" timestamp="1471315592073">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="128" column="35" />
+        <mark key="." line="128" column="35" />
+        <mark key="^" line="128" column="35" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1471269234614">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1471315714431">
         <mark key="'" line="2" column="4" />
-        <mark key="[" line="171" column="17" />
-        <mark key="]" line="171" column="16" />
-        <mark key="." line="171" column="17" />
-        <mark key="^" line="171" column="16" />
+        <mark key="[" line="38" column="48" />
+        <mark key="]" line="41" column="50" />
+        <mark key="." line="41" column="50" />
+        <mark key="^" line="41" column="50" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Site.java" timestamp="1471243110652">
         <mark key="[" line="21" column="7" />
         <mark key="]" line="34" column="11" />
         <mark key="." line="34" column="11" />
         <mark key="^" line="34" column="11" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" timestamp="1470387284609">
+        <mark key="'" line="405" column="12" />
+        <mark key="[" line="428" column="26" />
+        <mark key="]" line="428" column="28" />
+        <mark key="." line="428" column="28" />
+        <mark key="^" line="428" column="28" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/DemoController.js" timestamp="1470198797831">
         <mark key="[" line="3" column="33" />
@@ -103,8 +110,12 @@
         <mark key="." line="110" column="38" />
         <mark key="^" line="110" column="38" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/ManagerController.js" timestamp="1471245353956">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/ManagerController.js" timestamp="1471315012387">
         <mark key="'" line="4" column="2" />
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="14" column="32" />
+        <mark key="." line="14" column="32" />
+        <mark key="^" line="14" column="32" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/model/Warehouse.js" timestamp="1471243802036">
         <mark key="[" line="10" column="37" />
@@ -228,11 +239,11 @@
       <jump line="96" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Edit.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWUuX21hcmtlcnMucHVzaChta3IpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>zhangrui</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>zhangrui</text>
       </register>
       <register name="/" type="4">
         <text>this</text>
@@ -240,36 +251,32 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJCQl2YXIgZCA9IGN0eC54aHIub3B0aW9ucy5qc29uRGF0YTsJCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWUuX21hcmtlcnMucHVzaChta3IpOwo=</text>
+      <register name="1" type="4">
+        <text>zhangrui</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text>zhangrui</text>
       </register>
       <register name="3" type="4">
-        <text>close();
-                view.result = 0;
-                if(view.fn) {
-                    view.fn.call(view, view.result);
-                }</text>
+        <text>zhangrui</text>
       </register>
       <register name="4" type="4">
-        <text>this</text>
+        <text>zhangrui</text>
       </register>
       <register name="5" type="4">
-        <text>this</text>
+        <text encoding="base64">bWFya2VycyA=</text>
       </register>
       <register name="6" type="4">
-        <text>this</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="7" type="4">
-        <text>this</text>
+        <text>me</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="9" type="4">
-        <text>,</text>
+        <text>_marker</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -363,6 +370,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
