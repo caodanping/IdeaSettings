@@ -49,11 +49,17 @@
         <mark key="^" line="62" column="24" />
         <mark key="." line="62" column="24" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1471333449668">
-        <mark key="[" line="200" column="48" />
-        <mark key="]" line="200" column="49" />
-        <mark key="." line="200" column="49" />
-        <mark key="^" line="200" column="49" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/BMap.js" timestamp="1471398793768">
+        <mark key="[" line="173" column="12" />
+        <mark key="]" line="173" column="12" />
+        <mark key="." line="173" column="12" />
+        <mark key="^" line="176" column="31" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1471398186870">
+        <mark key="[" line="222" column="29" />
+        <mark key="]" line="223" column="53" />
+        <mark key="." line="223" column="53" />
+        <mark key="^" line="223" column="53" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Site.java" timestamp="1471243110652">
         <mark key="[" line="21" column="7" />
@@ -221,10 +227,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>right</text>
+        <text encoding="base64">dmFyIA==</text>
       </register>
       <register name="-" type="4">
-        <text>right</text>
+        <text encoding="base64">dmFyIA==</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
@@ -233,31 +239,31 @@
         <text>onCancelWarehouse</text>
       </register>
       <register name="1" type="4">
-        <text>right</text>
+        <text encoding="base64">dmFyIA==</text>
       </register>
       <register name="2" type="4">
-        <text>bottom</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhcmdldDogYnRuLmdldElkKCksCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="4">
+      <register name="3" type="4">
         <text>r</text>
       </register>
-      <register name="7" type="4">
+      <register name="4" type="4">
         <text>a</text>
       </register>
-      <register name="8" type="4">
+      <register name="5" type="4">
         <text>v</text>
       </register>
+      <register name="6" type="4">
+        <text>options</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCWl0LmNhbmNlbGxlZCA9IHRydWU7Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>warehouses</text>
+      </register>
       <register name="9" type="4">
-        <text>。</text>
+        <text>cancelled</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
