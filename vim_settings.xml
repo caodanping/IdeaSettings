@@ -49,7 +49,8 @@
         <mark key="^" line="62" column="24" />
         <mark key="." line="62" column="24" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/BMap.js" timestamp="1471398793768">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/BMap.js" timestamp="1471400993506">
+        <mark key="'" line="76" column="21" />
         <mark key="[" line="173" column="12" />
         <mark key="]" line="173" column="12" />
         <mark key="." line="173" column="12" />
@@ -124,8 +125,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="16" filename="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" />
-      <jump line="37" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" />
       <jump line="10" column="22" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/ManagerController.js" />
       <jump line="8" column="0" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/ManagerController.js" />
       <jump line="9" column="4" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/ManagerController.js" />
@@ -224,6 +223,8 @@
       <jump line="96" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Edit.js" />
       <jump line="84" column="16" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/ManagerController.js" />
       <jump line="977" column="51" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/window/MessageBox.js" />
+      <jump line="174" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/BMap.js" />
+      <jump line="76" column="21" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/BMap.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
