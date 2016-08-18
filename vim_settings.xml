@@ -23,6 +23,12 @@
       <file name="D:/IdeaProjects/lems/src/main/frontend/ext/src/window/MessageBox.js" timestamp="1471333619770">
         <mark key="'" line="977" column="51" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/user/Settings.js" timestamp="1471505660825">
+        <mark key="[" line="41" column="41" />
+        <mark key="]" line="42" column="41" />
+        <mark key="." line="42" column="41" />
+        <mark key="^" line="42" column="41" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/NavTree.js" timestamp="1471419221557">
         <mark key="[" line="108" column="36" />
         <mark key="]" line="108" column="40" />
@@ -32,7 +38,7 @@
       <file name="D:/IdeaProjects/lems/src/main/frontend/ext/src/ux/ajax/Simlet.js" timestamp="1471246271335">
         <mark key="'" line="190" column="32" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Edit.js" timestamp="1471331863377">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Edit.js" timestamp="1471503052719">
         <mark key="'" line="104" column="12" />
         <mark key="[" line="49" column="39" />
         <mark key="]" line="33" column="5" />
@@ -86,11 +92,11 @@
         <mark key="." line="34" column="11" />
         <mark key="^" line="34" column="11" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/user/ChangePassword.js" timestamp="1471497352251">
-        <mark key="[" line="23" column="20" />
-        <mark key="]" line="25" column="30" />
-        <mark key="." line="25" column="30" />
-        <mark key="^" line="25" column="30" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/user/ChangePassword.js" timestamp="1471502320161">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+        <mark key="^" line="2" column="20" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/DemoController.js" timestamp="1470198797831">
         <mark key="[" line="3" column="33" />
@@ -263,10 +269,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'form'</text>
+        <text>明</text>
       </register>
       <register name="-" type="4">
-        <text>'form'</text>
+        <text>明</text>
       </register>
       <register name="/" type="4">
         <text>viewport</text>
@@ -275,31 +281,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaXRlbVNwYWNpbmc6IDEwLAo=</text>
       </register>
       <register name="1" type="4">
-        <text>'form'</text>
+        <text>明</text>
       </register>
       <register name="2" type="4">
+        <text>说</text>
+      </register>
+      <register name="3" type="4">
+        <text>个</text>
+      </register>
+      <register name="4" type="4">
+        <text>人</text>
+      </register>
+      <register name="5" type="4">
         <text>,</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW1TcGFjaW5nOiAxMCwK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcmdpbjogJzEwIDAgMCAwJwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlbVNwYWNpbmc6IDEwLAo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>fieldLabel</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbWFyZ2luOiAnMTAgMCAwIDAnCg==</text>
       </register>
       <register name="7" type="4">
-        <text>fieldLabel</text>
+        <text>5</text>
       </register>
-      <register name="8" type="4">
-        <text>fieldLabel</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IDU1MCwK</text>
       </register>
-      <register name="9" type="4">
-        <text>fieldLabel</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hcmdpbjogNSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -336,8 +342,6 @@
         <entry>viewport</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz5tIDI=</entry>
         <entry encoding="base64">JzwsJz5tIDkz</entry>
         <entry encoding="base64">JzwsJz5tIDky</entry>
@@ -355,6 +359,8 @@
         <entry encoding="base64">JzwsJz5tODI=</entry>
         <entry encoding="base64">JzwsJz5tMjE=</entry>
         <entry encoding="base64">JzwsJz5tNDA=</entry>
+        <entry encoding="base64">JzwsJz5tMjM=</entry>
+        <entry encoding="base64">JzwsJz5tNTM=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
