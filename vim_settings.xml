@@ -86,11 +86,11 @@
         <mark key="." line="34" column="11" />
         <mark key="^" line="34" column="11" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/user/ChangePassword.js" timestamp="1471495339039">
-        <mark key="[" line="17" column="14" />
-        <mark key="]" line="17" column="31" />
-        <mark key="^" line="17" column="31" />
-        <mark key="." line="17" column="31" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/user/ChangePassword.js" timestamp="1471497352251">
+        <mark key="[" line="23" column="20" />
+        <mark key="]" line="25" column="30" />
+        <mark key="." line="25" column="30" />
+        <mark key="^" line="25" column="30" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/DemoController.js" timestamp="1470198797831">
         <mark key="[" line="3" column="33" />
@@ -119,11 +119,11 @@
       <file name="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" timestamp="1471265379528">
         <mark key="'" line="1637" column="24" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/sass/src/Application.scss" timestamp="1471495376018">
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="5" column="19" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="1" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/sass/src/Application.scss" timestamp="1471496144807">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="19" />
+        <mark key="^" line="6" column="19" />
+        <mark key="." line="6" column="19" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app.json" timestamp="1470204087407">
         <mark key="[" line="110" column="21" />
@@ -263,57 +263,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>content-panel-body</text>
+        <text>'form'</text>
       </register>
       <register name="-" type="4">
-        <text>旧</text>
+        <text>'form'</text>
       </register>
       <register name="/" type="4">
         <text>viewport</text>
       </register>
-      <register name="0" type="4">
-        <text>content-panel-body</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbVNwYWNpbmc6IDEwLAo=</text>
       </register>
       <register name="1" type="4">
-        <text>旧</text>
+        <text>'form'</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>,</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW1TcGFjaW5nOiAxMCwK</text>
       </register>
-      <register name="4" type="4">
-        <text>{
-                
-            }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcmdpbjogJzEwIDAgMCAwJwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>[
-                {
-                    xtype: 'textfield',
-                    inputType: 'password'
-                }, {
-                    xtype: 'text'
-                }
-            ]</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbVNwYWNpbmc6IDEwLAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGh0bWw6ICJIZWxsbywgV29ybGQhISIK</text>
+      <register name="6" type="4">
+        <text>fieldLabel</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="7" type="4">
+        <text>fieldLabel</text>
       </register>
       <register name="8" type="4">
-        <text>me</text>
+        <text>fieldLabel</text>
       </register>
       <register name="9" type="4">
-        <text>listeners: {
-                        mapready: {
-                            fn: me.onMapReady,
-                            scope: me
-                        }
-                    }</text>
+        <text>fieldLabel</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
