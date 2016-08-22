@@ -32,11 +32,6 @@
         <mark key="." line="108" column="40" />
         <mark key="^" line="108" column="40" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/login/Login.js" timestamp="1471569801727">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Edit.js" timestamp="1471503052719">
         <mark key="'" line="104" column="12" />
         <mark key="[" line="49" column="39" />
@@ -76,17 +71,11 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1471570213295">
-        <mark key="[" line="82" column="18" />
-        <mark key="]" line="95" column="33" />
-        <mark key="." line="95" column="33" />
-        <mark key="^" line="95" column="33" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/controller/Root.js" timestamp="1471509307454">
-        <mark key="[" line="60" column="37" />
-        <mark key="]" line="65" column="36" />
-        <mark key="." line="65" column="36" />
-        <mark key="^" line="65" column="36" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1471571966343">
+        <mark key="[" line="72" column="13" />
+        <mark key="]" line="72" column="13" />
+        <mark key="." line="72" column="13" />
+        <mark key="^" line="73" column="26" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Site.java" timestamp="1471243110652">
         <mark key="[" line="21" column="7" />
@@ -286,11 +275,11 @@
       <jump line="543" column="23" filename="D:/IdeaProjects/lems/src/main/frontend/ext/packages/sencha-core/src/app/Application.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvcm1CaW5kOiB0cnVlLAo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>viewport</text>
@@ -298,32 +287,32 @@
       <register name="0" type="4">
         <text>login-system-title</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvcm1CaW5kOiB0cnVlLAo=</text>
+      <register name="1" type="4">
+        <text>/</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lOiAnTGVtcycK</text>
+      <register name="2" type="4">
+        <text>c</text>
       </register>
       <register name="3" type="4">
-        <text>;</text>
+        <text>data</text>
       </register>
       <register name="4" type="4">
-        <text>2</text>
+        <text>json</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvcm1CaW5kOiB0cnVlLAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>2</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBuYW1lOiAnTGVtcycK</text>
       </register>
       <register name="7" type="4">
-        <text>0</text>
+        <text>;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMzIsCg==</text>
+      <register name="8" type="4">
+        <text>2</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IDEw</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
