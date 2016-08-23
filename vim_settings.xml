@@ -69,10 +69,10 @@
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/WarehouseController.java" timestamp="1471833988239">
         <mark key="[" line="10" column="34" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/model/Permission.js" timestamp="1471834235433">
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="3" column="23" />
-        <mark key="." line="3" column="23" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/model/Permission.js" timestamp="1471916395342">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="27" />
+        <mark key="." line="7" column="27" />
         <mark key="^" line="8" column="45" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Site.java" timestamp="1471243110652">
@@ -274,10 +274,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>roles</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>roles</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>viewport</text>
@@ -286,35 +286,31 @@
         <text>login-system-title</text>
       </register>
       <register name="1" type="4">
-        <text>roles</text>
+        <text>s</text>
       </register>
       <register name="2" type="4">
-        <text>描述</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>部门名称</text>
+        <text>d</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7IHRleHQ6ICeyv8PFSUQnLCBkYXRhSW5kZXg6ICdpZCcsIHdpZHRoOiA4MCB9LAo=</text>
+      <register name="4" type="4">
+        <text>c</text>
       </register>
       <register name="5" type="4">
-        <text>Department</text>
+        <text>roles</text>
       </register>
       <register name="6" type="4">
-        <text>epartments</text>
+        <text>描述</text>
       </register>
       <register name="7" type="4">
-        <text>panel</text>
+        <text>部门名称</text>
       </register>
-      <register name="8" type="4">
-        <text>Warehouse</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB7IHRleHQ6ICeyv8PFSUQnLCBkYXRhSW5kZXg6ICdpZCcsIHdpZHRoOiA4MCB9LAo=</text>
       </register>
       <register name="9" type="4">
-        <text>,
-        { name: 'lng', type: 'float' },
-        { name: 'lat', type: 'float' },
-        { name: 'managerId', type: 'string'},
-        { name: 'canceled', type: 'boolean', defaultValue: false }</text>
+        <text>Department</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
