@@ -8,6 +8,11 @@
         <mark key="]" line="76" column="16" />
         <mark key="." line="76" column="16" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/WarehouseServiceImpl.java" timestamp="1472005985856">
+        <mark key="[" line="54" column="41" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/WarehouseManagers.js" timestamp="1471317491328">
         <mark key="[" line="7" column="16" />
         <mark key="]" line="8" column="18" />
@@ -32,15 +37,9 @@
         <mark key="." line="108" column="40" />
         <mark key="^" line="108" column="40" />
       </file>
+      <file name="/a.dummy" timestamp="1472004807983" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/model/Department.js" timestamp="1471941917381">
         <mark key="[" line="0" column="3" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Edit.js" timestamp="1471503052719">
-        <mark key="'" line="104" column="12" />
-        <mark key="[" line="49" column="39" />
-        <mark key="]" line="33" column="5" />
-        <mark key="." line="33" column="5" />
-        <mark key="^" line="33" column="5" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/Permissions.js" timestamp="1471834738448">
         <mark key="[" line="6" column="23" />
@@ -53,9 +52,6 @@
         <mark key="]" line="57" column="1" />
         <mark key="^" line="57" column="1" />
         <mark key="." line="57" column="1" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/ext/packages/sencha-core/src/app/Application.js" timestamp="1471506326986">
-        <mark key="'" line="543" column="23" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/Departments.js" timestamp="1471941977790">
         <mark key="[" line="0" column="3" />
@@ -75,8 +71,10 @@
         <mark key="^" line="97" column="22" />
         <mark key="." line="97" column="22" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/WarehouseController.java" timestamp="1472003413758">
-        <mark key="[" line="11" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/WarehouseController.java" timestamp="1472003569080">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/model/Permission.js" timestamp="1471941814174">
         <mark key="[" line="0" column="3" />
@@ -102,6 +100,12 @@
         <mark key="^" line="6" column="11" />
         <mark key="." line="6" column="11" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/WarehouseRepository.java" timestamp="1472004257103">
+        <mark key="[" line="10" column="78" />
+        <mark key="]" line="11" column="51" />
+        <mark key="^" line="11" column="51" />
+        <mark key="." line="11" column="51" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/Demo.js" timestamp="1470988096977">
         <mark key="[" line="176" column="0" />
         <mark key="]" line="176" column="0" />
@@ -111,6 +115,7 @@
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/WarehouseDto.java" timestamp="1472003174606">
         <mark key="[" line="12" column="23" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/DepartmentRepository.java" timestamp="1472004212951" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/common/CollectionUtils.java" timestamp="1467794992879">
         <mark key="[" line="15" column="1" />
         <mark key="]" line="15" column="0" />
@@ -167,11 +172,6 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/main/Main.js" timestamp="1471506617875">
-        <mark key="]" line="9" column="23" />
-        <mark key="^" line="9" column="23" />
-        <mark key="." line="9" column="23" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Warehouse.java" timestamp="1472003210310">
         <mark key="[" line="12" column="37" />
       </file>
@@ -195,12 +195,17 @@
         <mark key="." line="24" column="23" />
         <mark key="^" line="24" column="23" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/WarehouseService.java" timestamp="1472003839265">
+        <mark key="'" line="29" column="15" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1472003628985">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="33" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Edit.js" />
-      <jump line="39" column="33" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Edit.js" />
-      <jump line="59" column="31" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Edit.js" />
-      <jump line="125" column="8" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/ux/ajax/Simlet.js" />
       <jump line="190" column="32" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/ux/ajax/Simlet.js" />
       <jump line="97" column="0" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="325" column="63" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
@@ -297,46 +302,50 @@
       <jump line="1860" column="17" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/LocalSearchControl.js" />
       <jump line="12" column="21" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/LocalSearchField.js" />
       <jump line="543" column="23" filename="D:/IdeaProjects/lems/src/main/frontend/ext/packages/sencha-core/src/app/Application.js" />
+      <jump line="18" column="9" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/WarehouseService.java" />
+      <jump line="7" column="5" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/WarehouseService.java" />
+      <jump line="31" column="15" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/WarehouseService.java" />
+      <jump line="2" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/WarehouseService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">RG91YmxlIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RG91YmxlIA==</text>
+        <text>set</text>
       </register>
       <register name="/" type="4">
-        <text>viewport</text>
+        <text>department</text>
       </register>
-      <register name="0" type="4">
-        <text>login-system-title</text>
+      <register name="0" type="2">
+        <text encoding="base64">QFNlcnZpY2UK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">RG91YmxlIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdwo=</text>
       </register>
       <register name="2" type="4">
-        <text>odel</text>
+        <text>set</text>
       </register>
-      <register name="3" type="4">
-        <text>s</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdy5zZXRJZCh3YXJlaG91c2UuZ2V0SWQoKSk7ZGQK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>d</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>c</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHRvLnNldE1hbmFnZXJJZCh3LmdldE1hbmFnZXIoKS5nZXRVc2VybmFtZSgpKTsKICAgICAgICAgICAgZHRvLnNldE1hbmFnZXJOYW1lKHcuZ2V0TWFuYWdlcigpLmdldEZ1bGxOYW1lKCkpOw==</text>
       </register>
-      <register name="7" type="4">
-        <text>roles</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>描述</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5hdWNkaS5jc2Z5LmRvbWFpbi5XYXJlaG91c2VEdG87Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>部门名称</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUubWFwcGluZy5MaXN0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -345,15 +354,14 @@
     <search>
       <last-search>viewport</last-search>
       <last-offset />
-      <last-pattern>viewport</last-pattern>
+      <last-pattern>department</last-pattern>
+      <last-replace>warehouse</last-replace>
+      <last-substitute>department</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>navi</entry>
-        <entry>bind</entry>
-        <entry>_bind</entry>
         <entry>autocomplete</entry>
         <entry>autoComp</entry>
         <entry>localsearch</entry>
@@ -371,12 +379,11 @@
         <entry>searchAC</entry>
         <entry>localSearch</entry>
         <entry>viewport</entry>
+        <entry>Department</entry>
+        <entry>部门</entry>
+        <entry>department</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5tIDkz</entry>
-        <entry encoding="base64">JzwsJz5tIDky</entry>
-        <entry encoding="base64">JzwsJz5tIDk2</entry>
-        <entry encoding="base64">JzwsJz50IDk1</entry>
         <entry encoding="base64">JzwsJz50IDg4</entry>
         <entry encoding="base64">JzwsJz5tIDgz</entry>
         <entry encoding="base64">JzwsJz5q</entry>
@@ -392,6 +399,10 @@
         <entry encoding="base64">JzwsJz5tMjM=</entry>
         <entry encoding="base64">JzwsJz5tNTM=</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>%/Deparment/WarehouseDto/g</entry>
+        <entry>%s/Department/WarehouseDto/g</entry>
+        <entry>%s/部门/仓库/g</entry>
+        <entry>%s/department/warehouse/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
