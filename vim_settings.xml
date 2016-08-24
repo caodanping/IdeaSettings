@@ -64,6 +64,9 @@
         <mark key="." line="34" column="11" />
         <mark key="^" line="34" column="11" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Role.java" timestamp="1472044867566">
+        <mark key="[" line="29" column="31" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/user/ChangePassword.js" timestamp="1471502320161">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="20" />
@@ -142,13 +145,6 @@
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/AuthenticationController.java" timestamp="1472024149206">
         <mark key="[" line="17" column="5" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/WarehouseService.java" timestamp="1472009510076">
-        <mark key="'" line="29" column="15" />
-        <mark key="[" line="38" column="25" />
-        <mark key="]" line="38" column="16" />
-        <mark key="." line="38" column="20" />
-        <mark key="^" line="24" column="25" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/List.js" timestamp="1471418038574">
         <mark key="[" line="76" column="16" />
@@ -246,8 +242,8 @@
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/AuthenticationService.java" timestamp="1472024913207">
         <mark key="[" line="7" column="40" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/UserRealm.java" timestamp="1472029081596">
-        <mark key="[" line="12" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/UserRealm.java" timestamp="1472044185226">
+        <mark key="[" line="27" column="52" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
