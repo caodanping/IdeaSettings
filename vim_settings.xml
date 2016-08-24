@@ -37,8 +37,11 @@
         <mark key="." line="108" column="40" />
         <mark key="^" line="108" column="40" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/IncorrectMenuParentIdException.java" timestamp="1472010227365">
-        <mark key="[" line="10" column="27" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/IncorrectMenuParentIdException.java" timestamp="1472011331568">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="39" />
+        <mark key="^" line="10" column="12" />
+        <mark key="." line="10" column="12" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/model/Department.js" timestamp="1471941917381">
         <mark key="[" line="0" column="3" />
@@ -109,8 +112,10 @@
         <mark key="^" line="6" column="11" />
         <mark key="." line="6" column="11" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/UserIdNotExistsException.java" timestamp="1472006444329">
-        <mark key="[" line="7" column="37" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/UserIdNotExistsException.java" timestamp="1472011335351">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="39" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/Demo.js" timestamp="1470988096977">
         <mark key="[" line="176" column="0" />
@@ -170,6 +175,12 @@
         <mark key="[" line="1" column="6" />
         <mark key="]" line="1" column="6" />
         <mark key="." line="1" column="6" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DepartmentNameAlreadyExistsException.java" timestamp="1472011314990">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+        <mark key="^" line="8" column="27" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app.js" timestamp="1471507709115">
         <mark key="[" line="10" column="24" />
@@ -320,44 +331,44 @@
       <jump line="2" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/WarehouseService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHNldGNhbmM=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QFJlc3BvbnNlU3RhdHVzKEh0dHBTdGF0dXMuQkFEX1JFUVVFU1QpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHNldGNhbmM=</text>
+        <text>CONFLICT</text>
       </register>
       <register name="/" type="4">
         <text>department</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QFNlcnZpY2UK</text>
+        <text encoding="base64">QFJlc3BvbnNlU3RhdHVzKEh0dHBTdGF0dXMuQkFEX1JFUVVFU1QpCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IHNldGNhbmM=</text>
+        <text>CONFLICT</text>
       </register>
       <register name="2" type="4">
-        <text>el</text>
+        <text>CONFLICT)</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">SW50ZWdlciA=</text>
+        <text>NFLICT)</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">SW50ZWdlciA=</text>
+        <text>UNPROCESSABLE_ENTITY</text>
       </register>
       <register name="5" type="4">
-        <text>nteger</text>
+        <text encoding="base64">IHNldGNhbmM=</text>
       </register>
       <register name="6" type="4">
-        <text>et</text>
+        <text>el</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">SW50ZWdlciA=</text>
       </register>
       <register name="8" type="4">
-        <text>set</text>
+        <text encoding="base64">SW50ZWdlciA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdy5zZXRJZCh3YXJlaG91c2UuZ2V0SWQoKSk7ZGQK</text>
+      <register name="9" type="4">
+        <text>nteger</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
