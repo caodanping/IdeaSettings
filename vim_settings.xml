@@ -64,8 +64,11 @@
         <mark key="." line="34" column="11" />
         <mark key="^" line="34" column="11" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Role.java" timestamp="1472044867566">
-        <mark key="[" line="29" column="31" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Role.java" timestamp="1472045370625">
+        <mark key="[" line="35" column="50" />
+        <mark key="]" line="37" column="82" />
+        <mark key="." line="37" column="82" />
+        <mark key="^" line="37" column="82" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/user/ChangePassword.js" timestamp="1471502320161">
         <mark key="[" line="2" column="17" />
@@ -187,11 +190,11 @@
         <mark key="^" line="97" column="22" />
         <mark key="." line="97" column="22" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/UserRepository.java" timestamp="1472028415692">
-        <mark key="[" line="14" column="23" />
-        <mark key="]" line="14" column="22" />
-        <mark key="^" line="14" column="22" />
-        <mark key="." line="14" column="22" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/UserRepository.java" timestamp="1472045429215">
+        <mark key="[" line="16" column="26" />
+        <mark key="]" line="16" column="22" />
+        <mark key="^" line="16" column="22" />
+        <mark key="." line="16" column="22" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/DemoController.js" timestamp="1470198797831">
         <mark key="[" line="3" column="33" />
@@ -264,6 +267,9 @@
         <mark key="]" line="6" column="33" />
         <mark key="." line="6" column="33" />
         <mark key="^" line="6" column="33" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/SecurityRepositoryCustom.java" timestamp="1472046727116">
+        <mark key="[" line="7" column="43" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/Application.js" timestamp="1471507554410">
         <mark key="[" line="24" column="19" />
@@ -378,11 +384,11 @@
       <jump line="2" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/WarehouseService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUubWFwcGluZy5TZXQ7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>Rol</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>department</text>
@@ -390,32 +396,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDx3ZWxjb21lLWZpbGU+aW5kZXguaHRtbDwvd2VsY29tZS1maWxlPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUubWFwcGluZy5TZXQ7Cg==</text>
+      <register name="1" type="4">
+        <text>t</text>
       </register>
       <register name="2" type="4">
-        <text>Rol</text>
+        <text>a</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8YmVhbiBpZD0iY3JlZGVudGlhbHNNYXRjaGVyIiBjbGFzcz0ib3JnLmFwYWNoZS5zaGlyby5hdXRoYy5jcmVkZW50aWFsLlNoYTI1NkNyZWRlbnRpYWxzTWF0Y2hlciIK</text>
+        <text encoding="base64">ICAgIEAK</text>
       </register>
-      <register name="4" type="4">
-        <text>AndPassword</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUubWFwcGluZy5TZXQ7Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>valid</text>
+        <text>Rol</text>
       </register>
-      <register name="6" type="4">
-        <text>showLogin() {</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICA8YmVhbiBpZD0iY3JlZGVudGlhbHNNYXRjaGVyIiBjbGFzcz0ib3JnLmFwYWNoZS5zaGlyby5hdXRoYy5jcmVkZW50aWFsLlNoYTI1NkNyZWRlbnRpYWxzTWF0Y2hlciIK</text>
       </register>
       <register name="7" type="4">
-        <text>GET</text>
+        <text>AndPassword</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIDx3ZWxjb21lLWZpbGU+aW5kZXguaHRtbDwvd2VsY29tZS1maWxlPgo=</text>
+      <register name="8" type="4">
+        <text>valid</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIDx3ZWxjb21lLWZpbGU+aW5kZXguaHRtbDwvd2VsY29tZS1maWxlPgo=</text>
+      <register name="9" type="4">
+        <text>showLogin() {</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
