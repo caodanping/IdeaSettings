@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/List.js" timestamp="1471418038574">
@@ -75,8 +75,8 @@
         <mark key="^" line="97" column="22" />
         <mark key="." line="97" column="22" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/WarehouseController.java" timestamp="1471833988239">
-        <mark key="[" line="10" column="34" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/WarehouseController.java" timestamp="1472003413758">
+        <mark key="[" line="11" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/model/Permission.js" timestamp="1471941814174">
         <mark key="[" line="0" column="3" />
@@ -107,6 +107,9 @@
         <mark key="]" line="176" column="0" />
         <mark key="^" line="15" column="3" />
         <mark key="." line="176" column="0" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/WarehouseDto.java" timestamp="1472003174606">
+        <mark key="[" line="12" column="23" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/common/CollectionUtils.java" timestamp="1467794992879">
         <mark key="[" line="15" column="1" />
@@ -168,6 +171,9 @@
         <mark key="]" line="9" column="23" />
         <mark key="^" line="9" column="23" />
         <mark key="." line="9" column="23" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Warehouse.java" timestamp="1472003210310">
+        <mark key="[" line="12" column="37" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/Alert.js" timestamp="1471941849309">
         <mark key="[" line="0" column="0" />
@@ -294,10 +300,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>odel</text>
+        <text encoding="base64">RG91YmxlIA==</text>
       </register>
       <register name="-" type="4">
-        <text>odel</text>
+        <text encoding="base64">RG91YmxlIA==</text>
       </register>
       <register name="/" type="4">
         <text>viewport</text>
@@ -306,31 +312,31 @@
         <text>login-system-title</text>
       </register>
       <register name="1" type="4">
-        <text>odel</text>
+        <text encoding="base64">RG91YmxlIA==</text>
       </register>
       <register name="2" type="4">
-        <text>s</text>
+        <text>odel</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="4" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>c</text>
+        <text>d</text>
       </register>
       <register name="6" type="4">
-        <text>roles</text>
+        <text>c</text>
       </register>
       <register name="7" type="4">
-        <text>描述</text>
+        <text>roles</text>
       </register>
       <register name="8" type="4">
-        <text>部门名称</text>
+        <text>描述</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7IHRleHQ6ICeyv8PFSUQnLCBkYXRhSW5kZXg6ICdpZCcsIHdpZHRoOiA4MCB9LAo=</text>
+      <register name="9" type="4">
+        <text>部门名称</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
