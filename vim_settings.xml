@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/permissions/List.js" timestamp="1471834847491">
@@ -23,6 +23,7 @@
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/model/Department.js" timestamp="1471941917381">
         <mark key="[" line="0" column="3" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/realm/AuthorizingRealm.java" timestamp="1472090871767" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/Permissions.js" timestamp="1471834738448">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="6" column="32" />
@@ -248,9 +249,9 @@
         <mark key="[" line="7" column="40" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/UserRealm.java" timestamp="1472090044945">
-        <mark key="[" line="37" column="46" />
-        <mark key="]" line="37" column="26" />
-        <mark key="." line="37" column="26" />
+        <mark key="[" line="34" column="46" />
+        <mark key="]" line="34" column="26" />
+        <mark key="." line="34" column="26" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Warehouse.java" timestamp="1472003210310">
         <mark key="[" line="12" column="37" />
