@@ -23,7 +23,6 @@
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/model/Department.js" timestamp="1471941917381">
         <mark key="[" line="0" column="3" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/authc/SimpleAuthenticationInfo.java" timestamp="1472028063538" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/Permissions.js" timestamp="1471834738448">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="6" column="32" />
@@ -36,7 +35,6 @@
         <mark key="^" line="2" column="2" />
         <mark key="." line="2" column="2" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/authc/credential/Sha256CredentialsMatcher.java" timestamp="1472027738578" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMapPanel.js" timestamp="1471061441002">
         <mark key="[" line="68" column="31" />
         <mark key="]" line="68" column="3" />
@@ -117,7 +115,6 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/authc/credential/HashedCredentialsMatcher.java" timestamp="1472027760439" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/model/Menu.js" timestamp="1471941933568">
         <mark key="[" line="1" column="6" />
         <mark key="]" line="1" column="6" />
@@ -183,7 +180,6 @@
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/realm/jdbc/JdbcRealm.java" timestamp="1472028184178" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Location.java" timestamp="1471230198560">
         <mark key="[" line="36" column="43" />
         <mark key="]" line="57" column="1" />
@@ -251,10 +247,10 @@
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/AuthenticationService.java" timestamp="1472024913207">
         <mark key="[" line="7" column="40" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/UserRealm.java" timestamp="1472044185226">
-        <mark key="[" line="27" column="52" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/UserRealm.java" timestamp="1472090044945">
+        <mark key="[" line="37" column="46" />
+        <mark key="]" line="37" column="26" />
+        <mark key="." line="37" column="26" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Warehouse.java" timestamp="1472003210310">
         <mark key="[" line="12" column="37" />
@@ -390,11 +386,11 @@
       <jump line="2" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/WarehouseService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRW50aXR5TWFuYWdlciBlbnRpdHlNYW5hZ2VyOwo=</text>
+      <register name="&quot;" type="4">
+        <text>(String)principals.getPrimaryPrincipal();</text>
       </register>
       <register name="-" type="4">
-        <text>entityManager.createEntityGraph(User)</text>
+        <text>(String)principals.getPrimaryPrincipal();</text>
       </register>
       <register name="/" type="4">
         <text>department</text>
@@ -402,32 +398,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDx3ZWxjb21lLWZpbGU+aW5kZXguaHRtbDwvd2VsY29tZS1maWxlPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRW50aXR5TWFuYWdlciBlbnRpdHlNYW5hZ2VyOwo=</text>
+      <register name="1" type="4">
+        <text>(String)principals.getPrimaryPrincipal();</text>
       </register>
-      <register name="2" type="4">
-        <text>entityManager.createEntityGraph(User)</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>t</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3RyUm9sZXMuYWRkKHIuZ2V0SWQoKSk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>a</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IoUm9sZSByIDogcm9sZXMpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEAK</text>
+        <text encoding="base64">ICAgICAgICBTZXQ8U3RyaW5nPiBzdHJSb2xlcyA9IG5ldyBIYXNoU2V0PFN0cmluZz4ocm9sZXMuc2l6ZSgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUubWFwcGluZy5TZXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTZXQ8Um9sZT4gcm9sZXMgPSB1c2VyLmdldFJvbGVzKCk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>Rol</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhdXRob3JpemF0aW9uSW5mby5zZXRSb2xlcyhzdHJSb2xlcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8YmVhbiBpZD0iY3JlZGVudGlhbHNNYXRjaGVyIiBjbGFzcz0ib3JnLmFwYWNoZS5zaGlyby5hdXRoYy5jcmVkZW50aWFsLlNoYTI1NkNyZWRlbnRpYWxzTWF0Y2hlciIK</text>
+        <text encoding="base64">ICAgICAgICAvL2F1dGhvcml6YXRpb25JbmZvLnNldFN0cmluZ1Blcm1pc3Npb25zKCk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>AndPassword</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYXV0aG9yaXphdGlvbkluZm87Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
