@@ -101,6 +101,11 @@
         <mark key="^" line="15" column="3" />
         <mark key="." line="176" column="0" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/RetryLimitHashedCredentialsMatcher.java" timestamp="1472457490672">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/webapp/WEB-INF/web.xml" timestamp="1472014852149">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -108,10 +113,10 @@
         <mark key="." line="9" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/resources/spring-shiro.xml" timestamp="1472455076352">
-        <mark key="[" line="29" column="14" />
-        <mark key="]" line="29" column="14" />
-        <mark key="." line="29" column="14" />
-        <mark key="^" line="29" column="14" />
+        <mark key="[" line="31" column="14" />
+        <mark key="]" line="31" column="14" />
+        <mark key="." line="31" column="14" />
+        <mark key="^" line="31" column="14" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/login/LoginModel.js" timestamp="1471569351492">
         <mark key="[" line="3" column="11" />
@@ -445,8 +450,8 @@
       <jump line="73" column="57" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;org.apache.shiro.session.mgt.SessionManager</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5vbWcuQ09SQkEuT2JqZWN0Owo=</text>
       </register>
       <register name="-" type="4">
         <text>&quot;org.apache.shiro.session.mgt.SessionManager</text>
@@ -458,31 +463,31 @@
         <text>org.springframework.beans.factory.config.MethodInvokingFactoryBean</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkaXN0cmljdFJlcG9zaXRvcnkuZmx1c2goKTsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5vbWcuQ09SQkEuT2JqZWN0Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkaXN0cmljdFJlcG9zaXRvcnkuZmx1c2goKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0eC5jb21taXQodHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB0eC5jb21taXQodHMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtZW51UmVwb3NpdG9yeS5kZWxldGVBbGwoKTsK</text>
+        <text encoding="base64">ICAgICAgICB0eC5jb21taXQodHMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFuc2FjdGlvblN0YXR1cyB0cyA9IHR4LmdldFRyYW5zYWN0aW9uKG51bGwpOwo=</text>
+        <text encoding="base64">ICAgICAgICBtZW51UmVwb3NpdG9yeS5kZWxldGVBbGwoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBKcGFUcmFuc2FjdGlvbk1hbmFnZXIgdHggPSAoSnBhVHJhbnNhY3Rpb25NYW5hZ2VyKWNvbnRleHQuZ2V0QmVhbigidHJhbnNhY3Rpb25NYW5hZ2VyIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBUcmFuc2FjdGlvblN0YXR1cyB0cyA9IHR4LmdldFRyYW5zYWN0aW9uKG51bGwpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByb2xlUmVwb3NpdG9yeS5mbHVzaCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBKcGFUcmFuc2FjdGlvbk1hbmFnZXIgdHggPSAoSnBhVHJhbnNhY3Rpb25NYW5hZ2VyKWNvbnRleHQuZ2V0QmVhbigidHJhbnNhY3Rpb25NYW5hZ2VyIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByb2xlUmVwb3NpdG9yeS5kZWxldGVBbGwoKTsK</text>
+        <text encoding="base64">ICAgICAgICByb2xlUmVwb3NpdG9yeS5mbHVzaCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
