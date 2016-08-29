@@ -113,11 +113,11 @@
         <mark key="^" line="8" column="42" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/resources/spring-shiro.xml" timestamp="1472468942731">
+      <file name="D:/IdeaProjects/lems/src/main/resources/spring-shiro.xml" timestamp="1472471392056">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
-        <mark key="^" line="37" column="14" />
+        <mark key="^" line="39" column="14" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/login/LoginModel.js" timestamp="1471569351492">
         <mark key="[" line="3" column="11" />
@@ -239,6 +239,7 @@
         <mark key="^" line="57" column="1" />
         <mark key="." line="57" column="1" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/session/mgt/DefaultWebSessionManager.java" timestamp="1472471742531" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Manager.js" timestamp="1471488436155">
         <mark key="[" line="97" column="19" />
         <mark key="]" line="97" column="22" />
@@ -338,6 +339,7 @@
         <mark key="." line="6" column="33" />
         <mark key="^" line="6" column="33" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/session/mgt/eis/SessionDAO.java" timestamp="1472471444790" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/SecurityRepositoryCustom.java" timestamp="1472046727116">
         <mark key="[" line="7" column="43" />
       </file>
