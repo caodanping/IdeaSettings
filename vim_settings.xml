@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.5.RELEASE/spring-beans-4.2.5.RELEASE-sources.jar!/org/springframework/beans/factory/config/MethodInvokingFactoryBean.java" timestamp="1472454597076">
+        <mark key="[" line="70" column="36" />
+        <mark key="]" line="70" column="101" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/permissions/List.js" timestamp="1471834847491">
         <mark key="[" line="25" column="17" />
         <mark key="]" line="25" column="18" />
@@ -103,10 +107,11 @@
         <mark key="^" line="8" column="42" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/resources/spring-shiro.xml" timestamp="1472028428429">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/resources/spring-shiro.xml" timestamp="1472455076352">
+        <mark key="[" line="29" column="14" />
+        <mark key="]" line="29" column="14" />
+        <mark key="." line="29" column="14" />
+        <mark key="^" line="29" column="14" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/login/LoginModel.js" timestamp="1471569351492">
         <mark key="[" line="3" column="11" />
@@ -146,6 +151,10 @@
         <mark key="]" line="8" column="27" />
         <mark key="." line="8" column="27" />
         <mark key="^" line="8" column="27" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/mgt/DefaultSecurityManager.java" timestamp="1472454431399">
+        <mark key="[" line="44" column="10" />
+        <mark key="]" line="44" column="52" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app.js" timestamp="1471507709115">
         <mark key="[" line="10" column="24" />
@@ -233,11 +242,11 @@
         <mark key="]" line="8" column="59" />
         <mark key="." line="8" column="59" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/UserRepository.java" timestamp="1472444862396">
-        <mark key="[" line="19" column="19" />
-        <mark key="]" line="20" column="58" />
-        <mark key="^" line="20" column="58" />
-        <mark key="." line="20" column="58" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/UserRepository.java" timestamp="1472453920372">
+        <mark key="[" line="19" column="97" />
+        <mark key="]" line="19" column="101" />
+        <mark key="^" line="19" column="101" />
+        <mark key="." line="19" column="101" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/DemoController.js" timestamp="1470198797831">
         <mark key="[" line="3" column="33" />
@@ -296,10 +305,11 @@
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/AuthenticationService.java" timestamp="1472024913207">
         <mark key="[" line="7" column="40" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/UserRealm.java" timestamp="1472452335028">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/UserRealm.java" timestamp="1472453894693">
         <mark key="[" line="33" column="45" />
-        <mark key="]" line="35" column="26" />
-        <mark key="." line="35" column="26" />
+        <mark key="]" line="34" column="39" />
+        <mark key="." line="34" column="39" />
+        <mark key="^" line="34" column="39" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Warehouse.java" timestamp="1472003210310">
         <mark key="[" line="12" column="37" />
@@ -436,16 +446,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rp.perm</text>
+        <text>&quot;org.apache.shiro.session.mgt.SessionManager</text>
       </register>
       <register name="-" type="4">
-        <text>rp.perm</text>
+        <text>&quot;org.apache.shiro.session.mgt.SessionManager</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzeXMuYWRkQ2hpbGQodG1wKTsKICAgICAgICBtZW51cy5hZGQodG1wKTsK</text>
+      <register name="0" type="4">
+        <text>org.springframework.beans.factory.config.MethodInvokingFactoryBean</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBkaXN0cmljdFJlcG9zaXRvcnkuZmx1c2goKTsK</text>
@@ -583,6 +593,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
