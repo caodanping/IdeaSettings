@@ -29,7 +29,7 @@
         <mark key="^" line="15" column="26" />
         <mark key="." line="15" column="26" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" timestamp="1472357135202">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" timestamp="1472443057699">
         <mark key="[" line="34" column="39" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
@@ -153,11 +153,11 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/SecurityRepositoryCustomImpl.java" timestamp="1472049125277">
-        <mark key="[" line="13" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/SecurityRepositoryCustomImpl.java" timestamp="1472442660116">
+        <mark key="[" line="13" column="67" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
-        <mark key="^" line="14" column="36" />
+        <mark key="^" line="15" column="36" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/LocalSearchField.js" timestamp="1471488797313">
         <mark key="[" line="83" column="0" />
@@ -172,6 +172,9 @@
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/AuthenticationController.java" timestamp="1472024149206">
         <mark key="[" line="17" column="5" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/PermissionRepository.java" timestamp="1472442741796">
+        <mark key="[" line="8" column="82" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/List.js" timestamp="1471418038574">
         <mark key="[" line="76" column="16" />
@@ -230,11 +233,11 @@
         <mark key="]" line="8" column="59" />
         <mark key="." line="8" column="59" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/UserRepository.java" timestamp="1472045429215">
-        <mark key="[" line="16" column="26" />
-        <mark key="]" line="16" column="22" />
-        <mark key="^" line="16" column="22" />
-        <mark key="." line="16" column="22" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/UserRepository.java" timestamp="1472443425011">
+        <mark key="[" line="19" column="19" />
+        <mark key="]" line="20" column="58" />
+        <mark key="^" line="20" column="58" />
+        <mark key="." line="20" column="58" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/DemoController.js" timestamp="1470198797831">
         <mark key="[" line="3" column="33" />
@@ -257,7 +260,7 @@
         <mark key="." line="10" column="18" />
         <mark key="^" line="10" column="18" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Permission.java" timestamp="1472198860502">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Permission.java" timestamp="1472443191003">
         <mark key="[" line="8" column="7" />
         <mark key="]" line="9" column="25" />
         <mark key="^" line="9" column="25" />
@@ -272,7 +275,6 @@
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/model/Base.js" timestamp="1471941905333">
         <mark key="[" line="0" column="3" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.11.4.RELEASE/spring-data-commons-1.11.4.RELEASE-sources.jar!/org/springframework/data/repository/CrudRepository.java" timestamp="1472351995566" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/ManagerController.js" timestamp="1471337057183">
         <mark key="[" line="26" column="25" />
         <mark key="]" line="26" column="27" />
@@ -294,7 +296,7 @@
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/AuthenticationService.java" timestamp="1472024913207">
         <mark key="[" line="7" column="40" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/UserRealm.java" timestamp="1472090044945">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/UserRealm.java" timestamp="1472442586252">
         <mark key="[" line="34" column="46" />
         <mark key="]" line="34" column="26" />
         <mark key="." line="34" column="26" />
@@ -433,11 +435,11 @@
       <jump line="73" column="57" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkaXN0cmljdFJlcG9zaXRvcnkuZmx1c2goKTsK</text>
+      <register name="&quot;" type="4">
+        <text>rp.perm</text>
       </register>
       <register name="-" type="4">
-        <text>CrudRepository</text>
+        <text>rp.perm</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
