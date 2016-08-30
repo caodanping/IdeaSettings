@@ -19,11 +19,6 @@
         <mark key="." line="108" column="40" />
         <mark key="^" line="108" column="40" />
       </file>
-      <file name="/a.dummy" timestamp="1472198597696">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="." line="0" column="2" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/model/Department.js" timestamp="1471941917381">
         <mark key="[" line="0" column="3" />
       </file>
@@ -113,11 +108,10 @@
         <mark key="^" line="8" column="42" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/resources/spring-shiro.xml" timestamp="1472471392056">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="39" column="14" />
+      <file name="D:/IdeaProjects/lems/src/main/resources/spring-shiro.xml" timestamp="1472520085233">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/login/LoginModel.js" timestamp="1471569351492">
         <mark key="[" line="3" column="11" />
@@ -143,11 +137,6 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/model/Menu.js" timestamp="1471941933568">
-        <mark key="[" line="1" column="6" />
-        <mark key="]" line="1" column="6" />
-        <mark key="." line="1" column="6" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DepartmentNameAlreadyExistsException.java" timestamp="1472011314990">
         <mark key="[" line="8" column="27" />
         <mark key="]" line="8" column="27" />
@@ -170,11 +159,6 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="15" column="36" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/LocalSearchField.js" timestamp="1471488797313">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/BaseEntity.java" timestamp="1472197535541">
         <mark key="[" line="26" column="30" />
         <mark key="]" line="42" column="80" />
@@ -186,16 +170,6 @@
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/PermissionRepository.java" timestamp="1472442741796">
         <mark key="[" line="8" column="82" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/List.js" timestamp="1471418038574">
-        <mark key="[" line="76" column="16" />
-        <mark key="]" line="76" column="16" />
-        <mark key="." line="76" column="16" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/WarehouseServiceImpl.java" timestamp="1472014029448">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/WarehouseManagers.js" timestamp="1471317491328">
         <mark key="[" line="7" column="16" />
@@ -227,8 +201,8 @@
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="6" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/resources/ehcache.xml" timestamp="1472468910219">
-        <mark key="[" line="1" column="36" />
+      <file name="D:/IdeaProjects/lems/src/main/resources/ehcache.xml" timestamp="1472520108040">
+        <mark key="[" line="8" column="42" />
         <mark key="]" line="2" column="19" />
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
@@ -239,17 +213,12 @@
         <mark key="^" line="57" column="1" />
         <mark key="." line="57" column="1" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/session/mgt/DefaultWebSessionManager.java" timestamp="1472471742531" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/session/mgt/DefaultWebSessionManager.java" timestamp="1472519552015" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Manager.js" timestamp="1471488436155">
         <mark key="[" line="97" column="19" />
         <mark key="]" line="97" column="22" />
         <mark key="^" line="97" column="22" />
         <mark key="." line="97" column="22" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/RoleMenuRepository.java" timestamp="1472198632958">
-        <mark key="[" line="8" column="59" />
-        <mark key="]" line="8" column="59" />
-        <mark key="." line="8" column="59" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/UserRepository.java" timestamp="1472453920372">
         <mark key="[" line="19" column="97" />
@@ -333,6 +302,7 @@
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/Alert.js" timestamp="1471941849309">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/session/mgt/DefaultSessionManager.java" timestamp="1472519630208" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/Warehouses" timestamp="1470987963636">
         <mark key="[" line="6" column="33" />
         <mark key="]" line="6" column="33" />
@@ -457,7 +427,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxwcm9wZXJ0eSBuYW1lPSJtYXhSZXRyeUxpbWl0IiB2YWx1ZT0iMyIvPgo=</text>
+        <text encoding="base64">ICAgIDxwcm9wZXJ0eSBuYW1lPSIiCg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;org.apache.shiro.session.mgt.SessionManager</text>
@@ -469,31 +439,31 @@
         <text>passwordRetryCacheName</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxwcm9wZXJ0eSBuYW1lPSJtYXhSZXRyeUxpbWl0IiB2YWx1ZT0iMyIvPgo=</text>
+        <text encoding="base64">ICAgIDxwcm9wZXJ0eSBuYW1lPSIiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ2FjaGU8U3RyaW5nLCBPYmplY3Q+IHBhc3N3b3JkUmV0cnlDYWNoZGRlOwo=</text>
+        <text encoding="base64">ICAgIDxwcm9wZXJ0eSBuYW1lPSJtYXhSZXRyeUxpbWl0IiB2YWx1ZT0iMyIvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5vbWcuQ09SQkEuT2JqZWN0Owo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQ2FjaGU8U3RyaW5nLCBPYmplY3Q+IHBhc3N3b3JkUmV0cnlDYWNoZGRlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkaXN0cmljdFJlcG9zaXRvcnkuZmx1c2goKTsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5vbWcuQ09SQkEuT2JqZWN0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkaXN0cmljdFJlcG9zaXRvcnkuZmx1c2goKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0eC5jb21taXQodHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB0eC5jb21taXQodHMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtZW51UmVwb3NpdG9yeS5kZWxldGVBbGwoKTsK</text>
+        <text encoding="base64">ICAgICAgICB0eC5jb21taXQodHMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFuc2FjdGlvblN0YXR1cyB0cyA9IHR4LmdldFRyYW5zYWN0aW9uKG51bGwpOwo=</text>
+        <text encoding="base64">ICAgICAgICBtZW51UmVwb3NpdG9yeS5kZWxldGVBbGwoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
