@@ -109,9 +109,9 @@
         <mark key="." line="9" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/resources/spring-shiro.xml" timestamp="1472520085233">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/login/LoginModel.js" timestamp="1471569351492">
         <mark key="[" line="3" column="11" />
@@ -171,7 +171,6 @@
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/PermissionRepository.java" timestamp="1472442741796">
         <mark key="[" line="8" column="82" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/net/sf/ehcache/ehcache-core/2.5.0/ehcache-core-2.5.0.jar!/ehcache-failsafe.xml" timestamp="1472535473668" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/WarehouseManagers.js" timestamp="1471317491328">
         <mark key="[" line="7" column="16" />
         <mark key="]" line="8" column="18" />
@@ -202,19 +201,12 @@
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="6" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/resources/ehcache.xml" timestamp="1472535667612">
-        <mark key="[" line="11" column="42" />
-        <mark key="]" line="4" column="19" />
-        <mark key="^" line="4" column="19" />
-        <mark key="." line="4" column="19" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Location.java" timestamp="1471230198560">
         <mark key="[" line="36" column="43" />
         <mark key="]" line="57" column="1" />
         <mark key="^" line="57" column="1" />
         <mark key="." line="57" column="1" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/session/mgt/DefaultWebSessionManager.java" timestamp="1472519552015" />
       <file name="D:/IdeaProjects/lems/pom.xml" timestamp="1472526668143">
         <mark key="'" line="30" column="6" />
       </file>
@@ -269,7 +261,6 @@
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/model/Base.js" timestamp="1471941905333">
         <mark key="[" line="0" column="3" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/servlet/SimpleCookie.java" timestamp="1472469374440" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/ManagerController.js" timestamp="1471337057183">
         <mark key="[" line="26" column="25" />
         <mark key="]" line="26" column="27" />
@@ -309,14 +300,12 @@
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/Alert.js" timestamp="1471941849309">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/session/mgt/DefaultSessionManager.java" timestamp="1472519630208" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/Warehouses" timestamp="1470987963636">
         <mark key="[" line="6" column="33" />
         <mark key="]" line="6" column="33" />
         <mark key="." line="6" column="33" />
         <mark key="^" line="6" column="33" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/session/mgt/eis/SessionDAO.java" timestamp="1472471444790" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/SecurityRepositoryCustom.java" timestamp="1472046727116">
         <mark key="[" line="7" column="43" />
       </file>
