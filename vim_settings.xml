@@ -181,11 +181,11 @@
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/resources/ehcache.xml" timestamp="1472539767424">
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="5" column="16" />
-        <mark key="^" line="6" column="15" />
-        <mark key="." line="5" column="16" />
+      <file name="D:/IdeaProjects/lems/src/main/resources/ehcache.xml" timestamp="1472540939025">
+        <mark key="[" line="30" column="30" />
+        <mark key="]" line="26" column="28" />
+        <mark key="^" line="26" column="8" />
+        <mark key="." line="26" column="9" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Location.java" timestamp="1471230198560">
         <mark key="[" line="36" column="43" />
@@ -397,43 +397,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>maxElementsInMemory</text>
+        <text>maxEntriesLocalHeap</text>
       </register>
       <register name="-" type="4">
-        <text>maxElementsInMemory</text>
+        <text>maxEntriesLocalHeap</text>
       </register>
       <register name="/" type="4">
         <text>ehcache</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDx3ZWxjb21lLWZpbGU+aW5kZXguaHRtbDwvd2VsY29tZS1maWxlPgo=</text>
-      </register>
-      <register name="1" type="4">
+      <register name="0" type="4">
         <text>maxElementsInMemory</text>
       </register>
+      <register name="1" type="4">
+        <text>maxEntriesLocalHeap</text>
+      </register>
       <register name="2" type="4">
+        <text>maxElementsInMemory</text>
+      </register>
+      <register name="3" type="4">
         <text>(String)principals.getPrimaryPrincipal();</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3RyUm9sZXMuYWRkKHIuZ2V0SWQoKSk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBmb3IoUm9sZSByIDogcm9sZXMpIHsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBTZXQ8U3RyaW5nPiBzdHJSb2xlcyA9IG5ldyBIYXNoU2V0PFN0cmluZz4ocm9sZXMuc2l6ZSgpKTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBTZXQ8Um9sZT4gcm9sZXMgPSB1c2VyLmdldFJvbGVzKCk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRob3JpemF0aW9uSW5mby5zZXRSb2xlcyhzdHJSb2xlcyk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL2F1dGhvcml6YXRpb25JbmZvLnNldFN0cmluZ1Blcm1pc3Npb25zKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRob3JpemF0aW9uSW5mby5zZXRSb2xlcyhzdHJSb2xlcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
