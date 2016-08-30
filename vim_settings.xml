@@ -28,10 +28,11 @@
         <mark key="^" line="15" column="26" />
         <mark key="." line="15" column="26" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" timestamp="1472443057699">
-        <mark key="[" line="34" column="39" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" timestamp="1472547503486">
+        <mark key="[" line="122" column="8" />
+        <mark key="]" line="122" column="33" />
+        <mark key="." line="122" column="33" />
+        <mark key="^" line="122" column="33" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/Permissions.js" timestamp="1471834738448">
         <mark key="[" line="6" column="23" />
@@ -165,8 +166,11 @@
         <mark key="^" line="27" column="7" />
         <mark key="." line="27" column="8" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/AuthenticationController.java" timestamp="1472024149206">
-        <mark key="[" line="17" column="5" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/AuthenticationController.java" timestamp="1472546950719">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="39" column="84" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/PermissionRepository.java" timestamp="1472442741796">
         <mark key="[" line="8" column="82" />
@@ -279,7 +283,7 @@
         <mark key="^" line="10" column="30" />
         <mark key="." line="10" column="30" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/AuthenticationService.java" timestamp="1472024913207">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/AuthenticationService.java" timestamp="1472547191469">
         <mark key="[" line="7" column="40" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/UserRealm.java" timestamp="1472546200431">
@@ -423,7 +427,8 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>User[] users = new User[] {
+        };</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -434,32 +439,33 @@
       <register name="0" type="4">
         <text>passwordRetryCacheName</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIDxwcm9wZXJ0eSBuYW1lPSIiCg==</text>
+      <register name="1" type="4">
+        <text>User[] users = new User[] {
+        };</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxwcm9wZXJ0eSBuYW1lPSJtYXhSZXRyeUxpbWl0IiB2YWx1ZT0iMyIvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFVzZXIoKXt9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ2FjaGU8U3RyaW5nLCBPYmplY3Q+IHBhc3N3b3JkUmV0cnlDYWNoZGRlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5vbWcuQ09SQkEuT2JqZWN0Owo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">IGNhdGNoIChVbmtub3duQWNjb3VudEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIFJlc3VsdER0byByZXN1bHQgPSBuZXcgUmVzdWx0RHRvKCk7CiAgICAgICAgICAgIHJlc3VsdC5zZXRNZXNzYWdlKCk7CiAgICAgICAgICAgIHJldHVybiBuZXcgUmVzcG9uc2VFbnRpdHk8UmVzdWx0RHRvPihyZXN1bHQsIEh0dHBTdGF0dXMuQkFEX1JFUVVFU1QpOwogICAgICAgIH0gY2F0Y2ggKENyZWRlbnRpYWxzRXhjZXB0aW9uIGUpIHsKICAgICAgICAg</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkaXN0cmljdFJlcG9zaXRvcnkuZmx1c2goKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LnNldE1lc3NhZ2UoItPDu6fD+7vyw9zC67K7xqXF5C4iKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDxwcm9wZXJ0eSBuYW1lPSIiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0eC5jb21taXQodHMpOwo=</text>
+        <text encoding="base64">ICAgIDxwcm9wZXJ0eSBuYW1lPSJtYXhSZXRyeUxpbWl0IiB2YWx1ZT0iMyIvPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0eC5jb21taXQodHMpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQ2FjaGU8U3RyaW5nLCBPYmplY3Q+IHBhc3N3b3JkUmV0cnlDYWNoZGRlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtZW51UmVwb3NpdG9yeS5kZWxldGVBbGwoKTsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5vbWcuQ09SQkEuT2JqZWN0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
