@@ -106,11 +106,11 @@
         <mark key="." line="13" column="68" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/crypto/hash/ConfigurableHashService.java" timestamp="1472608490277" />
-      <file name="D:/IdeaProjects/lems/src/main/resources/spring-shiro.xml" timestamp="1472612829026">
-        <mark key="[" line="18" column="84" />
-        <mark key="]" line="38" column="59" />
-        <mark key="." line="38" column="59" />
-        <mark key="^" line="38" column="59" />
+      <file name="D:/IdeaProjects/lems/src/main/resources/spring-shiro.xml" timestamp="1472621095617">
+        <mark key="[" line="72" column="4" />
+        <mark key="]" line="72" column="40" />
+        <mark key="." line="72" column="40" />
+        <mark key="^" line="72" column="40" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/login/LoginModel.js" timestamp="1471569351492">
         <mark key="[" line="3" column="11" />
@@ -159,6 +159,8 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="15" column="36" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/servlet/IniShiroFilter.java" timestamp="1472621275568" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/env/EnvironmentLoaderListener.java" timestamp="1472621327808" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/BaseEntity.java" timestamp="1472197535541">
         <mark key="[" line="26" column="30" />
         <mark key="]" line="42" column="80" />
@@ -174,6 +176,7 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/crypto/hash/SimpleHash.java" timestamp="1472613402808">
         <mark key="'" line="78" column="5" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/env/WebEnvironment.java" timestamp="1472621447880" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/WarehouseManagers.js" timestamp="1471317491328">
         <mark key="[" line="7" column="16" />
         <mark key="]" line="8" column="18" />
@@ -204,6 +207,7 @@
         <mark key="^" line="52" column="4" />
         <mark key="." line="52" column="4" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/mgt/DefaultWebSecurityManager.java" timestamp="1472621250616" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/RoleMenu.java" timestamp="1472198590190">
         <mark key="[" line="6" column="3" />
         <mark key="]" line="6" column="6" />
@@ -282,9 +286,6 @@
         <mark key="^" line="10" column="30" />
         <mark key="." line="10" column="30" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/AuthenticationService.java" timestamp="1472547191469">
-        <mark key="[" line="7" column="40" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/UserRealm.java" timestamp="1472612269514">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -310,6 +311,7 @@
         <mark key="." line="24" column="23" />
         <mark key="^" line="24" column="23" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/env/EnvironmentLoader.java" timestamp="1472621344880" />
     </filemarks>
     <jumps>
       <jump line="326" column="56" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
@@ -414,11 +416,11 @@
       <jump line="78" column="5" filename="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/crypto/hash/SimpleHash.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyLnNldAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PHByb3BlcnR5IG5hbWU9InJlYWxtcyI+CiAgICAgIDxsaXN0PgogICAgICAgIDxyZWYgYmVhbj0idXNlclJlYWxtIi8+CiAgICAgIDwvbGlzdD4KICAgIDwvcHJvcGVydHk+</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>org.apache.shiro.mgt.DefaultSecurityManager</text>
       </register>
       <register name="/" type="4">
         <text>getSalt</text>
@@ -426,33 +428,33 @@
       <register name="0" type="4">
         <text>passwordRetryCacheName</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyLnNldAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">PHByb3BlcnR5IG5hbWU9InJlYWxtcyI+CiAgICAgIDxsaXN0PgogICAgICAgIDxyZWYgYmVhbj0idXNlclJlYWxtIi8+CiAgICAgIDwvbGlzdD4KICAgIDwvcHJvcGVydHk+</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQnl0ZVNvdXJjZS5VdGlsLmJ5dGVzKHVzZXIuZ2V0UGFzc3dvcmRTYWx0KCkpLAo=</text>
+        <text encoding="base64">ICAgICAgICB1c2VyLnNldAo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQnl0ZVNvdXJjZS5VdGlsLmJ5dGVzKHVzZXIuZ2V0UGFzc3dvcmRTYWx0KCkpLAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIGdldFBhc3N3b3JkU2FsdCgpIHsKICAgICAgICByZXR1cm4gcGFzc3dvcmRTYWx0OwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFBhc3N3b3JkU2FsdChTdHJpbmcgcGFzc3dvcmRTYWx0KSB7CiAgICAgICAgdGhpcy5wYXNzd29yZFNhbHQgPSBwYXNzd29yZFNhbHQ7CiAgICB9</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHBhc3N3b3JkU2FsdDsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIEBDb2x1bW4obnVsbGFibGUgPSBmYWxzZSkK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>User[] users = new User[] {
         };</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFVzZXIoKXt9Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFVzZXIoKXt9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
