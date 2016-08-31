@@ -94,7 +94,7 @@
         <mark key="^" line="15" column="3" />
         <mark key="." line="176" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/RetryLimitHashedCredentialsMatcher.java" timestamp="1472468813867">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/RetryLimitHashedCredentialsMatcher.java" timestamp="1472610361880">
         <mark key="[" line="39" column="37" />
         <mark key="]" line="39" column="59" />
         <mark key="." line="39" column="37" />
@@ -107,10 +107,11 @@
         <mark key="." line="13" column="68" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/crypto/hash/ConfigurableHashService.java" timestamp="1472608490277" />
-      <file name="D:/IdeaProjects/lems/src/main/resources/spring-shiro.xml" timestamp="1472545908207">
-        <mark key="[" line="7" column="61" />
-        <mark key="]" line="7" column="61" />
-        <mark key="." line="7" column="61" />
+      <file name="D:/IdeaProjects/lems/src/main/resources/spring-shiro.xml" timestamp="1472610498002">
+        <mark key="[" line="25" column="12" />
+        <mark key="]" line="25" column="12" />
+        <mark key="." line="25" column="12" />
+        <mark key="^" line="25" column="9" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/login/LoginModel.js" timestamp="1471569351492">
         <mark key="[" line="3" column="11" />
@@ -118,7 +119,7 @@
         <mark key="." line="6" column="4" />
         <mark key="^" line="6" column="4" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/authc/credential/PasswordService.java" timestamp="1472607071740" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/authc/credential/PasswordService.java" timestamp="1472610855144" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/DistrictRepository.java" timestamp="1472200170599">
         <mark key="[" line="9" column="44" />
         <mark key="]" line="9" column="56" />
@@ -150,7 +151,8 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/authc/credential/DefaultPasswordService.java" timestamp="1472605694252" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/authc/credential/DefaultPasswordService.java" timestamp="1472611137760" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/crypto/hash/format/Shiro1CryptFormat.java" timestamp="1472611254240" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/SecurityRepositoryCustomImpl.java" timestamp="1472442660116">
         <mark key="[" line="13" column="67" />
         <mark key="]" line="13" column="0" />
@@ -196,8 +198,11 @@
         <mark key="." line="9" column="52" />
         <mark key="^" line="9" column="52" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/RetryLimitHashedPasswordMatcher.java" timestamp="1472609173375">
-        <mark key="[" line="7" column="44" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/RetryLimitHashedPasswordMatcher.java" timestamp="1472610432968">
+        <mark key="[" line="14" column="44" />
+        <mark key="]" line="52" column="4" />
+        <mark key="^" line="52" column="4" />
+        <mark key="." line="52" column="4" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/RoleMenu.java" timestamp="1472198590190">
         <mark key="[" line="6" column="3" />
@@ -428,11 +433,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>User[] users = new User[] {
-        };</text>
+        <text>credentialsMatcher</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>credentialsMatcher</text>
       </register>
       <register name="/" type="4">
         <text>ehcache</text>
