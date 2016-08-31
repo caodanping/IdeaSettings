@@ -24,11 +24,11 @@
         <mark key="^" line="15" column="26" />
         <mark key="." line="15" column="26" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" timestamp="1472604981492">
-        <mark key="[" line="122" column="34" />
-        <mark key="]" line="122" column="33" />
-        <mark key="." line="122" column="33" />
-        <mark key="^" line="122" column="33" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" timestamp="1472612592153">
+        <mark key="[" line="57" column="20" />
+        <mark key="]" line="52" column="34" />
+        <mark key="." line="52" column="34" />
+        <mark key="^" line="52" column="34" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/Permissions.js" timestamp="1471834738448">
         <mark key="[" line="6" column="23" />
@@ -82,6 +82,11 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/User.java" timestamp="1472612196729">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/WarehouseRepository.java" timestamp="1472004257103">
         <mark key="[" line="10" column="78" />
         <mark key="]" line="11" column="51" />
@@ -107,11 +112,11 @@
         <mark key="." line="13" column="68" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/crypto/hash/ConfigurableHashService.java" timestamp="1472608490277" />
-      <file name="D:/IdeaProjects/lems/src/main/resources/spring-shiro.xml" timestamp="1472611486898">
-        <mark key="[" line="33" column="45" />
-        <mark key="]" line="33" column="59" />
-        <mark key="." line="33" column="59" />
-        <mark key="^" line="33" column="59" />
+      <file name="D:/IdeaProjects/lems/src/main/resources/spring-shiro.xml" timestamp="1472612829026">
+        <mark key="[" line="18" column="84" />
+        <mark key="]" line="38" column="59" />
+        <mark key="." line="38" column="59" />
+        <mark key="^" line="38" column="59" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/login/LoginModel.js" timestamp="1471569351492">
         <mark key="[" line="3" column="11" />
@@ -119,7 +124,7 @@
         <mark key="." line="6" column="4" />
         <mark key="^" line="6" column="4" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/authc/credential/PasswordService.java" timestamp="1472610855144" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/authc/credential/PasswordService.java" timestamp="1472612079025" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/DistrictRepository.java" timestamp="1472200170599">
         <mark key="[" line="9" column="44" />
         <mark key="]" line="9" column="56" />
@@ -216,7 +221,7 @@
         <mark key="^" line="57" column="1" />
         <mark key="." line="57" column="1" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/authc/credential/PasswordMatcher.java" timestamp="1472611843842" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/authc/credential/PasswordMatcher.java" timestamp="1472612689537" />
       <file name="D:/IdeaProjects/lems/pom.xml" timestamp="1472526668143">
         <mark key="'" line="30" column="6" />
       </file>
@@ -292,10 +297,10 @@
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/AuthenticationService.java" timestamp="1472547191469">
         <mark key="[" line="7" column="40" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/UserRealm.java" timestamp="1472546200431">
-        <mark key="[" line="37" column="60" />
-        <mark key="]" line="31" column="39" />
-        <mark key="." line="31" column="39" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/UserRealm.java" timestamp="1472612269514">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
         <mark key="^" line="31" column="39" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Warehouse.java" timestamp="1472003210310">
@@ -432,11 +437,11 @@
       <jump line="30" column="6" filename="D:/IdeaProjects/lems/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>credentialsMatcher</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB1c2VyLnNldAo=</text>
       </register>
       <register name="-" type="4">
-        <text>credentialsMatcher</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>ehcache</text>
@@ -444,33 +449,33 @@
       <register name="0" type="4">
         <text>passwordRetryCacheName</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB1c2VyLnNldAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQnl0ZVNvdXJjZS5VdGlsLmJ5dGVzKHVzZXIuZ2V0UGFzc3dvcmRTYWx0KCkpLAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIGdldFBhc3N3b3JkU2FsdCgpIHsKICAgICAgICByZXR1cm4gcGFzc3dvcmRTYWx0OwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFBhc3N3b3JkU2FsdChTdHJpbmcgcGFzc3dvcmRTYWx0KSB7CiAgICAgICAgdGhpcy5wYXNzd29yZFNhbHQgPSBwYXNzd29yZFNhbHQ7CiAgICB9</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHBhc3N3b3JkU2FsdDsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBDb2x1bW4obnVsbGFibGUgPSBmYWxzZSkK</text>
+      </register>
+      <register name="7" type="4">
         <text>User[] users = new User[] {
         };</text>
       </register>
-      <register name="2" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbmV3IFVzZXIoKXt9Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">IGNhdGNoIChVbmtub3duQWNjb3VudEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIFJlc3VsdER0byByZXN1bHQgPSBuZXcgUmVzdWx0RHRvKCk7CiAgICAgICAgICAgIHJlc3VsdC5zZXRNZXNzYWdlKCk7CiAgICAgICAgICAgIHJldHVybiBuZXcgUmVzcG9uc2VFbnRpdHk8UmVzdWx0RHRvPihyZXN1bHQsIEh0dHBTdGF0dXMuQkFEX1JFUVVFU1QpOwogICAgICAgIH0gY2F0Y2ggKENyZWRlbnRpYWxzRXhjZXB0aW9uIGUpIHsKICAgICAgICAg</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LnNldE1lc3NhZ2UoItPDu6fD+7vyw9zC67K7xqXF5C4iKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDxwcm9wZXJ0eSBuYW1lPSIiCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDxwcm9wZXJ0eSBuYW1lPSJtYXhSZXRyeUxpbWl0IiB2YWx1ZT0iMyIvPgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ2FjaGU8U3RyaW5nLCBPYmplY3Q+IHBhc3N3b3JkUmV0cnlDYWNoZGRlOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5vbWcuQ09SQkEuT2JqZWN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
