@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/permissions/List.js" timestamp="1471834847491">
@@ -14,9 +14,6 @@
         <mark key="]" line="108" column="40" />
         <mark key="." line="108" column="40" />
         <mark key="^" line="108" column="40" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/model/Department.js" timestamp="1471941917381">
-        <mark key="[" line="0" column="3" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1472198810209">
         <mark key="[" line="15" column="26" />
@@ -42,7 +39,7 @@
         <mark key="^" line="2" column="2" />
         <mark key="." line="2" column="2" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/crypto/hash/DefaultHashService.java" timestamp="1472611684776" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/crypto/hash/DefaultHashService.java" timestamp="1472613512778" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMapPanel.js" timestamp="1471061441002">
         <mark key="[" line="68" column="31" />
         <mark key="]" line="68" column="3" />
@@ -54,9 +51,6 @@
         <mark key="]" line="56" column="83" />
         <mark key="." line="56" column="83" />
         <mark key="^" line="56" column="83" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/AuthenticationServiceImpl.java" timestamp="1472024925935">
-        <mark key="[" line="7" column="38" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/model/Permission.js" timestamp="1471941814174">
         <mark key="[" line="0" column="3" />
@@ -137,6 +131,7 @@
         <mark key="." line="110" column="38" />
         <mark key="^" line="110" column="38" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/crypto/hash/format/HashFormatFactory.java" timestamp="1472613900832" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/model/Warehouse.js" timestamp="1471941946054">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="12" column="44" />
@@ -156,7 +151,7 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/authc/credential/DefaultPasswordService.java" timestamp="1472611614432" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/authc/credential/DefaultPasswordService.java" timestamp="1472613877434" />
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/crypto/hash/format/Shiro1CryptFormat.java" timestamp="1472611254240" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/SecurityRepositoryCustomImpl.java" timestamp="1472442660116">
         <mark key="[" line="13" column="67" />
@@ -176,8 +171,8 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="39" column="84" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/PermissionRepository.java" timestamp="1472442741796">
-        <mark key="[" line="8" column="82" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/crypto/hash/SimpleHash.java" timestamp="1472613402808">
+        <mark key="'" line="78" column="5" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/WarehouseManagers.js" timestamp="1471317491328">
         <mark key="[" line="7" column="16" />
@@ -215,6 +210,7 @@
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="6" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/crypto/hash/format/ParsableHashFormat.java" timestamp="1472613852298" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Location.java" timestamp="1471230198560">
         <mark key="[" line="36" column="43" />
         <mark key="]" line="57" column="1" />
@@ -243,12 +239,6 @@
         <mark key="^" line="6" column="11" />
         <mark key="." line="6" column="11" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/WarehouseDto.java" timestamp="1472003174606">
-        <mark key="[" line="12" column="23" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1472535485807">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/common/CollectionUtils.java" timestamp="1467794992879">
         <mark key="[" line="15" column="1" />
         <mark key="]" line="15" column="0" />
@@ -273,9 +263,7 @@
         <mark key="." line="24" column="19" />
         <mark key="^" line="24" column="19" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/model/Base.js" timestamp="1471941905333">
-        <mark key="[" line="0" column="3" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/crypto/hash/Hash.java" timestamp="1472613235506" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/ManagerController.js" timestamp="1471337057183">
         <mark key="[" line="26" column="25" />
         <mark key="]" line="26" column="27" />
@@ -303,26 +291,18 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="31" column="39" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Warehouse.java" timestamp="1472003210310">
-        <mark key="[" line="12" column="37" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/IncorrectUsernameOrPasswordException.java" timestamp="1472024693559">
         <mark key="[" line="6" column="3" />
         <mark key="]" line="20" column="41" />
         <mark key="^" line="20" column="41" />
         <mark key="." line="20" column="41" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/Alert.js" timestamp="1471941849309">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/crypto/hash/format/Base64Format.java" timestamp="1472613229570" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/Warehouses" timestamp="1470987963636">
         <mark key="[" line="6" column="33" />
         <mark key="]" line="6" column="33" />
         <mark key="." line="6" column="33" />
         <mark key="^" line="6" column="33" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/SecurityRepositoryCustom.java" timestamp="1472046727116">
-        <mark key="[" line="7" column="43" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/Application.js" timestamp="1471507554410">
         <mark key="[" line="24" column="19" />
@@ -330,12 +310,8 @@
         <mark key="." line="24" column="23" />
         <mark key="^" line="24" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1472003628985">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="325" column="63" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="326" column="56" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="386" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="392" column="21" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
@@ -435,6 +411,7 @@
       <jump line="2" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/WarehouseService.java" />
       <jump line="73" column="57" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" />
       <jump line="30" column="6" filename="D:/IdeaProjects/lems/pom.xml" />
+      <jump line="78" column="5" filename="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/crypto/hash/SimpleHash.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -444,7 +421,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>ehcache</text>
+        <text>getSalt</text>
       </register>
       <register name="0" type="4">
         <text>passwordRetryCacheName</text>
@@ -482,9 +459,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ehcache</last-search>
+      <last-search>getSalt</last-search>
       <last-offset />
-      <last-pattern>ehcache</last-pattern>
+      <last-pattern>getSalt</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -492,7 +469,6 @@
     </search>
     <history>
       <history-search>
-        <entry>localsearch</entry>
         <entry>if</entry>
         <entry>icon</entry>
         <entry>onMarkBtn</entry>
@@ -512,6 +488,7 @@
         <entry>department</entry>
         <entry>'</entry>
         <entry>ehcache</entry>
+        <entry>getSalt</entry>
       </history-search>
       <history-cmd>
         <entry>50</entry>
