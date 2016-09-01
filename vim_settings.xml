@@ -262,11 +262,10 @@
         <mark key="^" line="219" column="53" />
         <mark key="." line="219" column="53" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/UserServiceImpl.java" timestamp="1472701296441">
-        <mark key="[" line="36" column="19" />
-        <mark key="]" line="37" column="39" />
-        <mark key="." line="37" column="39" />
-        <mark key="^" line="37" column="39" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/UserServiceImpl.java" timestamp="1472720465399">
+        <mark key="[" line="34" column="8" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Manager.js" timestamp="1471488436155">
         <mark key="[" line="97" column="19" />
@@ -275,6 +274,12 @@
         <mark key="." line="97" column="22" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/mgt/DefaultSubjectDAO.java" timestamp="1472709668191" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/UserController.java" timestamp="1472719842158">
+        <mark key="[" line="19" column="34" />
+        <mark key="]" line="19" column="33" />
+        <mark key="." line="19" column="33" />
+        <mark key="^" line="19" column="33" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/UserRepository.java" timestamp="1472453920372">
         <mark key="[" line="19" column="97" />
         <mark key="]" line="19" column="101" />
@@ -341,6 +346,12 @@
         <mark key="]" line="10" column="30" />
         <mark key="^" line="10" column="30" />
         <mark key="." line="10" column="30" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/UserService.java" timestamp="1472720093528">
+        <mark key="[" line="18" column="55" />
+        <mark key="]" line="28" column="13" />
+        <mark key="^" line="28" column="13" />
+        <mark key="." line="28" column="13" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/UserRealm.java" timestamp="1472612269514">
         <mark key="[" line="44" column="0" />
@@ -487,11 +498,11 @@
       <jump line="96" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/MenuServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Iterables.size(menus</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Iterables.size(menus</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>getSalt</text>
@@ -500,31 +511,31 @@
         <text encoding="base64">ICAgIDxtZW51IGlkPSI2IiBuYW1lPSLK2sioudzA7SIgdXJsPSIjZ3JhbnQiIGljb25DbHM9ImZhIGZhLXVubG9jayIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHVibGljIGludGVyZmFjZSBNZW51UmVwb3NpdG9yeSBleHRlbmRzIENydWRSZXBvc2l0b3J5PE1lbnUsIFN0cmluZz4gewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVkaXJlY3RVcmwgPSBnZXRSZWRpcmVjdFVybChyZXF1ZXN0LCByZXNwb25zZSwgc3ViamVjdCk7Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGQgCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdXcml0ZXIgd3JpdGVyID0gbmV3IFN0cmluZ1dyaXRlcigpOwogICAgICAgIE9iamVjdE1hcHBlciBvYmplY3RNYXBwZXIgPSBuZXcgT2JqZWN0TWFwcGVyKCk7CiAgICAgICAgb2JqZWN0TWFwcGVyLmdldEZhY3RvcnkoKS5jcmVhdGVHZW5lcmF0b3Iod3JpdGVyKTsKICAgICAgICBTdHJpbmcgc3RyID0gd3JpdGVyLnRvU3RyaW5nKCk7CiAgICAgICAgUmVzdWx0RHRvIHJlc3VsdCA9IG5ldyBSZXN1bHREdG8oItPDu6e1x8K8s8m5piEiKQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnVzZXJSZXBvc2l0b3J5ID0gdXNlclJlcG9zaXRvcnk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBVc2VyU2RkZXJ2aWNlSW1wbChVc2VyUmVwb3NpdG9yeSB1c2VyUmVwb3NpdG9yeSkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2F2ZVJlcXVlc3RBbmRSZWRpcmVjdFRvTG9naW4ocmVxdWVzdCwgcmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qYm9zcy5qYW5kZXguUmVzdWx0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvbG9nb3V0ID0gbG9nb3V0Cg==</text>
+        <text encoding="base64">cHVibGljIGludGVyZmFjZSBNZW51UmVwb3NpdG9yeSBleHRlbmRzIENydWRSZXBvc2l0b3J5PE1lbnUsIFN0cmluZz4gewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxtZW51IGlkPSI3IiBuYW1lPSLTw7unudzA7SIgdXJsPSIjdXNlcnMiIGljb25DbHM9ImZhIGZhLXVzZXJzIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVkaXJlY3RVcmwgPSBnZXRSZWRpcmVjdFVybChyZXF1ZXN0LCByZXNwb25zZSwgc3ViamVjdCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8bWVudSBpZD0iMyIgbmFtZT0isr/DxbncwO0iIHVybD0iI2RlcGFydG1lbnRzIiBpY29uQ2xzPSJmYSBmYS1zaXRlbWFwIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgZGQgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
