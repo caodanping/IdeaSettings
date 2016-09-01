@@ -76,11 +76,6 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/User.java" timestamp="1472612196729">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/WarehouseRepository.java" timestamp="1472004257103">
         <mark key="[" line="10" column="78" />
         <mark key="]" line="11" column="51" />
@@ -99,18 +94,17 @@
         <mark key="." line="39" column="37" />
         <mark key="^" line="39" column="36" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/webapp/WEB-INF/web.xml" timestamp="1472545567495">
+      <file name="D:/IdeaProjects/lems/src/main/webapp/WEB-INF/web.xml" timestamp="1472695262756">
         <mark key="[" line="13" column="42" />
         <mark key="]" line="13" column="68" />
         <mark key="^" line="13" column="68" />
         <mark key="." line="13" column="68" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/crypto/hash/ConfigurableHashService.java" timestamp="1472608490277" />
-      <file name="D:/IdeaProjects/lems/src/main/resources/spring-shiro.xml" timestamp="1472694367899">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="19" />
-        <mark key="." line="5" column="19" />
-        <mark key="^" line="5" column="19" />
+      <file name="D:/IdeaProjects/lems/src/main/resources/spring-shiro.xml" timestamp="1472695344212">
+        <mark key="[" line="107" column="13" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/login/LoginModel.js" timestamp="1471569351492">
         <mark key="[" line="3" column="11" />
@@ -427,7 +421,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIGh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvdXRpbCBodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL3V0aWwvc3ByaW5nLXV0aWwueHNkIj4K</text>
+        <text encoding="base64">ICAgICAgICAvKiouCg==</text>
       </register>
       <register name="-" type="4">
         <text>formAuthenticationFilter</text>
@@ -439,31 +433,31 @@
         <text encoding="base64">ICAgICAgIGh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvdXRpbCBodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL3V0aWwvc3ByaW5nLXV0aWwueHNkIj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvKiouCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvKiouY3NzID0gYW5vbgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCJJbmNvcnJlY3RDcmVkZW50aWFsc0V4Y2VwdGlvbiIuZXF1YWxzKG1lc3NhZ2UpKSB7CiAgICAgICAgICAgICAgICBvdXQucHJpbnRsbigie1wibWVzc2FnZVwiOlwiw9zC67TtzvNcIn0iKTsKICAgICAgICAgICAgfSBlbHNlIGlmICgiVW5rbm93bkFjY291bnRFeGNlcHRpb24iLmVxdWFscyhtZXNzYWdlKSkgewogICAgICAgICAgICAgICAgb3V0LnByaW50bG4oIntcIm1lc3NhZ2VcIjpcItXLusWyu7Tm1NpcIn0iKTs=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">PHByb3BlcnR5IG5hbWU9InJlYWxtcyI+CiAgICAgIDxsaXN0PgogICAgICAgIDxyZWYgYmVhbj0idXNlclJlYWxtIi8+CiAgICAgIDwvbGlzdD4KICAgIDwvcHJvcGVydHk+</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB1c2VyLnNldAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQnl0ZVNvdXJjZS5VdGlsLmJ5dGVzKHVzZXIuZ2V0UGFzc3dvcmRTYWx0KCkpLAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIGdldFBhc3N3b3JkU2FsdCgpIHsKICAgICAgICByZXR1cm4gcGFzc3dvcmRTYWx0OwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFBhc3N3b3JkU2FsdChTdHJpbmcgcGFzc3dvcmRTYWx0KSB7CiAgICAgICAgdGhpcy5wYXNzd29yZFNhbHQgPSBwYXNzd29yZFNhbHQ7CiAgICB9</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHBhc3N3b3JkU2FsdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
