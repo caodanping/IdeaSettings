@@ -229,11 +229,11 @@
       <file name="D:/IdeaProjects/lems/pom.xml" timestamp="1472696790868">
         <mark key="'" line="30" column="6" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/UserServiceImpl.java" timestamp="1472700146102">
-        <mark key="[" line="34" column="52" />
-        <mark key="]" line="35" column="45" />
-        <mark key="." line="35" column="45" />
-        <mark key="^" line="35" column="45" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/UserServiceImpl.java" timestamp="1472701296441">
+        <mark key="[" line="36" column="19" />
+        <mark key="]" line="37" column="39" />
+        <mark key="." line="37" column="39" />
+        <mark key="^" line="37" column="39" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Manager.js" timestamp="1471488436155">
         <mark key="[" line="97" column="19" />
@@ -277,6 +277,12 @@
         <mark key="." line="24" column="19" />
         <mark key="^" line="24" column="19" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/Header.js" timestamp="1472701385033">
+        <mark key="[" line="66" column="39" />
+        <mark key="]" line="66" column="49" />
+        <mark key="^" line="66" column="49" />
+        <mark key="." line="66" column="49" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/ManagerController.js" timestamp="1471337057183">
         <mark key="[" line="26" column="25" />
         <mark key="]" line="26" column="27" />
@@ -305,7 +311,7 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="110" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/main/Main.js" timestamp="1472699794199">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/main/Main.js" timestamp="1472701356520">
         <mark key="[" line="70" column="3" />
         <mark key="]" line="72" column="2" />
         <mark key="." line="72" column="2" />
@@ -323,8 +329,8 @@
         <mark key="." line="6" column="33" />
         <mark key="^" line="6" column="33" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/Application.js" timestamp="1471507554410">
-        <mark key="[" line="24" column="19" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/Application.js" timestamp="1472701640120">
+        <mark key="[" line="42" column="18" />
         <mark key="]" line="24" column="23" />
         <mark key="." line="24" column="23" />
         <mark key="^" line="24" column="23" />
