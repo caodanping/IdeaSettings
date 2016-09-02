@@ -18,6 +18,9 @@
         <mark key="." line="108" column="40" />
         <mark key="^" line="108" column="40" />
       </file>
+      <file name="/a.dummy" timestamp="1472783719227">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1472198810209">
         <mark key="[" line="15" column="26" />
         <mark key="]" line="15" column="26" />
@@ -161,6 +164,9 @@
         <mark key="]" line="10" column="39" />
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="12" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/WebUtils.java" timestamp="1472715107259">
+        <mark key="[" line="18" column="5" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/RoleDto.java" timestamp="1472802562065">
         <mark key="[" line="10" column="24" />
@@ -356,6 +362,9 @@
         <mark key="." line="110" column="38" />
         <mark key="^" line="110" column="38" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/PermissionServiceImpl.java" timestamp="1472806627564">
+        <mark key="[" line="12" column="34" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app.js" timestamp="1471507709115">
         <mark key="[" line="10" column="24" />
         <mark key="]" line="10" column="28" />
@@ -403,6 +412,9 @@
         <mark key="]" line="6" column="6" />
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="6" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/MenuDto.java" timestamp="1472717704933">
+        <mark key="[" line="97" column="5" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Location.java" timestamp="1471230198560">
         <mark key="[" line="36" column="43" />
@@ -471,6 +483,9 @@
         <mark key="]" line="15" column="14" />
         <mark key="^" line="15" column="14" />
         <mark key="." line="15" column="14" />
+      </file>
+      <file name="/fragment.java" timestamp="1472795697310">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
