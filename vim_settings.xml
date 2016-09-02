@@ -33,11 +33,10 @@
         <mark key="^" line="10" column="24" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" timestamp="1472792784041">
-        <mark key="[" line="40" column="70" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="84" column="50" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" timestamp="1472795986564">
+        <mark key="[" line="172" column="55" />
+        <mark key="]" line="174" column="0" />
+        <mark key="." line="174" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/Permissions.js" timestamp="1471834738448">
         <mark key="[" line="6" column="23" />
@@ -130,8 +129,8 @@
         <mark key="^" line="39" column="36" />
       </file>
       <file name="D:/IdeaProjects/shiro-example/shiro-example-chapter12/src/test/java/com/github/zhangkaitao/shiro/chapter12/ShiroTest.java" timestamp="1472788275910" />
-      <file name="D:/IdeaProjects/lems/src/main/webapp/WEB-INF/web.xml" timestamp="1472698781630">
-        <mark key="[" line="13" column="42" />
+      <file name="D:/IdeaProjects/lems/src/main/webapp/WEB-INF/web.xml" timestamp="1472796421453">
+        <mark key="[" line="13" column="65" />
         <mark key="]" line="13" column="68" />
         <mark key="^" line="13" column="68" />
         <mark key="." line="13" column="68" />
@@ -378,6 +377,12 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="31" column="39" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Menu.java" timestamp="1472796240007">
+        <mark key="[" line="152" column="8" />
+        <mark key="]" line="152" column="8" />
+        <mark key="." line="152" column="8" />
+        <mark key="^" line="142" column="10" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/main/Main.js" timestamp="1472701356520">
         <mark key="[" line="70" column="3" />
         <mark key="]" line="72" column="2" />
@@ -410,7 +415,7 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="15" column="14" />
       </file>
-      <file name="/fragment.java" timestamp="1472712505532">
+      <file name="/fragment.java" timestamp="1472795697310">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -517,11 +522,12 @@
       <jump line="1929" column="35" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/LocalSearchControl.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>int pos = this.children.size();
+        child.setPosition(pos);</text>
       </register>
       <register name="-" type="4">
-        <text>340104</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
         <text>local</text>
@@ -529,32 +535,37 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXN0cmljdFJlcG9zaXRvcnkuc2F2ZShuZXcgRGlzdHJpY3QoY29kZSwgbmFtZSwgbGV2ZWwsIGRpc3RyaWN0UmVwb3NpdG9yeS5maW5kT25lKHBhcmVudCkpKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>int pos = this.children.size();
+        child.setPosition(pos);</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8YmVhbiBjbGFzcz0ib3JnLmFwYWNoZS5zaGlyby5zcHJpbmcuTGlmZWN5Y2xlQmVhblBvc3RQcm9jZXNzb3IiLz4K</text>
+        <text encoding="base64">ICAgICAgICBpdGVtLnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICA8YmVhbiBpZD0ic2Vzc2lvbkRBTyIgY2xhc3M9Im9yZy5hcGFjaGUuc2hpcm8uc2Vzc2lvbi5tZ3QuZWlzLkVudGVycHJpc2VDYWNoZVNlc3Npb25EQU8iPgogICAgPHByb3BlcnR5IG5hbWU9ImFjdGl2ZVNlc3Npb25zQ2FjaGVOYW1lIiB2YWx1ZT0iYWN0aXZlU2Vzc2lvbnNDYWNoZSIvPgogIDwvYmVhbj4KCiAgPGJlYW4gaWQ9InNlc3Npb25WYWxpZGF0aW9uU2NoZWR1bGVyIiBjbGFzcz0ib3JnLmFwYWNoZS5zaGlyby5zZXNzaW9uLm1ndC5FeGVjdXRvclNlcnZpY2VTZXNzaW9uVmFsaWRhdGlvblNjaGVkdWxlciI+CiAgICA8cHJvcGVydHkgbmFtZT0iaW50ZXJ2YWwiIHZhbHVlPSIzNjAwMDAwIi8+CiAgICA8cHJvcGVydHkgbmFtZT0ic2Vzc2lvbk1hbmFnZXIiIHJlZj0ic2Vzc2lvbk1hbmFnZXIiLz4KICA8L2JlYW4+</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRFbGVtZW50IGVsID0gKEVsZW1lbnQpIG1lbnU7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>String id = el.attributeValue(&quot;id&quot;);
+                String name = el.attributeValue(&quot;name&quot;);
+                String url = el.attributeValue(&quot;url&quot;);
+                String iconCls = el.attributeValue(&quot;iconCls&quot;);
+                Menu item = createMenu(id, name, url, iconCls)</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgPGJlYW4gaWQ9InNlc3Npb25JZENvb2tpZSIgY2xhc3M9Im9yZy5hcGFjaGUuc2hpcm8ud2ViLnNlcnZsZXQuU2ltcGxlQ29va2llIj4KICAgIDxjb25zdHJ1Y3Rvci1hcmcgdmFsdWU9InNpZCIvPgogICAgPHByb3BlcnR5IG5hbWU9Imh0dHBPbmx5IiB2YWx1ZT0idHJ1ZSIvPgogICAgPHByb3BlcnR5IG5hbWU9Im1heEFnZSIgdmFsdWU9IjE4MDAwMDAiLz4KICA8L2JlYW4+</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY2hpbGRyZW4uaXNFbXB0eSgpKQogICAgICAgICAgICByZXR1cm4gaXRlbTsKICAgICAgICA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBFbGVtZW50IGVsID0gKEVsZW1lbnQpIG1lbnU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
