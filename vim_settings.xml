@@ -33,10 +33,11 @@
         <mark key="^" line="10" column="24" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" timestamp="1472795986564">
-        <mark key="[" line="172" column="55" />
-        <mark key="]" line="174" column="0" />
-        <mark key="." line="174" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" timestamp="1472799979278">
+        <mark key="[" line="251" column="62" />
+        <mark key="]" line="253" column="67" />
+        <mark key="^" line="253" column="67" />
+        <mark key="." line="253" column="67" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/Permissions.js" timestamp="1471834738448">
         <mark key="[" line="6" column="23" />
@@ -135,6 +136,11 @@
         <mark key="^" line="13" column="68" />
         <mark key="." line="13" column="68" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/resources/init/roleMenus.csv" timestamp="1472798991341">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/resources/spring-shiro.xml" timestamp="1472792934234">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -169,9 +175,6 @@
         <mark key="]" line="8" column="27" />
         <mark key="." line="8" column="27" />
         <mark key="^" line="8" column="27" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/mgt/DefaultSecurityManager.java" timestamp="1472780368238">
-        <mark key="'" line="378" column="52" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app.js" timestamp="1471507709115">
         <mark key="[" line="10" column="24" />
@@ -209,8 +212,14 @@
         <mark key="." line="61" column="47" />
         <mark key="^" line="61" column="47" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/MenuRepository.java" timestamp="1472717972334">
-        <mark key="[" line="11" column="39" />
+      <file name="D:/IdeaProjects/lems/src/main/resources/init/uses.csv" timestamp="1472798534717">
+        <mark key="[" line="1" column="67" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/MenuRepository.java" timestamp="1472800018711">
+        <mark key="[" line="11" column="69" />
         <mark key="]" line="11" column="52" />
         <mark key="." line="11" column="52" />
         <mark key="^" line="11" column="52" />
@@ -522,50 +531,65 @@
       <jump line="1929" column="35" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/LocalSearchControl.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>int pos = this.children.size();
-        child.setPosition(pos);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>districts</text>
       </register>
       <register name="/" type="4">
         <text>local</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXN0cmljdFJlcG9zaXRvcnkuc2F2ZShuZXcgRGlzdHJpY3QoY29kZSwgbmFtZSwgbGV2ZWwsIGRpc3RyaWN0UmVwb3NpdG9yeS5maW5kT25lKHBhcmVudCkpKTsK</text>
+      <register name="0" type="4">
+        <text>CSVReader reader = new CSVReader(new InputStreamReader(AppInit.class.getResourceAsStream(&quot;/init/districts.csv&quot;)));
+        try {
+            for (String[] line = reader.readNext(); line != null; line = reader.readNext()) {
+                String code = line[0];
+                String name = line[1];
+                String parent = null;
+                District.Level level = District.Level.COUNTY;
+                if (code.endsWith(&quot;0000&quot;)) {
+                    level = District.Level.PROVINCE;
+                    districtRepository.save(new District(code, name, level));
+                } else if (code.endsWith(&quot;00&quot;)) {
+                    level = District.Level.CITY;
+                    parent = code.substring(0, code.length() - 4) + &quot;0000&quot;;
+                    districtRepository.save(new District(code, name, level, districtRepository.findOne(parent)));
+                } else {
+                    parent = code.substring(0, code.length() - 2) + &quot;00&quot;;
+                    districtRepository.save(new District(code, name, level, districtRepository.findOne(parent)));
+                }
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }</text>
       </register>
-      <register name="1" type="4">
-        <text>int pos = this.children.size();
-        child.setPosition(pos);</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtLnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXN0cmljdFJlcG9zaXRvcnkuc2F2ZShuZXcgRGlzdHJpY3QoY29kZSwgbmFtZSwgbGV2ZWwsIGRpc3RyaWN0UmVwb3NpdG9yeS5maW5kT25lKHBhcmVudCkpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXJlbnQgPSBjb2RlLnN1YnN0cmluZygwLCBjb2RlLmxlbmd0aCgpIC0gMikgKyAiMDAiOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXN0cmljdFJlcG9zaXRvcnkuc2F2ZShuZXcgRGlzdHJpY3QoY29kZSwgbmFtZSwgbGV2ZWwsIGRpc3RyaWN0UmVwb3NpdG9yeS5maW5kT25lKHBhcmVudCkpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRFbGVtZW50IGVsID0gKEVsZW1lbnQpIG1lbnU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXJlbnQgPSBjb2RlLnN1YnN0cmluZygwLCBjb2RlLmxlbmd0aCgpIC0gNCkgKyAiMDAwMCI7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>String id = el.attributeValue(&quot;id&quot;);
-                String name = el.attributeValue(&quot;name&quot;);
-                String url = el.attributeValue(&quot;url&quot;);
-                String iconCls = el.attributeValue(&quot;iconCls&quot;);
-                Menu item = createMenu(id, name, url, iconCls)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXZlbCA9IERpc3RyaWN0LkxldmVsLkNJVFk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICBpZiAoY2hpbGRyZW4uaXNFbXB0eSgpKQogICAgICAgICAgICByZXR1cm4gaXRlbTsKICAgICAgICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoY29kZS5lbmRzV2l0aCgiMDAiKSkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBFbGVtZW50IGVsID0gKEVsZW1lbnQpIG1lbnU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXN0cmljdFJlcG9zaXRvcnkuc2F2ZShuZXcgRGlzdHJpY3QoY29kZSwgbmFtZSwgbGV2ZWwpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
