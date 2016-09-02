@@ -277,8 +277,11 @@
         <mark key="^" line="57" column="1" />
         <mark key="." line="57" column="1" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/districts.csv" timestamp="1472784672019">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/districts.csv" timestamp="1472787149356">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="4" column="13" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="D:/IdeaProjects/lems/pom.xml" timestamp="1472784421780">
         <mark key="'" line="30" column="6" />
@@ -514,10 +517,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>net.sf.opencsv</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="-" type="4">
-        <text>net.sf.opencsv</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
         <text>local</text>
