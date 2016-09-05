@@ -48,11 +48,11 @@
         <mark key="^" line="15" column="19" />
         <mark key="." line="15" column="19" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/Permissions.js" timestamp="1473060002428">
-        <mark key="[" line="24" column="61" />
-        <mark key="]" line="24" column="73" />
-        <mark key="." line="24" column="73" />
-        <mark key="^" line="24" column="73" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/Permissions.js" timestamp="1473061743263">
+        <mark key="[" line="32" column="50" />
+        <mark key="]" line="32" column="64" />
+        <mark key="." line="32" column="64" />
+        <mark key="^" line="32" column="64" />
       </file>
       <file name="D:/IdeaProjects/lems/src/jetty/webdefault.xml" timestamp="1472706486797">
         <mark key="[" line="152" column="19" />
@@ -444,11 +444,11 @@
         <mark key="]" line="5" column="7" />
         <mark key="." line="5" column="7" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/Menus.js" timestamp="1473060495582">
-        <mark key="[" line="41" column="13" />
-        <mark key="]" line="41" column="13" />
-        <mark key="^" line="13" column="7" />
-        <mark key="." line="41" column="13" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/Menus.js" timestamp="1473061726648">
+        <mark key="[" line="32" column="50" />
+        <mark key="]" line="32" column="64" />
+        <mark key="^" line="32" column="64" />
+        <mark key="." line="32" column="64" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/NavigationController.java" timestamp="1472802010176">
         <mark key="[" line="42" column="36" />
@@ -585,10 +585,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text encoding="base64">IGZhbHNl</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IGZhbHNl</text>
       </register>
       <register name="/" type="4">
         <text>local</text>
