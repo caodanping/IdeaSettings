@@ -42,17 +42,17 @@
         <mark key="." line="71" column="25" />
         <mark key="^" line="71" column="25" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/PermissionDto.java" timestamp="1473044990978">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/PermissionDto.java" timestamp="1473047344898">
         <mark key="[" line="15" column="12" />
         <mark key="]" line="15" column="19" />
         <mark key="^" line="15" column="19" />
         <mark key="." line="15" column="19" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/Permissions.js" timestamp="1472803370129">
-        <mark key="[" line="9" column="15" />
-        <mark key="]" line="14" column="22" />
-        <mark key="." line="14" column="22" />
-        <mark key="^" line="14" column="22" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/Permissions.js" timestamp="1473047436533">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="13" column="22" />
       </file>
       <file name="D:/IdeaProjects/lems/src/jetty/webdefault.xml" timestamp="1472706486797">
         <mark key="[" line="152" column="19" />
@@ -210,11 +210,11 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="35" column="20" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/SystemController.java" timestamp="1472804033970">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="60" column="33" />
-        <mark key="." line="60" column="33" />
-        <mark key="^" line="60" column="33" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/SystemController.java" timestamp="1473047083794">
+        <mark key="[" line="78" column="5" />
+        <mark key="]" line="28" column="13" />
+        <mark key="." line="28" column="13" />
+        <mark key="^" line="28" column="13" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/SecurityRepositoryCustomImpl.java" timestamp="1472442660116">
         <mark key="[" line="13" column="67" />
@@ -578,8 +578,8 @@
       <jump line="1929" column="35" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/LocalSearchControl.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IFN0cmluZ3MuaXNOdWxsT3JFbXB0eShpbnB1dC5nZXRQYXJlbnRJZCgpKTs=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG1vZGVsOiAnTGVtcy5tb2RlbC5QZXJtaXNzaW9uJywK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IFN0cmluZ3MuaXNOdWxsT3JFbXB0eShpbnB1dC5nZXRQYXJlbnRJZCgpKTs=</text>
@@ -590,36 +590,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBlcm1pc3Npb24uc2V0UGVybVN0cmluZyhsaW5lWzBdKTsK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIG1vZGVsOiAnTGVtcy5tb2RlbC5QZXJtaXNzaW9uJywK</text>
+      </register>
+      <register name="2" type="4">
         <text>try {
                 reader.close();
             } catch (IOException e) {
                 e.printStackTrace();
             }</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGNsYXNzIFBlcm1pc3Npb25Ob2RlIHsKICAgICAgICBwcml2YXRlIFN0cmluZyBpZDsKICAgICAgICBwcml2YXRlIFN0cmluZyBwZXJtU3RyaW5nOwogICAgICAgIHByaXZhdGUgU3RyaW5nIGRlc2NyaXB0aW9uOwogICAgICAgIHByaXZhdGUgUGVybXNzaW9uTm9kZQogICAgfQ==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">U3RyaW5nW10gdGhlUGFydHMgPSBkdG8uZ2V0UGVybVN0cmluZygpLnNwbGl0KCI6Iik7CiAgICAgICAgICAgICAgICAgICAgaWYgKHBhcnRzLmxlbmd0aCA8IHRoZVBhcnRzLmxlbmd0aCkKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgICAgIGlm</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQXJyYXlzLmNvcHkK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlkeE9mTm90U3RhciA9IGk7Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">bmV3IFByZWRpY2F0ZTxPYmplY3Q+KCkgewogICAgICAgIH0=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
