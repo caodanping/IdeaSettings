@@ -42,11 +42,11 @@
         <mark key="^" line="67" column="23" />
         <mark key="." line="67" column="23" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/PermissionDto.java" timestamp="1472805783339">
-        <mark key="[" line="14" column="31" />
-        <mark key="]" line="47" column="1" />
-        <mark key="^" line="47" column="1" />
-        <mark key="." line="47" column="1" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/PermissionDto.java" timestamp="1473038381540">
+        <mark key="[" line="15" column="40" />
+        <mark key="]" line="48" column="1" />
+        <mark key="^" line="48" column="1" />
+        <mark key="." line="48" column="1" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/Permissions.js" timestamp="1472803370129">
         <mark key="[" line="9" column="15" />
@@ -192,11 +192,11 @@
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="7" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/PermissionServiceImpl.java" timestamp="1473037868912">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="37" column="8" />
-        <mark key="." line="40" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/PermissionServiceImpl.java" timestamp="1473039077548">
+        <mark key="[" line="47" column="29" />
+        <mark key="]" line="47" column="37" />
+        <mark key="^" line="47" column="37" />
+        <mark key="." line="47" column="37" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app.js" timestamp="1471507709115">
         <mark key="[" line="10" column="24" />
@@ -578,11 +578,11 @@
       <jump line="1929" column="35" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/LocalSearchControl.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bmV3IFByZWRpY2F0ZTxPYmplY3Q+KCkgewogICAgICAgIH0=</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text>dto.getPermString().split(&quot;:&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>local</text>
@@ -590,10 +590,13 @@
       <register name="0" type="2">
         <text encoding="base64">dXNlcjpjcmVhdGUs08O7p7S0vagK</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">bmV3IFByZWRpY2F0ZTxPYmplY3Q+KCkgewogICAgICAgIH0=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>340000,安徽省
 340100,合肥市
 340101,市辖区
@@ -607,26 +610,23 @@
 340124,庐江县
 340181,巢湖市</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">PG1lbnVzPgogIDxtZW51IGlkPSIxIiBuYW1lPSLW99KzIiB1cmw9IiNob21lIiBpY29uQ2xzPSJmYSBmYS1kYXNoYm9hcmQiLz4KICA8bWVudSBpZD0iMiIgbmFtZT0isr/DxbncwO0iIHVybD0iI2RlcGFydG1lbnRzIiBpY29uQ2xzPSJmYSBmYS1zaXRlbWFwIi8+CiAgPG1lbnUgaWQ9IjMiIG5hbWU9Is+1zbO53MDtIiBpY29uQ2xzPSJmYSBmYS1nZWFycyI+CiAgICA8bWVudSBpZD0iNCIgbmFtZT0i08O7p7ncwO0iIHVybD0iI3VzZXJzIiBpY29uQ2xzPSJmYSBmYS11c2VycyIvPgogICAgPG1lbnUgaWQ9IjUiIG5hbWU9IrLLtaW53MDtIiB1cmw9IiNtZW51cyIgaWNvbkNscz0iZmEgZmEtbGlzdCIvPgogICAgPG1lbnUgaWQ9IjYiIG5hbWU9IsrayKi53MDtIiB1cmw9IiNncmFudCIgaWNvbkNscz0iZmEgZmEtdW5sb2NrIi8+CiAgPC9tZW51PgogIDxtZW51IGlkPSI3IiBuYW1lPSKy1r/iudzA7SIgdXJsPSIjd2FyZWhvdXNlcyIgaWNvbkNscz0iZmEgZmEtbWFwLW1hcmtlciIvPgo8L21lbnVzPg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIFAK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFJvbGVEdG8+Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFJvbGU+Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBMaXN0PE1lbnU+IG1lbnVzID0gbWVudVJlcG9zaXRvcnkuZmluZEFsbCgpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXN0cmljdFJlcG9zaXRvcnkuc2F2ZShuZXcgRGlzdHJpY3QoY29kZSwgbmFtZSwgbGV2ZWwsIGRpc3RyaWN0UmVwb3NpdG9yeS5maW5kT25lKHBhcmVudCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
