@@ -48,11 +48,11 @@
         <mark key="^" line="15" column="19" />
         <mark key="." line="15" column="19" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/Permissions.js" timestamp="1473047436533">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="13" column="22" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/Permissions.js" timestamp="1473057133411">
+        <mark key="[" line="29" column="46" />
+        <mark key="]" line="29" column="46" />
+        <mark key="." line="29" column="46" />
+        <mark key="^" line="30" column="51" />
       </file>
       <file name="D:/IdeaProjects/lems/src/jetty/webdefault.xml" timestamp="1472706486797">
         <mark key="[" line="152" column="19" />
@@ -192,11 +192,11 @@
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="7" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/PermissionServiceImpl.java" timestamp="1473045020280">
-        <mark key="[" line="63" column="22" />
-        <mark key="]" line="63" column="50" />
-        <mark key="." line="63" column="50" />
-        <mark key="^" line="63" column="50" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/PermissionServiceImpl.java" timestamp="1473055325258">
+        <mark key="[" line="70" column="13" />
+        <mark key="]" line="70" column="27" />
+        <mark key="." line="70" column="27" />
+        <mark key="^" line="70" column="27" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app.js" timestamp="1471507709115">
         <mark key="[" line="10" column="24" />
@@ -210,7 +210,7 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="35" column="20" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/SystemController.java" timestamp="1473047083794">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/SystemController.java" timestamp="1473054523003">
         <mark key="[" line="78" column="5" />
         <mark key="]" line="28" column="13" />
         <mark key="." line="28" column="13" />
@@ -444,6 +444,12 @@
         <mark key="]" line="5" column="7" />
         <mark key="." line="5" column="7" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/Menus.js" timestamp="1473057034363">
+        <mark key="[" line="35" column="23" />
+        <mark key="]" line="35" column="23" />
+        <mark key="^" line="29" column="48" />
+        <mark key="." line="35" column="23" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/NavigationController.java" timestamp="1472802010176">
         <mark key="[" line="42" column="36" />
         <mark key="]" line="42" column="43" />
@@ -578,48 +584,48 @@
       <jump line="1929" column="35" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/LocalSearchControl.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1vZGVsOiAnTGVtcy5tb2RlbC5QZXJtaXNzaW9uJywK</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFN0cmluZ3MuaXNOdWxsT3JFbXB0eShpbnB1dC5nZXRQYXJlbnRJZCgpKTs=</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>local</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBlcm1pc3Npb24uc2V0UGVybVN0cmluZyhsaW5lWzBdKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmdW5jdGlvbiB0cmFucyhkYXRhLCB3aXRoQ2hlY2tlZCkgewogICAgICAgICAgICAgICAgICAgICAgICB2YXIgY2hpbGRyZW4gPSBkYXRhLmNoaWxkcmVuIHx8IFtdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgY2ggPSBbXTsKICAgICAgICAgICAgICAgICAgICAgICAgZm9yKHZhciBpID0gMDsgaSA8IGNoaWxkcmVuLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjaC5wdXNoKHRyYW5zKGNoaWxkcmVuW2ldKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgICAgIGRhdGEudGV4dCA9IGRhdGEubmFtZTsKICAgICAgICAgICAgICAgICAgICAgICAgZGF0YS5jaGlsZHJlbiA9IGNoOwogICAgICAgICAgICAgICAgICAgICAgICBkYXRhLmV4cGFuZGVkID0gY2gubGVuZ3RoID4gMDsKICAgICAgICAgICAgICAgICAgICAgICAgZGF0YS5sZWFmID0gY2gubGVuZ3RoID09PSAwOwogICAgICAgICAgICAgICAgICAgICAgICBkYXRhLmNoZWNrZWQgPSB3aXRoQ2hlY2tlZDsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGRhdGE7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIHJldHVybiB0cmFucyhkYXRhLCB0aGlzLndpdGhDaGVja2VkKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1vZGVsOiAnTGVtcy5tb2RlbC5QZXJtaXNzaW9uJywK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNhbGxQYXJlbnQoKTsK</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">dmFyIGNoaWxkcmVuID0gZGF0YS5jaGlsZHJlbiB8fCBbXSwKICAgICAgICAgICAgICAgICAgICAgICAgY2ggPSBbXTsKICAgICAgICAgICAgICAgICAgICBmb3IodmFyIGkgPSAwOyBpIDwgY2hpbGRyZW4ubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgICAgICAgICAgICAgY2gucHVzaCh0cmFucyhjaGlsZHJlbltpXSkpOwogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgZGF0YS50ZXh0ID0gZGF0YS5uYW1lOwogICAgICAgICAgICAgICAgICAgIGRhdGEuY2hpbGRyZW4gPSBjaDsKICAgICAgICAgICAgICAgICAgICBkYXRhLmV4cGFuZGVkID0gY2gubGVuZ3RoID4gMDsKICAgICAgICAgICAgICAgICAgICBkYXRhLmxlYWYgPSBjaC5sZW5ndGggPT09IDA7CiAgICAgICAgICAgICAgICAgICAgZGF0YS5jaGVja2VkID0gd2l0aENoZWNrZWQ7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGRhdGE7</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG1vZGVsOiAnTGVtcy5tb2RlbC5QZXJtaXNzaW9uJywK</text>
+      </register>
+      <register name="4" type="4">
         <text>try {
                 reader.close();
             } catch (IOException e) {
                 e.printStackTrace();
             }</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGNsYXNzIFBlcm1pc3Npb25Ob2RlIHsKICAgICAgICBwcml2YXRlIFN0cmluZyBpZDsKICAgICAgICBwcml2YXRlIFN0cmluZyBwZXJtU3RyaW5nOwogICAgICAgIHByaXZhdGUgU3RyaW5nIGRlc2NyaXB0aW9uOwogICAgICAgIHByaXZhdGUgUGVybXNzaW9uTm9kZQogICAgfQ==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">U3RyaW5nW10gdGhlUGFydHMgPSBkdG8uZ2V0UGVybVN0cmluZygpLnNwbGl0KCI6Iik7CiAgICAgICAgICAgICAgICAgICAgaWYgKHBhcnRzLmxlbmd0aCA8IHRoZVBhcnRzLmxlbmd0aCkKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgICAgIGlm</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">U3RyaW5nW10gdGhlUGFydHMgPSBkdG8uZ2V0UGVybVN0cmluZygpLnNwbGl0KCI6Iik7CiAgICAgICAgICAgICAgICAgICAgaWYgKHBhcnRzLmxlbmd0aCA8IHRoZVBhcnRzLmxlbmd0aCkKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgICAgIGlm</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQXJyYXlzLmNvcHkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlkeE9mTm90U3RhciA9IGk7Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">bmV3IFByZWRpY2F0ZTxPYmplY3Q+KCkgewogICAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -658,7 +664,6 @@
         <entry>local</entry>
       </history-search>
       <history-cmd>
-        <entry>t110</entry>
         <entry>m69</entry>
         <entry encoding="base64">JzwsJz5tNA==</entry>
         <entry encoding="base64">JzwsJz5tODI=</entry>
@@ -677,6 +682,7 @@
         <entry>q</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5tNTQ=</entry>
+        <entry encoding="base64">JzwsJz5tMTM=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
