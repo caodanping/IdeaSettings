@@ -12,10 +12,11 @@
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/RoleService.java" timestamp="1472802703449">
         <mark key="[" line="7" column="30" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/grant/Grant.js" timestamp="1473149577533">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/grant/Grant.js" timestamp="1473167609392">
+        <mark key="[" line="63" column="41" />
+        <mark key="]" line="63" column="41" />
+        <mark key="." line="63" column="41" />
+        <mark key="^" line="63" column="41" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/NavTree.js" timestamp="1471419221557">
         <mark key="[" line="108" column="36" />
@@ -44,11 +45,11 @@
         <mark key="." line="71" column="25" />
         <mark key="^" line="71" column="25" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/grant/GrantController.js" timestamp="1473164675367">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="64" />
-        <mark key="^" line="63" column="63" />
-        <mark key="." line="39" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/grant/GrantController.js" timestamp="1473167652333">
+        <mark key="[" line="84" column="6" />
+        <mark key="]" line="96" column="6" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="131" column="32" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/PermissionDto.java" timestamp="1473047344898">
         <mark key="[" line="15" column="12" />
@@ -255,7 +256,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/AuthorizationController.java" timestamp="1473149885788">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/AuthorizationController.java" timestamp="1473165626658">
         <mark key="[" line="32" column="8" />
         <mark key="]" line="31" column="42" />
         <mark key="^" line="31" column="42" />
@@ -476,6 +477,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/grant/GrantModel.js" timestamp="1473167745077">
+        <mark key="[" line="2" column="34" />
+        <mark key="]" line="4" column="19" />
+        <mark key="." line="4" column="19" />
+        <mark key="^" line="4" column="19" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/Application.js" timestamp="1472715805604">
         <mark key="[" line="42" column="18" />
         <mark key="]" line="24" column="23" />
@@ -598,11 +605,11 @@
       <jump line="1929" column="35" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/LocalSearchControl.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAkgICAgICAgICAgICByZXN1bHQgPSBFeHQuSlNPTi5kZWNvZGUocmVzcC5yZXNwb25zZVRleHQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>MenuIds,</text>
       </register>
       <register name="-" type="4">
-        <text>roleMenusStore</text>
+        <text>MenuIds,</text>
       </register>
       <register name="/" type="4">
         <text>local</text>
@@ -611,31 +618,31 @@
         <text encoding="base64">ICAgIAkgICAgICAgICAgICByZXN1bHQgPSBFeHQuSlNPTi5kZWNvZGUocmVzcC5yZXNwb25zZVRleHQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAkgICAgICAgICAgICByb2xlUGVybWlzc2lvbnNUcmVlLnVubWFzaygpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAkJcm9sZVBlcm1pc3Npb25zU3RvcmUgPSB0cmVlLmdldFN0b3JlKCksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEBNYW55VG9PbmUodGFyZ2V0RW50aXR5ID0gUGVybWlzc2lvbi5jbGFzcykK</text>
+      <register name="3" type="4">
+        <text encoding="base64">LAogICAgZGF0YTogewogICAgICAgIGluaXRSb2xlTWVudUlkczogbnVsbCwKICAgICAgICBpbml0Um9sZVBlcm1JZHM6IG51bGwsCiAgICAgICAgcm9sZU1lbnVJZHM6IG51bGwsCiAgICAgICAgcm9sZVBlcm1JZHM6IG51bGwsCiAgICB9LAoKICAgIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBNYW55VG9PbmUodGFyZ2V0RW50aXR5ID0gUm9sZS5jbGFzcykK</text>
+        <text encoding="base64">ICAgICAgICBuYW1lOiAnJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QFRhYmxlKG5hbWUgPSAiUk9MRV9QRVJNSVNTSU9OUyIpCg==</text>
+        <text encoding="base64">Ly8gICAgCX0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QEVudGl0eQo=</text>
+        <text encoding="base64">Ly8gICAgCXRyZWVTdG9yZS5sb2FkKHsKLy8gICAgCQlwYXJhbXM6IHsKLy8gICAgCQkJcm9sZUlkOiByb2xlSWQKLy8gICAgCQl9Ci8vICAgIAl9KTsKLy8gICAgCXJvbGVNZW51c1N0b3JlLmxvYWQoewovLyAgICAJCXBhcmFtczogewovLyAgICAJCQlyb2xlSWQ6IHJvbGVJZAovLyAgICAJCX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QFRhYmxlKG5hbWUgPSAiUk9MRV9NRU5VUyIpCg==</text>
+        <text encoding="base64">ICAgIAkgICAgICAgICAgICByb2xlUGVybWlzc2lvbnNUcmVlLnVubWFzaygpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QEVudGl0eQo=</text>
+        <text encoding="base64">ICAgIAkJcm9sZVBlcm1pc3Npb25zU3RvcmUgPSB0cmVlLmdldFN0b3JlKCksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBNYW55VG9PbmUodGFyZ2V0RW50aXR5ID0gUGVybWlzc2lvbi5jbGFzcykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -674,11 +681,6 @@
         <entry>local</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5tMjM=</entry>
-        <entry encoding="base64">JzwsJz5tNTM=</entry>
-        <entry encoding="base64">JzwsJz53</entry>
-        <entry>%/Deparment/WarehouseDto/g</entry>
-        <entry>%s/Department/WarehouseDto/g</entry>
         <entry>%s/部门/仓库/g</entry>
         <entry>%s/department/warehouse/g</entry>
         <entry encoding="base64">JzwsJz5tdDgw</entry>
@@ -693,6 +695,11 @@
         <entry>11,39m40</entry>
         <entry>12,40m42</entry>
         <entry encoding="base64">JzwsJz50MzY=</entry>
+        <entry encoding="base64">JzwsJz50MTAz</entry>
+        <entry>93,99m</entry>
+        <entry>93,99t113</entry>
+        <entry>103,109t122</entry>
+        <entry>78,82m90</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
