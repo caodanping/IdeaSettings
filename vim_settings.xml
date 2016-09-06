@@ -44,11 +44,11 @@
         <mark key="." line="71" column="25" />
         <mark key="^" line="71" column="25" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/grant/GrantController.js" timestamp="1473151296895">
-        <mark key="[" line="30" column="16" />
-        <mark key="]" line="44" column="33" />
-        <mark key="^" line="44" column="33" />
-        <mark key="." line="44" column="33" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/grant/GrantController.js" timestamp="1473156586575">
+        <mark key="[" line="18" column="33" />
+        <mark key="]" line="50" column="16" />
+        <mark key="^" line="43" column="42" />
+        <mark key="." line="50" column="16" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/PermissionDto.java" timestamp="1473047344898">
         <mark key="[" line="15" column="12" />
@@ -597,54 +597,44 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBNYW55VG9PbmUodGFyZ2V0RW50aXR5ID0gUGVybWlzc2lvbi5jbGFzcykK</text>
+        <text encoding="base64">ICAgIAkgICAgICAgICAgICByb2xlTWVudXNUcmVlLnVubWFzaygpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>response</text>
       </register>
       <register name="/" type="4">
         <text>local</text>
       </register>
-      <register name="0" type="4">
-        <text>Ext.Ajax.request({
-    	    url: 'role-menus',
-    	    method: 'GET',
-    	    params: {
-    	        roleId: roleId
-    	    },
-    	    success: function() {
-    	    },
-    	    failure: function() {
-    	    }
-    	});</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIAkgICAgICAgICAgICByb2xlTWVudXNUcmVlLnVubWFzaygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBNYW55VG9PbmUodGFyZ2V0RW50aXR5ID0gUGVybWlzc2lvbi5jbGFzcykK</text>
+        <text encoding="base64">ICAgIAkJcm9sZVBlcm1pc3Npb25zU3RvcmUgPSB0cmVlLmdldFN0b3JlKCksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBNYW55VG9PbmUodGFyZ2V0RW50aXR5ID0gUm9sZS5jbGFzcykK</text>
+        <text encoding="base64">ICAgIEBNYW55VG9PbmUodGFyZ2V0RW50aXR5ID0gUGVybWlzc2lvbi5jbGFzcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QFRhYmxlKG5hbWUgPSAiUk9MRV9QRVJNSVNTSU9OUyIpCg==</text>
+        <text encoding="base64">ICAgIEBNYW55VG9PbmUodGFyZ2V0RW50aXR5ID0gUm9sZS5jbGFzcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QEVudGl0eQo=</text>
+        <text encoding="base64">QFRhYmxlKG5hbWUgPSAiUk9MRV9QRVJNSVNTSU9OUyIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QFRhYmxlKG5hbWUgPSAiUk9MRV9NRU5VUyIpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">QEVudGl0eQo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">QFRhYmxlKG5hbWUgPSAiUk9MRV9NRU5VUyIpCg==</text>
+      </register>
       <register name="7" type="2">
+        <text encoding="base64">QEVudGl0eQo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>Lems.Tree.setCheckedDesendants(rec, checked);
     	Lems.Tree.autoCheckedAncestors(rec);</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAkgICAgcGFyYW1zOiB7CiAgICAJICAgICAgICByb2xlSWQ6IHJvbGVJZAogICAgCSAgICB9LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
