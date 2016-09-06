@@ -44,11 +44,11 @@
         <mark key="." line="71" column="25" />
         <mark key="^" line="71" column="25" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/grant/GrantController.js" timestamp="1473160369325">
-        <mark key="[" line="21" column="39" />
-        <mark key="]" line="21" column="58" />
-        <mark key="^" line="21" column="58" />
-        <mark key="." line="21" column="58" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/grant/GrantController.js" timestamp="1473163439777">
+        <mark key="[" line="54" column="43" />
+        <mark key="]" line="37" column="34" />
+        <mark key="^" line="58" column="33" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/PermissionDto.java" timestamp="1473047344898">
         <mark key="[" line="15" column="12" />
@@ -598,8 +598,8 @@
       <jump line="1929" column="35" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/LocalSearchControl.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>roleMenusStore</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAkgICAgICAgIGNvbnNvbGUubG9nKHJlc3ApOwo=</text>
       </register>
       <register name="-" type="4">
         <text>roleMenusStore</text>
@@ -608,7 +608,7 @@
         <text>local</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIAlMZW1zLlRyZWUuc2V0Q2hlY2tlZERlc2VuZGFudHMocm9sZU1lbnVzU3RvcmUuZ2V0Um9vdCgpLCBmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgIAkgICAgICAgIGNvbnNvbGUubG9nKHJlc3ApOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAkgICAgICAgICAgICByb2xlUGVybWlzc2lvbnNUcmVlLnVubWFzaygpOwo=</text>
