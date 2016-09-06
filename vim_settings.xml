@@ -201,11 +201,11 @@
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="7" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/PermissionServiceImpl.java" timestamp="1473148681068">
-        <mark key="[" line="76" column="15" />
-        <mark key="]" line="76" column="15" />
-        <mark key="." line="76" column="15" />
-        <mark key="^" line="70" column="27" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/PermissionServiceImpl.java" timestamp="1473172218712">
+        <mark key="[" line="89" column="37" />
+        <mark key="]" line="89" column="37" />
+        <mark key="." line="89" column="37" />
+        <mark key="^" line="89" column="36" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app.js" timestamp="1471507709115">
         <mark key="[" line="10" column="24" />
@@ -244,11 +244,11 @@
         <mark key="." line="61" column="47" />
         <mark key="^" line="61" column="47" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/PermissionRepository.java" timestamp="1473151891542">
-        <mark key="[" line="11" column="64" />
-        <mark key="]" line="11" column="64" />
-        <mark key="." line="11" column="64" />
-        <mark key="^" line="11" column="64" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/PermissionRepository.java" timestamp="1473172505531">
+        <mark key="[" line="10" column="71" />
+        <mark key="]" line="10" column="78" />
+        <mark key="." line="10" column="78" />
+        <mark key="^" line="10" column="78" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/resources/init/uses.csv" timestamp="1472798534717">
         <mark key="[" line="1" column="67" />
@@ -256,11 +256,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/AuthorizationController.java" timestamp="1473165626658">
-        <mark key="[" line="32" column="8" />
-        <mark key="]" line="31" column="42" />
-        <mark key="^" line="31" column="42" />
-        <mark key="." line="31" column="42" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/AuthorizationController.java" timestamp="1473171615940">
+        <mark key="[" line="29" column="5" />
+        <mark key="]" line="36" column="42" />
+        <mark key="^" line="36" column="42" />
+        <mark key="." line="36" column="42" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/MenuRepository.java" timestamp="1473151793470">
         <mark key="[" line="17" column="4" />
@@ -366,6 +366,9 @@
         <mark key="^" line="17" column="19" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.11.4.RELEASE/spring-data-commons-1.11.4.RELEASE-sources.jar!/org/springframework/data/domain/Persistable.java" timestamp="1473044507608" />
+      <file name="/Dummy.txt" timestamp="1473171958668">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/EditController.js" timestamp="1471318507246">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="10" column="18" />
@@ -449,7 +452,7 @@
         <mark key="^" line="20" column="41" />
         <mark key="." line="20" column="41" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/PermissionService.java" timestamp="1473148616755">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/PermissionService.java" timestamp="1473171850990">
         <mark key="[" line="6" column="38" />
         <mark key="]" line="5" column="7" />
         <mark key="." line="5" column="7" />
@@ -494,6 +497,9 @@
         <mark key="]" line="15" column="14" />
         <mark key="^" line="15" column="14" />
         <mark key="." line="15" column="14" />
+      </file>
+      <file name="/fragment.java" timestamp="1473171958674">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/resources/init/permissions.xml" timestamp="1472804766091">
         <mark key="[" line="6" column="18" />
@@ -606,10 +612,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text encoding="base64">IFN0cmluZw==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IFN0cmluZw==</text>
       </register>
       <register name="/" type="4">
         <text>local</text>
@@ -645,7 +651,7 @@
         <text encoding="base64">ICAgIEBNYW55VG9PbmUodGFyZ2V0RW50aXR5ID0gUGVybWlzc2lvbi5jbGFzcykK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz50MTE5</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -698,9 +704,9 @@
         <entry>93,99t113</entry>
         <entry>103,109t122</entry>
         <entry>78,82m90</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5tMTE5</entry>
         <entry encoding="base64">JzwsJz50MTE5</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
