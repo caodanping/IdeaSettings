@@ -44,11 +44,11 @@
         <mark key="." line="71" column="25" />
         <mark key="^" line="71" column="25" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/grant/GrantController.js" timestamp="1473156586575">
-        <mark key="[" line="18" column="33" />
-        <mark key="]" line="50" column="16" />
-        <mark key="^" line="43" column="42" />
-        <mark key="." line="50" column="16" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/grant/GrantController.js" timestamp="1473160369325">
+        <mark key="[" line="21" column="39" />
+        <mark key="]" line="21" column="58" />
+        <mark key="^" line="21" column="58" />
+        <mark key="." line="21" column="58" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/PermissionDto.java" timestamp="1473047344898">
         <mark key="[" line="15" column="12" />
@@ -212,6 +212,7 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/Tree.js" timestamp="1473160238170" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/AjaxLogoutFilter.java" timestamp="1472715223844">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -363,6 +364,7 @@
         <mark key="." line="17" column="19" />
         <mark key="^" line="17" column="19" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.11.4.RELEASE/spring-data-commons-1.11.4.RELEASE-sources.jar!/org/springframework/data/domain/Persistable.java" timestamp="1473044507608" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/EditController.js" timestamp="1471318507246">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="10" column="18" />
@@ -596,45 +598,44 @@
       <jump line="1929" column="35" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/LocalSearchControl.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAkgICAgICAgICAgICByb2xlTWVudXNUcmVlLnVubWFzaygpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>roleMenusStore</text>
       </register>
       <register name="-" type="4">
-        <text>response</text>
+        <text>roleMenusStore</text>
       </register>
       <register name="/" type="4">
         <text>local</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIAkgICAgICAgICAgICByb2xlTWVudXNUcmVlLnVubWFzaygpOwo=</text>
+        <text encoding="base64">ICAgIAlMZW1zLlRyZWUuc2V0Q2hlY2tlZERlc2VuZGFudHMocm9sZU1lbnVzU3RvcmUuZ2V0Um9vdCgpLCBmYWxzZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAkJcm9sZVBlcm1pc3Npb25zU3RvcmUgPSB0cmVlLmdldFN0b3JlKCksCg==</text>
+        <text encoding="base64">ICAgIAkgICAgICAgICAgICByb2xlUGVybWlzc2lvbnNUcmVlLnVubWFzaygpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBNYW55VG9PbmUodGFyZ2V0RW50aXR5ID0gUGVybWlzc2lvbi5jbGFzcykK</text>
+        <text encoding="base64">ICAgIAkJcm9sZVBlcm1pc3Npb25zU3RvcmUgPSB0cmVlLmdldFN0b3JlKCksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBNYW55VG9PbmUodGFyZ2V0RW50aXR5ID0gUm9sZS5jbGFzcykK</text>
+        <text encoding="base64">ICAgIEBNYW55VG9PbmUodGFyZ2V0RW50aXR5ID0gUGVybWlzc2lvbi5jbGFzcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QFRhYmxlKG5hbWUgPSAiUk9MRV9QRVJNSVNTSU9OUyIpCg==</text>
+        <text encoding="base64">ICAgIEBNYW55VG9PbmUodGFyZ2V0RW50aXR5ID0gUm9sZS5jbGFzcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QEVudGl0eQo=</text>
+        <text encoding="base64">QFRhYmxlKG5hbWUgPSAiUk9MRV9QRVJNSVNTSU9OUyIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QFRhYmxlKG5hbWUgPSAiUk9MRV9NRU5VUyIpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">QEVudGl0eQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">QFRhYmxlKG5hbWUgPSAiUk9MRV9NRU5VUyIpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>Lems.Tree.setCheckedDesendants(rec, checked);
-    	Lems.Tree.autoCheckedAncestors(rec);</text>
+      <register name="8" type="2">
+        <text encoding="base64">QEVudGl0eQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
