@@ -44,11 +44,11 @@
         <mark key="." line="71" column="25" />
         <mark key="^" line="71" column="25" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/grant/GrantController.js" timestamp="1473163439777">
-        <mark key="[" line="54" column="43" />
-        <mark key="]" line="37" column="34" />
-        <mark key="^" line="58" column="33" />
-        <mark key="." line="37" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/grant/GrantController.js" timestamp="1473164675367">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="64" />
+        <mark key="^" line="63" column="63" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/PermissionDto.java" timestamp="1473047344898">
         <mark key="[" line="15" column="12" />
@@ -340,7 +340,7 @@
         <mark key="^" line="167" column="18" />
         <mark key="." line="165" column="15" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Manager.js" timestamp="1472782163448">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Manager.js" timestamp="1473164352757">
         <mark key="[" line="27" column="35" />
         <mark key="]" line="31" column="35" />
         <mark key="." line="31" column="35" />
@@ -599,7 +599,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAkgICAgICAgIGNvbnNvbGUubG9nKHJlc3ApOwo=</text>
+        <text encoding="base64">ICAgIAkgICAgICAgICAgICByZXN1bHQgPSBFeHQuSlNPTi5kZWNvZGUocmVzcC5yZXNwb25zZVRleHQpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>roleMenusStore</text>
@@ -608,7 +608,7 @@
         <text>local</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIAkgICAgICAgIGNvbnNvbGUubG9nKHJlc3ApOwo=</text>
+        <text encoding="base64">ICAgIAkgICAgICAgICAgICByZXN1bHQgPSBFeHQuSlNPTi5kZWNvZGUocmVzcC5yZXNwb25zZVRleHQpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAkgICAgICAgICAgICByb2xlUGVybWlzc2lvbnNUcmVlLnVubWFzaygpOwo=</text>
