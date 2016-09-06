@@ -45,11 +45,11 @@
         <mark key="." line="71" column="25" />
         <mark key="^" line="71" column="25" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/grant/GrantController.js" timestamp="1473169826641">
-        <mark key="[" line="86" column="6" />
-        <mark key="]" line="99" column="6" />
-        <mark key="." line="95" column="0" />
-        <mark key="^" line="134" column="32" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/grant/GrantController.js" timestamp="1473171538188">
+        <mark key="[" line="128" column="50" />
+        <mark key="]" line="128" column="50" />
+        <mark key="." line="128" column="50" />
+        <mark key="^" line="128" column="50" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/PermissionDto.java" timestamp="1473047344898">
         <mark key="[" line="15" column="12" />
@@ -606,10 +606,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MenuIds,</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>MenuIds,</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>local</text>
@@ -645,7 +645,7 @@
         <text encoding="base64">ICAgIEBNYW55VG9PbmUodGFyZ2V0RW50aXR5ID0gUGVybWlzc2lvbi5jbGFzcykK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz50MTE5</text>
       </register>
     </registers>
     <search>
@@ -681,8 +681,6 @@
         <entry>local</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/部门/仓库/g</entry>
-        <entry>%s/department/warehouse/g</entry>
         <entry encoding="base64">JzwsJz5tdDgw</entry>
         <entry encoding="base64">JzwsJz5tODA=</entry>
         <entry encoding="base64">JzwsJz5zLycvIg==</entry>
@@ -701,6 +699,8 @@
         <entry>103,109t122</entry>
         <entry>78,82m90</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5tMTE5</entry>
+        <entry encoding="base64">JzwsJz50MTE5</entry>
       </history-cmd>
       <history-expr />
       <history-input />
