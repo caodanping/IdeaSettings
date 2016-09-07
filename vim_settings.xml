@@ -24,7 +24,7 @@
         <mark key="." line="108" column="40" />
         <mark key="^" line="108" column="40" />
       </file>
-      <file name="/a.dummy" timestamp="1473223130120">
+      <file name="/a.dummy" timestamp="1473225619288">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1472198810209">
@@ -39,11 +39,11 @@
         <mark key="^" line="10" column="24" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" timestamp="1473224075383">
-        <mark key="[" line="75" column="8" />
-        <mark key="]" line="75" column="24" />
-        <mark key="." line="75" column="0" />
-        <mark key="^" line="74" column="7" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" timestamp="1473226238457">
+        <mark key="[" line="204" column="35" />
+        <mark key="]" line="205" column="7" />
+        <mark key="." line="205" column="7" />
+        <mark key="^" line="205" column="7" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/grant/GrantController.js" timestamp="1473217425161">
         <mark key="[" line="146" column="42" />
@@ -347,6 +347,12 @@
         <mark key="." line="31" column="35" />
         <mark key="^" line="31" column="35" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/RoleMenuRepository.java" timestamp="1473226191217">
+        <mark key="[" line="9" column="36" />
+        <mark key="]" line="9" column="66" />
+        <mark key="." line="9" column="66" />
+        <mark key="^" line="9" column="66" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/UserRepository.java" timestamp="1473151743903">
         <mark key="[" line="19" column="73" />
         <mark key="]" line="19" column="61" />
@@ -402,6 +408,9 @@
         <mark key="]" line="66" column="49" />
         <mark key="^" line="66" column="49" />
         <mark key="." line="66" column="49" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/RoleMenusRepository.java" timestamp="1473225591889">
+        <mark key="[" line="7" column="38" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/LoginController.java" timestamp="1472020890284">
         <mark key="[" line="13" column="18" />
@@ -613,10 +622,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0Um9sZU1lbnVzKCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5SZXBvc2l0b3J5Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>@javax.persistence.Id</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>addedPermIds</text>
@@ -625,33 +634,31 @@
         <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICJyb2xlcy97cm9sZUlkfS9wZXJtaXNzaW9ucyIsIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuUFVUKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0Um9sZU1lbnVzKCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5SZXBvc2l0b3J5Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBqZGJjVGVtcGxhdGUuZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgamRiY1RlbXBsYXRlLmJhdGNoVXBkYXRlKHNxbCwgcm93cyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5hbm5vdGF0aW9uLlZlcnNpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3FsID0gIklOU0VSVCBJTlRPIFJPTEVfTUVOVVMoUk9MRV9JRCwgTUVOVV9JRCkgVkFMVUVTKD8sID8pIjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5hbm5vdGF0aW9uLklkOwo=</text>
+        <text encoding="base64">ICAgICAgICBqZGJjVGVtcGxhdGUudXBkYXRlKCJERUxFVEUgRlJPTSBST0xFX01FTlVTIik7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CgogICAgcHVibGljIGJvb2xlYW4gaXNOZXcoKSB7CiAgICAgICAg</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgYm9vbGVhbiBpc05ldygpIHsKICAgICAgICByZXR1cm4gaXNOZXc7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0TmV3KGJvb2xlYW4gYU5ldykgewogICAgICAgIGlzTmV3ID0gYU5ldzsKICAgIH0=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">aWYoIXRoZURlcGFydG1lbnQuZ2V0TmFtZSgpLmVxdWFscyhkZXBhcnRtZW50LmdldE5hbWUoKSkKICAgICAgICAgICAgICAgICYmIGRlcGFydG1lbnRSZXBvc2l0b3J5LmNvdW50QnlOYW1lKGRlcGFydG1lbnQuZ2V0TmFtZSgpKSA+IDApIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBEZXBhcnRtZW50TmFtZUFscmVhZHlFeGlzdHNFeGNlcHRpb24oKTsKICAgICAgICAgICAgfQ==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>if (checked) {
-            Lems.Tree.setCheckedAncesters(rec, checked);
-        }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpbml0Um9sZU1lbnVzKCk7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gICAgICAgIHJvbGVNZW51UmVwb3NpdG9yeSA9IGNvbnRleHQuZ2V0QmVhbihSb2xlTWVudVJlcG9zaXRvcnkuY2xhc3MpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -765,6 +772,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
