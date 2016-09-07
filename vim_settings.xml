@@ -24,7 +24,7 @@
         <mark key="." line="108" column="40" />
         <mark key="^" line="108" column="40" />
       </file>
-      <file name="/a.dummy" timestamp="1473219730648">
+      <file name="/a.dummy" timestamp="1473223130120">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1472198810209">
@@ -39,11 +39,11 @@
         <mark key="^" line="10" column="24" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" timestamp="1473222456174">
-        <mark key="[" line="261" column="33" />
-        <mark key="]" line="261" column="33" />
-        <mark key="." line="261" column="33" />
-        <mark key="^" line="261" column="33" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" timestamp="1473224075383">
+        <mark key="[" line="75" column="8" />
+        <mark key="]" line="75" column="24" />
+        <mark key="." line="75" column="0" />
+        <mark key="^" line="74" column="7" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/grant/GrantController.js" timestamp="1473217425161">
         <mark key="[" line="146" column="42" />
@@ -159,6 +159,12 @@
         <mark key="]" line="13" column="68" />
         <mark key="^" line="13" column="68" />
         <mark key="." line="13" column="68" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/resources/init/roleMenus.csv" timestamp="1473223379879">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+        <mark key="^" line="5" column="3" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/login/LoginModel.js" timestamp="1471569351492">
         <mark key="[" line="3" column="11" />
@@ -367,11 +373,11 @@
         <mark key="." line="10" column="18" />
         <mark key="^" line="10" column="18" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Permission.java" timestamp="1473219705612">
-        <mark key="[" line="57" column="23" />
-        <mark key="]" line="57" column="23" />
-        <mark key="^" line="57" column="23" />
-        <mark key="." line="57" column="23" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Permission.java" timestamp="1473223225535">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="16" column="6" />
+        <mark key="^" line="16" column="6" />
+        <mark key="." line="16" column="6" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/common/CollectionUtils.java" timestamp="1467794992879">
         <mark key="[" line="15" column="1" />
@@ -606,11 +612,11 @@
       <jump line="102" column="52" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/PermissionServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>m</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpbml0Um9sZU1lbnVzKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>@javax.persistence.Id</text>
       </register>
       <register name="/" type="4">
         <text>addedPermIds</text>
@@ -618,68 +624,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICJyb2xlcy97cm9sZUlkfS9wZXJtaXNzaW9ucyIsIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuUFVUKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CgogICAgcHVibGljIGJvb2xlYW4gaXNOZXcoKSB7CiAgICAgICAg</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpbml0Um9sZU1lbnVzKCk7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgYm9vbGVhbiBpc05ldygpIHsKICAgICAgICByZXR1cm4gaXNOZXc7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0TmV3KGJvb2xlYW4gYU5ldykgewogICAgICAgIGlzTmV3ID0gYU5ldzsKICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBqZGJjVGVtcGxhdGUuZ2V0Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">aWYoIXRoZURlcGFydG1lbnQuZ2V0TmFtZSgpLmVxdWFscyhkZXBhcnRtZW50LmdldE5hbWUoKSkKICAgICAgICAgICAgICAgICYmIGRlcGFydG1lbnRSZXBvc2l0b3J5LmNvdW50QnlOYW1lKGRlcGFydG1lbnQuZ2V0TmFtZSgpKSA+IDApIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBEZXBhcnRtZW50TmFtZUFscmVhZHlFeGlzdHNFeGNlcHRpb24oKTsKICAgICAgICAgICAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5hbm5vdGF0aW9uLlZlcnNpb247Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5hbm5vdGF0aW9uLklkOwo=</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">CgogICAgcHVibGljIGJvb2xlYW4gaXNOZXcoKSB7CiAgICAgICAg</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgYm9vbGVhbiBpc05ldygpIHsKICAgICAgICByZXR1cm4gaXNOZXc7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0TmV3KGJvb2xlYW4gYU5ldykgewogICAgICAgIGlzTmV3ID0gYU5ldzsKICAgIH0=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">aWYoIXRoZURlcGFydG1lbnQuZ2V0TmFtZSgpLmVxdWFscyhkZXBhcnRtZW50LmdldE5hbWUoKSkKICAgICAgICAgICAgICAgICYmIGRlcGFydG1lbnRSZXBvc2l0b3J5LmNvdW50QnlOYW1lKGRlcGFydG1lbnQuZ2V0TmFtZSgpKSA+IDApIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBEZXBhcnRtZW50TmFtZUFscmVhZHlFeGlzdHNFeGNlcHRpb24oKTsKICAgICAgICAgICAgfQ==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>if (checked) {
             Lems.Tree.setCheckedAncesters(rec, checked);
         }</text>
-      </register>
-      <register name="6" type="4">
-        <text>{
-	    		var checked = rec.get('checked'),
-	    			parent = rec.parentNode,
-	    			siblings = parent.childNodes;
-
-	    		if(!parent ||  parent.isRoot()) return;
-
-	    		if(this.(parent)) {
-	    			parent.set('checked', false);
-	    			autoCheckedAncestors(parent);
-	    		} else {
-	    			setCheckedAncestors(rec, true);
-	    		}
-	    	}</text>
-      </register>
-      <register name="7" type="4">
-        <text>function(rec) {
-	    	    return Ext.Array.every(rec.childNodes, function(item) {
-	    			return !item.get('checked');
-	    		})
-	    	},</text>
-      </register>
-      <register name="8" type="4">
-        <text>function(rec) {
-	    		return Ext.Array.every(rec.childNodes, function(item) {
-	    			return item.get('checked');
-	    		})
-	    	},</text>
-      </register>
-      <register name="9" type="4">
-        <text>function(rec) {
-	    		var checked = rec.get('checked'),
-	    			parent = rec.parentNode,
-	    			siblings = parent.childNodes;
-
-	    		if(!parent ||  parent.isRoot()) return;
-
-	    		if(childrenAllChecked(parent)) {
-	    			parent.set('checked', true);
-	    			autoCheckedAncestors(parent);
-	    		} else {
-	    			setCheckedAncestors(rec, false);
-	    		}
-	    	},</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -731,12 +703,12 @@
         <entry>78,82m90</entry>
         <entry encoding="base64">JzwsJz5tMTE5</entry>
         <entry encoding="base64">JzwsJz50MTE5</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz50MTc5</entry>
         <entry>wq</entry>
         <entry>wa</entry>
         <entry encoding="base64">JzwsJz50NzI=</entry>
         <entry>148</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
