@@ -45,11 +45,11 @@
         <mark key="." line="71" column="25" />
         <mark key="^" line="71" column="25" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/grant/GrantController.js" timestamp="1473214336808">
-        <mark key="[" line="111" column="36" />
-        <mark key="]" line="112" column="59" />
-        <mark key="." line="112" column="59" />
-        <mark key="^" line="112" column="59" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/grant/GrantController.js" timestamp="1473215573257">
+        <mark key="[" line="87" column="7" />
+        <mark key="]" line="87" column="7" />
+        <mark key="." line="87" column="7" />
+        <mark key="^" line="88" column="7" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/PermissionDto.java" timestamp="1473047344898">
         <mark key="[" line="15" column="12" />
@@ -93,12 +93,12 @@
         <mark key="^" line="21" column="1" />
         <mark key="." line="21" column="1" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/MenuServiceImpl.java" timestamp="1473149036308">
-        <mark key="'" line="96" column="8" />
-        <mark key="[" line="196" column="15" />
-        <mark key="]" line="196" column="57" />
-        <mark key="." line="196" column="57" />
-        <mark key="^" line="196" column="57" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/MenuServiceImpl.java" timestamp="1473215141470">
+        <mark key="'" line="214" column="45" />
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="206" column="17" />
+        <mark key="." line="206" column="17" />
+        <mark key="^" line="206" column="17" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/CsvReader.java" timestamp="1472783810530">
         <mark key="[" line="8" column="26" />
@@ -201,7 +201,7 @@
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="7" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/PermissionServiceImpl.java" timestamp="1473214058944">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/PermissionServiceImpl.java" timestamp="1473214743496">
         <mark key="[" line="94" column="23" />
         <mark key="]" line="94" column="33" />
         <mark key="." line="94" column="33" />
@@ -213,7 +213,7 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/Tree.js" timestamp="1473160238170" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/Tree.js" timestamp="1473215485624" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/AjaxLogoutFilter.java" timestamp="1472715223844">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -256,11 +256,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/AuthorizationController.java" timestamp="1473214492129">
-        <mark key="[" line="35" column="59" />
-        <mark key="]" line="35" column="83" />
-        <mark key="." line="35" column="83" />
-        <mark key="^" line="35" column="83" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/AuthorizationController.java" timestamp="1473214942465">
+        <mark key="[" line="43" column="104" />
+        <mark key="]" line="43" column="104" />
+        <mark key="." line="43" column="104" />
+        <mark key="^" line="43" column="104" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/MenuRepository.java" timestamp="1473151793470">
         <mark key="[" line="17" column="4" />
@@ -333,13 +333,6 @@
         <mark key="]" line="5" column="6" />
         <mark key="^" line="5" column="6" />
         <mark key="." line="11" column="6" />
-      </file>
-      <file name="D:/IdeaProjects/lems/pom.xml" timestamp="1473044181840">
-        <mark key="'" line="30" column="6" />
-        <mark key="[" line="168" column="17" />
-        <mark key="]" line="165" column="15" />
-        <mark key="^" line="167" column="18" />
-        <mark key="." line="165" column="15" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Manager.js" timestamp="1473164352757">
         <mark key="[" line="27" column="35" />
@@ -416,11 +409,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/MenuService.java" timestamp="1473148823348">
-        <mark key="[" line="18" column="38" />
-        <mark key="]" line="18" column="37" />
-        <mark key="^" line="18" column="37" />
-        <mark key="." line="18" column="37" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/MenuService.java" timestamp="1473214960643">
+        <mark key="[" line="22" column="62" />
+        <mark key="]" line="22" column="62" />
+        <mark key="^" line="22" column="45" />
+        <mark key="." line="22" column="68" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/UserService.java" timestamp="1472720093528">
         <mark key="[" line="18" column="55" />
@@ -509,7 +502,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="580" column="32" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1039" column="28" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1043" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1044" column="31" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
@@ -609,55 +601,56 @@
       <jump line="1754" column="17" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/LocalSearchControl.js" />
       <jump line="1860" column="17" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/LocalSearchControl.js" />
       <jump line="1929" column="35" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/LocalSearchControl.js" />
+      <jump line="212" column="45" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/MenuServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQuc2V0TWVzc2FnZSgiyKjP3sno1sOzybmmLiIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHRoaXMudXBkYXRlQ2hlY2tlZChyZWMsIGNoZWNrZWQpOw==</text>
       </register>
       <register name="-" type="4">
-        <text>HttpStatus.OK);</text>
+        <text encoding="base64">IHRoaXMudXBkYXRlQ2hlY2tlZChyZWMsIGNoZWNrZWQpOw==</text>
       </register>
       <register name="/" type="4">
-        <text>local</text>
+        <text>addedPermIds</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIAkJcm9sZVBlcm1pc3Npb25zVHJlZSA9IHZpZXcubG9va3VwUmVmZXJlbmNlKCdyb2xlUGVybWlzc2lvbnNUcmVlJyksCiAgICAJCXJvbGVNZW51c1RyZWUgPSB2aWV3Lmxvb2t1cFJlZmVyZW5jZSgncm9sZU1lbnVzVHJlZScpLAo=</text>
+      <register name="0" type="4">
+        <text>addedMenuIds</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQuc2V0TWVzc2FnZSgiyKjP3sno1sOzybmmLiIpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHB1YmxpYyBNZW51U2VydmljZUltcGwoTWVudVJlcG9zaXRvcnkgbWVudVJlcG9zaXRvcnkpIHsKICAgICAgICB0aGlzLm1lbnVSZXBvc2l0b3J5ID0gbWVudVJlcG9zaXRvcnk7CiAgICB9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBSZXN1bHREdG8gcmVzdWx0ID0gbmV3IFJlc3VsdER0bygpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuc2V0TWVzc2FnZSgiyKjP3sno1sOzybmmLiIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBSZXN1bHREdG8gcmVzdWx0ID0gbmV3IFJlc3VsdER0bygpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAkJcm9sZVBlcm1pc3Npb25zVHJlZSA9IHZpZXcubG9va3VwUmVmZXJlbmNlKCdyb2xlUGVybWlzc2lvbnNUcmVlJyksCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3Lm1hc2soJ9X91NrM4b27yKjP3qOsx+u1yLT9Jyk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICIiKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAkJcm9sZVBlcm1pc3Npb25zVHJlZSA9IHZpZXcubG9va3VwUmVmZXJlbmNlKCdyb2xlUGVybWlzc2lvbnNUcmVlJyksCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB2aWV3Lm1hc2soJ9X91NrM4b27yKjP3qOsx+u1yLT9Jyk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICIiKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>local</last-search>
+      <last-search>addedPermIds</last-search>
       <last-offset />
-      <last-pattern>local</last-pattern>
+      <last-pattern>addedPermIds</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -665,7 +658,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onMarkBtn</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry>ware</entry>
         <entry>depart</entry>
@@ -685,10 +677,9 @@
         <entry>getSalt</entry>
         <entry>Resolved Subject</entry>
         <entry>local</entry>
+        <entry>addedPermIds</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5tODA=</entry>
-        <entry encoding="base64">JzwsJz5zLycvIg==</entry>
         <entry encoding="base64">JzwsJz5tNDA=</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5tNTQ=</entry>
@@ -706,6 +697,8 @@
         <entry encoding="base64">JzwsJz50MTE5</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz50MTc5</entry>
+        <entry>wq</entry>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
