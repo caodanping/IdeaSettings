@@ -27,11 +27,11 @@
         <mark key="^" line="15" column="26" />
         <mark key="." line="15" column="26" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" timestamp="1473239032412">
-        <mark key="[" line="239" column="47" />
-        <mark key="]" line="239" column="47" />
-        <mark key="^" line="239" column="47" />
-        <mark key="." line="239" column="47" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" timestamp="1473252024069">
+        <mark key="[" line="239" column="38" />
+        <mark key="]" line="230" column="45" />
+        <mark key="^" line="230" column="45" />
+        <mark key="." line="230" column="45" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/resources/init/menus.xml" timestamp="1473235803394">
         <mark key="a" line="17" column="73" />
@@ -197,8 +197,11 @@
         <mark key="^" line="30" column="35" />
         <mark key="." line="30" column="35" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/resources/init/users.csv" timestamp="1473238891915">
-        <mark key="[" line="0" column="64" />
+      <file name="D:/IdeaProjects/lems/src/main/resources/init/users.csv" timestamp="1473252117803">
+        <mark key="[" line="3" column="68" />
+        <mark key="]" line="3" column="68" />
+        <mark key="^" line="3" column="68" />
+        <mark key="." line="3" column="68" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/RoleRepository.java" timestamp="1473233904400">
         <mark key="[" line="10" column="0" />
@@ -651,10 +654,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>deleteAll</text>
