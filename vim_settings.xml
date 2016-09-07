@@ -39,7 +39,7 @@
         <mark key="^" line="10" column="24" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" timestamp="1473221154639">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" timestamp="1473222456174">
         <mark key="[" line="261" column="33" />
         <mark key="]" line="261" column="33" />
         <mark key="." line="261" column="33" />
@@ -607,10 +607,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text>addedPermIds</text>
