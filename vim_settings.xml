@@ -51,11 +51,18 @@
         <mark key="^" line="2" column="2" />
         <mark key="." line="2" column="2" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/WeightGroup.java" timestamp="1473319063131">
-        <mark key="[" line="45" column="26" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/WeightGroup.java" timestamp="1473320269260">
+        <mark key="[" line="71" column="24" />
+        <mark key="]" line="71" column="24" />
+        <mark key="^" line="37" column="11" />
+        <mark key="." line="71" column="24" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/MenuServiceImpl.java" timestamp="1473217165914">
+        <mark key="'" line="214" column="45" />
+        <mark key="[" line="225" column="17" />
+        <mark key="]" line="225" column="26" />
+        <mark key="." line="225" column="26" />
+        <mark key="^" line="225" column="26" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/CsvReader.java" timestamp="1472783810530">
         <mark key="[" line="8" column="26" />
@@ -310,10 +317,12 @@
         <mark key="." line="7" column="24" />
         <mark key="^" line="7" column="24" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/WeightEntry.java" timestamp="1473319474667">
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/WeightEntry.java" timestamp="1473320366316">
+        <mark key="'" line="51" column="6" />
+        <mark key="[" line="51" column="5" />
+        <mark key="]" line="63" column="6" />
+        <mark key="." line="63" column="6" />
+        <mark key="^" line="63" column="6" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/Application.js" timestamp="1472715805604">
         <mark key="[" line="42" column="18" />
@@ -415,6 +424,13 @@
         <mark key="[" line="36" column="49" />
         <mark key="]" line="36" column="49" />
         <mark key="." line="33" column="0" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/PermissionServiceImpl.java" timestamp="1473220130476">
+        <mark key="'" line="102" column="52" />
+        <mark key="[" line="75" column="19" />
+        <mark key="]" line="75" column="23" />
+        <mark key="." line="75" column="23" />
+        <mark key="^" line="75" column="23" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app.js" timestamp="1471507709115">
         <mark key="[" line="10" column="24" />
@@ -551,7 +567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1044" column="31" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1052" column="31" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1053" column="23" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1066" column="15" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
@@ -651,55 +666,56 @@
       <jump line="212" column="45" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/MenuServiceImpl.java" />
       <jump line="102" column="52" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/PermissionServiceImpl.java" />
       <jump line="115" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.9.4.RELEASE/spring-data-jpa-1.9.4.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.java" />
+      <jump line="51" column="6" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/WeightEntry.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBib29sZWFuIGVxdWFscyhPYmplY3QgbykgewogICAgICAgIGlmICh0aGlzID09IG8pIHJldHVybiB0cnVlOwogICAgICAgIGlmIChvID09IG51bGwgfHwgZ2V0Q2xhc3MoKSAhPSBvLmdldENsYXNzKCkpIHJldHVybiBmYWxzZTsKICAgICAgICBpZiAoIXN1cGVyLmVxdWFscyhvKSkgcmV0dXJuIGZhbHNlOwoKICAgICAgICBXZWlnaHRFbnRyeSB0aGF0ID0gKFdlaWdodEVudHJ5KSBvOwoKICAgICAgICBpZiAoaXNCb3Jyb3dlZCAhPSB0aGF0LmlzQm9ycm93ZWQpIHJldHVybiBmYWxzZTsKICAgICAgICBpZiAodHlwZSAhPSB0aGF0LnR5cGUpIHJldHVybiBmYWxzZTsKICAgICAgICByZXR1cm4gbGVuZGVyLmVxdWFscyh0aGF0LmxlbmRlcik7CgogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIGludCBoYXNoQ29kZSgpIHsKICAgICAgICBpbnQgcmVzdWx0ID0gc3VwZXIuaGFzaENvZGUoKTsKICAgICAgICByZXN1bHQgPSAzMSAqIHJlc3VsdCArIHR5cGUuaGFzaENvZGUoKTsKICAgICAgICByZXN1bHQgPSAzMSAqIHJlc3VsdCArIChpc0JvcnJvd2VkID8gMSA6IDApOwogICAgICAgIHJlc3VsdCA9IDMxICogcmVzdWx0ICsgbGVuZGVyLmhhc2hDb2RlKCk7CiAgICAgICAgcmV0dXJuIHJlc3VsdDsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBTdHJpbmcgdG9TdHJpbmcoKSB7CiAgICAgICAgcmV0dXJuICJXZWlnaHRHcm91cHsiICsKICAgICAgICAgICAgICAgICJ0eXBlPSIgKyB0eXBlICsKICAgICAgICAgICAgICAgICIsIGlzQm9ycm93ZWQ9IiArIGlzQm9ycm93ZWQgKwogICAgICAgICAgICAgICAgIiwgbGVuZGVyPSciICsgbGVuZGVyICsgJ1wnJyArCiAgICAgICAgICAgICAgICAnfSc7CiAgICB9</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>WEIGHT_GROUPS</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>deleteAll</text>
+        <text encoding="base64">XDzX1NbYXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">MjEsZGV2aWNlOmNvcmJlbDoqLMG6zdAKMjIsZGV2aWNlOmNvcmJlbDpjcmVhdGUswbrN0LS0vagKMjMsZGV2aWNlOmNvcmJlbDp1cGRhdGUswbrN0Lj80MIKMjQsZGV2aWNlOmNvcmJlbDpkZWxldGUswbrN0Mm+s/0KMjUsZGV2aWNlOmNvcmJlbDp2ZXJpZnkswbrN0NDFz6LJ87rLCjI2LGRldmljZTpjb3JiZWw6cXVlcnkswbrN0LLp0a8K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBib29sZWFuIGVxdWFscyhPYmplY3QgbykgewogICAgICAgIGlmICh0aGlzID09IG8pIHJldHVybiB0cnVlOwogICAgICAgIGlmIChvID09IG51bGwgfHwgZ2V0Q2xhc3MoKSAhPSBvLmdldENsYXNzKCkpIHJldHVybiBmYWxzZTsKICAgICAgICBpZiAoIXN1cGVyLmVxdWFscyhvKSkgcmV0dXJuIGZhbHNlOwoKICAgICAgICBXZWlnaHRFbnRyeSB0aGF0ID0gKFdlaWdodEVudHJ5KSBvOwoKICAgICAgICBpZiAoaXNCb3Jyb3dlZCAhPSB0aGF0LmlzQm9ycm93ZWQpIHJldHVybiBmYWxzZTsKICAgICAgICBpZiAodHlwZSAhPSB0aGF0LnR5cGUpIHJldHVybiBmYWxzZTsKICAgICAgICByZXR1cm4gbGVuZGVyLmVxdWFscyh0aGF0LmxlbmRlcik7CgogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIGludCBoYXNoQ29kZSgpIHsKICAgICAgICBpbnQgcmVzdWx0ID0gc3VwZXIuaGFzaENvZGUoKTsKICAgICAgICByZXN1bHQgPSAzMSAqIHJlc3VsdCArIHR5cGUuaGFzaENvZGUoKTsKICAgICAgICByZXN1bHQgPSAzMSAqIHJlc3VsdCArIChpc0JvcnJvd2VkID8gMSA6IDApOwogICAgICAgIHJlc3VsdCA9IDMxICogcmVzdWx0ICsgbGVuZGVyLmhhc2hDb2RlKCk7CiAgICAgICAgcmV0dXJuIHJlc3VsdDsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBTdHJpbmcgdG9TdHJpbmcoKSB7CiAgICAgICAgcmV0dXJuICJXZWlnaHRHcm91cHsiICsKICAgICAgICAgICAgICAgICJ0eXBlPSIgKyB0eXBlICsKICAgICAgICAgICAgICAgICIsIGlzQm9ycm93ZWQ9IiArIGlzQm9ycm93ZWQgKwogICAgICAgICAgICAgICAgIiwgbGVuZGVyPSciICsgbGVuZGVyICsgJ1wnJyArCiAgICAgICAgICAgICAgICAnfSc7CiAgICB9</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Ly8gICAgICAgIH0K</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Ly8gICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICByb2xlTWVudVJlcG9zaXRvcnkuc2F2ZShuZXcgUm9sZU1lbnUocm9sZSwgbSkpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGZvcihNZW51IG0gOiBtZW51cykgewo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICByb2xlTWVudVJlcG9zaXRvcnkuc2F2ZShuZXcgUm9sZU1lbnUocm9sZSwgbSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>deleteAll</last-search>
+      <last-search encoding="base64">XDzX1NbYXD4=</last-search>
       <last-offset />
-      <last-pattern>deleteAll</last-pattern>
+      <last-pattern encoding="base64">XDzX1NbYXD4=</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -707,7 +723,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ware</entry>
         <entry>depart</entry>
         <entry>doPost</entry>
         <entry>openRequest</entry>
@@ -727,6 +742,7 @@
         <entry>local</entry>
         <entry>addedPermIds</entry>
         <entry>deleteAll</entry>
+        <entry encoding="base64">XDzX1NbYXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>12,40m42</entry>
