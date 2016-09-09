@@ -167,6 +167,10 @@
         <mark key="." line="28" column="16" />
         <mark key="^" line="28" column="16" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/resources/templates/dispatch-list.jsonx" timestamp="1473398216666">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/MenuRepository.java" timestamp="1473233121222">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="22" column="13" />
@@ -563,7 +567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1052" column="31" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1053" column="23" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1066" column="15" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1068" column="16" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
@@ -663,6 +666,7 @@
       <jump line="102" column="52" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/PermissionServiceImpl.java" />
       <jump line="115" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.9.4.RELEASE/spring-data-jpa-1.9.4.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.java" />
       <jump line="51" column="6" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/WeightEntry.java" />
+      <jump line="0" column="0" filename="D:/IdeaProjects/lems/src/main/resources/templates/dispatch-list.jsonx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

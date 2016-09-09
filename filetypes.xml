@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="jsonx" type="JSON" />
       <mapping pattern="Warehouses" type="JavaScript" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping pattern=".editconfig" type="RegExp" />
