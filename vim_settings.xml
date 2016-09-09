@@ -312,10 +312,11 @@
         <mark key="." line="7" column="24" />
         <mark key="^" line="7" column="24" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/WeightEntry.java" timestamp="1473324913081">
-        <mark key="[" line="21" column="6" />
-        <mark key="]" line="21" column="6" />
-        <mark key="." line="21" column="6" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/WeightEntry.java" timestamp="1473383014359">
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="11" column="7" />
+        <mark key="." line="11" column="7" />
+        <mark key="^" line="11" column="7" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/Application.js" timestamp="1472715805604">
         <mark key="[" line="42" column="18" />
@@ -500,8 +501,10 @@
         <mark key="." line="9" column="66" />
         <mark key="^" line="9" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473171958668">
+      <file name="/Dummy.txt" timestamp="1473383167824">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="30" />
+        <mark key="." line="0" column="30" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/common/CollectionUtils.java" timestamp="1467794992879">
         <mark key="[" line="15" column="1" />
@@ -662,16 +665,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>private ApprovalState approvalState = ApprovalState.DRAFT;
-//    private User submitter;
-//    private Date submitDate;
-//    private String submitComment;
-//    private User auditUser;
-//    private Date auditDate;
-//    private String auditComment;</text>
+        <text>组</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>组</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzX1NbYXD4=</text>
