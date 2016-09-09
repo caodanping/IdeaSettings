@@ -69,11 +69,6 @@
         <mark key="^" line="63" column="34" />
         <mark key="." line="63" column="34" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/RoleRepository.java" timestamp="1473233904400">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Edit.js" timestamp="1473257313649">
         <mark key="[" line="64" column="33" />
         <mark key="]" line="64" column="34" />
@@ -94,10 +89,11 @@
         <mark key="^" line="16" column="6" />
         <mark key="." line="16" column="6" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/groovy/com/aucdi/csfy/web/DispatchingViewsController.groovy" timestamp="1473402714062">
-        <mark key="[" line="11" column="40" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/groovy/com/aucdi/csfy/web/DispatchingViewsController.groovy" timestamp="1473408614834">
+        <mark key="[" line="66" column="9" />
+        <mark key="]" line="62" column="43" />
+        <mark key="." line="62" column="43" />
+        <mark key="^" line="62" column="43" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/UserService.java" timestamp="1473253437370">
         <mark key="[" line="43" column="55" />
@@ -170,7 +166,7 @@
         <mark key="]" line="36" column="49" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/test/groovy/JsonBuilderTest.groovy" timestamp="1473405806368">
+      <file name="D:/IdeaProjects/lems/src/test/groovy/JsonBuilderTest.groovy" timestamp="1473406565977">
         <mark key="[" line="19" column="5" />
         <mark key="]" line="7" column="8" />
         <mark key="." line="7" column="8" />
@@ -216,17 +212,7 @@
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/RoleMenusRepository.java" timestamp="1473225591889">
         <mark key="[" line="7" column="38" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/RolePermission.java" timestamp="1473152094471">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/ProjectSite.java" timestamp="1473384218327" />
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/RoleMenu.java" timestamp="1473152011879">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/grant/GrantModel.js" timestamp="1473167745077">
         <mark key="[" line="2" column="34" />
         <mark key="]" line="4" column="19" />
