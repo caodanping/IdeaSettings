@@ -44,7 +44,9 @@
         <root url="jar://D:/Program Files/groovy-2.4.7/lib/xstream-1.4.7.jar!/" />
       </CLASSES>
       <JAVADOC />
-      <SOURCES />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ideaLibSources/groovy-json-2.4.7-sources.jar!/" />
+      </SOURCES>
     </library>
   </component>
 </application>
