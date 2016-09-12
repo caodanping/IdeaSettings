@@ -36,6 +36,13 @@
         <mark key="^" line="230" column="45" />
         <mark key="." line="230" column="45" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/resources/init/menus.xml" timestamp="1473665211335">
+        <mark key="a" line="11" column="73" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="22" column="6" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/Permissions.js" timestamp="1473061743263">
         <mark key="[" line="32" column="50" />
         <mark key="]" line="32" column="64" />
@@ -558,11 +565,11 @@
         <mark key="^" line="387" column="53" />
       </file>
       <file name="$USER_HOME$/.ideaLibSources/groovy-json-2.4.7-sources.jar!/groovy/json/JsonBuilder.java" timestamp="1473405164831" />
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/List.js" timestamp="1473663660637">
-        <mark key="[" line="43" column="5" />
-        <mark key="]" line="43" column="5" />
-        <mark key="." line="43" column="5" />
-        <mark key="^" line="43" column="5" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/List.js" timestamp="1473664727638">
+        <mark key="[" line="20" column="19" />
+        <mark key="]" line="20" column="21" />
+        <mark key="." line="20" column="21" />
+        <mark key="^" line="20" column="21" />
       </file>
       <file name="/Dummy.txt" timestamp="1473383167824">
         <mark key="[" line="0" column="0" />
@@ -732,8 +739,8 @@
       <jump line="65" column="31" filename="D:/IdeaProjects/lems/src/main/frontend/app/controller/Root.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>f067</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>f067</text>
@@ -745,31 +752,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnbHlwaDogMHhmMDBkLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IDIwMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IDIwMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxheW91dDogJ2JvcmRlcicsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IDIwMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKEV4dC51dGlsLkhpc3RvcnkuKQo=</text>
+        <text encoding="base64">ICAgIGxheW91dDogJ2JvcmRlcicsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhZ2VTaXplOiAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKEV4dC51dGlsLkhpc3RvcnkuKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgIHBhZ2VTaXplOiAwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm93TGluZXM6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
