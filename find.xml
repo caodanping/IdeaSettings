@@ -3,7 +3,7 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.js,*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,6 +15,7 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.scss</mask>
+      <mask>*.js,*.java</mask>
     </recentFileMasks>
   </component>
 </application>
