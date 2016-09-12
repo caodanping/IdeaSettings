@@ -10,9 +10,6 @@
         <mark key="." line="55" column="14" />
         <mark key="^" line="25" column="18" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/RoleService.java" timestamp="1473643841149">
-        <mark key="[" line="7" column="30" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/NavTree.js" timestamp="1471419221557">
         <mark key="[" line="108" column="36" />
         <mark key="]" line="108" column="40" />
@@ -127,11 +124,11 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1473667568688">
-        <mark key="[" line="20" column="32" />
-        <mark key="]" line="20" column="47" />
-        <mark key="." line="20" column="47" />
-        <mark key="^" line="20" column="47" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1473670082458">
+        <mark key="[" line="57" column="27" />
+        <mark key="]" line="61" column="44" />
+        <mark key="." line="61" column="44" />
+        <mark key="^" line="61" column="44" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DepartmentNameAlreadyExistsException.java" timestamp="1472011314990">
         <mark key="[" line="8" column="27" />
@@ -519,9 +516,6 @@
         <mark key="." line="42" column="41" />
         <mark key="^" line="42" column="41" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/WeightProperties.java" timestamp="1473322416190">
-        <mark key="[" line="9" column="29" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/RetryLimitHashedPasswordMatcher.java" timestamp="1472610432968">
         <mark key="[" line="14" column="44" />
         <mark key="]" line="52" column="4" />
@@ -607,9 +601,6 @@
         <mark key="^" line="66" column="49" />
         <mark key="." line="66" column="49" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/RoleMenusRepository.java" timestamp="1473225591889">
-        <mark key="[" line="7" column="38" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/ManagerController.js" timestamp="1473646501142">
         <mark key="[" line="88" column="16" />
         <mark key="]" line="88" column="21" />
@@ -635,6 +626,7 @@
         <mark key="^" line="142" column="10" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/ProjectSite.java" timestamp="1473384218327" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/dept/Edit.js" timestamp="1473668495937" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/grant/GrantModel.js" timestamp="1473167745077">
         <mark key="[" line="2" column="34" />
         <mark key="]" line="4" column="19" />
@@ -752,10 +744,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>store.users</text>
+        <text encoding="base64">IDgwMA==</text>
       </register>
       <register name="-" type="4">
-        <text>store.users</text>
+        <text encoding="base64">IDgwMA==</text>
       </register>
       <register name="/" type="4">
         <text>home</text>
@@ -764,31 +756,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbGxvd0JsYW5rOiBmYWxzZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGFiZWxBbGlnbjogJ3JpZ2h0Jwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGh0bWw6ICJIZWxsbywgV29ybGQhISIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGh0bWw6ICJIZWxsbywgV29ybGQhISIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IDIwMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IDIwMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxheW91dDogJ2JvcmRlcicsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IDIwMAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKEV4dC51dGlsLkhpc3RvcnkuKQo=</text>
+        <text encoding="base64">ICAgIGxheW91dDogJ2JvcmRlcicsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhZ2VTaXplOiAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKEV4dC51dGlsLkhpc3RvcnkuKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgIHBhZ2VTaXplOiAwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
