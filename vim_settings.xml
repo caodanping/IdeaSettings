@@ -338,11 +338,11 @@
         <mark key="." line="11" column="7" />
         <mark key="^" line="11" column="7" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/Application.js" timestamp="1472715805604">
-        <mark key="[" line="42" column="18" />
-        <mark key="]" line="24" column="23" />
-        <mark key="." line="24" column="23" />
-        <mark key="^" line="24" column="23" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/Application.js" timestamp="1473652956084">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="12" />
+        <mark key="." line="42" column="12" />
+        <mark key="^" line="43" column="29" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/resources/init/permissions.xml" timestamp="1472804766091">
         <mark key="[" line="6" column="18" />
@@ -398,11 +398,16 @@
         <mark key="^" line="21" column="1" />
         <mark key="." line="21" column="1" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/controller/Root.js" timestamp="1472715950404">
-        <mark key="[" line="131" column="30" />
-        <mark key="]" line="131" column="29" />
-        <mark key="^" line="131" column="29" />
-        <mark key="." line="131" column="29" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/BMap.js" timestamp="1473651936131">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/controller/Root.js" timestamp="1473652896652">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="^" line="114" column="29" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Role.java" timestamp="1473234027657">
         <mark key="[" line="46" column="39" />
@@ -526,9 +531,9 @@
         <mark key="." line="71" column="30" />
         <mark key="^" line="71" column="30" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Manager.js" timestamp="1473164352757">
-        <mark key="[" line="27" column="35" />
-        <mark key="]" line="31" column="35" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Manager.js" timestamp="1473652567484">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="34" />
         <mark key="." line="31" column="35" />
         <mark key="^" line="31" column="35" />
       </file>
@@ -545,6 +550,12 @@
         <mark key="^" line="387" column="53" />
       </file>
       <file name="$USER_HOME$/.ideaLibSources/groovy-json-2.4.7-sources.jar!/groovy/json/JsonBuilder.java" timestamp="1473405164831" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/List.js" timestamp="1473653061180">
+        <mark key="[" line="31" column="5" />
+        <mark key="]" line="40" column="29" />
+        <mark key="^" line="40" column="29" />
+        <mark key="." line="40" column="29" />
+      </file>
       <file name="/Dummy.txt" timestamp="1473383167824">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
@@ -708,43 +719,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>jsonData</text>
+        <text>this.setSessionInfo({loggedIn: true});</text>
       </register>
       <register name="-" type="4">
-        <text>jsonData</text>
+        <text>this.setSessionInfo({loggedIn: true});</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzX1NbYXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">TGlzdDxSb2xlPiAgcm9sZXMgPSByb2xlUmVwb3NpdG9yeS5maW5kQWxsKCk7CiAgICAgICAgTGlzdDxSb2xlRHRvPiByZXN1bHRzID0gbmV3IEFycmF5TGlzdDxSb2xlRHRvPihyb2xlcy5zaXplKCkpOwogICAgICAgIGZvcihSb2xlIHIgOiByb2xlcykgewogICAgICAgICAgICBSb2xlRHRvIHJvbGUgPSBuZXcgUm9sZUR0bygpOwogICAgICAgICAgICByb2xlLnNldElkKHIuZ2V0SWQoKSk7CiAgICAgICAgICAgIHJvbGUuc2V0TmFtZShyLmdldE5hbWUoKSk7CiAgICAgICAgICAgIHJvbGUuc2V0RGVzY3JpcHRpb24oci5nZXREZXNjcmlwdGlvbigpKTsKICAgICAgICAgICAgcmVzdWx0cy5hZGQocm9sZSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiByZXN1bHRzOw==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnbHlwaDogMHhmMDBkLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9KSk7Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEV4dC5BamF4LnJlcXVlc3QoewogICAgICAgICAgICAgICAgLy8gICAgIHVybDogJ3Nlc3Npb24nLAogICAgICAgICAgICAgICAgLy8gICAgIHN1Y2Nlc3M6IGZ1bmN0aW9uKHJlc3ApIHsKICAgICAgICAgICAgICAgIC8vICAgICAgICAgdmFyIHJlc3VsdDsKICAgICAgICAgICAgICAgIC8vICAgICAgICAgdmlldy51bm1hc2soKTsKICAgICAgICAgICAgICAgIC8vICAgICAgICAgcmVzdWx0ID0gRXh0LkpTT04uZGVjb2RlKHJlc3AucmVzcG9uc2VUZXh0KTsKICAgICAgICAgICAgICAgIC8vICAgICAgICAgRXh0LmFwcGx5KHJlc3VsdCwgewogICAgICAgICAgICAgICAgLy8gICAgICAgICAgICAgbG9nZ2VkSW46IHRydWUKICAgICAgICAgICAgICAgIC8vICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICAvLyAgICAgICAgIGFwcC5zZXRTZXNzaW9uSW5mbyhyZXN1bHQpOwogICAgICAgICAgICAgICAgLy8gICAgICAgICBtZS5yZWRpcmVjdFRvKCdob21lJyk7CiAgICAgICAgICAgICAgICAvLyAgICAgfSwKICAgICAgICAgICAgICAgIC8vICAgICBmYWlsdXJlOiBmdW5jdGlvbigpIHsKICAgICAgICAgICAgICAgIC8vICAgICAgICAgdmlldy51bm1hc2soKTsKICAgICAgICAgICAgICAgIC8vICAgICAgICAgRXh0Lk1zZy5hbGVydCgnvNPU2MqnsNwnLCAnzt63qLzT1NjTw7un0MXPoi4nKTsKICAgICAgICAgICAgICAgIC8vICAgICB9CiAgICAgICAgICAgICAgICAvLyB9KTs=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygib25NYXBSZWFkeS4iKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICAgIGh0bWw6ICJIZWxsbywgV29ybGQhISIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9KSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByZXN1bHQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBAUmVxdWVzdE1hcHBpbmcodmFsdWUgPSAiL2ZpbmRieW5hbWUve25hbWV9IiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5HRVQpCiAgICBwdWJsaWMgTGlzdDxEZXBhcnRtZW50PiBkZWxldGUoQFBhdGhWYXJpYWJsZSh2YWx1ZSA9ICJuYW1lIikgU3RyaW5nIG5hbWUpIHsKICAgICAgICByZXR1cm4gZGVwYXJ0bWVudFNlcnZpY2UuZmluZEJ5TmFtZShuYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
