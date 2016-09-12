@@ -558,11 +558,11 @@
         <mark key="^" line="387" column="53" />
       </file>
       <file name="$USER_HOME$/.ideaLibSources/groovy-json-2.4.7-sources.jar!/groovy/json/JsonBuilder.java" timestamp="1473405164831" />
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/List.js" timestamp="1473660788050">
-        <mark key="[" line="52" column="36" />
-        <mark key="]" line="53" column="18" />
-        <mark key="." line="53" column="18" />
-        <mark key="^" line="53" column="18" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/List.js" timestamp="1473661725949">
+        <mark key="[" line="20" column="21" />
+        <mark key="]" line="20" column="24" />
+        <mark key="." line="20" column="24" />
+        <mark key="^" line="20" column="24" />
       </file>
       <file name="/Dummy.txt" timestamp="1473383167824">
         <mark key="[" line="0" column="0" />
@@ -732,11 +732,11 @@
       <jump line="65" column="31" filename="D:/IdeaProjects/lems/src/main/frontend/app/controller/Root.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IDIwMAo=</text>
+      <register name="&quot;" type="4">
+        <text>f067</text>
       </register>
       <register name="-" type="4">
-        <text>flex: 1</text>
+        <text>f067</text>
       </register>
       <register name="/" type="4">
         <text>home</text>
