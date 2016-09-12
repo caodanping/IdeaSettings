@@ -217,6 +217,13 @@
         <mark key="." line="64" column="34" />
         <mark key="^" line="64" column="34" />
       </file>
+      <file name="D:/IdeaProjects/lems/pom.xml" timestamp="1473400865981">
+        <mark key="'" line="30" column="6" />
+        <mark key="[" line="201" column="15" />
+        <mark key="]" line="202" column="27" />
+        <mark key="^" line="202" column="27" />
+        <mark key="." line="202" column="27" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/UserController.java" timestamp="1473410874604">
         <mark key="[" line="16" column="30" />
         <mark key="]" line="16" column="30" />
@@ -403,11 +410,12 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/controller/Root.js" timestamp="1473652896652">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="^" line="114" column="29" />
-        <mark key="." line="66" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/controller/Root.js" timestamp="1473655442815">
+        <mark key="'" line="65" column="31" />
+        <mark key="[" line="58" column="21" />
+        <mark key="]" line="58" column="8" />
+        <mark key="^" line="58" column="8" />
+        <mark key="." line="58" column="8" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Role.java" timestamp="1473234027657">
         <mark key="[" line="46" column="39" />
@@ -550,11 +558,11 @@
         <mark key="^" line="387" column="53" />
       </file>
       <file name="$USER_HOME$/.ideaLibSources/groovy-json-2.4.7-sources.jar!/groovy/json/JsonBuilder.java" timestamp="1473405164831" />
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/List.js" timestamp="1473653061180">
-        <mark key="[" line="31" column="5" />
-        <mark key="]" line="40" column="29" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/List.js" timestamp="1473654737270">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
         <mark key="^" line="40" column="29" />
-        <mark key="." line="40" column="29" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1473383167824">
         <mark key="[" line="0" column="0" />
@@ -616,8 +624,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1053" column="23" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
-      <jump line="1066" column="15" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1068" column="16" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1070" column="16" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1076" column="16" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
@@ -716,16 +722,18 @@
       <jump line="115" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.9.4.RELEASE/spring-data-jpa-1.9.4.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.java" />
       <jump line="51" column="6" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/WeightEntry.java" />
       <jump line="0" column="0" filename="D:/IdeaProjects/lems/src/main/resources/templates/dispatch-list.jsonx" />
+      <jump line="58" column="7" filename="D:/IdeaProjects/lems/src/main/frontend/app/controller/Root.js" />
+      <jump line="65" column="31" filename="D:/IdeaProjects/lems/src/main/frontend/app/controller/Root.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>this.setSessionInfo({loggedIn: true});</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>this.setSessionInfo({loggedIn: true});</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDzX1NbYXD4=</text>
+        <text>home</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnbHlwaDogMHhmMDBkLAo=</text>
@@ -733,38 +741,38 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEV4dC5BamF4LnJlcXVlc3QoewogICAgICAgICAgICAgICAgLy8gICAgIHVybDogJ3Nlc3Npb24nLAogICAgICAgICAgICAgICAgLy8gICAgIHN1Y2Nlc3M6IGZ1bmN0aW9uKHJlc3ApIHsKICAgICAgICAgICAgICAgIC8vICAgICAgICAgdmFyIHJlc3VsdDsKICAgICAgICAgICAgICAgIC8vICAgICAgICAgdmlldy51bm1hc2soKTsKICAgICAgICAgICAgICAgIC8vICAgICAgICAgcmVzdWx0ID0gRXh0LkpTT04uZGVjb2RlKHJlc3AucmVzcG9uc2VUZXh0KTsKICAgICAgICAgICAgICAgIC8vICAgICAgICAgRXh0LmFwcGx5KHJlc3VsdCwgewogICAgICAgICAgICAgICAgLy8gICAgICAgICAgICAgbG9nZ2VkSW46IHRydWUKICAgICAgICAgICAgICAgIC8vICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICAvLyAgICAgICAgIGFwcC5zZXRTZXNzaW9uSW5mbyhyZXN1bHQpOwogICAgICAgICAgICAgICAgLy8gICAgICAgICBtZS5yZWRpcmVjdFRvKCdob21lJyk7CiAgICAgICAgICAgICAgICAvLyAgICAgfSwKICAgICAgICAgICAgICAgIC8vICAgICBmYWlsdXJlOiBmdW5jdGlvbigpIHsKICAgICAgICAgICAgICAgIC8vICAgICAgICAgdmlldy51bm1hc2soKTsKICAgICAgICAgICAgICAgIC8vICAgICAgICAgRXh0Lk1zZy5hbGVydCgnvNPU2MqnsNwnLCAnzt63qLzT1NjTw7un0MXPoi4nKTsKICAgICAgICAgICAgICAgIC8vICAgICB9CiAgICAgICAgICAgICAgICAvLyB9KTs=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygib25NYXBSZWFkeS4iKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGh0bWw6ICJIZWxsbywgV29ybGQhISIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9KSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEV4dC5BamF4LnJlcXVlc3QoewogICAgICAgICAgICAgICAgLy8gICAgIHVybDogJ3Nlc3Npb24nLAogICAgICAgICAgICAgICAgLy8gICAgIHN1Y2Nlc3M6IGZ1bmN0aW9uKHJlc3ApIHsKICAgICAgICAgICAgICAgIC8vICAgICAgICAgdmFyIHJlc3VsdDsKICAgICAgICAgICAgICAgIC8vICAgICAgICAgdmlldy51bm1hc2soKTsKICAgICAgICAgICAgICAgIC8vICAgICAgICAgcmVzdWx0ID0gRXh0LkpTT04uZGVjb2RlKHJlc3AucmVzcG9uc2VUZXh0KTsKICAgICAgICAgICAgICAgIC8vICAgICAgICAgRXh0LmFwcGx5KHJlc3VsdCwgewogICAgICAgICAgICAgICAgLy8gICAgICAgICAgICAgbG9nZ2VkSW46IHRydWUKICAgICAgICAgICAgICAgIC8vICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICAvLyAgICAgICAgIGFwcC5zZXRTZXNzaW9uSW5mbyhyZXN1bHQpOwogICAgICAgICAgICAgICAgLy8gICAgICAgICBtZS5yZWRpcmVjdFRvKCdob21lJyk7CiAgICAgICAgICAgICAgICAvLyAgICAgfSwKICAgICAgICAgICAgICAgIC8vICAgICBmYWlsdXJlOiBmdW5jdGlvbigpIHsKICAgICAgICAgICAgICAgIC8vICAgICAgICAgdmlldy51bm1hc2soKTsKICAgICAgICAgICAgICAgIC8vICAgICAgICAgRXh0Lk1zZy5hbGVydCgnvNPU2MqnsNwnLCAnzt63qLzT1NjTw7un0MXPoi4nKTsKICAgICAgICAgICAgICAgIC8vICAgICB9CiAgICAgICAgICAgICAgICAvLyB9KTs=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygib25NYXBSZWFkeS4iKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGh0bWw6ICJIZWxsbywgV29ybGQhISIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9KSk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByZXN1bHQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDzX1NbYXD4=</last-search>
+      <last-search>home</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDzX1NbYXD4=</last-pattern>
+      <last-pattern>home</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -772,7 +780,6 @@
     </search>
     <history>
       <history-search>
-        <entry>depart</entry>
         <entry>doPost</entry>
         <entry>openRequest</entry>
         <entry>store</entry>
@@ -792,6 +799,7 @@
         <entry>addedPermIds</entry>
         <entry>deleteAll</entry>
         <entry encoding="base64">XDzX1NbYXD4=</entry>
+        <entry>home</entry>
       </history-search>
       <history-cmd>
         <entry>93,99m</entry>
