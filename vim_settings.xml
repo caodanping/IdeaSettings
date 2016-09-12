@@ -127,6 +127,12 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="44" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1473667568688">
+        <mark key="[" line="20" column="32" />
+        <mark key="]" line="20" column="47" />
+        <mark key="." line="20" column="47" />
+        <mark key="^" line="20" column="47" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DepartmentNameAlreadyExistsException.java" timestamp="1472011314990">
         <mark key="[" line="8" column="27" />
         <mark key="]" line="8" column="27" />
@@ -522,6 +528,12 @@
         <mark key="^" line="52" column="4" />
         <mark key="." line="52" column="4" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ListController.js" timestamp="1473667207279">
+        <mark key="[" line="5" column="40" />
+        <mark key="]" line="5" column="44" />
+        <mark key="^" line="5" column="44" />
+        <mark key="." line="5" column="44" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/RoleMenu.java" timestamp="1472198590190">
         <mark key="[" line="6" column="3" />
         <mark key="]" line="6" column="6" />
@@ -565,11 +577,11 @@
         <mark key="^" line="387" column="53" />
       </file>
       <file name="$USER_HOME$/.ideaLibSources/groovy-json-2.4.7-sources.jar!/groovy/json/JsonBuilder.java" timestamp="1473405164831" />
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/List.js" timestamp="1473664727638">
-        <mark key="[" line="20" column="19" />
-        <mark key="]" line="20" column="21" />
-        <mark key="." line="20" column="21" />
-        <mark key="^" line="20" column="21" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/List.js" timestamp="1473666899599">
+        <mark key="[" line="23" column="25" />
+        <mark key="]" line="24" column="30" />
+        <mark key="." line="24" column="30" />
+        <mark key="^" line="24" column="30" />
       </file>
       <file name="/Dummy.txt" timestamp="1473383167824">
         <mark key="[" line="0" column="0" />
@@ -739,44 +751,44 @@
       <jump line="65" column="31" filename="D:/IdeaProjects/lems/src/main/frontend/app/controller/Root.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>store.users</text>
       </register>
       <register name="-" type="4">
-        <text>f067</text>
+        <text>store.users</text>
       </register>
       <register name="/" type="4">
         <text>home</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnbHlwaDogMHhmMDBkLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbGxvd0JsYW5rOiBmYWxzZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IDIwMAo=</text>
+        <text encoding="base64">ICAgIGh0bWw6ICJIZWxsbywgV29ybGQhISIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IDIwMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxheW91dDogJ2JvcmRlcicsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IDIwMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKEV4dC51dGlsLkhpc3RvcnkuKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IDIwMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhZ2VTaXplOiAwCg==</text>
+        <text encoding="base64">ICAgIGxheW91dDogJ2JvcmRlcicsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKEV4dC51dGlsLkhpc3RvcnkuKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHBhZ2VTaXplOiAwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -815,7 +827,6 @@
         <entry>home</entry>
       </history-search>
       <history-cmd>
-        <entry>103,109t122</entry>
         <entry>78,82m90</entry>
         <entry encoding="base64">JzwsJz5tMTE5</entry>
         <entry encoding="base64">JzwsJz50MTE5</entry>
@@ -834,6 +845,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5ub3JtYWwgPDw=</entry>
         <entry encoding="base64">JzwsJz5tMTk=</entry>
+        <entry encoding="base64">JzwsJz5tMjE=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
