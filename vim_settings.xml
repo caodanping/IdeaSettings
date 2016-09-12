@@ -10,7 +10,7 @@
         <mark key="." line="55" column="14" />
         <mark key="^" line="25" column="18" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/RoleService.java" timestamp="1473410004539">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/RoleService.java" timestamp="1473643841149">
         <mark key="[" line="7" column="30" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/NavTree.js" timestamp="1471419221557">
@@ -19,7 +19,7 @@
         <mark key="." line="108" column="40" />
         <mark key="^" line="108" column="40" />
       </file>
-      <file name="/a.dummy" timestamp="1473410693385">
+      <file name="/a.dummy" timestamp="1473643744504">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -126,11 +126,11 @@
         <mark key="." line="8" column="27" />
         <mark key="^" line="8" column="27" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/RoleServiceImpl.java" timestamp="1472802713066">
-        <mark key="[" line="14" column="3" />
-        <mark key="]" line="15" column="7" />
-        <mark key="^" line="15" column="7" />
-        <mark key="." line="15" column="7" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/RoleServiceImpl.java" timestamp="1473644599821">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="29" column="7" />
+        <mark key="^" line="29" column="7" />
+        <mark key="." line="29" column="7" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/Tree.js" timestamp="1473216735794">
         <mark key="[" line="51" column="31" />
@@ -167,10 +167,6 @@
         <mark key="]" line="28" column="16" />
         <mark key="." line="28" column="16" />
         <mark key="^" line="28" column="16" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/resources/templates/dispatch-list.jsonx" timestamp="1473398216666">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/MenuRepository.java" timestamp="1473233121222">
         <mark key="[" line="21" column="0" />
@@ -472,7 +468,7 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="35" column="20" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/SystemController.java" timestamp="1473255943898">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/SystemController.java" timestamp="1473643800333">
         <mark key="[" line="74" column="5" />
         <mark key="]" line="75" column="3" />
         <mark key="." line="75" column="3" />
@@ -732,16 +728,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>return null;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>return null;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzX1NbYXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">MjEsZGV2aWNlOmNvcmJlbDoqLMG6zdAKMjIsZGV2aWNlOmNvcmJlbDpjcmVhdGUswbrN0LS0vagKMjMsZGV2aWNlOmNvcmJlbDp1cGRhdGUswbrN0Lj80MIKMjQsZGV2aWNlOmNvcmJlbDpkZWxldGUswbrN0Mm+s/0KMjUsZGV2aWNlOmNvcmJlbDp2ZXJpZnkswbrN0NDFz6LJ87rLCjI2LGRldmljZTpjb3JiZWw6cXVlcnkswbrN0LLp0a8K</text>
+      <register name="0" type="4">
+        <text encoding="base64">TGlzdDxSb2xlPiAgcm9sZXMgPSByb2xlUmVwb3NpdG9yeS5maW5kQWxsKCk7CiAgICAgICAgTGlzdDxSb2xlRHRvPiByZXN1bHRzID0gbmV3IEFycmF5TGlzdDxSb2xlRHRvPihyb2xlcy5zaXplKCkpOwogICAgICAgIGZvcihSb2xlIHIgOiByb2xlcykgewogICAgICAgICAgICBSb2xlRHRvIHJvbGUgPSBuZXcgUm9sZUR0bygpOwogICAgICAgICAgICByb2xlLnNldElkKHIuZ2V0SWQoKSk7CiAgICAgICAgICAgIHJvbGUuc2V0TmFtZShyLmdldE5hbWUoKSk7CiAgICAgICAgICAgIHJvbGUuc2V0RGVzY3JpcHRpb24oci5nZXREZXNjcmlwdGlvbigpKTsKICAgICAgICAgICAgcmVzdWx0cy5hZGQocm9sZSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiByZXN1bHRzOw==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB9KSk7Cg==</text>
@@ -807,7 +803,6 @@
         <entry encoding="base64">XDzX1NbYXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz50MTAz</entry>
         <entry>93,99m</entry>
         <entry>93,99t113</entry>
         <entry>103,109t122</entry>
@@ -826,6 +821,7 @@
         <entry encoding="base64">JzwsJz5tNTQ=</entry>
         <entry>305</entry>
         <entry>349</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
