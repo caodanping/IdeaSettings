@@ -355,11 +355,11 @@
         <mark key="." line="11" column="7" />
         <mark key="^" line="11" column="7" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/Application.js" timestamp="1473652956084">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="12" />
-        <mark key="." line="42" column="12" />
-        <mark key="^" line="43" column="29" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/Application.js" timestamp="1473750914338">
+        <mark key="[" line="35" column="34" />
+        <mark key="]" line="35" column="34" />
+        <mark key="." line="35" column="34" />
+        <mark key="^" line="35" column="34" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/resources/init/permissions.xml" timestamp="1472804766091">
         <mark key="[" line="6" column="18" />
@@ -639,11 +639,11 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="15" column="14" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ReqirementTableItem.js" timestamp="1473749447344">
-        <mark key="[" line="56" column="40" />
-        <mark key="]" line="57" column="28" />
-        <mark key="." line="57" column="28" />
-        <mark key="^" line="57" column="28" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ReqirementTableItem.js" timestamp="1473753011812">
+        <mark key="[" line="53" column="42" />
+        <mark key="]" line="53" column="42" />
+        <mark key="." line="53" column="42" />
+        <mark key="^" line="53" column="42" />
       </file>
     </filemarks>
     <jumps>
@@ -749,44 +749,71 @@
       <jump line="65" column="31" filename="D:/IdeaProjects/lems/src/main/frontend/app/controller/Root.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>桩</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmbGV4OiAxCg==</text>
       </register>
       <register name="-" type="4">
-        <text>桩</text>
+        <text>component</text>
       </register>
       <register name="/" type="4">
         <text>home</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7bmFtZTogJ7nc167F5NbYJ30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmbGV4OiAxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaHRtbDogbWUuZGV2aWNlVHlwZSwK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG11bHRpU2VsZWN0OiB0cnVlLAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ewogICAgICAgICAgICAgICAgICAgICAgICB4dHlwZTogJ2NvbXBvbmVudCcsCiAgICAgICAgICAgICAgICAgICAgICAgIGh0bWw6ICc8ZGl2PjwvZGl2PicsCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbHVtbldpZHRoOiAxCiAgICAgICAgICAgICAgICAgICAgfSw=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXJnaW46IDEwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXRlbXM6IFtdLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib2R5UGFkZGluZzogMTAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGF5b3V0OiAnaGJveCcsCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeHR5cGU6ICd0ZXh0ZmllbGQnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LCB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeHR5cGU6ICdkaXNwbGF5ZmllbGQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlOiAnttYnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text>{
+            items: [
+                {
+                    xtype: 'combobox',
+                    displayField: 'name',
+                    valueField: 'name',
+                    store: types,
+                    value: 'deviceTypes',
+                    width: 100
+                }, {
+                    xtype: 'container',
+                    layout: 'hbox',
+                    items: [
+                        {
+                            xtype: 'textfield'
+                        }, {
+                            xtype: 'displayfield',
+                            value: '吨'
+                        }
+                    ],
+                    columnWidth: 1
+                }, {
+                    xtype: 'numberfield',
+                    width: 100,
+                    value: me.amount
+                }
+            ]
+        })</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHh0eXBlOiAnZGV2aWNlcmVxdWlyZW1lbnRpdGVtJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmbGV4OiAxCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIGFwcGx5RGV2aWNlVHlwZTogZnVuY3Rpb24oZGV2aWNlVHlwZSkgewogICAgICAgIHRoaXMuc2V0Q29uZmlnKHRoaXMuYXBwbHlJdGVtc0J5RGV2aWNlVHlwZShkZXZpY2VUeXBlKSk7CiAgICAgICAgcmV0dXJuIGRldmljZVR5cGU7CiAgICB9LA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
