@@ -131,7 +131,12 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1473822979667" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1473842843931">
+        <mark key="[" line="25" column="5" />
+        <mark key="]" line="25" column="5" />
+        <mark key="^" line="25" column="5" />
+        <mark key="." line="25" column="5" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DepartmentNameAlreadyExistsException.java" timestamp="1472011314990">
         <mark key="[" line="8" column="27" />
         <mark key="]" line="8" column="27" />
@@ -162,12 +167,12 @@
         <mark key="^" line="27" column="7" />
         <mark key="." line="27" column="8" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/EnhancedBMapPanel.js" timestamp="1473838290056">
-        <mark key="a" line="110" column="26" />
-        <mark key="[" line="185" column="47" />
-        <mark key="]" line="206" column="17" />
-        <mark key="^" line="206" column="17" />
-        <mark key="." line="206" column="17" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/EnhancedBMapPanel.js" timestamp="1473840924121">
+        <mark key="a" line="159" column="26" />
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="30" />
+        <mark key="." line="8" column="30" />
+        <mark key="^" line="8" column="30" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/AuthenticationController.java" timestamp="1472698461695">
         <mark key="[" line="61" column="38" />
@@ -406,7 +411,7 @@
         <mark key="." line="152" column="22" />
         <mark key="^" line="152" column="22" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMapPanel.js" timestamp="1471061441002">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMapPanel.js" timestamp="1473841907147">
         <mark key="[" line="68" column="31" />
         <mark key="]" line="68" column="3" />
         <mark key="^" line="68" column="3" />
@@ -424,9 +429,9 @@
         <mark key="^" line="21" column="1" />
         <mark key="." line="21" column="1" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/BMap.js" timestamp="1473837681104">
-        <mark key="[" line="36" column="22" />
-        <mark key="]" line="36" column="52" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/BMap.js" timestamp="1473840225738">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="55" />
         <mark key="." line="13" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/controller/Root.js" timestamp="1473655442815">
@@ -778,44 +783,44 @@
       <jump line="0" column="17" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EditController.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ7Wxx7DOu9bDOicgKyBwdC5sbmcgKyAnLCAnICsgcHQubGF0KTsK</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>BMapLib.MarkerTool.SYS_ICONS[6];</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>view</text>
       </register>
-      <register name="0" type="4">
-        <text>me.markerIcon</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBFeHQuZ2V0RG9jKCkub24oJ2tleXVwJywgbWUuX2tleXVwSGFuZGxlciwgbWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ7Wxx7DOu9bDOicgKyBwdC5sbmcgKyAnLCAnICsgcHQubGF0KTsK</text>
+        <text encoding="base64">ICAgIGxheW91dDogJ2JvcmRlcicsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1hcmtlckljb246IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gY2FzZSBFeHQuZXZlbnQuRXZlbnQuQ1RSTDoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNhbGxQYXJlbnQoYXJndW1lbnRzKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAvLyBpbml0IGNvbnRyb2xzCiAgICAgICAgRXh0LkFycmF5LmVhY2gobWUuY29udHJvbHMsIGZ1bmN0aW9uKGNvbnRyb2wpIHsKICAgICAgICAgICAgaWYgKHR5cGVvZiBjb250cm9sID09PSAnc3RyaW5nJykgewogICAgICAgICAgICAgICAgYm1hcC5hZGRDb250cm9sKG5ldyB3aW5kb3dbY29udHJvbF0oKSk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBibWFwLmFkZENvbnRyb2woY29udHJvbCk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTs=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ZAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAvLyBpY29uID0gQk1hcExpYi5NYXJrZXJUb29sLlNZU19JQ09OU1tpY29uc1tkYXRhLnR5cGVdXTsKICAgICAgICAvLyBpY29uID0gaWNvbiB8fCBCTWFwTGliLk1hcmtlclRvb2wuU1lTX0lDT05TWzhdOw==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWNvbnMgPSB7CiAgICAgICAgICAgICAgICAnUHJvamVjdFNpdGUnOiA4LAogICAgICAgICAgICAgICAgJ1dhcmVob3VzZSc6IDYKICAgICAgICAgICAgfSwK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm1hcC5lbmFibGVTY3JvbGxXaGVlbFpvb20oKTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">dmFyIGRoID0gRXh0LmRvbS5IZWxwZXIsCiAgICAgICAgICAgICAgICB0cGwgPSBkaC5jcmVhdGVUZW1wbGF0ZShbCiAgICAgICAgICAgICAgICAgICAgJzxkaXY+JywKICAgICAgICAgICAgICAgICAgICAnPGgzPntuYW1lfTwvaDM+JywKICAgICAgICAgICAgICAgICAgICAnPGRpdj4nLAogICAgICAgICAgICAgICAgICAgIC8vICc8ZGl2PsDg0M06IHt0eXBlfTwvZGl2PicsCiAgICAgICAgICAgICAgICAgICAgLy8gJzxkaXY+x6e977alOiB7amFja0NvdW50fTwvZGl2PicsCiAgICAgICAgICAgICAgICAgICAgLy8gJzxkaXY+wbo6IHtiZWFtQ291bnR9PC9kaXY+JywKICAgICAgICAgICAgICAgICAgICAvLyAnPGRpdj7Bus3QOiB7Y29yYmVsQ291bnR9PC9kaXY+JywKICAgICAgICAgICAgICAgICAgICAvLyAnPGRpdj7F5NbYv+k6IHt3ZWlnaHRDb3VudH08L2Rpdj4nLAogICAgICAgICAgICAgICAgICAgICc8L2Rpdj4nLAogICAgICAgICAgICAgICAgICAgICc8L2Rpdj4nCiAgICAgICAgICAgICAgICBdKTsKCiAgICAgICAgICAgIHZhciB3aW4gPSBuZXcgQk1hcC5JbmZvV2luZG93KHRwbC5hcHBseShkYXRhKSk7CiAgICAgICAgICAgIHRoaXMub3BlbkluZm9XaW5kb3cod2luKTs=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZihtZS5lbmFibGVTY3JvbGxXaGVlbFpvb20pIHsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">bWtyLmFkZEV2ZW50TGlzdGVuZXIoJ2NsaWNrJywgZnVuY3Rpb24gKGV2dCkgewogICAgICAgICAgICB2YXIgZGggPSBFeHQuZG9tLkhlbHBlciwKICAgICAgICAgICAgICAgIHRwbCA9IGRoLmNyZWF0ZVRlbXBsYXRlKFsKICAgICAgICAgICAgICAgICAgICAnPGRpdj4nLAogICAgICAgICAgICAgICAgICAgICc8aDM+e25hbWV9PC9oMz4nLAogICAgICAgICAgICAgICAgICAgICc8ZGl2PicsCiAgICAgICAgICAgICAgICAgICAgLy8gJzxkaXY+wODQzToge3R5cGV9PC9kaXY+JywKICAgICAgICAgICAgICAgICAgICAvLyAnPGRpdj7Hp73vtqU6IHtqYWNrQ291bnR9PC9kaXY+JywKICAgICAgICAgICAgICAgICAgICAvLyAnPGRpdj7Bujoge2JlYW1Db3VudH08L2Rpdj4nLAogICAgICAgICAgICAgICAgICAgIC8vICc8ZGl2PsG6zdA6IHtjb3JiZWxDb3VudH08L2Rpdj4nLAogICAgICAgICAgICAgICAgICAgIC8vICc8ZGl2PsXk1ti/6Toge3dlaWdodENvdW50fTwvZGl2PicsCiAgICAgICAgICAgICAgICAgICAgJzwvZGl2PicsCiAgICAgICAgICAgICAgICAgICAgJzwvZGl2PicKICAgICAgICAgICAgICAgIF0pOwoKICAgICAgICAgICAgdmFyIHdpbiA9IG5ldyBCTWFwLkluZm9XaW5kb3codHBsLmFwcGx5KGRhdGEpKTsKICAgICAgICAgICAgdGhpcy5vcGVuSW5mb1dpbmRvdyh3aW4pOwogICAgICAgIH0pOw==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">bWtyLmVuYWJsZURyYWdnaW5nKCk7CgogICAgICAgIG1rci5hZGRFdmVudExpc3RlbmVyKCdkcmFnc3RhcnQnLCBmdW5jdGlvbiAoZXZ0KSB7CiAgICAgICAgICAgIHZhciBwdCA9IGV2dC50YXJnZXQucG9pbnQ7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCe1scewzrvWwzonICsgcHQubG5nICsgJywgJyArIHB0LmxhdCk7CiAgICAgICAgICAgIG1rci5vbGRQb2ludCA9IHB0OwogICAgICAgIH0pOwoKICAgICAgICBta3IuYWRkRXZlbnRMaXN0ZW5lcignZHJhZ2VuZCcsIGZ1bmN0aW9uIChldnQpIHsKICAgICAgICAgICAgdmFyIHB0ID0gZXZ0LnBvaW50LAogICAgICAgICAgICAgICAgdGhlUGFpciwKICAgICAgICAgICAgICAgIGl0ZW07CgogICAgICAgICAgICB0aGVQYWlyID0gRXh0LkFycmF5LmZpbmRCeShtZS5fbWFya2VySXRlbVBhaXJzLCBmdW5jdGlvbiAocGFpcikgewogICAgICAgICAgICAgICAgcmV0dXJuIHBhaXIubWtyID09PSBta3I7CiAgICAgICAgICAgIH0pOwogICAgICAgICAgICBpdGVtID0gdGhlUGFpci5pdGVtOwoKICAgICAgICAgICAgRXh0LkFqYXgucmVxdWVzdCh7CiAgICAgICAgICAgICAgICB1cmw6ICd3YXJlaG91c2VzLycgKyBpdGVtLmdldCgnaWQnKSArICcvbG9jYXRpb24nLAogICAgICAgICAgICAgICAgbWV0aG9kOiAnUFVUJywKICAgICAgICAgICAgICAgIGpzb25EYXRhOiB7CiAgICAgICAgICAgICAgICAgICAgbG5nOiBwdC5sbmcsCiAgICAgICAgICAgICAgICAgICAgbGF0OiBwdC5sYXQKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBzdWNjZXNzOiBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAgICAgaXRlbS5zZXQoJ2xuZycsIHB0LmxuZyk7CiAgICAgICAgICAgICAgICAgICAgaXRlbS5zZXQoJ2xhdCcsIHB0LmxhdCk7CiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgZmFpbHVyZTogZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgICAgIG1rci5zZXRQb3NpdGlvbihta3Iub2xkUG9pbnQpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KQogICAgICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
