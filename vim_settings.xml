@@ -645,11 +645,11 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="15" column="14" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ReqirementTableItem.js" timestamp="1473818080889">
-        <mark key="[" line="51" column="33" />
-        <mark key="]" line="51" column="34" />
-        <mark key="." line="51" column="34" />
-        <mark key="^" line="51" column="36" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ReqirementTableItem.js" timestamp="1473820211794">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="84" column="5" />
       </file>
     </filemarks>
     <jumps>
@@ -755,47 +755,51 @@
       <jump line="65" column="31" filename="D:/IdeaProjects/lems/src/main/frontend/app/controller/Root.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>column</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>column</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>home</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFkZGluZzogJzAgMCAwIDUnLAo=</text>
+      <register name="0" type="4">
+        <text>itemId: 'amount',
+                        xtype: 'numberfield',
+                        width: 100,
+                        padding: '0 0 0 5',
+                        v</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="4">
         <text>, {
                                 xtype: 'displayfield',
                                 flex: 1
                             }</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmbGV4OiAxCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW1JZDogJ2RldmljZVNwZWMnLAogICAgICAgICAgICAgICAgeHR5cGU6ICdjb250YWluZXInLAogICAgICAgICAgICAgICAgbGF5b3V0OiAnaGJveCcsCiAgICAgICAgICAgICAgICBpdGVtczogWwogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgeHR5cGU6ICd0ZXh0ZmllbGQnLAogICAgICAgICAgICAgICAgICAgICAgICBmbGV4OiAxCiAgICAgICAgICAgICAgICAgICAgfSwgewogICAgICAgICAgICAgICAgICAgICAgICB4dHlwZTogJ2Rpc3BsYXlmaWVsZCcsCiAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlOiAnttYnLAogICAgICAgICAgICAgICAgICAgICAgICBmbGV4OiAxCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgIGNvbHVtbldpZHRoOiAxCiAgICAgICAgICAgIAogICAgICAgICAgICB9KQogICAgICAgIH0KICAgIH0KfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIGxpc3RlbmVyczogewogICAgICAgIHNlbGVjdDogJ29uU2VsZWN0JwogICAgfSw=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW1JZDogJ2RldmljZVNwZWMnLAogICAgICAgICAgICAgICAgeHR5cGU6ICdjb250YWluZXInLAogICAgICAgICAgICAgICAgbGF5b3V0OiAnaGJveCcsCiAgICAgICAgICAgICAgICBpdGVtczogWwogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgeHR5cGU6ICd0ZXh0ZmllbGQnLAogICAgICAgICAgICAgICAgICAgICAgICBmbGV4OiAxCiAgICAgICAgICAgICAgICAgICAgfSwgewogICAgICAgICAgICAgICAgICAgICAgICB4dHlwZTogJ2Rpc3BsYXlmaWVsZCcsCiAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlOiAnttYnLAogICAgICAgICAgICAgICAgICAgICAgICBmbGV4OiAxCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgIGNvbHVtbldpZHRoOiAxCiAgICAgICAgICAgIAogICAgICAgICAgICB9KQogICAgICAgIH0KICAgIH0KfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaHRtbDogbWUuZGV2aWNlVHlwZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -834,9 +838,6 @@
         <entry>home</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5tNDU=</entry>
-        <entry encoding="base64">JzwsJz5tMTM=</entry>
-        <entry encoding="base64">JzwsJz5tNTQ=</entry>
         <entry>305</entry>
         <entry>349</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -853,6 +854,9 @@
         <entry encoding="base64">JzwsJz55YW5r</entry>
         <entry>28</entry>
         <entry>46</entry>
+        <entry encoding="base64">JzwsJz50Mzk=</entry>
+        <entry encoding="base64">JzwsJz50NTc=</entry>
+        <entry encoding="base64">JzwsJz50ODU=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
