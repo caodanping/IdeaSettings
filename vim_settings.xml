@@ -516,6 +516,12 @@
         <mark key="." line="42" column="41" />
         <mark key="^" line="42" column="41" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ReqirementTableItemController.js" timestamp="1473817116535">
+        <mark key="[" line="7" column="38" />
+        <mark key="]" line="7" column="38" />
+        <mark key="." line="7" column="38" />
+        <mark key="^" line="7" column="38" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/RetryLimitHashedPasswordMatcher.java" timestamp="1472610432968">
         <mark key="[" line="14" column="44" />
         <mark key="]" line="52" column="4" />
@@ -639,10 +645,11 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="15" column="14" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ReqirementTableItem.js" timestamp="1473757127143">
-        <mark key="[" line="29" column="26" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ReqirementTableItem.js" timestamp="1473818080889">
+        <mark key="[" line="51" column="33" />
+        <mark key="]" line="51" column="34" />
+        <mark key="." line="51" column="34" />
+        <mark key="^" line="51" column="36" />
       </file>
     </filemarks>
     <jumps>
@@ -748,71 +755,47 @@
       <jump line="65" column="31" filename="D:/IdeaProjects/lems/src/main/frontend/app/controller/Root.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>column</text>
       </register>
       <register name="-" type="4">
-        <text>component</text>
+        <text>column</text>
       </register>
       <register name="/" type="4">
         <text>home</text>
       </register>
       <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFkZGluZzogJzAgMCAwIDUnLAo=</text>
+      </register>
+      <register name="1" type="4">
+        <text>, {
+                                xtype: 'displayfield',
+                                flex: 1
+                            }</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmbGV4OiAxCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIGxpc3RlbmVyczogewogICAgICAgIHNlbGVjdDogJ29uU2VsZWN0JwogICAgfSw=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaHRtbDogbWUuZGV2aWNlVHlwZSwK</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICAgICAgICAgICAgICB4dHlwZTogJ2NvbXBvbmVudCcsCiAgICAgICAgICAgICAgICAgICAgICAgIGh0bWw6ICc8ZGl2PjwvZGl2PicsCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbHVtbldpZHRoOiAxCiAgICAgICAgICAgICAgICAgICAgfSw=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXRlbXM6IFtdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGF5b3V0OiAnaGJveCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW1JZDogJ2RldmljZVNwZWMnLAogICAgICAgICAgICAgICAgeHR5cGU6ICdjb250YWluZXInLAogICAgICAgICAgICAgICAgbGF5b3V0OiAnaGJveCcsCiAgICAgICAgICAgICAgICBpdGVtczogWwogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgeHR5cGU6ICd0ZXh0ZmllbGQnLAogICAgICAgICAgICAgICAgICAgICAgICBmbGV4OiAxCiAgICAgICAgICAgICAgICAgICAgfSwgewogICAgICAgICAgICAgICAgICAgICAgICB4dHlwZTogJ2Rpc3BsYXlmaWVsZCcsCiAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlOiAnttYnLAogICAgICAgICAgICAgICAgICAgICAgICBmbGV4OiAxCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgIGNvbHVtbldpZHRoOiAxCiAgICAgICAgICAgIAogICAgICAgICAgICB9KQogICAgICAgIH0KICAgIH0KfSk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeHR5cGU6ICd0ZXh0ZmllbGQnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LCB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeHR5cGU6ICdkaXNwbGF5ZmllbGQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlOiAnttYnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>{
-            items: [
-                {
-                    xtype: 'combobox',
-                    displayField: 'name',
-                    valueField: 'name',
-                    store: types,
-                    value: 'deviceTypes',
-                    width: 100
-                }, {
-                    xtype: 'container',
-                    layout: 'hbox',
-                    items: [
-                        {
-                            xtype: 'textfield'
-                        }, {
-                            xtype: 'displayfield',
-                            value: '吨'
-                        }
-                    ],
-                    columnWidth: 1
-                }, {
-                    xtype: 'numberfield',
-                    width: 100,
-                    value: me.amount
-                }
-            ]
-        })</text>
+        <text encoding="base64">ICAgIGxpc3RlbmVyczogewogICAgICAgIHNlbGVjdDogJ29uU2VsZWN0JwogICAgfSw=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaHRtbDogbWUuZGV2aWNlVHlwZSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -851,11 +834,6 @@
         <entry>home</entry>
       </history-search>
       <history-cmd>
-        <entry>wa</entry>
-        <entry encoding="base64">JzwsJz50NzI=</entry>
-        <entry>148</entry>
-        <entry encoding="base64">JzwsJz5tNTc=</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz5tNDU=</entry>
         <entry encoding="base64">JzwsJz5tMTM=</entry>
         <entry encoding="base64">JzwsJz5tNTQ=</entry>
@@ -870,6 +848,11 @@
         <entry encoding="base64">JzwsJz5tNDk=</entry>
         <entry encoding="base64">JzwsJz41OQ==</entry>
         <entry encoding="base64">JzwsJz5tNTk=</entry>
+        <entry>delete 25</entry>
+        <entry>25 delete</entry>
+        <entry encoding="base64">JzwsJz55YW5r</entry>
+        <entry>28</entry>
+        <entry>46</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
