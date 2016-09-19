@@ -130,11 +130,11 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1474263020319">
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="^" line="96" column="43" />
-        <mark key="." line="97" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1474264957426">
+        <mark key="[" line="46" column="36" />
+        <mark key="]" line="46" column="36" />
+        <mark key="^" line="46" column="46" />
+        <mark key="." line="46" column="36" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DepartmentNameAlreadyExistsException.java" timestamp="1472011314990">
         <mark key="[" line="8" column="27" />
@@ -610,11 +610,11 @@
         <mark key="." line="9" column="66" />
         <mark key="^" line="9" column="66" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/BMap.js" timestamp="1474254675848">
-        <mark key="[" line="23" column="17" />
-        <mark key="]" line="23" column="17" />
-        <mark key="^" line="18" column="33" />
-        <mark key="." line="23" column="17" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/BMap.js" timestamp="1474264973505">
+        <mark key="[" line="19" column="40" />
+        <mark key="]" line="19" column="40" />
+        <mark key="^" line="19" column="45" />
+        <mark key="." line="19" column="40" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1473646386335">
         <mark key="[" line="387" column="46" />
@@ -797,11 +797,11 @@
       <jump line="234" column="17" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/EnhancedBMapPanel.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG11bHRpU2VsZWN0OiB0cnVlLAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>combobox</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>isMarkerTool</text>
