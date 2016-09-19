@@ -130,11 +130,11 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1474185454290">
-        <mark key="[" line="50" column="34" />
-        <mark key="]" line="50" column="34" />
-        <mark key="^" line="50" column="34" />
-        <mark key="." line="50" column="34" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1474255846497">
+        <mark key="[" line="42" column="21" />
+        <mark key="]" line="43" column="22" />
+        <mark key="." line="43" column="22" />
+        <mark key="^" line="43" column="22" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DepartmentNameAlreadyExistsException.java" timestamp="1472011314990">
         <mark key="[" line="8" column="27" />
@@ -166,12 +166,13 @@
         <mark key="^" line="27" column="7" />
         <mark key="." line="27" column="8" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/EnhancedBMapPanel.js" timestamp="1474185053286">
-        <mark key="a" line="159" column="26" />
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="5" column="38" />
-        <mark key="." line="8" column="30" />
-        <mark key="^" line="8" column="30" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/EnhancedBMapPanel.js" timestamp="1474254428688">
+        <mark key="a" line="162" column="26" />
+        <mark key="'" line="160" column="16" />
+        <mark key="[" line="173" column="15" />
+        <mark key="]" line="173" column="46" />
+        <mark key="." line="173" column="46" />
+        <mark key="^" line="173" column="46" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/AuthenticationController.java" timestamp="1472698461695">
         <mark key="[" line="61" column="38" />
@@ -258,8 +259,11 @@
         <mark key="." line="23" column="43" />
         <mark key="^" line="23" column="43" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/scripts/MyControls.js" timestamp="1474250838324">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/scripts/MyControls.js" timestamp="1474253000471">
+        <mark key="[" line="7" column="38" />
+        <mark key="]" line="7" column="43" />
+        <mark key="^" line="7" column="43" />
+        <mark key="." line="7" column="43" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/DemoController.js" timestamp="1470198797831">
         <mark key="[" line="3" column="33" />
@@ -465,18 +469,19 @@
         <mark key="^" line="9" column="56" />
         <mark key="." line="9" column="56" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app.json" timestamp="1470204087407">
-        <mark key="[" line="110" column="21" />
-        <mark key="]" line="110" column="38" />
-        <mark key="." line="110" column="38" />
-        <mark key="^" line="110" column="38" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app.json" timestamp="1474252484704">
+        <mark key="'" line="12" column="65" />
+        <mark key="[" line="113" column="43" />
+        <mark key="]" line="113" column="43" />
+        <mark key="." line="113" column="43" />
+        <mark key="^" line="113" column="43" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/IdEquipment.java" timestamp="1473650818090">
         <mark key="[" line="36" column="49" />
         <mark key="]" line="36" column="49" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EditController.js" timestamp="1474186713323">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EditController.js" timestamp="1474254703560">
         <mark key="'" line="59" column="4" />
         <mark key="[" line="43" column="16" />
         <mark key="]" line="43" column="29" />
@@ -597,11 +602,11 @@
         <mark key="." line="9" column="66" />
         <mark key="^" line="9" column="66" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/BMap.js" timestamp="1474185668346">
-        <mark key="[" line="3" column="12" />
-        <mark key="]" line="3" column="18" />
-        <mark key="." line="3" column="18" />
-        <mark key="^" line="3" column="18" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/BMap.js" timestamp="1474254675848">
+        <mark key="[" line="23" column="17" />
+        <mark key="]" line="23" column="17" />
+        <mark key="^" line="18" column="33" />
+        <mark key="." line="23" column="17" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1473646386335">
         <mark key="[" line="387" column="46" />
@@ -682,12 +687,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1079" column="15" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
-      <jump line="1080" column="17" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
-      <jump line="1081" column="29" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
-      <jump line="1086" column="19" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
-      <jump line="1087" column="36" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
-      <jump line="1090" column="20" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1137" column="26" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1240" column="133" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1266" column="15" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
@@ -782,59 +781,61 @@
       <jump line="24" column="31" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EditController.js" />
       <jump line="0" column="17" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EditController.js" />
       <jump line="33" column="4" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EditController.js" />
+      <jump line="0" column="0" filename="D:/IdeaProjects/lems/src/main/frontend/app.json" />
+      <jump line="12" column="65" filename="D:/IdeaProjects/lems/src/main/frontend/app.json" />
+      <jump line="68" column="15" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/EnhancedBMapPanel.js" />
+      <jump line="88" column="5" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/EnhancedBMapPanel.js" />
+      <jump line="118" column="16" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/EnhancedBMapPanel.js" />
+      <jump line="160" column="16" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/EnhancedBMapPanel.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>tbar: [
-                    
-                ],</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>view</text>
+        <text>setup</text>
       </register>
-      <register name="0" type="4">
-        <text>Lems.view.EnhancedBMapPanel</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgInBhdGgiOiAic2NyaXB0cy9NYXJrZXJUb29sLmpzIgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>tbar: [
-                    
-                ],</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGh0bWw6ICJIZWxsbywgV29ybGQhISIK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICBuZXcgRXh0LnV0aWwuS2V5TmF2KHsKICAgICAgICAgICAgdGFyZ2V0OiBtZSwKICAgICAgICAgICAgZXNjOiB7CiAgICAgICAgICAgICAgICBmbjogZnVuY3Rpb24oKXt9LAogICAgICAgICAgICAgICAgZGVmYXVsdEV2ZW50QWN0aW9uOiBmYWxzZQogICAgICAgICAgICB9CiAgICAgICAgfSk7</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGxheW91dDogJ2JvcmRlcicsCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgY2xvc2VCdG4gPSBuZXcgQk1hcExpYi5CdXR0b25Db250cm9sKHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9KTs=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gY2FzZSBFeHQuZXZlbnQuRXZlbnQuQ1RSTDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgbWUgPSB0aGlzLAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNhbGxQYXJlbnQoYXJndW1lbnRzKTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">KSwKICAgICAgICAgICAgICAgIG1heEJ0biA9IG5ldyBCTWFwTGliLkJ1dHRvbkNvbnRyb2woewogICAgICAgICAgICAgICAgICAgIGh0bWw6ICc8aSBjbGFzcz0iZmEgZmEtZXhwYW5kIicsCiAgICAgICAgICAgICAgICAgICAgY2xpY2s6IGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0p</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgInBhdGgiOiAic2NyaXB0cy9NeUNvbnRyb2xzLmpzIgo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAvLyBpY29uID0gQk1hcExpYi5NYXJrZXJUb29sLlNZU19JQ09OU1tpY29uc1tkYXRhLnR5cGVdXTsKICAgICAgICAvLyBpY29uID0gaWNvbiB8fCBCTWFwTGliLk1hcmtlclRvb2wuU1lTX0lDT05TWzhdOw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWNvbnMgPSB7CiAgICAgICAgICAgICAgICAnUHJvamVjdFNpdGUnOiA4LAogICAgICAgICAgICAgICAgJ1dhcmVob3VzZSc6IDYKICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>view</last-search>
+      <last-search>setup</last-search>
       <last-offset />
-      <last-pattern>view</last-pattern>
+      <last-pattern>setup</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -842,9 +843,6 @@
     </search>
     <history>
       <history-search>
-        <entry>openRequest</entry>
-        <entry>store</entry>
-        <entry>this</entry>
         <entry>show</entry>
         <entry>searchAC</entry>
         <entry>localSearch</entry>
@@ -862,9 +860,11 @@
         <entry encoding="base64">XDzX1NbYXD4=</entry>
         <entry>home</entry>
         <entry>view</entry>
+        <entry>js</entry>
+        <entry encoding="base64">XDxpbml0TWFya2VyVG9vbHNcPg==</entry>
+        <entry>setup</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5tMTk=</entry>
         <entry encoding="base64">JzwsJz5tMjE=</entry>
         <entry encoding="base64">JzwsJz5tMTg=</entry>
         <entry encoding="base64">JzwsJz40OA==</entry>
@@ -883,6 +883,7 @@
         <entry>help join</entry>
         <entry encoding="base64">JzwsJz5tOTU=</entry>
         <entry encoding="base64">JzwsJz5tNzg=</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
