@@ -482,12 +482,12 @@
         <mark key="]" line="36" column="49" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EditController.js" timestamp="1474268173787">
-        <mark key="'" line="80" column="4" />
-        <mark key="[" line="71" column="48" />
-        <mark key="]" line="73" column="27" />
-        <mark key="." line="73" column="27" />
-        <mark key="^" line="73" column="27" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EditController.js" timestamp="1474275307226">
+        <mark key="'" line="76" column="4" />
+        <mark key="[" line="71" column="20" />
+        <mark key="]" line="71" column="39" />
+        <mark key="." line="71" column="39" />
+        <mark key="^" line="71" column="39" />
       </file>
       <file name="D:/IdeaProjects/lems/src/test/groovy/JsonBuilderTest.groovy" timestamp="1473406565977">
         <mark key="[" line="19" column="5" />
@@ -526,12 +526,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" timestamp="1474270625917">
-        <mark key="'" line="276" column="11" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="276" column="8" />
-        <mark key="^" line="18" column="11" />
-        <mark key="." line="276" column="8" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" timestamp="1474275277080">
+        <mark key="'" line="180" column="21" />
+        <mark key="[" line="65" column="31" />
+        <mark key="]" line="68" column="53" />
+        <mark key="^" line="68" column="53" />
+        <mark key="." line="68" column="53" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DepartmentController.java" timestamp="1473410864707">
         <mark key="[" line="55" column="0" />
@@ -610,11 +610,11 @@
         <mark key="." line="9" column="66" />
         <mark key="^" line="9" column="66" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/BMap.js" timestamp="1474264973505">
-        <mark key="[" line="19" column="40" />
-        <mark key="]" line="19" column="40" />
-        <mark key="^" line="19" column="45" />
-        <mark key="." line="19" column="40" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/BMap.js" timestamp="1474271545621">
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="30" />
+        <mark key="^" line="3" column="30" />
+        <mark key="." line="3" column="30" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1473646386335">
         <mark key="[" line="387" column="46" />
@@ -695,8 +695,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1489" column="31" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
-      <jump line="1490" column="75" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1491" column="19" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1495" column="31" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1499" column="19" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
@@ -795,26 +793,59 @@
       <jump line="35" column="4" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/EnhancedBMapPanel.js" />
       <jump line="37" column="4" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/EnhancedBMapPanel.js" />
       <jump line="273" column="11" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
+      <jump line="184" column="17" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
+      <jump line="176" column="21" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>function Group() {
-    }
-    
-    Ext.apply(Group.prototype, {
-        
-    });</text>
+        <text>onMapReady: function(bmap) {
+                        if (pos) {
+                            this.setMarkerAt(pos.lng, pos.lat);
+                        }
+                    },</text>
       </register>
       <register name="-" type="4">
-        <text>markerIcon</text>
+        <text>centerAndZoom(this.getMarkerPosition(), this.bmap.getZoom());</text>
       </register>
       <register name="/" type="4">
-        <text>markerIcon</text>
+        <text>^marker$</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgInBhdGgiOiAic2NyaXB0cy9NYXJrZXJUb29sLmpzIgo=</text>
       </register>
       <register name="1" type="4">
+        <text>onMapReady: function(bmap) {
+                        if (pos) {
+                            this.setMarkerAt(pos.lng, pos.lat);
+                        }
+                    },</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuY2VudGVyVG9BY3RpdmVNYXJrZXIoKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICB2YXIgR3JvdXAgPSBFeHQuZGVmaW5lKCdMZW1zLnZpZXcuYm1hcC5Hcm91cCcsIHsKICAgICAgICAvLyC12M28ttTP8wogICAgICAgIG1hcDogbnVsbCwKICAgICAgICAvLyBzdG9yZQogICAgICAgIHN0b3JlOiBudWxsLAogICAgICAgIC8vCiAgICAgICAgbWFya2VyczogW10sCgogICAgICAgIG5hbWU6ICdncm91cC0wJwogICAgfSk7</text>
+      </register>
+      <register name="6" type="4">
+        <text>var me = this,
+                    markers = me._markers,
+                    bmap = me.bmap;
+                me._markers = [];
+                me._markerItemPairs = [];
+             Ext.Array.forEach(markers, function (mkr) {
+                    bmap.removeOverlay(mkr);
+            });</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpdGVtOiBudWxsLAo=</text>
+      </register>
+      <register name="8" type="4">
         <text>function Group() {
     }
     
@@ -822,40 +853,17 @@
         
     });</text>
       </register>
-      <register name="2" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgICAgICAKICAgICAgICBncm91cHM6IHsKICAgICAgICAgICAgCiAgICAgICAgfQ==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vILLOv7xodHRwOi8vZGV2ZWxvcGVyLmJhaWR1LmNvbS9tYXAvcmVmZXJlbmNlL2luZGV4LnBocD90aXRsZT1DbGFzczolRTYlQTAlQjglRTUlQkYlODMlRTclQjElQkIvTWFwT3B0aW9ucwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmVzOiBbJ0xlbXMuTXNnJ10sCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBta3Iuc2V0QW5pbWF0aW9uKEJNQVBfQU5JTUFUSU9OX0JPVU5DRSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBta3Iuc2V0SWNvbih0aGlzLmFjdGl2ZU1hcmtlckljb24pOwo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>, {
-            icon: 
-        })</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG11bHRpU2VsZWN0OiB0cnVlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>markerIcon</last-search>
+      <last-search>^marker$</last-search>
       <last-offset />
-      <last-pattern>markerIcon</last-pattern>
+      <last-pattern>^marker$</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -863,9 +871,6 @@
     </search>
     <history>
       <history-search>
-        <entry>department</entry>
-        <entry>'</entry>
-        <entry>ehcache</entry>
         <entry>getSalt</entry>
         <entry>Resolved Subject</entry>
         <entry>local</entry>
@@ -883,6 +888,9 @@
         <entry encoding="base64">XDxfc2V0dXBNYXJrZXJcPg==</entry>
         <entry encoding="base64">XDxhY3RpdmVNYXJrZXJJY29uXD4=</entry>
         <entry>markerIcon</entry>
+        <entry encoding="base64">XDxfc2V0dXBBY3RpdmVNYXJrZXJcPg==</entry>
+        <entry>\.marker</entry>
+        <entry>^marker$</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5tMjE=</entry>
