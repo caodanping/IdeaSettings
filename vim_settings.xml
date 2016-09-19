@@ -526,12 +526,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" timestamp="1474275277080">
-        <mark key="'" line="180" column="21" />
-        <mark key="[" line="65" column="31" />
-        <mark key="]" line="68" column="53" />
-        <mark key="^" line="68" column="53" />
-        <mark key="." line="68" column="53" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" timestamp="1474276554545">
+        <mark key="'" line="68" column="19" />
+        <mark key="[" line="68" column="51" />
+        <mark key="]" line="68" column="51" />
+        <mark key="^" line="68" column="51" />
+        <mark key="." line="68" column="51" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DepartmentController.java" timestamp="1473410864707">
         <mark key="[" line="55" column="0" />
@@ -695,7 +695,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1491" column="19" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1495" column="31" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1499" column="19" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1503" column="46" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
@@ -795,20 +794,17 @@
       <jump line="273" column="11" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
       <jump line="184" column="17" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
       <jump line="176" column="21" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
+      <jump line="68" column="19" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>onMapReady: function(bmap) {
-                        if (pos) {
-                            this.setMarkerAt(pos.lng, pos.lat);
-                        }
-                    },</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>centerAndZoom(this.getMarkerPosition(), this.bmap.getZoom());</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>^marker$</text>
+        <text encoding="base64">XDxzZXRNYXJrZXJBdFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgInBhdGgiOiAic2NyaXB0cy9NYXJrZXJUb29sLmpzIgo=</text>
@@ -861,9 +857,9 @@
       </register>
     </registers>
     <search>
-      <last-search>^marker$</last-search>
+      <last-search encoding="base64">XDxzZXRNYXJrZXJBdFw+</last-search>
       <last-offset />
-      <last-pattern>^marker$</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRNYXJrZXJBdFw+</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -871,7 +867,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getSalt</entry>
         <entry>Resolved Subject</entry>
         <entry>local</entry>
         <entry>addedPermIds</entry>
@@ -891,6 +886,7 @@
         <entry encoding="base64">XDxfc2V0dXBBY3RpdmVNYXJrZXJcPg==</entry>
         <entry>\.marker</entry>
         <entry>^marker$</entry>
+        <entry encoding="base64">XDxzZXRNYXJrZXJBdFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5tMjE=</entry>
