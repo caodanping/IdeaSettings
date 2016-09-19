@@ -385,11 +385,11 @@
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/Window.js" timestamp="1474257687859">
-        <mark key="[" line="19" column="12" />
-        <mark key="]" line="21" column="36" />
-        <mark key="^" line="21" column="36" />
-        <mark key="." line="21" column="36" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/Window.js" timestamp="1474259563284">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="6" column="19" />
+        <mark key="^" line="6" column="19" />
+        <mark key="." line="6" column="19" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/grant/Grant.js" timestamp="1473212217446">
         <mark key="[" line="32" column="23" />
@@ -487,12 +487,11 @@
         <mark key="]" line="36" column="49" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EditController.js" timestamp="1474254703560">
-        <mark key="'" line="59" column="4" />
-        <mark key="[" line="43" column="16" />
-        <mark key="]" line="43" column="29" />
-        <mark key="^" line="43" column="29" />
-        <mark key="." line="43" column="29" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EditController.js" timestamp="1474259717981">
+        <mark key="'" line="48" column="4" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/test/groovy/JsonBuilderTest.groovy" timestamp="1473406565977">
         <mark key="[" line="19" column="5" />
@@ -795,11 +794,11 @@
       <jump line="160" column="16" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/EnhancedBMapPanel.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Ext.window.Window</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>Ext.window.Window</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>setup</text>
@@ -808,31 +807,31 @@
         <text encoding="base64">ICAgICAgICAgICAgInBhdGgiOiAic2NyaXB0cy9NYXJrZXJUb29sLmpzIgo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICBoZWFkZXI6IGZhbHNlLAogICAgICAgICAgICAgICAgdG9vbHM6IFsKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIHR5cGU6ICdjbG9zZScsCiAgICAgICAgICAgICAgICAgICAgICAgIGhhbmRsZXI6IGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdy5oaWRlKGJtYXAsIGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHcuZGVzdHJveSgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBdLA==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgICBuZXcgRXh0LnV0aWwuS2V5TmF2KHsKICAgICAgICAgICAgdGFyZ2V0OiBtZSwKICAgICAgICAgICAgZXNjOiB7CiAgICAgICAgICAgICAgICBmbjogZnVuY3Rpb24oKXt9LAogICAgICAgICAgICAgICAgZGVmYXVsdEV2ZW50QWN0aW9uOiBmYWxzZQogICAgICAgICAgICB9CiAgICAgICAgfSk7</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICAgICAgICAgY2xvc2VCdG4gPSBuZXcgQk1hcExpYi5CdXR0b25Db250cm9sKHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9KTs=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgbWUgPSB0aGlzLAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">KSwKICAgICAgICAgICAgICAgIG1heEJ0biA9IG5ldyBCTWFwTGliLkJ1dHRvbkNvbnRyb2woewogICAgICAgICAgICAgICAgICAgIGh0bWw6ICc8aSBjbGFzcz0iZmEgZmEtZXhwYW5kIicsCiAgICAgICAgICAgICAgICAgICAgY2xpY2s6IGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0p</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInBhdGgiOiAic2NyaXB0cy9NeUNvbnRyb2xzLmpzIgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInBhdGgiOiAic2NyaXB0cy9NeUNvbnRyb2xzLmpzIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
