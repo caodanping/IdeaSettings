@@ -130,11 +130,11 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1474257727506">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="28" />
-        <mark key="." line="2" column="28" />
-        <mark key="^" line="2" column="28" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1474261016742">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="39" column="5" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DepartmentNameAlreadyExistsException.java" timestamp="1472011314990">
         <mark key="[" line="8" column="27" />
@@ -166,13 +166,13 @@
         <mark key="^" line="27" column="7" />
         <mark key="." line="27" column="8" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/EnhancedBMapPanel.js" timestamp="1474254428688">
-        <mark key="a" line="162" column="26" />
-        <mark key="'" line="160" column="16" />
-        <mark key="[" line="173" column="15" />
-        <mark key="]" line="173" column="46" />
-        <mark key="." line="173" column="46" />
-        <mark key="^" line="173" column="46" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/EnhancedBMapPanel.js" timestamp="1474261278413">
+        <mark key="a" line="168" column="26" />
+        <mark key="'" line="233" column="17" />
+        <mark key="[" line="233" column="0" />
+        <mark key="]" line="233" column="0" />
+        <mark key="." line="233" column="0" />
+        <mark key="^" line="233" column="28" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/AuthenticationController.java" timestamp="1472698461695">
         <mark key="[" line="61" column="38" />
@@ -385,11 +385,10 @@
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/Window.js" timestamp="1474259563284">
-        <mark key="[" line="5" column="30" />
-        <mark key="]" line="6" column="19" />
-        <mark key="^" line="6" column="19" />
-        <mark key="." line="6" column="19" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/Window.js" timestamp="1474260924734">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/grant/Grant.js" timestamp="1473212217446">
         <mark key="[" line="32" column="23" />
@@ -487,11 +486,12 @@
         <mark key="]" line="36" column="49" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EditController.js" timestamp="1474259717981">
-        <mark key="'" line="48" column="4" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EditController.js" timestamp="1474261455150">
+        <mark key="'" line="63" column="4" />
+        <mark key="[" line="55" column="35" />
+        <mark key="]" line="55" column="32" />
+        <mark key="." line="55" column="32" />
+        <mark key="^" line="55" column="32" />
       </file>
       <file name="D:/IdeaProjects/lems/src/test/groovy/JsonBuilderTest.groovy" timestamp="1473406565977">
         <mark key="[" line="19" column="5" />
@@ -692,13 +692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1137" column="26" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
-      <jump line="1240" column="133" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
-      <jump line="1266" column="15" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
-      <jump line="1271" column="6" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
-      <jump line="1348" column="8" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
-      <jump line="1353" column="28" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
-      <jump line="1478" column="24" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1482" column="68" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1485" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1486" column="88" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
@@ -792,55 +785,64 @@
       <jump line="88" column="5" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/EnhancedBMapPanel.js" />
       <jump line="118" column="16" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/EnhancedBMapPanel.js" />
       <jump line="160" column="16" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/EnhancedBMapPanel.js" />
+      <jump line="236" column="39" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/EnhancedBMapPanel.js" />
+      <jump line="92" column="13" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/EnhancedBMapPanel.js" />
+      <jump line="156" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/EnhancedBMapPanel.js" />
+      <jump line="158" column="24" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/EnhancedBMapPanel.js" />
+      <jump line="164" column="8" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/EnhancedBMapPanel.js" />
+      <jump line="187" column="24" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/EnhancedBMapPanel.js" />
+      <jump line="234" column="17" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/EnhancedBMapPanel.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>();</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>();</text>
       </register>
       <register name="/" type="4">
-        <text>setup</text>
+        <text>isMarkerTool</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgInBhdGgiOiAic2NyaXB0cy9NYXJrZXJUb29sLmpzIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pc01hcmtlclRvb2xPcGVuID0gdHJ1ZTsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICBoZWFkZXI6IGZhbHNlLAogICAgICAgICAgICAgICAgdG9vbHM6IFsKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIHR5cGU6ICdjbG9zZScsCiAgICAgICAgICAgICAgICAgICAgICAgIGhhbmRsZXI6IGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdy5oaWRlKGJtYXAsIGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHcuZGVzdHJveSgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBdLA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuaXNNYXJrZXJUb29sT3BlbiA9IGZhbHNlOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICB0b29sczogWwogICAgICAgIHsKICAgICAgICAgICAgdHlwZTogJ3BpbicsCiAgICAgICAgICAgIGhhbmRsZXI6ICdvblZpZXdJbk1hcCcKICAgICAgICB9CiAgICBdLA==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICBuZXcgRXh0LnV0aWwuS2V5TmF2KHsKICAgICAgICAgICAgdGFyZ2V0OiBtZSwKICAgICAgICAgICAgZXNjOiB7CiAgICAgICAgICAgICAgICBmbjogZnVuY3Rpb24oKXt9LAogICAgICAgICAgICAgICAgZGVmYXVsdEV2ZW50QWN0aW9uOiBmYWxzZQogICAgICAgICAgICB9CiAgICAgICAgfSk7</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlzV2luZG93OiBmYWxzZSwK</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgY2xvc2VCdG4gPSBuZXcgQk1hcExpYi5CdXR0b25Db250cm9sKHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9KTs=</text>
+        <text encoding="base64">dmFyIGJtYXAgPSBtZS5nZXRDb21wb25lbnQoJ2JtYXAnKSwKICAgICAgICAgICAgICAgICAgICAgICAgdywKICAgICAgICAgICAgICAgICAgICAgICAgY2xvc2VCdG4gPSBuZXcgQk1hcExpYi5CdXR0b25Db250cm9sKHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGh0bWw6ICc8aSBjbGFzcz0iZmEgZmEtY29tcHJlc3MiPjwvaT4nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xpY2s6IGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHcuaGlkZShibWFwLCBmdW5jdGlvbigpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdy5kZXN0cm95KCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgIGNsb3NlQnRuLnNldEFuY2hvcihCTUFQX0FOQ0hPUl9UT1BfUklHSFQpOwoKICAgICAgICAgICAgICAgICAgICB3ID0gRXh0LmNyZWF0ZSgnRXh0LndpbmRvdy5XaW5kb3cnLCB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aXRsZTogJ7XYzbwnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbGF5b3V0OiAnZml0JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1heGltaXplZDogdHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlYWRlcjogZmFsc2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpdGVtczogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHh0eXBlOiAnbWFya2VybWFwJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250cm9sczogW2Nsb3NlQnRuXQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgICAgICB3LnNob3coYm1hcCk7</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgbWUgPSB0aGlzLAo=</text>
+      <register name="7" type="4">
+        <text>w.hide(bmap, function() {
+                        w.destroy();
+                    });</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">KSwKICAgICAgICAgICAgICAgIG1heEJ0biA9IG5ldyBCTWFwTGliLkJ1dHRvbkNvbnRyb2woewogICAgICAgICAgICAgICAgICAgIGh0bWw6ICc8aSBjbGFzcz0iZmEgZmEtZXhwYW5kIicsCiAgICAgICAgICAgICAgICAgICAgY2xpY2s6IGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0p</text>
+        <text encoding="base64">dywKICAgICAgICAgIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInBhdGgiOiAic2NyaXB0cy9NeUNvbnRyb2xzLmpzIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsb3NhYmxlOiBmYWxzZSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>setup</last-search>
+      <last-search>isMarkerTool</last-search>
       <last-offset />
-      <last-pattern>setup</last-pattern>
+      <last-pattern>isMarkerTool</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -848,9 +850,6 @@
     </search>
     <history>
       <history-search>
-        <entry>show</entry>
-        <entry>searchAC</entry>
-        <entry>localSearch</entry>
         <entry>viewport</entry>
         <entry>Department</entry>
         <entry>部门</entry>
@@ -868,6 +867,9 @@
         <entry>js</entry>
         <entry encoding="base64">XDxpbml0TWFya2VyVG9vbHNcPg==</entry>
         <entry>setup</entry>
+        <entry>begin</entry>
+        <entry encoding="base64">XDxtYXJrZXJUb29sXD4=</entry>
+        <entry>isMarkerTool</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5tMjE=</entry>
