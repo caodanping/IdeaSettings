@@ -130,11 +130,11 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1474261016742">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="39" column="5" />
-        <mark key="." line="27" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1474262085710">
+        <mark key="[" line="96" column="46" />
+        <mark key="]" line="97" column="45" />
+        <mark key="^" line="97" column="45" />
+        <mark key="." line="97" column="45" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DepartmentNameAlreadyExistsException.java" timestamp="1472011314990">
         <mark key="[" line="8" column="27" />
@@ -324,6 +324,9 @@
         <mark key="]" line="48" column="8" />
         <mark key="^" line="48" column="8" />
         <mark key="." line="48" column="8" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/Combobox.js" timestamp="1474262241071">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/main/Main.js" timestamp="1473660511915">
         <mark key="[" line="64" column="0" />
@@ -795,10 +798,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>();</text>
+        <text>tagfield</text>
       </register>
       <register name="-" type="4">
-        <text>();</text>
+        <text>tagfield</text>
       </register>
       <register name="/" type="4">
         <text>isMarkerTool</text>
