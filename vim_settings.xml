@@ -130,11 +130,11 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1474262085710">
-        <mark key="[" line="96" column="46" />
-        <mark key="]" line="97" column="45" />
-        <mark key="^" line="97" column="45" />
-        <mark key="." line="97" column="45" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1474263020319">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="^" line="96" column="43" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DepartmentNameAlreadyExistsException.java" timestamp="1472011314990">
         <mark key="[" line="8" column="27" />
@@ -797,11 +797,11 @@
       <jump line="234" column="17" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/EnhancedBMapPanel.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>tagfield</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG11bHRpU2VsZWN0OiB0cnVlLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>tagfield</text>
+        <text>combobox</text>
       </register>
       <register name="/" type="4">
         <text>isMarkerTool</text>
@@ -810,33 +810,33 @@
         <text encoding="base64">ICAgICAgICAgICAgInBhdGgiOiAic2NyaXB0cy9NYXJrZXJUb29sLmpzIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pc01hcmtlclRvb2xPcGVuID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG11bHRpU2VsZWN0OiB0cnVlLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuaXNNYXJrZXJUb29sT3BlbiA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pc01hcmtlclRvb2xPcGVuID0gdHJ1ZTsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuaXNNYXJrZXJUb29sT3BlbiA9IGZhbHNlOwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICB0b29sczogWwogICAgICAgIHsKICAgICAgICAgICAgdHlwZTogJ3BpbicsCiAgICAgICAgICAgIGhhbmRsZXI6ICdvblZpZXdJbk1hcCcKICAgICAgICB9CiAgICBdLA==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGlzV2luZG93OiBmYWxzZSwK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">dmFyIGJtYXAgPSBtZS5nZXRDb21wb25lbnQoJ2JtYXAnKSwKICAgICAgICAgICAgICAgICAgICAgICAgdywKICAgICAgICAgICAgICAgICAgICAgICAgY2xvc2VCdG4gPSBuZXcgQk1hcExpYi5CdXR0b25Db250cm9sKHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGh0bWw6ICc8aSBjbGFzcz0iZmEgZmEtY29tcHJlc3MiPjwvaT4nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xpY2s6IGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHcuaGlkZShibWFwLCBmdW5jdGlvbigpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdy5kZXN0cm95KCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgIGNsb3NlQnRuLnNldEFuY2hvcihCTUFQX0FOQ0hPUl9UT1BfUklHSFQpOwoKICAgICAgICAgICAgICAgICAgICB3ID0gRXh0LmNyZWF0ZSgnRXh0LndpbmRvdy5XaW5kb3cnLCB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aXRsZTogJ7XYzbwnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbGF5b3V0OiAnZml0JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1heGltaXplZDogdHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlYWRlcjogZmFsc2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpdGVtczogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHh0eXBlOiAnbWFya2VybWFwJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250cm9sczogW2Nsb3NlQnRuXQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgICAgICB3LnNob3coYm1hcCk7</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>w.hide(bmap, function() {
                         w.destroy();
                     });</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">dywKICAgICAgICAgIA==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsb3NhYmxlOiBmYWxzZSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
