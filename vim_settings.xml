@@ -126,11 +126,11 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1474336144521">
-        <mark key="[" line="38" column="6" />
-        <mark key="]" line="45" column="20" />
-        <mark key="^" line="45" column="20" />
-        <mark key="." line="45" column="20" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1474342985919">
+        <mark key="[" line="43" column="26" />
+        <mark key="]" line="44" column="18" />
+        <mark key="^" line="44" column="18" />
+        <mark key="." line="44" column="18" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DepartmentNameAlreadyExistsException.java" timestamp="1472011314990">
         <mark key="[" line="8" column="27" />
@@ -459,24 +459,23 @@
         <mark key="^" line="9" column="56" />
         <mark key="." line="9" column="56" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app.json" timestamp="1474337989018">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app.json" timestamp="1474343600400">
         <mark key="'" line="12" column="65" />
-        <mark key="[" line="110" column="92" />
-        <mark key="]" line="111" column="25" />
-        <mark key="." line="111" column="25" />
-        <mark key="^" line="111" column="25" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/IdEquipment.java" timestamp="1473650818090">
         <mark key="[" line="36" column="49" />
         <mark key="]" line="36" column="49" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EditController.js" timestamp="1474336060657">
-        <mark key="'" line="76" column="4" />
-        <mark key="[" line="71" column="20" />
-        <mark key="]" line="71" column="39" />
-        <mark key="." line="71" column="39" />
-        <mark key="^" line="71" column="39" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EditController.js" timestamp="1474343204878">
+        <mark key="'" line="77" column="4" />
+        <mark key="[" line="65" column="24" />
+        <mark key="]" line="66" column="30" />
+        <mark key="." line="66" column="30" />
+        <mark key="^" line="66" column="30" />
       </file>
       <file name="D:/IdeaProjects/lems/src/test/groovy/JsonBuilderTest.groovy" timestamp="1473406565977">
         <mark key="[" line="19" column="5" />
@@ -508,11 +507,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" timestamp="1474336446514">
-        <mark key="[" line="294" column="9" />
-        <mark key="]" line="294" column="9" />
-        <mark key="^" line="50" column="32" />
-        <mark key="." line="294" column="9" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" timestamp="1474342823167">
+        <mark key="[" line="49" column="26" />
+        <mark key="]" line="49" column="26" />
+        <mark key="^" line="49" column="26" />
+        <mark key="." line="49" column="26" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DepartmentController.java" timestamp="1473410864707">
         <mark key="[" line="55" column="0" />
@@ -555,7 +554,10 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/index.html" timestamp="1474337921322" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/index.html" timestamp="1474343321023">
+        <mark key="[" line="8" column="40" />
+        <mark key="]" line="8" column="109" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/RoleMenu.java" timestamp="1472198590190">
         <mark key="[" line="6" column="3" />
         <mark key="]" line="6" column="6" />
@@ -779,48 +781,44 @@
       <jump line="68" column="19" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>destroy</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImluY2x1ZGVJbkJ1bmRsZSI6ICJmYWxzZSIK</text>
+      <register name="0" type="4">
+        <text encoding="base64">aHR0cDovL2FwaS5tYXAuYmFpZHUuY29tL2FwaT92PTIuMCZhaz05YjQyNzA4NGIzZmQ5MThmYjViMjlmYjRmYjM2MDViZA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInJlbW90ZSI6ICJ0cnVlIgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInJlbW90ZSI6ICJ0cnVlIgo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgX2tleXVwSGFuZGxlcjogZnVuY3Rpb24gKGV2dCkgewogICAgICAgICAgICBzd2l0Y2goZXZ0LmdldEtleSgpKSB7CiAgICAgICAgICAgICAgICBjYXNlIEV4dC5ldmVudC5FdmVudC5FU0M6CiAgICAgICAgICAgICAgICAgICAgdGhpcy5lbmRNYXJrKCk7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJwYXRoIjogImh0dHA6Ly9hcGkubWFwLmJhaWR1LmNvbS9hcGk/dj0yLjAmYWs9OWI0MjcwODRiM2ZkOTE4ZmI1YjI5ZmI0ZmIzNjA1YmQiLAogICAgICAgICAgICAicmVtb3RlIjogdHJ1ZQogICAgICAgIH0s</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgInVwZGF0ZSI6ICJkZWx0YSIK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgInVwZGF0ZSI6ICJkZWx0YSIK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJwYXRoIjogImh0dHA6Ly9hcGkubWFwLmJhaWR1LmNvbS9hcGk/dj0yLjAmYWs9OWI0MjcwODRiM2ZkOTE4ZmI1YjI5ZmI0ZmIzNjA1YmQiLAogICAgICAgICAgICAicmVtb3RlIjogdHJ1ZQogICAgICAgIH0s</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgInJlbW90ZSI6ICJ0cnVlIgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgInJlbW90ZSI6ICJ0cnVlIgo=</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICBfa2V5ZG93bkhhbmRsZXI6IGZ1bmN0aW9uIChldnQpIHsKICAgICAgICAgICAgaWYgKGV2dC5nZXRLZXkoKSA9PT0gRXh0LmV2ZW50LkV2ZW50LkNUUkwpIHsKICAgICAgICAgICAgICAgIHRoaXMuYmVnaW5NYXJrKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9LA==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1lLmFjdGl2ZVBvc2l0aW9uKSB7CiAgICAgICAgICAgICAgICBzZXRUaW1lb3V0KGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgICAgICAgIGRvY3VtZW50LmdldEVsZW1lbmV0QnlJZCgnem9vbWVyJykKICAgICAgICAgICAgICAgICAgICBtZS5zZXRNYXJrZXJBdChtZS5hY3RpdmVQb3NpdGlvbi5sbmcsIG1lLmFjdGl2ZVBvc2l0aW9uLmxhdCk7CiAgICAgICAgICAgICAgICB9LCA1MCk7CiAgICAgICAgICAgIH0=</text>
-      </register>
-      <register name="9" type="4">
-        <text>onMapReady: function(bmap) {
-                        if (pos) {
-                            this.setMarkerAt(pos.lng, pos.lat);
-                        }
-                    },</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
