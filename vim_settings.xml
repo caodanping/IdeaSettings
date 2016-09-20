@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/user/List.js" timestamp="1474338092771">
@@ -150,6 +150,9 @@
         <mark key="^" line="51" column="30" />
         <mark key="." line="51" column="31" />
       </file>
+      <file name="D:/Home/hibernate-examples/CeveatEmptor/src/main/java/com/caodanping/hibernate/ceveatemptor/simple/Item.java" timestamp="1474371045186">
+        <mark key="[" line="11" column="17" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/SecurityRepositoryCustomImpl.java" timestamp="1472442660116">
         <mark key="[" line="13" column="67" />
         <mark key="]" line="13" column="0" />
@@ -161,14 +164,6 @@
         <mark key="]" line="42" column="80" />
         <mark key="^" line="27" column="7" />
         <mark key="." line="27" column="8" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/EnhancedBMapPanel.js" timestamp="1474270474436">
-        <mark key="a" line="171" column="26" />
-        <mark key="'" line="35" column="4" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="80" column="11" />
-        <mark key="^" line="80" column="11" />
-        <mark key="." line="80" column="11" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/AuthenticationController.java" timestamp="1472698461695">
         <mark key="[" line="61" column="38" />
@@ -187,6 +182,9 @@
         <mark key="]" line="28" column="16" />
         <mark key="." line="28" column="16" />
         <mark key="^" line="28" column="16" />
+      </file>
+      <file name="/orm_2_0.txt.ft" timestamp="1474371283704">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/MenuRepository.java" timestamp="1473233121222">
         <mark key="[" line="21" column="0" />
@@ -253,6 +251,9 @@
         <mark key="]" line="7" column="43" />
         <mark key="^" line="7" column="43" />
         <mark key="." line="7" column="43" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1474371314391">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/bmap/DemoController.js" timestamp="1470198797831">
         <mark key="[" line="3" column="33" />
@@ -388,6 +389,9 @@
         <mark key="." line="35" column="29" />
         <mark key="^" line="35" column="29" />
       </file>
+      <file name="/persistence.txt.ft" timestamp="1474371275606">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/UserSessionDto.java" timestamp="1472700116400">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -430,6 +434,12 @@
         <mark key="^" line="21" column="1" />
         <mark key="." line="21" column="1" />
       </file>
+      <file name="D:/Home/hibernate-examples/CeveatEmptor/src/main/java/com/caodanping/hibernate/ceveatemptor/simple/Category.java" timestamp="1474370925815">
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="18" />
+        <mark key="." line="15" column="18" />
+        <mark key="^" line="15" column="18" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/BMap.js" timestamp="1473840225738">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="55" />
@@ -446,6 +456,9 @@
         <mark key="]" line="11" column="57" />
         <mark key="^" line="11" column="57" />
         <mark key="." line="11" column="57" />
+      </file>
+      <file name="/ActionScript File Header.txt.ft" timestamp="1474371323689">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/webapp/WEB-INF/web.xml" timestamp="1472796421453">
         <mark key="[" line="13" column="65" />
@@ -494,6 +507,9 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
         <mark key="^" line="35" column="20" />
+      </file>
+      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1474371309007">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/SystemController.java" timestamp="1473643800333">
         <mark key="[" line="74" column="5" />
@@ -572,6 +588,15 @@
         <mark key="^" line="57" column="1" />
         <mark key="." line="57" column="1" />
       </file>
+      <file name="D:/Home/hibernate-examples/CeveatEmptor/src/test/java/HibernateTest.java" timestamp="1474371173352">
+        <mark key="[" line="8" column="28" />
+      </file>
+      <file name="D:/Home/hibernate-examples/CeveatEmptor/src/main/resources/META-INF/persistence.xml" timestamp="1474371536761">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/districts.csv" timestamp="1472787354600">
         <mark key="[" line="11" column="9" />
         <mark key="]" line="5" column="6" />
@@ -643,6 +668,9 @@
         <mark key="^" line="66" column="49" />
         <mark key="." line="66" column="49" />
       </file>
+      <file name="/persistence_2_0.txt.ft" timestamp="1474371325093">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/ManagerController.js" timestamp="1473646501142">
         <mark key="[" line="88" column="16" />
         <mark key="]" line="88" column="21" />
@@ -673,7 +701,6 @@
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="19" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/Readme.md" timestamp="1474346663297" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/AjaxUserFilter.java" timestamp="1472712549514">
         <mark key="[" line="15" column="14" />
         <mark key="]" line="15" column="14" />
@@ -745,9 +772,9 @@
       <jump line="2" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/WarehouseService.java" />
       <jump line="73" column="57" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" />
       <jump line="30" column="6" filename="D:/IdeaProjects/lems/pom.xml" />
-      <jump line="78" column="5" filename="D:/Home/.m2/repository/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/crypto/hash/SimpleHash.java" />
+      <jump line="78" column="5" filename="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/crypto/hash/SimpleHash.java" />
       <jump line="96" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/MenuServiceImpl.java" />
-      <jump line="378" column="52" filename="D:/Home/.m2/repository/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/mgt/DefaultSecurityManager.java" />
+      <jump line="378" column="52" filename="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/mgt/DefaultSecurityManager.java" />
       <jump line="0" column="0" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/LocalSearchControl.js" />
       <jump line="1685" column="17" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/LocalSearchControl.js" />
       <jump line="1688" column="36" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/LocalSearchControl.js" />
@@ -760,7 +787,7 @@
       <jump line="1929" column="35" filename="D:/IdeaProjects/lems/src/main/frontend/scripts/LocalSearchControl.js" />
       <jump line="212" column="45" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/MenuServiceImpl.java" />
       <jump line="102" column="52" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/PermissionServiceImpl.java" />
-      <jump line="115" column="0" filename="D:/Home/.m2/repository/org/springframework/data/spring-data-jpa/1.9.4.RELEASE/spring-data-jpa-1.9.4.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.java" />
+      <jump line="115" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.9.4.RELEASE/spring-data-jpa-1.9.4.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.java" />
       <jump line="51" column="6" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/WeightEntry.java" />
       <jump line="0" column="0" filename="D:/IdeaProjects/lems/src/main/resources/templates/dispatch-list.jsonx" />
       <jump line="58" column="7" filename="D:/IdeaProjects/lems/src/main/frontend/app/controller/Root.js" />
@@ -790,11 +817,11 @@
       <jump line="68" column="19" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJzY3JpcHRzL01hcmtlclRvb2wuanMiPjwvc2NyaXB0Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>(strategy = )</text>
       </register>
       <register name="-" type="4">
-        <text>window.BMap);//闭包结束</text>
+        <text>(strategy = )</text>
       </register>
       <register name="/" type="4">
         <text>destroy</text>
