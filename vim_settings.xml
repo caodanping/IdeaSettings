@@ -459,7 +459,7 @@
         <mark key="^" line="9" column="56" />
         <mark key="." line="9" column="56" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app.json" timestamp="1474343600400">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app.json" timestamp="1474347138633">
         <mark key="'" line="12" column="65" />
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="0" />
@@ -554,9 +554,11 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/index.html" timestamp="1474343321023">
-        <mark key="[" line="8" column="40" />
-        <mark key="]" line="8" column="109" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/index.html" timestamp="1474347263633">
+        <mark key="[" line="10" column="34" />
+        <mark key="]" line="10" column="34" />
+        <mark key="^" line="10" column="34" />
+        <mark key="." line="10" column="34" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/RoleMenu.java" timestamp="1472198590190">
         <mark key="[" line="6" column="3" />
@@ -605,6 +607,12 @@
         <mark key="]" line="387" column="53" />
         <mark key="." line="387" column="53" />
         <mark key="^" line="387" column="53" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/scripts/MarkerTool.js" timestamp="1474346962425">
+        <mark key="[" line="615" column="3" />
+        <mark key="]" line="615" column="2" />
+        <mark key="^" line="615" column="2" />
+        <mark key="." line="615" column="2" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/List.js" timestamp="1473666899599">
         <mark key="[" line="23" column="25" />
@@ -665,6 +673,7 @@
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="19" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/Readme.md" timestamp="1474346663297" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/AjaxUserFilter.java" timestamp="1472712549514">
         <mark key="[" line="15" column="14" />
         <mark key="]" line="15" column="14" />
@@ -782,16 +791,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJzY3JpcHRzL01hcmtlclRvb2wuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>window.BMap);//闭包结束</text>
       </register>
       <register name="/" type="4">
         <text>destroy</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">aHR0cDovL2FwaS5tYXAuYmFpZHUuY29tL2FwaT92PTIuMCZhaz05YjQyNzA4NGIzZmQ5MThmYjViMjlmYjRmYjM2MDViZA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJzY3JpcHRzL01hcmtlclRvb2wuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
