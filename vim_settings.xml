@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/user/List.js" timestamp="1474338092771">
@@ -591,11 +591,11 @@
       <file name="D:/Home/hibernate-examples/CeveatEmptor/src/test/java/HibernateTest.java" timestamp="1474371173352">
         <mark key="[" line="8" column="28" />
       </file>
-      <file name="D:/Home/hibernate-examples/CeveatEmptor/src/main/resources/META-INF/persistence.xml" timestamp="1474371536761">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="D:/Home/hibernate-examples/CeveatEmptor/src/main/resources/META-INF/persistence.xml" timestamp="1474457134001">
+        <mark key="[" line="11" column="69" />
+        <mark key="]" line="8" column="60" />
+        <mark key="^" line="8" column="60" />
+        <mark key="." line="8" column="60" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/districts.csv" timestamp="1472787354600">
         <mark key="[" line="11" column="9" />
@@ -857,7 +857,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>actionlist format</text>
       </register>
     </registers>
     <search>
@@ -893,10 +893,6 @@
         <entry>destroy</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5tMTg=</entry>
-        <entry encoding="base64">JzwsJz40OA==</entry>
-        <entry encoding="base64">JzwsJz5tNDk=</entry>
-        <entry encoding="base64">JzwsJz41OQ==</entry>
         <entry encoding="base64">JzwsJz5tNTk=</entry>
         <entry>delete 25</entry>
         <entry>25 delete</entry>
@@ -913,6 +909,10 @@
         <entry>W</entry>
         <entry>587</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5tMTU=</entry>
+        <entry>actionlist</entry>
+        <entry>actionlist format</entry>
+        <entry>action format</entry>
       </history-cmd>
       <history-expr />
       <history-input />
