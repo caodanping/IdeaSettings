@@ -132,11 +132,11 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1474427517308">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1474429529972">
         <mark key="[" line="185" column="32" />
-        <mark key="]" line="185" column="31" />
-        <mark key="^" line="185" column="31" />
-        <mark key="." line="185" column="31" />
+        <mark key="]" line="192" column="10" />
+        <mark key="^" line="192" column="10" />
+        <mark key="." line="192" column="10" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DepartmentNameAlreadyExistsException.java" timestamp="1472011314990">
         <mark key="[" line="8" column="27" />
@@ -330,9 +330,6 @@
         <mark key="^" line="48" column="8" />
         <mark key="." line="48" column="8" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/Combobox.js" timestamp="1474262241071">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/main/Main.js" timestamp="1473660511915">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="17" />
@@ -487,9 +484,9 @@
         <mark key="]" line="36" column="49" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EditController.js" timestamp="1474343204878">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EditController.js" timestamp="1474429272420">
         <mark key="'" line="77" column="4" />
-        <mark key="[" line="65" column="24" />
+        <mark key="[" line="77" column="5" />
         <mark key="]" line="66" column="30" />
         <mark key="." line="66" column="30" />
         <mark key="^" line="66" column="30" />
@@ -553,11 +550,11 @@
         <mark key="." line="42" column="41" />
         <mark key="^" line="42" column="41" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ReqirementTableItemController.js" timestamp="1473824888245">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="26" column="4" />
-        <mark key="^" line="25" column="33" />
-        <mark key="." line="25" column="33" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ReqirementTableItemController.js" timestamp="1474428215778">
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="7" column="38" />
+        <mark key="^" line="7" column="38" />
+        <mark key="." line="7" column="38" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/RetryLimitHashedPasswordMatcher.java" timestamp="1472610432968">
         <mark key="[" line="14" column="44" />
@@ -698,11 +695,11 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="15" column="14" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ReqirementTableItem.js" timestamp="1474427474406">
-        <mark key="[" line="16" column="15" />
-        <mark key="]" line="16" column="19" />
-        <mark key="^" line="16" column="19" />
-        <mark key="." line="16" column="19" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ReqirementTableItem.js" timestamp="1474428374922">
+        <mark key="[" line="136" column="41" />
+        <mark key="]" line="136" column="57" />
+        <mark key="^" line="136" column="57" />
+        <mark key="." line="136" column="57" />
       </file>
     </filemarks>
     <jumps>
@@ -809,45 +806,59 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IDE2</text>
+        <text>view.remove(view.getComponent(1), true);
+        if (deviceType == '千斤顶') {
+            view.insert(1, view.jackSpecConfig);
+        } else if (deviceType == '梁' || deviceType == '梁托') {
+            view.insert(1, view.beamOrCorbelConfig);
+        } else {
+            view.insert(1, view.weightConfig);
+        }</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDE2</text>
+        <text>deviceType</text>
       </register>
       <register name="/" type="4">
         <text>home</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGl0ZW1JZDogJ3Byb2plY3RObycsCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldERldmljZVR5cGUodmFsdWVzLmRldmljZVR5cGUpOwo=</text>
       </register>
       <register name="1" type="4">
+        <text>view.remove(view.getComponent(1), true);
+        if (deviceType == '千斤顶') {
+            view.insert(1, view.jackSpecConfig);
+        } else if (deviceType == '梁' || deviceType == '梁托') {
+            view.insert(1, view.beamOrCorbelConfig);
+        } else {
+            view.insert(1, view.weightConfig);
+        }</text>
+      </register>
+      <register name="2" type="4">
         <text>var data = {},
             me = this;
         data.projectNumber = me.getComponent('proejctNumber').getValue();</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIEBUZXN0Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxjb3B5IHRvZGlyPSIke2Zyb250ZW5kQmFzZURpcn0vYnVpbGQvcHJvZHVjdGlvbi9KS0JQL1dFQi1JTkYvdmlld3MvIiBmaWxlPSIke2Zyb250ZW5kQmFzZURpcn0vYnVpbGQvcHJvZHVjdGlvbi9KS0JQL2hvbWUuanNwIi8+Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICA8cHJvcGVydGllcz4KICA8L3Byb3BlcnRpZXM+</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJwYXRoIjogImh0dHA6Ly9hcGkubWFwLmJhaWR1LmNvbS9hcGk/dj0yLjAmYWs9OWI0MjcwODRiM2ZkOTE4ZmI1YjI5ZmI0ZmIzNjA1YmQiLAogICAgICAgICAgICAicmVtb3RlIjogdHJ1ZQogICAgICAgIH0s</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInVwZGF0ZSI6ICJkZWx0YSIK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgInVwZGF0ZSI6ICJkZWx0YSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInVwZGF0ZSI6ICJkZWx0YSIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
