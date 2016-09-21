@@ -132,11 +132,11 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1474426096723">
-        <mark key="[" line="172" column="8" />
-        <mark key="]" line="172" column="8" />
-        <mark key="^" line="168" column="2" />
-        <mark key="." line="172" column="8" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1474427517308">
+        <mark key="[" line="185" column="32" />
+        <mark key="]" line="185" column="31" />
+        <mark key="^" line="185" column="31" />
+        <mark key="." line="185" column="31" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DepartmentNameAlreadyExistsException.java" timestamp="1472011314990">
         <mark key="[" line="8" column="27" />
@@ -524,7 +524,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" timestamp="1474342823167">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" timestamp="1474426400626">
         <mark key="[" line="49" column="26" />
         <mark key="]" line="49" column="26" />
         <mark key="^" line="49" column="26" />
@@ -698,11 +698,11 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="15" column="14" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ReqirementTableItem.js" timestamp="1473825641126">
-        <mark key="[" line="70" column="35" />
-        <mark key="]" line="71" column="27" />
-        <mark key="^" line="71" column="27" />
-        <mark key="." line="71" column="27" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ReqirementTableItem.js" timestamp="1474427474406">
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="16" column="19" />
+        <mark key="^" line="16" column="19" />
+        <mark key="." line="16" column="19" />
       </file>
     </filemarks>
     <jumps>
@@ -809,12 +809,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>var data = {},
-            me = this;
-        data.projectNumber = me.getComponent('proejctNumber').getValue();</text>
+        <text encoding="base64">IDE2</text>
       </register>
       <register name="-" type="4">
-        <text>projectNo</text>
+        <text encoding="base64">IDE2</text>
       </register>
       <register name="/" type="4">
         <text>home</text>
