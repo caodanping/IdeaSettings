@@ -394,7 +394,9 @@
       <file name="/persistence.txt.ft" timestamp="1474371275606">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="G:/Downloads/ebook-spider/build.gradle" timestamp="1474462630918" />
+      <file name="G:/Downloads/ebook-spider/build.gradle" timestamp="1474463781223">
+        <mark key="[" line="13" column="51" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/UserSessionDto.java" timestamp="1472700116400">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -530,6 +532,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
+      </file>
+      <file name="G:/Downloads/ebook-spider/src/main/groovy/com/caodanping/spider/Spider.groovy" timestamp="1474464588006">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="2" />
+        <mark key="^" line="7" column="2" />
+        <mark key="." line="7" column="2" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" timestamp="1474342823167">
         <mark key="[" line="49" column="26" />
