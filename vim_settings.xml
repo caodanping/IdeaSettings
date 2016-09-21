@@ -601,11 +601,12 @@
         <mark key="^" line="44" column="42" />
         <mark key="." line="44" column="42" />
       </file>
-      <file name="D:/Home/hibernate-examples/CeveatEmptor/src/main/resources/META-INF/persistence.xml" timestamp="1474457134001">
-        <mark key="[" line="11" column="69" />
-        <mark key="]" line="8" column="60" />
-        <mark key="^" line="8" column="60" />
-        <mark key="." line="8" column="60" />
+      <file name="D:/Home/hibernate-examples/CeveatEmptor/src/main/resources/META-INF/persistence.xml" timestamp="1474459716091">
+        <mark key="'" line="8" column="61" />
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="58" />
+        <mark key="^" line="11" column="58" />
+        <mark key="." line="11" column="58" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/districts.csv" timestamp="1472787354600">
         <mark key="[" line="11" column="9" />
@@ -725,7 +726,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1495" column="31" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1499" column="19" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1503" column="46" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1522" column="23" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
@@ -825,13 +825,14 @@
       <jump line="184" column="17" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
       <jump line="176" column="21" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
       <jump line="68" column="19" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
+      <jump line="8" column="61" filename="D:/Home/hibernate-examples/CeveatEmptor/src/main/resources/META-INF/persistence.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLlNlcXVlbmNlR2VuZXJhdG9yOwo=</text>
+      <register name="&quot;" type="4">
+        <text>hibernate.connection.password</text>
       </register>
       <register name="-" type="4">
-        <text>(strategy = )</text>
+        <text>hibernate.connection.password</text>
       </register>
       <register name="/" type="4">
         <text>destroy</text>
