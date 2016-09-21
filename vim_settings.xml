@@ -423,8 +423,11 @@
         <mark key="^" line="51" column="17" />
         <mark key="." line="55" column="34" />
       </file>
-      <file name="D:/IdeaProjects/hibernate-man/src/main/resources/META-INF/persistence.xml" timestamp="1474437915139">
-        <mark key="[" line="2" column="20" />
+      <file name="D:/IdeaProjects/hibernate-man/src/main/resources/META-INF/persistence.xml" timestamp="1474439938044">
+        <mark key="[" line="9" column="64" />
+        <mark key="]" line="10" column="69" />
+        <mark key="." line="10" column="69" />
+        <mark key="^" line="10" column="69" />
       </file>
       <file name="D:/IdeaProjects/lems/src/jetty/webdefault.xml" timestamp="1472706486797">
         <mark key="[" line="152" column="19" />
@@ -461,10 +464,10 @@
         <mark key="." line="46" column="65" />
         <mark key="^" line="46" column="65" />
       </file>
-      <file name="D:/IdeaProjects/hibernate-man/src/test/java/HibernateJPATest.java" timestamp="1474438285508">
-        <mark key="[" line="41" column="43" />
-        <mark key="]" line="41" column="43" />
-        <mark key="." line="41" column="21" />
+      <file name="D:/IdeaProjects/hibernate-man/src/test/java/HibernateJPATest.java" timestamp="1474439102171">
+        <mark key="[" line="42" column="43" />
+        <mark key="]" line="42" column="43" />
+        <mark key="." line="42" column="21" />
         <mark key="^" line="29" column="28" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/WarehouseRepository.java" timestamp="1472781939489">
@@ -821,44 +824,44 @@
       <jump line="68" column="19" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;Our very first Event&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxwcm9wZXJ0eSBuYW1lPSJoaWJlcm5hdGUuaGJtMmRkbC5hdXRvIiB2YWx1ZT0iY3JlYXRlLWRyb3AiLz4tLT4K</text>
       </register>
       <register name="-" type="4">
-        <text>Our very first Event</text>
+        <text>hibernate.connection.password</text>
       </register>
       <register name="/" type="4">
         <text>destroy</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;Our very first Event&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImhpYmVybmF0ZS5jb25uZWN0aW9uLnBhc3N3b3JkIiB2YWx1ZT0iIi8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbS5wZXJzaXN0KG5ldyBFdmVudCgiQSBmb2xsb3cgdXAgRXZlbnQiLCBuZXcgRGF0ZSgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxwcm9wZXJ0eSBuYW1lPSJoaWJlcm5hdGUuaGJtMmRkbC5hdXRvIiB2YWx1ZT0iY3JlYXRlLWRyb3AiLz4tLT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbS5wZXJzaXN0KG5ldyBFdmVudCgiT3VyIHZlcnkgZmlyc3QgRXZlbnQiLCBuZXcgRGF0ZSgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxwcm9wZXJ0eSBuYW1lPSJoaWJlcm5hdGUuY29ubmVjdGlvbi5wYXNzd29yZCIgdmFsdWU9IiIvPi0tPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxwcm9wZXJ0eSBuYW1lPSJoaWJlcm5hdGUuY29ubmVjdGlvbi51c2VybmFtZSIgdmFsdWU9InJvb3QiLz4tLT4K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJwYXRoIjogImh0dHA6Ly9hcGkubWFwLmJhaWR1LmNvbS9hcGk/dj0yLjAmYWs9OWI0MjcwODRiM2ZkOTE4ZmI1YjI5ZmI0ZmIzNjA1YmQiLAogICAgICAgICAgICAicmVtb3RlIjogdHJ1ZQogICAgICAgIH0s</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxwcm9wZXJ0eSBuYW1lPSJoaWJlcm5hdGUuY29ubmVjdGlvbi51cmwiIHZhbHVlPSJqZGJjOm15c3FsOi8vbG9jYWxob3N0L2hpYmVybmF0ZV9tYW4/dXNlVW5pY29kZT10cnVlJmFtcDtjaGFyYWN0ZXJFbmNvZGluZz1VVEYtOCIvPi0tPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInVwZGF0ZSI6ICJkZWx0YSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxwcm9wZXJ0eSBuYW1lPSJoaWJlcm5hdGUuY29ubmVjdGlvbi5kcml2ZXJfY2xhc3MiIHZhbHVlPSJjb20ubXlzcWwuamRiYy5Ecml2ZXIiLz4tLT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInVwZGF0ZSI6ICJkZWx0YSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImhpYmVybmF0ZS5nZW5lcmF0ZV9kZGwiIHZhbHVlPSJ0cnVlIi8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbS5wZXJzaXN0KG5ldyBFdmVudCgiQSBmb2xsb3cgdXAgRXZlbnQiLCBuZXcgRGF0ZSgpKSk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJwYXRoIjogImh0dHA6Ly9hcGkubWFwLmJhaWR1LmNvbS9hcGk/dj0yLjAmYWs9OWI0MjcwODRiM2ZkOTE4ZmI1YjI5ZmI0ZmIzNjA1YmQiLAogICAgICAgICAgICAicmVtb3RlIjogdHJ1ZQogICAgICAgIH0s</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBlbS5wZXJzaXN0KG5ldyBFdmVudCgiT3VyIHZlcnkgZmlyc3QgRXZlbnQiLCBuZXcgRGF0ZSgpKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInJlbW90ZSI6ICJ0cnVlIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
