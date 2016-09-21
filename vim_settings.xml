@@ -172,14 +172,6 @@
         <mark key="^" line="27" column="7" />
         <mark key="." line="27" column="8" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/EnhancedBMapPanel.js" timestamp="1474270474436">
-        <mark key="a" line="171" column="26" />
-        <mark key="'" line="35" column="4" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="80" column="11" />
-        <mark key="^" line="80" column="11" />
-        <mark key="." line="80" column="11" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/AuthenticationController.java" timestamp="1472698461695">
         <mark key="[" line="61" column="38" />
         <mark key="]" line="61" column="47" />
@@ -324,8 +316,11 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="31" column="39" />
       </file>
-      <file name="D:/IdeaProjects/hibernate-man/pom.xml" timestamp="1474435975889">
+      <file name="D:/IdeaProjects/hibernate-man/pom.xml" timestamp="1474437120516">
         <mark key="[" line="10" column="0" />
+        <mark key="]" line="6" column="12" />
+        <mark key="^" line="6" column="12" />
+        <mark key="." line="6" column="12" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DepartmentServiceImpl.java" timestamp="1473298295194">
         <mark key="[" line="48" column="7" />
@@ -428,6 +423,9 @@
         <mark key="^" line="51" column="17" />
         <mark key="." line="55" column="34" />
       </file>
+      <file name="D:/IdeaProjects/hibernate-man/src/main/resources/META-INF/persistence.xml" timestamp="1474437915139">
+        <mark key="[" line="2" column="20" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/jetty/webdefault.xml" timestamp="1472706486797">
         <mark key="[" line="152" column="19" />
         <mark key="]" line="152" column="22" />
@@ -462,6 +460,12 @@
         <mark key="]" line="46" column="65" />
         <mark key="." line="46" column="65" />
         <mark key="^" line="46" column="65" />
+      </file>
+      <file name="D:/IdeaProjects/hibernate-man/src/test/java/HibernateJPATest.java" timestamp="1474438285508">
+        <mark key="[" line="41" column="43" />
+        <mark key="]" line="41" column="43" />
+        <mark key="." line="41" column="21" />
+        <mark key="^" line="29" column="28" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/WarehouseRepository.java" timestamp="1472781939489">
         <mark key="[" line="11" column="44" />
@@ -517,6 +521,9 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
         <mark key="^" line="35" column="20" />
+      </file>
+      <file name="D:/IdeaProjects/hibernate-man/src/main/java/com/caodanping/hibernate_man/domain/Event.java" timestamp="1474437264499">
+        <mark key="[" line="10" column="20" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/SystemController.java" timestamp="1473643800333">
         <mark key="[" line="74" column="5" />
@@ -814,44 +821,44 @@
       <jump line="68" column="19" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJzY3JpcHRzL01hcmtlclRvb2wuanMiPjwvc2NyaXB0Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;Our very first Event&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>window.BMap);//闭包结束</text>
+        <text>Our very first Event</text>
       </register>
       <register name="/" type="4">
         <text>destroy</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJzY3JpcHRzL01hcmtlclRvb2wuanMiPjwvc2NyaXB0Pgo=</text>
+      <register name="0" type="4">
+        <text>&quot;Our very first Event&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbS5wZXJzaXN0KG5ldyBFdmVudCgiQSBmb2xsb3cgdXAgRXZlbnQiLCBuZXcgRGF0ZSgpKSk7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJwYXRoIjogImh0dHA6Ly9hcGkubWFwLmJhaWR1LmNvbS9hcGk/dj0yLjAmYWs9OWI0MjcwODRiM2ZkOTE4ZmI1YjI5ZmI0ZmIzNjA1YmQiLAogICAgICAgICAgICAicmVtb3RlIjogdHJ1ZQogICAgICAgIH0s</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBlbS5wZXJzaXN0KG5ldyBFdmVudCgiT3VyIHZlcnkgZmlyc3QgRXZlbnQiLCBuZXcgRGF0ZSgpKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInVwZGF0ZSI6ICJkZWx0YSIK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInVwZGF0ZSI6ICJkZWx0YSIK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJwYXRoIjogImh0dHA6Ly9hcGkubWFwLmJhaWR1LmNvbS9hcGk/dj0yLjAmYWs9OWI0MjcwODRiM2ZkOTE4ZmI1YjI5ZmI0ZmIzNjA1YmQiLAogICAgICAgICAgICAicmVtb3RlIjogdHJ1ZQogICAgICAgIH0s</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInJlbW90ZSI6ICJ0cnVlIgo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgInVwZGF0ZSI6ICJkZWx0YSIK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInJlbW90ZSI6ICJ0cnVlIgo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgInVwZGF0ZSI6ICJkZWx0YSIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJwYXRoIjogImh0dHA6Ly9hcGkubWFwLmJhaWR1LmNvbS9hcGk/dj0yLjAmYWs9OWI0MjcwODRiM2ZkOTE4ZmI1YjI5ZmI0ZmIzNjA1YmQiLAogICAgICAgICAgICAicmVtb3RlIjogdHJ1ZQogICAgICAgIH0s</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInJlbW90ZSI6ICJ0cnVlIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
