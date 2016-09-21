@@ -500,9 +500,9 @@
         <mark key="]" line="36" column="49" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EditController.js" timestamp="1474343204878">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EditController.js" timestamp="1474441124765">
         <mark key="'" line="77" column="4" />
-        <mark key="[" line="65" column="24" />
+        <mark key="[" line="80" column="0" />
         <mark key="]" line="66" column="30" />
         <mark key="." line="66" column="30" />
         <mark key="^" line="66" column="30" />
@@ -714,11 +714,11 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="15" column="14" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ReqirementTableItem.js" timestamp="1473825641126">
-        <mark key="[" line="70" column="35" />
-        <mark key="]" line="71" column="27" />
-        <mark key="^" line="71" column="27" />
-        <mark key="." line="71" column="27" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ReqirementTableItem.js" timestamp="1474441392426">
+        <mark key="[" line="170" column="41" />
+        <mark key="]" line="170" column="45" />
+        <mark key="^" line="170" column="45" />
+        <mark key="." line="170" column="45" />
       </file>
     </filemarks>
     <jumps>
@@ -824,11 +824,11 @@
       <jump line="68" column="19" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxwcm9wZXJ0eSBuYW1lPSJoaWJlcm5hdGUuaGJtMmRkbC5hdXRvIiB2YWx1ZT0iY3JlYXRlLWRyb3AiLz4tLT4K</text>
+      <register name="&quot;" type="4">
+        <text>filed</text>
       </register>
       <register name="-" type="4">
-        <text>hibernate.connection.password</text>
+        <text>filed</text>
       </register>
       <register name="/" type="4">
         <text>destroy</text>
