@@ -120,6 +120,12 @@
         <mark key="." line="6" column="4" />
         <mark key="^" line="6" column="4" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchingService.java" timestamp="1474519749461">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="62" column="6" />
+        <mark key="^" line="62" column="6" />
+        <mark key="." line="62" column="6" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/model/Warehouse.js" timestamp="1471941946054">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="12" column="44" />
@@ -916,7 +922,6 @@
         <entry>destroy</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5tNTk=</entry>
         <entry>delete 25</entry>
         <entry>25 delete</entry>
         <entry encoding="base64">JzwsJz55YW5r</entry>
@@ -935,6 +940,7 @@
         <entry>actionlist format</entry>
         <entry>action format</entry>
         <entry>actionlist</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
