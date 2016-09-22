@@ -25,7 +25,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1474532147517">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1474533019894">
         <mark key="[" line="70" column="7" />
         <mark key="]" line="49" column="52" />
         <mark key="^" line="49" column="52" />
@@ -156,11 +156,11 @@
         <mark key="^" line="51" column="30" />
         <mark key="." line="51" column="31" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1474529799684">
-        <mark key="[" line="51" column="13" />
-        <mark key="]" line="51" column="13" />
-        <mark key="^" line="51" column="16" />
-        <mark key="." line="51" column="13" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1474532916846">
+        <mark key="[" line="55" column="8" />
+        <mark key="]" line="55" column="8" />
+        <mark key="^" line="55" column="15" />
+        <mark key="." line="55" column="8" />
       </file>
       <file name="D:/Home/hibernate-examples/CeveatEmptor/src/main/java/com/caodanping/hibernate/ceveatemptor/simple/Item.java" timestamp="1474458979921">
         <mark key="[" line="5" column="0" />
@@ -241,6 +241,12 @@
         <mark key="]" line="12" column="39" />
         <mark key="." line="12" column="39" />
         <mark key="^" line="12" column="42" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/DispatchingRepository.java" timestamp="1474532825863">
+        <mark key="[" line="9" column="47" />
+        <mark key="]" line="9" column="59" />
+        <mark key="." line="9" column="59" />
+        <mark key="^" line="9" column="59" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Edit.js" timestamp="1473257313649">
         <mark key="[" line="64" column="33" />
@@ -859,10 +865,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>\</text>
+        <text>districtRepository</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>districtRepository</text>
       </register>
       <register name="/" type="4">
         <text>destroy</text>
