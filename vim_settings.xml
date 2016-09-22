@@ -20,7 +20,7 @@
         <mark key="." line="108" column="40" />
         <mark key="^" line="108" column="40" />
       </file>
-      <file name="/a.dummy" timestamp="1474511327196">
+      <file name="/a.dummy" timestamp="1474512851088">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -129,8 +129,8 @@
         <mark key="." line="6" column="4" />
         <mark key="^" line="6" column="4" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchingService.java" timestamp="1474510447269">
-        <mark key="[" line="7" column="37" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchingService.java" timestamp="1474513479086">
+        <mark key="[" line="10" column="37" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/model/Warehouse.js" timestamp="1471941946054">
         <mark key="[" line="0" column="3" />
@@ -185,6 +185,12 @@
         <mark key="]" line="15" column="13" />
         <mark key="." line="15" column="13" />
         <mark key="^" line="15" column="13" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DeviceListItem.java" timestamp="1474512845967">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="6" />
+        <mark key="^" line="5" column="6" />
+        <mark key="." line="5" column="6" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/AuthorizationController.java" timestamp="1473220184606">
         <mark key="[" line="28" column="10" />
@@ -258,7 +264,7 @@
         <mark key="." line="23" column="43" />
         <mark key="^" line="23" column="43" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchingDto.java" timestamp="1474511388661">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchingDto.java" timestamp="1474512912662">
         <mark key="[" line="10" column="27" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/scripts/MyControls.js" timestamp="1474253000471">
@@ -714,6 +720,9 @@
         <mark key="]" line="22" column="62" />
         <mark key="^" line="22" column="45" />
         <mark key="." line="22" column="68" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DeviceListItemDto.java" timestamp="1474512902615">
+        <mark key="[" line="13" column="23" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/Dispatchings.js" timestamp="1473659829634">
         <mark key="[" line="5" column="18" />
