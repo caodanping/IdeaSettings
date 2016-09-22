@@ -20,7 +20,7 @@
         <mark key="." line="108" column="40" />
         <mark key="^" line="108" column="40" />
       </file>
-      <file name="/a.dummy" timestamp="1474512851088">
+      <file name="/a.dummy" timestamp="1474514235987">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -68,7 +68,7 @@
         <mark key="]" line="13" column="5" />
         <mark key="." line="13" column="5" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/WeightGroup.java" timestamp="1473320269260">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/WeightGroup.java" timestamp="1474514017335">
         <mark key="[" line="71" column="24" />
         <mark key="]" line="71" column="24" />
         <mark key="^" line="37" column="11" />
@@ -80,6 +80,7 @@
         <mark key="^" line="15" column="19" />
         <mark key="." line="15" column="19" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/WeightAmount.java" timestamp="1474513867215" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/model/Permission.js" timestamp="1471941814174">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="11" column="27" />
@@ -129,8 +130,11 @@
         <mark key="." line="6" column="4" />
         <mark key="^" line="6" column="4" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchingService.java" timestamp="1474513479086">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchingService.java" timestamp="1474514252490">
         <mark key="[" line="10" column="37" />
+        <mark key="]" line="22" column="72" />
+        <mark key="^" line="22" column="72" />
+        <mark key="." line="22" column="72" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/model/Warehouse.js" timestamp="1471941946054">
         <mark key="[" line="0" column="3" />
@@ -246,11 +250,12 @@
         <mark key="." line="64" column="34" />
         <mark key="^" line="64" column="34" />
       </file>
-      <file name="D:/IdeaProjects/lems/pom.xml" timestamp="1474423360607">
-        <mark key="[" line="308" column="0" />
-        <mark key="]" line="385" column="19" />
-        <mark key="^" line="267" column="35" />
-        <mark key="." line="308" column="0" />
+      <file name="D:/IdeaProjects/lems/pom.xml" timestamp="1474516351744">
+        <mark key="'" line="35" column="7" />
+        <mark key="[" line="392" column="114" />
+        <mark key="]" line="392" column="114" />
+        <mark key="." line="392" column="114" />
+        <mark key="^" line="392" column="114" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/UserController.java" timestamp="1473410874604">
         <mark key="[" line="16" column="30" />
@@ -297,11 +302,11 @@
         <mark key="^" line="16" column="6" />
         <mark key="." line="16" column="6" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/groovy/com/aucdi/csfy/web/DispatchingViewsController.groovy" timestamp="1473408614834">
-        <mark key="[" line="66" column="9" />
-        <mark key="]" line="62" column="43" />
-        <mark key="." line="62" column="43" />
-        <mark key="^" line="62" column="43" />
+      <file name="D:/IdeaProjects/lems/src/main/groovy/com/aucdi/csfy/web/DispatchingViewsController.groovy" timestamp="1474514982880">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="14" column="5" />
+        <mark key="." line="14" column="5" />
+        <mark key="^" line="14" column="7" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/File.java" timestamp="1474447376988">
         <mark key="[" line="11" column="16" />
@@ -401,6 +406,9 @@
         <mark key="]" line="35" column="34" />
         <mark key="." line="35" column="34" />
         <mark key="^" line="35" column="34" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/WeightAmountEntry.java" timestamp="1474513804760">
+        <mark key="[" line="5" column="32" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/resources/init/permissions.xml" timestamp="1472804766091">
         <mark key="[" line="6" column="18" />
@@ -564,8 +572,11 @@
         <mark key="^" line="49" column="26" />
         <mark key="." line="49" column="26" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DispatchingController.java" timestamp="1474510349988">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DispatchingController.java" timestamp="1474514883352">
         <mark key="[" line="7" column="36" />
+        <mark key="]" line="7" column="35" />
+        <mark key="^" line="7" column="35" />
+        <mark key="." line="7" column="35" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DepartmentController.java" timestamp="1473410864707">
         <mark key="[" line="55" column="0" />
@@ -662,6 +673,7 @@
         <mark key="^" line="3" column="30" />
         <mark key="." line="3" column="30" />
       </file>
+      <file name="E:/Data/.m2/repository/org/springframework/spring-web/4.2.5.RELEASE/spring-web-4.2.5.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestMapping.java" timestamp="1474514598575" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1473646386335">
         <mark key="[" line="387" column="46" />
         <mark key="]" line="387" column="53" />
@@ -764,16 +776,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1495" column="31" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
-      <jump line="1499" column="19" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
-      <jump line="1503" column="46" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
-      <jump line="1522" column="23" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
-      <jump line="1525" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
-      <jump line="1526" column="15" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
-      <jump line="1528" column="19" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
-      <jump line="1533" column="27" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
-      <jump line="1536" column="21" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
-      <jump line="1552" column="94" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1555" column="47" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1557" column="24" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1558" column="25" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
@@ -820,7 +822,6 @@
       <jump line="31" column="15" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/WarehouseService.java" />
       <jump line="2" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/WarehouseService.java" />
       <jump line="73" column="57" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" />
-      <jump line="30" column="6" filename="D:/IdeaProjects/lems/pom.xml" />
       <jump line="78" column="5" filename="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/crypto/hash/SimpleHash.java" />
       <jump line="96" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/MenuServiceImpl.java" />
       <jump line="378" column="52" filename="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/mgt/DefaultSecurityManager.java" />
@@ -864,55 +865,66 @@
       <jump line="184" column="17" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
       <jump line="176" column="21" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
       <jump line="68" column="19" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
+      <jump line="319" column="20" filename="D:/IdeaProjects/lems/pom.xml" />
+      <jump line="320" column="40" filename="D:/IdeaProjects/lems/pom.xml" />
+      <jump line="331" column="42" filename="D:/IdeaProjects/lems/pom.xml" />
+      <jump line="343" column="45" filename="D:/IdeaProjects/lems/pom.xml" />
+      <jump line="348" column="45" filename="D:/IdeaProjects/lems/pom.xml" />
+      <jump line="7" column="20" filename="D:/IdeaProjects/lems/pom.xml" />
+      <jump line="14" column="29" filename="D:/IdeaProjects/lems/pom.xml" />
+      <jump line="19" column="33" filename="D:/IdeaProjects/lems/pom.xml" />
+      <jump line="24" column="25" filename="D:/IdeaProjects/lems/pom.xml" />
+      <jump line="30" column="32" filename="D:/IdeaProjects/lems/pom.xml" />
+      <jump line="35" column="7" filename="D:/IdeaProjects/lems/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">UmVxdWlyZW1lbnRJdGVtRHRvCg==</text>
-      </register>
-      <register name="-" type="4">
-        <text encoding="base64">Y2xhc3Mg</text>
-      </register>
-      <register name="/" type="4">
-        <text>destroy</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImhpYmVybmF0ZS5jb25uZWN0aW9uLnBhc3N3b3JkIiB2YWx1ZT0iIi8+Cg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">UmVxdWlyZW1lbnRJdGVtRHRvCg==</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgRmlsZUluZm8gY3JlYXRlRmlsZShTdHJpbmcgZmlsZW5hbWUsIElucHV0U3RyZWFtIGluKSB7CgogICAgfQ==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0U3RvcmVkUGF0aCgpIHsKICAgICAgICByZXR1cm4gc3RvcmVkUGF0aDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRTdG9yZWRQYXRoKFN0cmluZyBzdG9yZWRQYXRoKSB7CiAgICAgICAgdGhpcy5zdG9yZWRQYXRoID0gc3RvcmVkUGF0aDsKICAgIH0=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRlIFN0cmluZyBzdG9yZWRQYXRoOw==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIAogICAgcHVibGljIHN0YXRpYyBGaWxlSW5mbyBzdG9yZUFzRmlsZShTdHJpbmcgZmlsZW5hbWUsIElucHV0U3RyZWFtIGlucHV0U3RyZWFtKSB7CiAgICAgICAgCiAgICB9</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIEZpbGUK</text>
+      <register name="-" type="4">
+        <text>Get</text>
+      </register>
+      <register name="/" type="4">
+        <text>artifactId</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDxjbGFzc3BhdGggcmVmaWQ9Im1hdmVuLmNvbXBpbGUuY2xhc3NwYXRoIi8+Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGV4ZWN1dGlvbnM+PC9leGVjdXRpb25zPgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">UmVxdWlyZW1lbnRJdGVtRHRvCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgRmlsZUluZm8gY3JlYXRlRmlsZShTdHJpbmcgZmlsZW5hbWUsIElucHV0U3RyZWFtIGluKSB7CgogICAgfQ==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0U3RvcmVkUGF0aCgpIHsKICAgICAgICByZXR1cm4gc3RvcmVkUGF0aDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRTdG9yZWRQYXRoKFN0cmluZyBzdG9yZWRQYXRoKSB7CiAgICAgICAgdGhpcy5zdG9yZWRQYXRoID0gc3RvcmVkUGF0aDsKICAgIH0=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICBwcml2YXRlIFN0cmluZyBzdG9yZWRQYXRoOw==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIAogICAgcHVibGljIHN0YXRpYyBGaWxlSW5mbyBzdG9yZUFzRmlsZShTdHJpbmcgZmlsZW5hbWUsIElucHV0U3RyZWFtIGlucHV0U3RyZWFtKSB7CiAgICAgICAgCiAgICB9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0ZXA6IDEwLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpc1ZhbGlkID0gaXNWYWxpZCAmIGFtb3VudC52YWxpZGF0ZSgpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIEZpbGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>destroy</last-search>
+      <last-search>artifactId</last-search>
       <last-offset />
-      <last-pattern>destroy</last-pattern>
+      <last-pattern>artifactId</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -920,7 +932,6 @@
     </search>
     <history>
       <history-search>
-        <entry>local</entry>
         <entry>addedPermIds</entry>
         <entry>deleteAll</entry>
         <entry encoding="base64">XDzX1NbYXD4=</entry>
@@ -940,6 +951,7 @@
         <entry encoding="base64">XDxzZXRNYXJrZXJBdFw+</entry>
         <entry>destroy</entry>
         <entry>home</entry>
+        <entry>artifactId</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz41OQ==</entry>
