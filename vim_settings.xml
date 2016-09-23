@@ -150,10 +150,11 @@
         <mark key="^" line="51" column="30" />
         <mark key="." line="51" column="31" />
       </file>
-      <file name="D:/Home/hibernate-examples/CeveatEmptor/src/main/java/com/caodanping/hibernate/ceveatemptor/simple/Item.java" timestamp="1474458979921">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="D:/Home/hibernate-examples/CeveatEmptor/src/main/java/com/caodanping/hibernate/ceveatemptor/simple/Item.java" timestamp="1474640216791">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="12" column="19" />
+        <mark key="." line="12" column="19" />
+        <mark key="^" line="12" column="19" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/SecurityRepositoryCustomImpl.java" timestamp="1472442660116">
         <mark key="[" line="13" column="67" />
@@ -179,6 +180,7 @@
         <mark key="." line="15" column="13" />
         <mark key="^" line="15" column="13" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.2.Final/hibernate-core-5.2.2.Final-sources.jar!/org/hibernate/boot/model/naming/PhysicalNamingStrategyStandardImpl.java" timestamp="1474640093455" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/AuthorizationController.java" timestamp="1473220184606">
         <mark key="[" line="28" column="10" />
         <mark key="]" line="28" column="16" />
@@ -295,6 +297,12 @@
         <mark key="]" line="8" column="69" />
         <mark key="^" line="8" column="69" />
         <mark key="." line="8" column="69" />
+      </file>
+      <file name="D:/Home/hibernate-examples/CeveatEmptor/src/main/java/com/caodanping/hibernate/ceveatemptor/simple/User.java" timestamp="1474639465939">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+        <mark key="^" line="9" column="23" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/LoginController.java" timestamp="1472020890284">
         <mark key="[" line="13" column="18" />
@@ -601,24 +609,25 @@
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="6" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.2.Final/hibernate-core-5.2.2.Final-sources.jar!/org/hibernate/boot/model/naming/Identifier.java" timestamp="1474640063757" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Location.java" timestamp="1471230198560">
         <mark key="[" line="36" column="43" />
         <mark key="]" line="57" column="1" />
         <mark key="^" line="57" column="1" />
         <mark key="." line="57" column="1" />
       </file>
-      <file name="D:/Home/hibernate-examples/CeveatEmptor/src/test/java/HibernateTest.java" timestamp="1474460205788">
-        <mark key="[" line="47" column="8" />
-        <mark key="]" line="47" column="39" />
-        <mark key="." line="47" column="39" />
-        <mark key="^" line="47" column="39" />
+      <file name="D:/Home/hibernate-examples/CeveatEmptor/src/test/java/HibernateTest.java" timestamp="1474639324433">
+        <mark key="[" line="53" column="5" />
+        <mark key="]" line="64" column="19" />
+        <mark key="." line="64" column="19" />
+        <mark key="^" line="64" column="19" />
       </file>
-      <file name="D:/Home/hibernate-examples/CeveatEmptor/src/main/resources/META-INF/persistence.xml" timestamp="1474459716091">
+      <file name="D:/Home/hibernate-examples/CeveatEmptor/src/main/resources/META-INF/persistence.xml" timestamp="1474639877010">
         <mark key="'" line="8" column="61" />
-        <mark key="[" line="11" column="28" />
-        <mark key="]" line="11" column="58" />
-        <mark key="^" line="11" column="58" />
-        <mark key="." line="11" column="58" />
+        <mark key="[" line="14" column="72" />
+        <mark key="]" line="20" column="134" />
+        <mark key="^" line="20" column="134" />
+        <mark key="." line="20" column="134" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/districts.csv" timestamp="1472787354600">
         <mark key="[" line="11" column="9" />
@@ -717,6 +726,12 @@
         <mark key="]" line="152" column="8" />
         <mark key="." line="152" column="8" />
         <mark key="^" line="142" column="10" />
+      </file>
+      <file name="D:/Home/hibernate-examples/CeveatEmptor/src/main/java/com/caodanping/hibernate/ceveatemptor/simple/CENamingStrategy.java" timestamp="1474640127329">
+        <mark key="[" line="12" column="42" />
+        <mark key="]" line="12" column="41" />
+        <mark key="." line="12" column="41" />
+        <mark key="^" line="12" column="41" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/grant/GrantModel.js" timestamp="1473167745077">
         <mark key="[" line="2" column="34" />
@@ -840,12 +855,11 @@
       <jump line="8" column="61" filename="D:/Home/hibernate-examples/CeveatEmptor/src/main/resources/META-INF/persistence.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>class Toc {
-    Stri</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUuYm9vdC5tb2RlbC5uYW1pbmcuUGh5c2ljYWxOYW1pbmdTdHJhdGVneTsK</text>
       </register>
       <register name="-" type="4">
-        <text>assertEquals(items.get(2), item3);</text>
+        <text>S</text>
       </register>
       <register name="/" type="4">
         <text>destroy</text>
@@ -853,33 +867,33 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJzY3JpcHRzL01hcmtlclRvb2wuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>class Toc {
-    Stri</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUuYm9vdC5tb2RlbC5uYW1pbmcuUGh5c2ljYWxOYW1pbmdTdHJhdGVneTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKGl0LCApOwo=</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIGdldFVzZXJuYW1lKCkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLlNlcXVlbmNlR2VuZXJhdG9yOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmlkID0gaWQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldElkKExvbmcgaWQpIHsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJwYXRoIjogImh0dHA6Ly9hcGkubWFwLmJhaWR1LmNvbS9hcGk/dj0yLjAmYWs9OWI0MjcwODRiM2ZkOTE4ZmI1YjI5ZmI0ZmIzNjA1YmQiLAogICAgICAgICAgICAicmVtb3RlIjogdHJ1ZQogICAgICAgIH0s</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGZhbWlseU5hbWU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInVwZGF0ZSI6ICJkZWx0YSIK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGdpdmVuTmFtZTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInVwZGF0ZSI6ICJkZWx0YSIK</text>
+      <register name="9" type="4">
+        <text>private String familyName;
+    private String givenName;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -931,12 +945,12 @@
         <entry>help join</entry>
         <entry encoding="base64">JzwsJz5tOTU=</entry>
         <entry encoding="base64">JzwsJz5tNzg=</entry>
-        <entry>W</entry>
         <entry>587</entry>
         <entry encoding="base64">JzwsJz5tMTU=</entry>
         <entry>actionlist format</entry>
         <entry>action format</entry>
         <entry>actionlist</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
