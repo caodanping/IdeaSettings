@@ -303,6 +303,12 @@
         <mark key="." line="45" column="18" />
         <mark key="^" line="45" column="18" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/District.js" timestamp="1474621102013">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="60" column="52" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/EditController.js" timestamp="1471318507246">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="10" column="18" />
@@ -416,7 +422,7 @@
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/Window.js" timestamp="1474599263125">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/Window.js" timestamp="1474618577379">
         <mark key="[" line="14" column="20" />
         <mark key="]" line="16" column="34" />
         <mark key="." line="16" column="34" />
@@ -869,44 +875,54 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this</text>
+        <text encoding="base64">CiAgICBzZXRWYWx1ZTogZnVuY3Rpb24gKHZhbHVlKSB7CiAgICAgICAgCiAgICB9LAoKICAgIGdldFZhbHVlOiBmdW5jdGlvbiAoKSB7CiAgICAgICAgCiAgICB9LA==</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY3RpdmVNYXJrZXJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJzY3JpcHRzL01hcmtlclRvb2wuanMiPjwvc2NyaXB0Pgo=</text>
+      <register name="0" type="4">
+        <text>listeners: {
+                        change: {
+                            fn: me.onProvinceChanged(),
+                            scope: me
+                        }
+                    }</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">CiAgICBzZXRWYWx1ZTogZnVuY3Rpb24gKHZhbHVlKSB7CiAgICAgICAgCiAgICB9LAoKICAgIGdldFZhbHVlOiBmdW5jdGlvbiAoKSB7CiAgICAgICAgCiAgICB9LA==</text>
+      </register>
+      <register name="2" type="4">
+        <text>if (newValue == null) {
+            me.down('[name=city]').setValue(null);
+            return;
+        }
+
+        if ()</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>me.activeMarker = mkr;
                 me.fireEvent('markend', me, me.bmap, mkr);</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5maXJlRXZlbnQoJ2FjdGl2ZW1hcmtlcmNoYW5nZWQnLCBta3IpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBFeHQuZ2V0RG9jKCkub24oJ2tleXVwJywgbWUuX2tleXVwSGFuZGxlciwgbWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvaW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5maXJlRXZlbnQoJ2FjdGl2ZW1hcmtlcmNoYW5nZWQnLCBta3IpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHB1YmxpYyBEaXNwYXRjaGluZ1NlcnZpY2VJbXBsKERpc3BhdGNoaW5nUmVwb3NpdG9yeSBkaXNwYXRjaGluZ1JlcG9zaXRvcnkpIHsKICAgICAgICB0aGlzLmRpc3BhdGNoaW5nUmVwb3NpdG9yeSA9IGRpc3BhdGNoaW5nUmVwb3NpdG9yeTsKICAgIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RvcmUgPSBFeHQuY3JlYXRlKCdMZW1zLnN0b3JlLicpLAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBFeHQuZ2V0RG9jKCkub24oJ2tleXVwJywgbWUuX2tleXVwSGFuZGxlciwgbWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF1dG9Mb2FkOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvaW50Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
