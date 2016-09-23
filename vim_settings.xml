@@ -303,11 +303,11 @@
         <mark key="." line="45" column="18" />
         <mark key="^" line="45" column="18" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/District.js" timestamp="1474621102013">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="60" column="52" />
-        <mark key="." line="47" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/District.js" timestamp="1474621374277">
+        <mark key="[" line="56" column="6" />
+        <mark key="]" line="59" column="14" />
+        <mark key="^" line="59" column="14" />
+        <mark key="." line="59" column="14" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/EditController.js" timestamp="1471318507246">
         <mark key="[" line="6" column="6" />
@@ -874,27 +874,25 @@
       <jump line="28" column="8" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBzZXRWYWx1ZTogZnVuY3Rpb24gKHZhbHVlKSB7CiAgICAgICAgCiAgICB9LAoKICAgIGdldFZhbHVlOiBmdW5jdGlvbiAoKSB7CiAgICAgICAgCiAgICB9LA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>province</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY3RpdmVNYXJrZXJcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>listeners: {
-                        change: {
-                            fn: me.onProvinceChanged(),
-                            scope: me
-                        }
-                    }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmRvd24oJ1tuYW1lPXByb3ZpbmNlXScpLnNldFNlbGVjdGlvbihwcm92aW5jZSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICBzZXRWYWx1ZTogZnVuY3Rpb24gKHZhbHVlKSB7CiAgICAgICAgCiAgICB9LAoKICAgIGdldFZhbHVlOiBmdW5jdGlvbiAoKSB7CiAgICAgICAgCiAgICB9LA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CiAgICBzZXRWYWx1ZTogZnVuY3Rpb24gKHZhbHVlKSB7CiAgICAgICAgCiAgICB9LAoKICAgIGdldFZhbHVlOiBmdW5jdGlvbiAoKSB7CiAgICAgICAgCiAgICB9LA==</text>
+      </register>
+      <register name="3" type="4">
         <text>if (newValue == null) {
             me.down('[name=city]').setValue(null);
             return;
@@ -902,27 +900,24 @@
 
         if ()</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>me.activeMarker = mkr;
                 me.fireEvent('markend', me, me.bmap, mkr);</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5maXJlRXZlbnQoJ2FjdGl2ZW1hcmtlcmNoYW5nZWQnLCBta3IpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5maXJlRXZlbnQoJ2FjdGl2ZW1hcmtlcmNoYW5nZWQnLCBta3IpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBFeHQuZ2V0RG9jKCkub24oJ2tleXVwJywgbWUuX2tleXVwSGFuZGxlciwgbWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvaW50Owo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBFeHQuZ2V0RG9jKCkub24oJ2tleXVwJywgbWUuX2tleXVwSGFuZGxlciwgbWUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
