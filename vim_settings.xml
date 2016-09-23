@@ -141,11 +141,11 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1474600953933">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="114" column="42" />
-        <mark key="^" line="114" column="42" />
-        <mark key="." line="114" column="42" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1474601551949">
+        <mark key="[" line="184" column="50" />
+        <mark key="]" line="185" column="20" />
+        <mark key="^" line="185" column="20" />
+        <mark key="." line="185" column="20" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DepartmentNameAlreadyExistsException.java" timestamp="1472011314990">
         <mark key="[" line="8" column="27" />
@@ -521,12 +521,12 @@
         <mark key="]" line="36" column="49" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EditController.js" timestamp="1474599533659">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EditController.js" timestamp="1474601898980">
         <mark key="'" line="77" column="4" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="12" />
-        <mark key="." line="92" column="12" />
-        <mark key="^" line="92" column="12" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="91" column="23" />
+        <mark key="." line="91" column="23" />
+        <mark key="^" line="91" column="23" />
       </file>
       <file name="D:/IdeaProjects/lems/src/test/groovy/JsonBuilderTest.groovy" timestamp="1473406565977">
         <mark key="[" line="19" column="5" />
