@@ -25,7 +25,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1474533019894">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1474592811574">
         <mark key="[" line="70" column="7" />
         <mark key="]" line="49" column="52" />
         <mark key="^" line="49" column="52" />
@@ -36,6 +36,12 @@
         <mark key="]" line="230" column="45" />
         <mark key="^" line="230" column="45" />
         <mark key="." line="230" column="45" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Task.java" timestamp="1474593208127">
+        <mark key="[" line="7" column="44" />
+        <mark key="]" line="7" column="40" />
+        <mark key="^" line="7" column="40" />
+        <mark key="." line="7" column="40" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/Permissions.js" timestamp="1473061743263">
         <mark key="[" line="32" column="50" />
@@ -125,6 +131,9 @@
         <mark key="]" line="62" column="6" />
         <mark key="^" line="62" column="6" />
         <mark key="." line="62" column="6" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Flow.java" timestamp="1474593151350">
+        <mark key="[" line="5" column="17" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/model/Warehouse.js" timestamp="1471941946054">
         <mark key="[" line="0" column="3" />
