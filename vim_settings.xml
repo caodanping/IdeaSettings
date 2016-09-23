@@ -141,11 +141,11 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1474602955843">
-        <mark key="[" line="82" column="52" />
-        <mark key="]" line="150" column="47" />
-        <mark key="^" line="150" column="47" />
-        <mark key="." line="150" column="47" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1474605216901">
+        <mark key="[" line="117" column="39" />
+        <mark key="]" line="117" column="40" />
+        <mark key="^" line="117" column="40" />
+        <mark key="." line="117" column="40" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DepartmentNameAlreadyExistsException.java" timestamp="1472011314990">
         <mark key="[" line="8" column="27" />
@@ -867,10 +867,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHB1YmxpYyBEaXNwYXRjaGluZ1NlcnZpY2VJbXBsKERpc3BhdGNoaW5nUmVwb3NpdG9yeSBkaXNwYXRjaGluZ1JlcG9zaXRvcnkpIHsKICAgICAgICB0aGlzLmRpc3BhdGNoaW5nUmVwb3NpdG9yeSA9IGRpc3BhdGNoaW5nUmVwb3NpdG9yeTsKICAgIH0=</text>
+        <text>tagfield</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>tagfield</text>
       </register>
       <register name="/" type="4">
         <text>jetty</text>
