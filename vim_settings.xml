@@ -141,11 +141,11 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1474601551949">
-        <mark key="[" line="184" column="50" />
-        <mark key="]" line="185" column="20" />
-        <mark key="^" line="185" column="20" />
-        <mark key="." line="185" column="20" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1474602955843">
+        <mark key="[" line="82" column="52" />
+        <mark key="]" line="150" column="47" />
+        <mark key="^" line="150" column="47" />
+        <mark key="." line="150" column="47" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DepartmentNameAlreadyExistsException.java" timestamp="1472011314990">
         <mark key="[" line="8" column="27" />
@@ -165,11 +165,11 @@
         <mark key="^" line="51" column="30" />
         <mark key="." line="51" column="31" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1474597390906">
-        <mark key="[" line="40" column="16" />
-        <mark key="]" line="40" column="16" />
-        <mark key="^" line="55" column="67" />
-        <mark key="." line="40" column="16" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1474603350560">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="34" column="13" />
+        <mark key="^" line="34" column="13" />
+        <mark key="." line="34" column="13" />
       </file>
       <file name="D:/Home/hibernate-examples/CeveatEmptor/src/main/java/com/caodanping/hibernate/ceveatemptor/simple/Item.java" timestamp="1474458979921">
         <mark key="[" line="5" column="0" />
@@ -570,11 +570,11 @@
         <mark key="^" line="49" column="26" />
         <mark key="." line="49" column="26" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DispatchingController.java" timestamp="1474598813826">
-        <mark key="[" line="19" column="46" />
-        <mark key="]" line="21" column="75" />
-        <mark key="^" line="21" column="75" />
-        <mark key="." line="21" column="75" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DispatchingController.java" timestamp="1474603201094">
+        <mark key="[" line="28" column="46" />
+        <mark key="]" line="29" column="54" />
+        <mark key="^" line="29" column="54" />
+        <mark key="." line="29" column="54" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DepartmentController.java" timestamp="1473410864707">
         <mark key="[" line="55" column="0" />
@@ -866,11 +866,11 @@
       <jump line="391" column="29" filename="D:/IdeaProjects/lems/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RvcmUgPSBFeHQuY3JlYXRlKCdMZW1zLnN0b3JlLicpLAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHB1YmxpYyBEaXNwYXRjaGluZ1NlcnZpY2VJbXBsKERpc3BhdGNoaW5nUmVwb3NpdG9yeSBkaXNwYXRjaGluZ1JlcG9zaXRvcnkpIHsKICAgICAgICB0aGlzLmRpc3BhdGNoaW5nUmVwb3NpdG9yeSA9IGRpc3BhdGNoaW5nUmVwb3NpdG9yeTsKICAgIH0=</text>
       </register>
       <register name="-" type="4">
-        <text>Users</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>jetty</text>
@@ -878,28 +878,28 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJzY3JpcHRzL01hcmtlclRvb2wuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RvcmUgPSBFeHQuY3JlYXRlKCdMZW1zLnN0b3JlLicpLAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHB1YmxpYyBEaXNwYXRjaGluZ1NlcnZpY2VJbXBsKERpc3BhdGNoaW5nUmVwb3NpdG9yeSBkaXNwYXRjaGluZ1JlcG9zaXRvcnkpIHsKICAgICAgICB0aGlzLmRpc3BhdGNoaW5nUmVwb3NpdG9yeSA9IGRpc3BhdGNoaW5nUmVwb3NpdG9yeTsKICAgIH0=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3RvcmUgPSBFeHQuY3JlYXRlKCdMZW1zLnN0b3JlLicpLAo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGF1dG9Mb2FkOiB0cnVlLAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgICAgICAgICAgZmFpbHVyZTogZnVuY3Rpb24gKHJlc3ApIHsKICAgICAgICAgICAgICAgIHZhciBvYmogPSBFeHQuSlNPTi5lbmNvZGUocmVzcC5yZXNwb25zZVRleHQpOwogICAgICAgICAgICAgICAgRXh0LmFsZXJ0KCe07c7z0MXPoicsIG9iai5tZXNzYWdlKTsKICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>if (resp.status) {
 
                 }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKGl0LCApOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLlNlcXVlbmNlR2VuZXJhdG9yOwo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLlNlcXVlbmNlR2VuZXJhdG9yOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
