@@ -141,11 +141,11 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1474606130809">
-        <mark key="[" line="117" column="39" />
-        <mark key="]" line="117" column="40" />
-        <mark key="^" line="117" column="40" />
-        <mark key="." line="117" column="40" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1474612495942">
+        <mark key="[" line="70" column="37" />
+        <mark key="]" line="74" column="79" />
+        <mark key="^" line="74" column="79" />
+        <mark key="." line="74" column="79" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DepartmentNameAlreadyExistsException.java" timestamp="1472011314990">
         <mark key="[" line="8" column="27" />
@@ -564,11 +564,13 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" timestamp="1474606571722">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="^" line="69" column="20" />
-        <mark key="." line="94" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" timestamp="1474612248345">
+        <mark key="e" line="211" column="17" />
+        <mark key="'" line="28" column="8" />
+        <mark key="[" line="213" column="20" />
+        <mark key="]" line="213" column="53" />
+        <mark key="." line="213" column="53" />
+        <mark key="^" line="213" column="53" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DispatchingController.java" timestamp="1474603201094">
         <mark key="[" line="28" column="46" />
@@ -764,12 +766,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1503" column="46" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
-      <jump line="1522" column="23" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
-      <jump line="1525" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
-      <jump line="1526" column="15" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
-      <jump line="1528" column="19" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
-      <jump line="1533" column="27" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1536" column="21" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1552" column="94" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1555" column="47" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
@@ -864,57 +860,62 @@
       <jump line="68" column="19" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
       <jump line="8" column="61" filename="D:/Home/hibernate-examples/CeveatEmptor/src/main/resources/META-INF/persistence.xml" />
       <jump line="391" column="29" filename="D:/IdeaProjects/lems/pom.xml" />
+      <jump line="208" column="23" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
+      <jump line="220" column="21" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
+      <jump line="222" column="28" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
+      <jump line="280" column="41" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
+      <jump line="281" column="17" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
+      <jump line="28" column="8" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>this</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
-        <text>jetty</text>
+        <text encoding="base64">XDxhY3RpdmVNYXJrZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJzY3JpcHRzL01hcmtlclRvb2wuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>me.activeMarker = mkr;
+                me.fireEvent('markend', me, me.bmap, mkr);</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBFeHQuZ2V0RG9jKCkub24oJ2tleXVwJywgbWUuX2tleXVwSGFuZGxlciwgbWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvaW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5maXJlRXZlbnQoJ2FjdGl2ZW1hcmtlcmNoYW5nZWQnLCBta3IpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHB1YmxpYyBEaXNwYXRjaGluZ1NlcnZpY2VJbXBsKERpc3BhdGNoaW5nUmVwb3NpdG9yeSBkaXNwYXRjaGluZ1JlcG9zaXRvcnkpIHsKICAgICAgICB0aGlzLmRpc3BhdGNoaW5nUmVwb3NpdG9yeSA9IGRpc3BhdGNoaW5nUmVwb3NpdG9yeTsKICAgIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RvcmUgPSBFeHQuY3JlYXRlKCdMZW1zLnN0b3JlLicpLAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBFeHQuZ2V0RG9jKCkub24oJ2tleXVwJywgbWUuX2tleXVwSGFuZGxlciwgbWUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGF1dG9Mb2FkOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvaW50Owo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgZmFpbHVyZTogZnVuY3Rpb24gKHJlc3ApIHsKICAgICAgICAgICAgICAgIHZhciBvYmogPSBFeHQuSlNPTi5lbmNvZGUocmVzcC5yZXNwb25zZVRleHQpOwogICAgICAgICAgICAgICAgRXh0LmFsZXJ0KCe07c7z0MXPoicsIG9iai5tZXNzYWdlKTsKICAgICAgICAgICAgfQ==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHB1YmxpYyBEaXNwYXRjaGluZ1NlcnZpY2VJbXBsKERpc3BhdGNoaW5nUmVwb3NpdG9yeSBkaXNwYXRjaGluZ1JlcG9zaXRvcnkpIHsKICAgICAgICB0aGlzLmRpc3BhdGNoaW5nUmVwb3NpdG9yeSA9IGRpc3BhdGNoaW5nUmVwb3NpdG9yeTsKICAgIH0=</text>
       </register>
-      <register name="8" type="4">
-        <text>if (resp.status) {
-
-                }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3RvcmUgPSBFeHQuY3JlYXRlKCdMZW1zLnN0b3JlLicpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKGl0LCApOwo=</text>
+        <text encoding="base64">ICAgIGF1dG9Mb2FkOiB0cnVlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>jetty</last-search>
+      <last-search encoding="base64">XDxhY3RpdmVNYXJrZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>jetty</last-pattern>
+      <last-pattern encoding="base64">XDxhY3RpdmVNYXJrZXJcPg==</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -922,7 +923,6 @@
     </search>
     <history>
       <history-search>
-        <entry>addedPermIds</entry>
         <entry>deleteAll</entry>
         <entry encoding="base64">XDzX1NbYXD4=</entry>
         <entry>home</entry>
@@ -942,6 +942,7 @@
         <entry encoding="base64">XDxzZXRNYXJrZXJBdFw+</entry>
         <entry>destroy</entry>
         <entry>jetty</entry>
+        <entry encoding="base64">XDxhY3RpdmVNYXJrZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>delete 25</entry>
