@@ -141,7 +141,7 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1474605216901">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1474606130809">
         <mark key="[" line="117" column="39" />
         <mark key="]" line="117" column="40" />
         <mark key="^" line="117" column="40" />
@@ -564,11 +564,11 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" timestamp="1474342823167">
-        <mark key="[" line="49" column="26" />
-        <mark key="]" line="49" column="26" />
-        <mark key="^" line="49" column="26" />
-        <mark key="." line="49" column="26" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" timestamp="1474606571722">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="^" line="69" column="20" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DispatchingController.java" timestamp="1474603201094">
         <mark key="[" line="28" column="46" />
@@ -866,11 +866,11 @@
       <jump line="391" column="29" filename="D:/IdeaProjects/lems/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>tagfield</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>tagfield</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>jetty</text>
@@ -878,34 +878,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJzY3JpcHRzL01hcmtlclRvb2wuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHB1YmxpYyBEaXNwYXRjaGluZ1NlcnZpY2VJbXBsKERpc3BhdGNoaW5nUmVwb3NpdG9yeSBkaXNwYXRjaGluZ1JlcG9zaXRvcnkpIHsKICAgICAgICB0aGlzLmRpc3BhdGNoaW5nUmVwb3NpdG9yeSA9IGRpc3BhdGNoaW5nUmVwb3NpdG9yeTsKICAgIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RvcmUgPSBFeHQuY3JlYXRlKCdMZW1zLnN0b3JlLicpLAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBFeHQuZ2V0RG9jKCkub24oJ2tleXVwJywgbWUuX2tleXVwSGFuZGxlciwgbWUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF1dG9Mb2FkOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvaW50Owo=</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHB1YmxpYyBEaXNwYXRjaGluZ1NlcnZpY2VJbXBsKERpc3BhdGNoaW5nUmVwb3NpdG9yeSBkaXNwYXRjaGluZ1JlcG9zaXRvcnkpIHsKICAgICAgICB0aGlzLmRpc3BhdGNoaW5nUmVwb3NpdG9yeSA9IGRpc3BhdGNoaW5nUmVwb3NpdG9yeTsKICAgIH0=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3RvcmUgPSBFeHQuY3JlYXRlKCdMZW1zLnN0b3JlLicpLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGF1dG9Mb2FkOiB0cnVlLAo=</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICAgICAgZmFpbHVyZTogZnVuY3Rpb24gKHJlc3ApIHsKICAgICAgICAgICAgICAgIHZhciBvYmogPSBFeHQuSlNPTi5lbmNvZGUocmVzcC5yZXNwb25zZVRleHQpOwogICAgICAgICAgICAgICAgRXh0LmFsZXJ0KCe07c7z0MXPoicsIG9iai5tZXNzYWdlKTsKICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>if (resp.status) {
 
                 }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKGl0LCApOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLlNlcXVlbmNlR2VuZXJhdG9yOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKGl0LCApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
