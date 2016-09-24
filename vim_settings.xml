@@ -150,7 +150,7 @@
         <mark key="^" line="51" column="30" />
         <mark key="." line="51" column="31" />
       </file>
-      <file name="D:/Home/hibernate-examples/CeveatEmptor/src/main/java/com/caodanping/hibernate/ceveatemptor/simple/Item.java" timestamp="1474727757165">
+      <file name="D:/Home/hibernate-examples/CeveatEmptor/src/main/java/com/caodanping/hibernate/ceveatemptor/simple/Item.java" timestamp="1474729042310">
         <mark key="[" line="20" column="25" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
@@ -408,6 +408,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.2.Final/hibernate-core-5.2.2.Final-sources.jar!/org/hibernate/boot/model/naming/ImplicitNamingStrategy.java" timestamp="1474728581038" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/grant/Grant.js" timestamp="1473212217446">
         <mark key="[" line="32" column="23" />
         <mark key="]" line="35" column="29" />
