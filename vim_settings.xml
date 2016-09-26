@@ -43,11 +43,11 @@
         <mark key="^" line="230" column="45" />
         <mark key="." line="230" column="45" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Task.java" timestamp="1474594581967">
-        <mark key="[" line="7" column="44" />
-        <mark key="]" line="7" column="40" />
-        <mark key="^" line="7" column="40" />
-        <mark key="." line="7" column="40" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Task.java" timestamp="1474879029225">
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="8" column="40" />
+        <mark key="^" line="8" column="40" />
+        <mark key="." line="8" column="40" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/Permissions.js" timestamp="1473061743263">
         <mark key="[" line="32" column="50" />
@@ -168,11 +168,12 @@
         <mark key="^" line="51" column="30" />
         <mark key="." line="51" column="31" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1474877635425">
-        <mark key="[" line="58" column="47" />
-        <mark key="]" line="58" column="46" />
-        <mark key="." line="58" column="46" />
-        <mark key="^" line="58" column="46" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1474878755634">
+        <mark key="'" line="58" column="55" />
+        <mark key="[" line="68" column="38" />
+        <mark key="]" line="69" column="50" />
+        <mark key="." line="69" column="50" />
+        <mark key="^" line="69" column="50" />
       </file>
       <file name="D:/Home/hibernate-examples/CeveatEmptor/src/main/java/com/caodanping/hibernate/ceveatemptor/simple/Item.java" timestamp="1474458979921">
         <mark key="[" line="5" column="0" />
@@ -282,10 +283,10 @@
         <mark key="." line="23" column="43" />
         <mark key="^" line="23" column="43" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchingDto.java" timestamp="1474876575777">
-        <mark key="[" line="63" column="4" />
-        <mark key="]" line="63" column="4" />
-        <mark key="." line="63" column="4" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchingDto.java" timestamp="1474878724993">
+        <mark key="[" line="27" column="23" />
+        <mark key="]" line="64" column="4" />
+        <mark key="." line="64" column="4" />
         <mark key="^" line="17" column="25" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/scripts/MyControls.js" timestamp="1474253000471">
@@ -798,7 +799,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1536" column="21" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1552" column="94" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1555" column="47" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1557" column="24" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
@@ -898,13 +898,14 @@
       <jump line="280" column="41" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
       <jump line="281" column="17" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
       <jump line="28" column="8" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
+      <jump line="58" column="55" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkaXNwLnNldEFwcGx5Q29tbWVudChkYXRhLmdldCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>''</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY3RpdmVNYXJrZXJcPg==</text>
@@ -913,9 +914,15 @@
         <text encoding="base64">ICAgICAgICB0aGlzLmRvd24oJ1tuYW1lPWNpdHldJykuZ2V0U3RvcmUoKS5zZXREYXRhKHJlY29yZC5jaGlsZE5vZGVzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocHJvKQo=</text>
+        <text encoding="base64">ICAgICAgICBkaXNwLnNldEFwcGx5Q29tbWVudChkYXRhLmdldCk7Cg==</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHB1YmxpYyBEaXNwYXRjaGluZ1NlcnZpY2VJbXBsKERpc3BhdGNoaW5nUmVwb3NpdG9yeSBkaXNwYXRjaGluZ1JlcG9zaXRvcnksIFVzZXJSZXBvc2l0b3J5IHVzZXJSZXBvc2l0b3J5LCBEZXBhcnRtZW50UmVwb3NpdG9yeSBkZXBhcnRtZW50UmVwb3NpdG9yeSwgRGlzdHJpY3RSZXBvc2l0b3J5IGRpc3RyaWN0UmVwb3NpdG9yeSkgewogICAgICAgIHRoaXMuZGlzcGF0Y2hpbmdSZXBvc2l0b3J5ID0gZGlzcGF0Y2hpbmdSZXBvc2l0b3J5OwogICAgICAgIHRoaXMudXNlclJlcG9zaXRvcnkgPSB1c2VyUmVwb3NpdG9yeTsKICAgICAgICB0aGlzLmRlcGFydG1lbnRSZXBvc2l0b3J5ID0gZGVwYXJ0bWVudFJlcG9zaXRvcnk7CiAgICAgICAgdGhpcy5kaXN0cmljdFJlcG9zaXRvcnkgPSBkaXN0cmljdFJlcG9zaXRvcnk7CiAgICB9</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAocHJvKQo=</text>
+      </register>
+      <register name="4" type="4">
         <text>public String getDistrict() {
         return district;
     }
@@ -924,29 +931,23 @@
         this.district = district;
     }</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGRpc3RyaWN0Owo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hpbGRyZW47Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hpbGRyZW47Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hpbGRyZW4gPSByZWNvcmQuZ2V0KCdjaGlsZHJlbicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hpbGRyZW47Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNoaWxkcmVuID0gcmVjb3JkLmdldCgnY2hpbGRyZW4nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hpbGRyZW47Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjaXR5LnNldFNlbGVjdGlvbigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hpbGRyZW4gPSByZWNvcmQuZ2V0KCdjaGlsZHJlbicpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjaXR5LnNldERhdGEocHJvdmluY2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNoaWxkcmVuID0gcmVjb3JkLmdldCgnY2hpbGRyZW4nKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>set surround</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1000,8 +1001,8 @@
         <entry>actionlist</entry>
         <entry>e</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>set surround</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
