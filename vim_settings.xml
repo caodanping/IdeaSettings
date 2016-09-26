@@ -141,11 +141,11 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1474616139784">
-        <mark key="[" line="76" column="64" />
-        <mark key="]" line="76" column="71" />
-        <mark key="^" line="76" column="71" />
-        <mark key="." line="76" column="71" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1474853018700">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="7" column="28" />
+        <mark key="^" line="7" column="28" />
+        <mark key="." line="7" column="28" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DepartmentNameAlreadyExistsException.java" timestamp="1472011314990">
         <mark key="[" line="8" column="27" />
@@ -303,11 +303,11 @@
         <mark key="." line="45" column="18" />
         <mark key="^" line="45" column="18" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/District.js" timestamp="1474621374277">
-        <mark key="[" line="56" column="6" />
-        <mark key="]" line="59" column="14" />
-        <mark key="^" line="59" column="14" />
-        <mark key="." line="59" column="14" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/District.js" timestamp="1474853628206">
+        <mark key="[" line="20" column="33" />
+        <mark key="]" line="20" column="33" />
+        <mark key="^" line="6" column="18" />
+        <mark key="." line="20" column="33" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/EditController.js" timestamp="1471318507246">
         <mark key="[" line="6" column="6" />
@@ -505,6 +505,15 @@
         <mark key="^" line="11" column="57" />
         <mark key="." line="11" column="57" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/CommonService.java" timestamp="1474854204855">
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="5" column="31" />
+        <mark key="." line="5" column="31" />
+        <mark key="^" line="5" column="31" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DistrictDto.java" timestamp="1474854304350">
+        <mark key="[" line="5" column="26" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/webapp/WEB-INF/web.xml" timestamp="1472796421453">
         <mark key="[" line="13" column="65" />
         <mark key="]" line="13" column="68" />
@@ -686,7 +695,6 @@
         <mark key="^" line="3" column="30" />
         <mark key="." line="3" column="30" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.5.RELEASE/spring-web-4.2.5.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestMapping.java" timestamp="1474600441404" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1473646386335">
         <mark key="[" line="387" column="46" />
         <mark key="]" line="387" column="53" />
@@ -874,11 +882,11 @@
       <jump line="28" column="8" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y2xhc3Mg</text>
       </register>
       <register name="-" type="4">
-        <text>province</text>
+        <text encoding="base64">Y2xhc3Mg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY3RpdmVNYXJrZXJcPg==</text>
