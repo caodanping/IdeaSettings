@@ -43,11 +43,11 @@
         <mark key="^" line="230" column="45" />
         <mark key="." line="230" column="45" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Task.java" timestamp="1474879029225">
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="8" column="40" />
-        <mark key="^" line="8" column="40" />
-        <mark key="." line="8" column="40" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Task.java" timestamp="1474879925393">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="10" column="19" />
+        <mark key="^" line="10" column="19" />
+        <mark key="." line="10" column="19" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/Permissions.js" timestamp="1473061743263">
         <mark key="[" line="32" column="50" />
@@ -168,11 +168,11 @@
         <mark key="^" line="51" column="30" />
         <mark key="." line="51" column="31" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1474878755634">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1474879499202">
         <mark key="'" line="58" column="55" />
-        <mark key="[" line="68" column="38" />
-        <mark key="]" line="69" column="50" />
-        <mark key="." line="69" column="50" />
+        <mark key="[" line="71" column="67" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
         <mark key="^" line="69" column="50" />
       </file>
       <file name="D:/Home/hibernate-examples/CeveatEmptor/src/main/java/com/caodanping/hibernate/ceveatemptor/simple/Item.java" timestamp="1474458979921">
@@ -556,6 +556,12 @@
         <mark key="." line="91" column="23" />
         <mark key="^" line="91" column="23" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/TaskRepository.java" timestamp="1474879593491">
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="8" column="63" />
+        <mark key="^" line="8" column="63" />
+        <mark key="." line="8" column="63" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/test/groovy/JsonBuilderTest.groovy" timestamp="1473406565977">
         <mark key="[" line="19" column="5" />
         <mark key="]" line="7" column="8" />
@@ -707,6 +713,12 @@
         <mark key="]" line="3" column="30" />
         <mark key="^" line="3" column="30" />
         <mark key="." line="3" column="30" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/TaskService.java" timestamp="1474880295467">
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="11" column="124" />
+        <mark key="^" line="11" column="124" />
+        <mark key="." line="11" column="124" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1473646386335">
         <mark key="[" line="387" column="46" />
@@ -902,7 +914,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwLnNldEFwcGx5Q29tbWVudChkYXRhLmdldCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU2VjdXJpdHlVdGlscy5nZXRTdWJqZWN0KCkuZ2V0UHJpbmNpcGFsKCkpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>''</text>
@@ -914,15 +926,18 @@
         <text encoding="base64">ICAgICAgICB0aGlzLmRvd24oJ1tuYW1lPWNpdHldJykuZ2V0U3RvcmUoKS5zZXREYXRhKHJlY29yZC5jaGlsZE5vZGVzKTsK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU2VjdXJpdHlVdGlscy5nZXRTdWJqZWN0KCkuZ2V0UHJpbmNpcGFsKCkpOwo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBkaXNwLnNldEFwcGx5Q29tbWVudChkYXRhLmdldCk7Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHB1YmxpYyBEaXNwYXRjaGluZ1NlcnZpY2VJbXBsKERpc3BhdGNoaW5nUmVwb3NpdG9yeSBkaXNwYXRjaGluZ1JlcG9zaXRvcnksIFVzZXJSZXBvc2l0b3J5IHVzZXJSZXBvc2l0b3J5LCBEZXBhcnRtZW50UmVwb3NpdG9yeSBkZXBhcnRtZW50UmVwb3NpdG9yeSwgRGlzdHJpY3RSZXBvc2l0b3J5IGRpc3RyaWN0UmVwb3NpdG9yeSkgewogICAgICAgIHRoaXMuZGlzcGF0Y2hpbmdSZXBvc2l0b3J5ID0gZGlzcGF0Y2hpbmdSZXBvc2l0b3J5OwogICAgICAgIHRoaXMudXNlclJlcG9zaXRvcnkgPSB1c2VyUmVwb3NpdG9yeTsKICAgICAgICB0aGlzLmRlcGFydG1lbnRSZXBvc2l0b3J5ID0gZGVwYXJ0bWVudFJlcG9zaXRvcnk7CiAgICAgICAgdGhpcy5kaXN0cmljdFJlcG9zaXRvcnkgPSBkaXN0cmljdFJlcG9zaXRvcnk7CiAgICB9</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBpZiAocHJvKQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>public String getDistrict() {
         return district;
     }
@@ -931,20 +946,17 @@
         this.district = district;
     }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGRpc3RyaWN0Owo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hpbGRyZW47Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGRpc3RyaWN0Owo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY2hpbGRyZW47Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hpbGRyZW4gPSByZWNvcmQuZ2V0KCdjaGlsZHJlbicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hpbGRyZW47Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNoaWxkcmVuID0gcmVjb3JkLmdldCgnY2hpbGRyZW4nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hpbGRyZW4gPSByZWNvcmQuZ2V0KCdjaGlsZHJlbicpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1000,8 +1012,8 @@
         <entry>action format</entry>
         <entry>actionlist</entry>
         <entry>e</entry>
-        <entry>W</entry>
         <entry>set surround</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
