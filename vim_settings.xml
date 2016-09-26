@@ -144,11 +144,11 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1474858072937">
-        <mark key="[" line="103" column="35" />
-        <mark key="]" line="103" column="67" />
-        <mark key="^" line="103" column="67" />
-        <mark key="." line="103" column="67" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1474873386940">
+        <mark key="[" line="77" column="65" />
+        <mark key="]" line="77" column="103" />
+        <mark key="^" line="77" column="103" />
+        <mark key="." line="77" column="103" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DepartmentNameAlreadyExistsException.java" timestamp="1472011314990">
         <mark key="[" line="8" column="27" />
@@ -306,11 +306,11 @@
         <mark key="." line="45" column="18" />
         <mark key="^" line="45" column="18" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/District.js" timestamp="1474872416796">
-        <mark key="[" line="84" column="6" />
-        <mark key="]" line="122" column="15" />
-        <mark key="." line="122" column="15" />
-        <mark key="^" line="122" column="15" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/District.js" timestamp="1474873764180">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+        <mark key="^" line="6" column="16" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/EditController.js" timestamp="1471318507246">
         <mark key="[" line="6" column="6" />
@@ -901,10 +901,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>record</text>
+        <text>hbox</text>
       </register>
       <register name="-" type="4">
-        <text>record</text>
+        <text>hbox</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY3RpdmVNYXJrZXJcPg==</text>
@@ -913,31 +913,33 @@
         <text encoding="base64">ICAgICAgICB0aGlzLmRvd24oJ1tuYW1lPWNpdHldJykuZ2V0U3RvcmUoKS5zZXREYXRhKHJlY29yZC5jaGlsZE5vZGVzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">ICAgICAgICBjaXR5LnNldFNlbGVjdGlvbigpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtZS5fY291bnR5U3RvcmUuc2V0RGF0YShjaGlsZHJlbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjaXR5LnNldERhdGEocHJvdmluY2UpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>var provinces = this.down('[name=province]').getStore(),
+            rec;
+        thi</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtZS5fY291bnR5U3RvcmUuc2V0RGF0YShjaGlsZHJlbik7Cg==</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzLl9wcm92aW5jZVN0b3JlLnNldERhdGEoc3RvcmUuZ2V0Um9vdCgpLmNoaWxkTm9kZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBtZS5fY291bnR5U3RvcmUuc2V0RGF0YShjaGlsZHJlbik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLl9wcm92aW5jZVN0b3JlLnNldERhdGEoW3tjb2RlOiAnMzQwMDAwJywgbmFtZTogJ7Cyu9XKoSd9XSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtZS5fY291bnR5U3RvcmUuc2V0RGF0YShjaGlsZHJlbik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzLl9wcm92aW5jZVN0b3JlLnNldERhdGEoc3RvcmUuZ2V0Um9vdCgpLmNoaWxkTm9kZXMpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAvLyBFeHQuQWpheC5yZXF1ZXN0KHsKICAgICAgICAvLyAgICAgdXJsOiAnZGlzdHJpY3RzJywKICAgICAgICAvLyAgICAgc3VjY2VzczogZnVuY3Rpb24gKHJlc3ApIHsKICAgICAgICAvLyAgICAgICAgIHZhciBkYXRhID0gRXh0LkpTT04uZW5jb2RlKHJlc3AucmVzcG9uc2VUZXh0KTsKICAgICAgICAvLyAgICAgICAgIHByb3ZpbmNlcy5zZXREYXRhKGRhdGEpOwogICAgICAgIC8vICAgICB9CiAgICAgICAgLy8gfSk7CgogICAgICAgIHByb3ZpbmNlcy5zZXREYXRhKFsKICAgICAgICAgICAge2NvZGU6ICczNDAwMDAnLCBuYW1lOiAnsLK71cqhJ30sCiAgICAgICAgICAgIHtjb2RlOiAnMzEwMDAwJywgbmFtZTogJ7GxvqnK0Cd9CiAgICAgICAgXSk7</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLl9wcm92aW5jZVN0b3JlLnNldERhdGEoW3tjb2RlOiAnMzQwMDAwJywgbmFtZTogJ7Cyu9XKoSd9XSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
