@@ -714,11 +714,11 @@
         <mark key="^" line="3" column="30" />
         <mark key="." line="3" column="30" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/TaskService.java" timestamp="1474880295467">
-        <mark key="[" line="10" column="30" />
-        <mark key="]" line="11" column="124" />
-        <mark key="^" line="11" column="124" />
-        <mark key="." line="11" column="124" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/TaskService.java" timestamp="1474897595829">
+        <mark key="[" line="11" column="110" />
+        <mark key="]" line="11" column="114" />
+        <mark key="^" line="11" column="114" />
+        <mark key="." line="11" column="114" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1473646386335">
         <mark key="[" line="387" column="46" />
@@ -913,11 +913,11 @@
       <jump line="58" column="55" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU2VjdXJpdHlVdGlscy5nZXRTdWJqZWN0KCkuZ2V0UHJpbmNpcGFsKCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name="-" type="4">
-        <text>''</text>
+        <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY3RpdmVNYXJrZXJcPg==</text>
