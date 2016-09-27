@@ -169,11 +169,11 @@
         <mark key="^" line="51" column="30" />
         <mark key="." line="51" column="31" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1474957512591">
-        <mark key="[" line="80" column="37" />
-        <mark key="]" line="81" column="51" />
-        <mark key="." line="81" column="51" />
-        <mark key="^" line="81" column="51" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1474958369496">
+        <mark key="[" line="53" column="32" />
+        <mark key="]" line="53" column="32" />
+        <mark key="." line="53" column="32" />
+        <mark key="^" line="87" column="51" />
       </file>
       <file name="D:/Home/hibernate-examples/CeveatEmptor/src/main/java/com/caodanping/hibernate/ceveatemptor/simple/Item.java" timestamp="1474458979921">
         <mark key="[" line="5" column="0" />
@@ -287,11 +287,11 @@
         <mark key="." line="23" column="59" />
         <mark key="^" line="23" column="59" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchingDto.java" timestamp="1474878724993">
-        <mark key="[" line="27" column="23" />
-        <mark key="]" line="64" column="4" />
-        <mark key="." line="64" column="4" />
-        <mark key="^" line="17" column="25" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchingDto.java" timestamp="1474957723959">
+        <mark key="[" line="185" column="8" />
+        <mark key="]" line="185" column="14" />
+        <mark key="." line="185" column="14" />
+        <mark key="^" line="185" column="14" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/scripts/MyControls.js" timestamp="1474253000471">
         <mark key="[" line="7" column="38" />
@@ -914,11 +914,11 @@
       <jump line="86" column="4" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.9.4.RELEASE/spring-data-jpa-1.9.4.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNpdGUgZGViaXQgPSBpbnB1dC5nZXREZWJpdCgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICYmIGRhdGEuZ2V0SWQoKS5sb25nVmFsdWUoKSA+IDBMKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>debit == null ? null : debit.getName()</text>
+        <text encoding="base64">ICYmIGRhdGEuZ2V0SWQoKS5sb25nVmFsdWUoKSA+IDBMKQ==</text>
       </register>
       <register name="/" type="4">
         <text>Page</text>
