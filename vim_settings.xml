@@ -44,6 +44,12 @@
         <mark key="^" line="230" column="45" />
         <mark key="." line="230" column="45" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/resources/init/menus.xml" timestamp="1474960374324">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="28" />
+        <mark key="^" line="3" column="28" />
+        <mark key="." line="3" column="28" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Task.java" timestamp="1474959143312">
         <mark key="[" line="33" column="15" />
         <mark key="]" line="38" column="46" />
@@ -239,6 +245,7 @@
         <mark key="^" line="72" column="4" />
         <mark key="." line="72" column="4" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/jack/List.js" timestamp="1474960514874" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/IncorrectMenuParentIdException.java" timestamp="1472011331568">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="39" />
@@ -469,6 +476,7 @@
         <mark key="." line="146" column="42" />
         <mark key="^" line="146" column="42" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/EquipmentController.java" timestamp="1474959977377" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/PermissionDto.java" timestamp="1473219910624">
         <mark key="[" line="55" column="28" />
         <mark key="]" line="55" column="28" />
@@ -758,9 +766,6 @@
         <mark key="]" line="66" column="49" />
         <mark key="^" line="66" column="49" />
         <mark key="." line="66" column="49" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Job.java" timestamp="1474901906859">
-        <mark key="[" line="5" column="18" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/ManagerController.js" timestamp="1473646501142">
         <mark key="[" line="88" column="16" />
