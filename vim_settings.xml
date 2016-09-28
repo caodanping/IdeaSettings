@@ -692,11 +692,10 @@
         <mark key="^" line="615" column="2" />
         <mark key="." line="615" column="2" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/List.js" timestamp="1475027863346">
-        <mark key="[" line="44" column="16" />
-        <mark key="]" line="44" column="19" />
-        <mark key="^" line="44" column="19" />
-        <mark key="." line="44" column="19" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/List.js" timestamp="1475028824859">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/common/CollectionUtils.java" timestamp="1467794992879">
         <mark key="[" line="15" column="1" />
@@ -868,8 +867,8 @@
       <jump line="62" column="37" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchingSummaryDto.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>btn.up('grid')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>btn.up('grid')</text>
@@ -881,31 +880,31 @@
         <text encoding="base64">ICAgICAgICAgICAgdHlwZTogJ2RhdGUnLAogICAgICAgICAgICBmb3JtYXQ6ICdZLW0tZCcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh2aWV3LmdldERhdGFWYWx1ZSgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHlwZTogJ2RhdGUnCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgcmVuZGVyZXI6IGZ1bmN0aW9uICh2YWx1ZSwgbWV0YURhdGEpIHsKICAgICAgICAgICAgICAgIHJldHVybiAnPGEgaHJlZj0iIyI+JyArIHZhbHVlICsgJzwvYT4nOwogICAgICAgICAgICB9LA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9ybWF0OiAnWS9tL2QnLAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh2aWV3LmdldERhdGFWYWx1ZSgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBEYXRlVGltZUZvcm1hdChwYXR0ZXJuID0gInl5eXktTU0tZGQiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHlwZTogJ2RhdGUnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBEYXRlVGltZUZvcm1hdChwYXR0ZXJuID0gInl5eXktTU0tZGQiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9ybWF0OiAnWS9tL2QnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBKc29uRm9ybWF0KHBhdHRlcm4gPSAieXl5eS1NTS1kZCIpCg==</text>
+        <text encoding="base64">ICAgIEBEYXRlVGltZUZvcm1hdChwYXR0ZXJuID0gInl5eXktTU0tZGQiKQo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIEBEYXRlVGltZUZvcm1hdChwYXR0ZXJuID0gInl5eXktTU0tZGQiKQo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIEBKc29uRm9ybWF0KHBhdHRlcm4gPSAieXl5eS1NTS1kZCIpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgcmVuZGVyOiBmdW5jdGlvbiAodmFsdWUpIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9LA==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHlwZTogJ2RhdGUnLAo=</text>
+        <text encoding="base64">ICAgIEBKc29uRm9ybWF0KHBhdHRlcm4gPSAieXl5eS1NTS1kZCIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
