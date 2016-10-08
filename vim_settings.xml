@@ -127,11 +127,11 @@
         <mark key="." line="6" column="4" />
         <mark key="^" line="6" column="4" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchingService.java" timestamp="1474947187744">
-        <mark key="[" line="74" column="9" />
-        <mark key="]" line="74" column="9" />
-        <mark key="^" line="74" column="86" />
-        <mark key="." line="74" column="9" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchingService.java" timestamp="1475899406519">
+        <mark key="[" line="74" column="96" />
+        <mark key="]" line="78" column="6" />
+        <mark key="^" line="78" column="6" />
+        <mark key="." line="78" column="6" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/model/Warehouse.js" timestamp="1471941946054">
         <mark key="[" line="0" column="3" />
@@ -163,11 +163,11 @@
         <mark key="^" line="51" column="30" />
         <mark key="." line="51" column="31" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1474983015999">
-        <mark key="[" line="54" column="12" />
-        <mark key="]" line="54" column="12" />
-        <mark key="." line="54" column="12" />
-        <mark key="^" line="54" column="12" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1475899458939">
+        <mark key="[" line="206" column="28" />
+        <mark key="]" line="206" column="27" />
+        <mark key="." line="206" column="27" />
+        <mark key="^" line="206" column="27" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/SecurityRepositoryCustomImpl.java" timestamp="1472442660116">
         <mark key="[" line="13" column="67" />
@@ -592,11 +592,11 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DispatchingController.java" timestamp="1474955380550">
-        <mark key="[" line="38" column="123" />
-        <mark key="]" line="38" column="140" />
-        <mark key="^" line="38" column="140" />
-        <mark key="." line="38" column="140" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DispatchingController.java" timestamp="1475899315019">
+        <mark key="[" line="42" column="61" />
+        <mark key="]" line="42" column="61" />
+        <mark key="^" line="42" column="41" />
+        <mark key="." line="42" column="61" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/List.js" timestamp="1473657097464">
         <mark key="[" line="46" column="0" />
@@ -889,18 +889,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>if (this.viewMode == 'modify' || this.) {
-            this.setDataValue(this.dataValue);
-        }</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>Page</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHlwZTogJ2RhdGUnLAogICAgICAgICAgICBmb3JtYXQ6ICdZLW0tZCcsCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">IEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICJkaXNwYXRjaGluZy1yZXF1ZXN0cyIsIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuR0VUKQogICAgcHVibGljIFBhZ2U8RGlzcGF0Y2hpbmdTdW1tYXJ5RHRvPiBmaW5kTXlEaXNwYXRjaGluZ1JlcXVlc3RzKFN0cmluZyBrZXl3b3JkLCBJbnRlZ2VyIHN0YXJ0LCBJbnRlZ2VyIGxpbWl0KSB7CiAgICAgICAgcmV0dXJuIGRpc3BhdGNoaW5nU2VydmljZS5maW5kTXlEaXNwYXRjaGluZ1JlcXVlc3RzKGtleXdvcmQsIHN0YXJ0ID09IG51bGwgPyAwIDogc3RhcnQuaW50VmFsdWUoKSwgbGltaXQgPT0gbnVsbCA/IEludGVnZXIuTUFYX1ZBTFVFIDogbGltaXQuaW50VmFsdWUoKSk7CiAgICA=</text>
       </register>
       <register name="1" type="4">
         <text>if (this.viewMode == 'modify' || this.) {
