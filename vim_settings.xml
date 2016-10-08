@@ -163,11 +163,11 @@
         <mark key="^" line="51" column="30" />
         <mark key="." line="51" column="31" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1475912769980">
-        <mark key="[" line="226" column="55" />
-        <mark key="]" line="89" column="38" />
-        <mark key="." line="89" column="38" />
-        <mark key="^" line="89" column="38" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1475916040064">
+        <mark key="[" line="239" column="14" />
+        <mark key="]" line="239" column="17" />
+        <mark key="." line="239" column="17" />
+        <mark key="^" line="239" column="17" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/SecurityRepositoryCustomImpl.java" timestamp="1472442660116">
         <mark key="[" line="13" column="67" />
@@ -895,10 +895,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DispatchingSummaryDto</text>
+        <text encoding="base64">IG51bGw=</text>
       </register>
       <register name="-" type="4">
-        <text>DispatchingSummaryDto</text>
+        <text encoding="base64">IG51bGw=</text>
       </register>
       <register name="/" type="4">
         <text>Page</text>
