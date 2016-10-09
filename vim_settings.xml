@@ -26,6 +26,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1475986398554">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="47" column="54" />
+        <mark key="]" line="238" column="41" />
+        <mark key="." line="238" column="41" />
+        <mark key="^" line="238" column="41" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" timestamp="1475128933593">
         <mark key="[" line="239" column="38" />
         <mark key="]" line="230" column="45" />
@@ -139,12 +146,12 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1475980472261">
-        <mark key="'" line="78" column="55" />
-        <mark key="[" line="219" column="24" />
-        <mark key="]" line="219" column="33" />
-        <mark key="^" line="219" column="33" />
-        <mark key="." line="219" column="33" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1475983828071">
+        <mark key="'" line="80" column="55" />
+        <mark key="[" line="53" column="61" />
+        <mark key="]" line="54" column="29" />
+        <mark key="^" line="54" column="29" />
+        <mark key="." line="54" column="29" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DepartmentNameAlreadyExistsException.java" timestamp="1472011314990">
         <mark key="[" line="8" column="27" />
@@ -164,11 +171,11 @@
         <mark key="^" line="51" column="30" />
         <mark key="." line="51" column="31" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1475975949801">
-        <mark key="[" line="228" column="25" />
-        <mark key="]" line="228" column="50" />
-        <mark key="." line="228" column="50" />
-        <mark key="^" line="228" column="50" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1475985940357">
+        <mark key="[" line="237" column="8" />
+        <mark key="]" line="237" column="17" />
+        <mark key="." line="237" column="17" />
+        <mark key="^" line="237" column="17" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/SecurityRepositoryCustomImpl.java" timestamp="1472442660116">
         <mark key="[" line="13" column="67" />
@@ -334,11 +341,11 @@
         <mark key="^" line="21" column="34" />
         <mark key="." line="21" column="34" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/DeviceEntry.java" timestamp="1475911453788">
-        <mark key="[" line="9" column="48" />
-        <mark key="]" line="9" column="48" />
-        <mark key="^" line="9" column="48" />
-        <mark key="." line="9" column="48" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/DeviceEntry.java" timestamp="1475986310547">
+        <mark key="[" line="18" column="24" />
+        <mark key="]" line="18" column="25" />
+        <mark key="^" line="18" column="24" />
+        <mark key="." line="18" column="25" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/menus.xml" timestamp="1472708431510">
         <mark key="[" line="8" column="21" />
@@ -544,12 +551,12 @@
         <mark key="^" line="9" column="56" />
         <mark key="." line="9" column="56" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EditController.js" timestamp="1475025730056">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EditController.js" timestamp="1475984408356">
         <mark key="'" line="77" column="4" />
-        <mark key="[" line="93" column="16" />
-        <mark key="]" line="93" column="39" />
-        <mark key="." line="93" column="39" />
-        <mark key="^" line="93" column="39" />
+        <mark key="[" line="58" column="55" />
+        <mark key="]" line="72" column="25" />
+        <mark key="." line="72" column="25" />
+        <mark key="^" line="72" column="25" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/TaskRepository.java" timestamp="1474953963189">
         <mark key="[" line="10" column="83" />
@@ -593,13 +600,18 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DispatchingController.java" timestamp="1475911532732">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DispatchingController.java" timestamp="1475985060637">
         <mark key="[" line="39" column="26" />
         <mark key="]" line="40" column="110" />
         <mark key="^" line="40" column="110" />
         <mark key="." line="40" column="110" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" timestamp="1475977809748" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" timestamp="1475984740096">
+        <mark key="[" line="197" column="40" />
+        <mark key="]" line="197" column="52" />
+        <mark key="." line="197" column="52" />
+        <mark key="^" line="197" column="52" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/List.js" timestamp="1473657097464">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -744,11 +756,11 @@
         <mark key="^" line="22" column="45" />
         <mark key="." line="22" column="68" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/Districts.js" timestamp="1474859663785">
-        <mark key="[" line="6" column="25" />
-        <mark key="]" line="7" column="31" />
-        <mark key="." line="7" column="31" />
-        <mark key="^" line="7" column="31" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/Districts.js" timestamp="1475983885367">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+        <mark key="^" line="9" column="18" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/Dispatchings.js" timestamp="1473659829634">
         <mark key="[" line="5" column="18" />
@@ -794,7 +806,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1571" column="26" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1573" column="26" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1577" column="26" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1578" column="50" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
@@ -894,198 +905,58 @@
       <jump line="62" column="37" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchingSummaryDto.java" />
       <jump line="104" column="67" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" />
       <jump line="78" column="55" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" />
+      <jump line="1" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFyZWNvcmQpIHJldHVybjsK</text>
+      <register name="&quot;" type="4">
+        <text>Set</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>Set</text>
       </register>
       <register name="/" type="4">
-        <text>setByName</text>
+        <text>Element</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCFyZWNvcmQpIHJldHVybjsK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvcyA9IG5ldyBCTWFwLlBvaW50KG1lLm1hcmtlclBvc2l0aW9uLmxuZywgbWUubWFya2VyUG9zaXRpb24ubGF0KTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lLmJtYXAuY2VudGVyQW5kWm9vbShwb3MsIDEyKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRoaXMuYWN0aXZlTWFya2VyKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gdGhpcy5hY3RpdmVNYXJrZXIuZ2V0UG9zaXRpb24oKTsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4gbnVsbDs=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>data: [
                     {code: '340000', name: '安徽省'}
                 ]</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgRG91YmxlIHRvdGFsVG9uYWdlOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIEBDb2x1bW4ocHJlY2lzaW9uID0gMTAsIHNjYWxlID0gMikK</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICBwdWJsaWMgRG91YmxlIGdldFRvdGFsVG9uYWdlKCkgewogICAgICAgIHJldHVybiB0b3RhbFRvbmFnZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRUb3RhbFRvbmFnZShEb3VibGUgdG90YWxUb25hZ2UpIHsKICAgICAgICB0aGlzLnRvdGFsVG9uYWdlID0gdG90YWxUb25hZ2U7CiAgICB9</text>
-      </register>
-      <register name="6" type="4">
-        <text>if (this.viewMode == 'modify' || this.) {
-            this.setDataValue(this.dataValue);
-        }</text>
-      </register>
-      <register name="7" type="4">
-        <text>Ext.Ajax.request({
-            url: 'dispatching-requests/' + this.params.id,
-        });</text>
-      </register>
-      <register name="8" type="4">
-        <text>340000,安徽省
-340100,合肥市
-340101,市辖区
-340102,瑶海区
-340103,庐阳区
-340104,蜀山区
-340111,包河区
-340121,长丰县
-340122,肥东县
-340123,肥西县
-340124,庐江县
-340181,巢湖市
-340200,芜湖市
-340201,市辖区
-340202,镜湖区
-340203,弋江区
-340207,鸠江区
-340208,三山区
-340221,芜湖县
-340222,繁昌县
-340223,南陵县
-340225,无为县
-340300,蚌埠市
-340301,市辖区
-340302,龙子湖区
-340303,蚌山区
-340304,禹会区
-340311,淮上区
-340321,怀远县
-340322,五河县
-340323,固镇县
-340400,淮南市
-340401,市辖区
-340402,大通区
-340403,田家庵区
-340404,谢家集区
-340405,八公山区
-340406,潘集区
-340421,凤台县
-340500,马鞍山市
-340501,市辖区
-340503,花山区
-340504,雨山区
-340506,博望区
-340521,当涂县
-340522,含山县
-340523,和县
-340600,淮北市
-340601,市辖区
-340602,杜集区
-340603,相山区
-340604,烈山区
-340621,濉溪县
-340700,铜陵市
-340701,市辖区
-340702,铜官山区
-340703,狮子山区
-340711,郊区
-340721,铜陵县
-340800,安庆市
-340801,市辖区
-340802,迎江区
-340803,大观区
-340811,宜秀区
-340822,怀宁县
-340823,枞阳县
-340824,潜山县
-340825,太湖县
-340826,宿松县
-340827,望江县
-340828,岳西县
-340881,桐城市
-341000,黄山市
-341001,市辖区
-341002,屯溪区
-341003,黄山区
-341004,徽州区
-341021,歙县
-341022,休宁县
-341023,黟县
-341024,祁门县
-341100,滁州市
-341101,市辖区
-341102,琅琊区
-341103,南谯区
-341122,来安县
-341124,全椒县
-341125,定远县
-341126,凤阳县
-341181,天长市
-341182,明光市
-341200,阜阳市
-341201,市辖区
-341202,颍州区
-341203,颍东区
-341204,颍泉区
-341221,临泉县
-341222,太和县
-341225,阜南县
-341226,颍上县
-341282,界首市
-341300,宿州市
-341301,市辖区
-341302,埇桥区
-341321,砀山县
-341322,萧县
-341323,灵璧县
-341324,泗县
-341500,六安市
-341501,市辖区
-341502,金安区
-341503,裕安区
-341521,寿县
-341522,霍邱县
-341523,舒城县
-341524,金寨县
-341525,霍山县
-341600,亳州市
-341601,市辖区
-341602,谯城区
-341621,涡阳县
-341622,蒙城县
-341623,利辛县
-341700,池州市
-341701,市辖区
-341702,贵池区
-341721,东至县
-341722,石台县
-341723,青阳县
-341800,宣城市
-341801,市辖区
-341802,宣州区
-341821,郎溪县
-341822,广德县
-341823,泾县
-341824,绩溪县
-341825,旌德县
-341881,宁国市</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0SXNBdExpbms7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>setByName</last-search>
+      <last-search>Element</last-search>
       <last-offset />
-      <last-pattern>setByName</last-pattern>
+      <last-pattern>Element</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1093,7 +964,6 @@
     </search>
     <history>
       <history-search>
-        <entry>view</entry>
         <entry>js</entry>
         <entry encoding="base64">XDxpbml0TWFya2VyVG9vbHNcPg==</entry>
         <entry>setup</entry>
@@ -1113,6 +983,7 @@
         <entry>state</entry>
         <entry>Page</entry>
         <entry>setByName</entry>
+        <entry>Element</entry>
       </history-search>
       <history-cmd>
         <entry>28</entry>
