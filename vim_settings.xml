@@ -26,12 +26,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1475986398554">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1475986449803">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="47" column="54" />
-        <mark key="]" line="238" column="41" />
-        <mark key="." line="238" column="41" />
-        <mark key="^" line="238" column="41" />
+        <mark key="]" line="47" column="106" />
+        <mark key="." line="47" column="106" />
+        <mark key="^" line="47" column="106" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" timestamp="1475128933593">
         <mark key="[" line="239" column="38" />
@@ -146,12 +146,12 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1475983828071">
-        <mark key="'" line="80" column="55" />
-        <mark key="[" line="53" column="61" />
-        <mark key="]" line="54" column="29" />
-        <mark key="^" line="54" column="29" />
-        <mark key="." line="54" column="29" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1475990100861">
+        <mark key="'" line="87" column="55" />
+        <mark key="[" line="100" column="24" />
+        <mark key="]" line="102" column="37" />
+        <mark key="^" line="102" column="37" />
+        <mark key="." line="102" column="37" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DepartmentNameAlreadyExistsException.java" timestamp="1472011314990">
         <mark key="[" line="8" column="27" />
@@ -171,7 +171,7 @@
         <mark key="^" line="51" column="30" />
         <mark key="." line="51" column="31" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1475985940357">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1475989339396">
         <mark key="[" line="237" column="8" />
         <mark key="]" line="237" column="17" />
         <mark key="." line="237" column="17" />
@@ -909,10 +909,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Set</text>
+        <text>Ext.StoreManager.get('districts')</text>
       </register>
       <register name="-" type="4">
-        <text>Set</text>
+        <text>Ext.StoreManager.get('districts')</text>
       </register>
       <register name="/" type="4">
         <text>Element</text>
@@ -1002,9 +1002,9 @@
         <entry>actionlist</entry>
         <entry>e</entry>
         <entry>set surround</entry>
-        <entry>W</entry>
         <entry>wa</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
