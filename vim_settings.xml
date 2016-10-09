@@ -146,7 +146,7 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1475990100861">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1475991656598">
         <mark key="'" line="87" column="55" />
         <mark key="[" line="100" column="24" />
         <mark key="]" line="102" column="37" />
@@ -171,11 +171,11 @@
         <mark key="^" line="51" column="30" />
         <mark key="." line="51" column="31" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1475989339396">
-        <mark key="[" line="237" column="8" />
-        <mark key="]" line="237" column="17" />
-        <mark key="." line="237" column="17" />
-        <mark key="^" line="237" column="17" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1475992052903">
+        <mark key="[" line="43" column="18" />
+        <mark key="]" line="43" column="18" />
+        <mark key="." line="43" column="18" />
+        <mark key="^" line="43" column="34" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/SecurityRepositoryCustomImpl.java" timestamp="1472442660116">
         <mark key="[" line="13" column="67" />
@@ -909,10 +909,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Ext.StoreManager.get('districts')</text>
+        <text>(readOnly = false)</text>
       </register>
       <register name="-" type="4">
-        <text>Ext.StoreManager.get('districts')</text>
+        <text>(readOnly = false)</text>
       </register>
       <register name="/" type="4">
         <text>Element</text>
