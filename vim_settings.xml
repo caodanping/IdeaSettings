@@ -33,11 +33,10 @@
         <mark key="." line="47" column="106" />
         <mark key="^" line="47" column="106" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" timestamp="1475128933593">
-        <mark key="[" line="239" column="38" />
-        <mark key="]" line="230" column="45" />
-        <mark key="^" line="230" column="45" />
-        <mark key="." line="230" column="45" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" timestamp="1475999331684">
+        <mark key="[" line="290" column="64" />
+        <mark key="]" line="291" column="0" />
+        <mark key="." line="291" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/resources/init/menus.xml" timestamp="1474961336371">
         <mark key="[" line="3" column="29" />
@@ -146,12 +145,12 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1475991656598">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1475999215716">
         <mark key="'" line="87" column="55" />
-        <mark key="[" line="100" column="24" />
-        <mark key="]" line="102" column="37" />
-        <mark key="^" line="102" column="37" />
-        <mark key="." line="102" column="37" />
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
+        <mark key="^" line="123" column="49" />
+        <mark key="." line="117" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DepartmentNameAlreadyExistsException.java" timestamp="1472011314990">
         <mark key="[" line="8" column="27" />
@@ -266,11 +265,11 @@
         <mark key="." line="14" column="3" />
         <mark key="^" line="14" column="3" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Edit.js" timestamp="1473257313649">
-        <mark key="[" line="64" column="33" />
-        <mark key="]" line="64" column="34" />
-        <mark key="." line="64" column="34" />
-        <mark key="^" line="64" column="34" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/Edit.js" timestamp="1475999039500">
+        <mark key="[" line="63" column="38" />
+        <mark key="]" line="64" column="41" />
+        <mark key="." line="64" column="41" />
+        <mark key="^" line="64" column="41" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/UserController.java" timestamp="1474600640534">
         <mark key="[" line="28" column="7" />
@@ -308,14 +307,20 @@
         <mark key="." line="44" column="21" />
         <mark key="^" line="46" column="34" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/District.js" timestamp="1475977628202">
-        <mark key="[" line="92" column="22" />
-        <mark key="]" line="104" column="18" />
-        <mark key="^" line="104" column="18" />
-        <mark key="." line="104" column="18" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/District.js" timestamp="1475999109296">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="42" />
+        <mark key="^" line="35" column="41" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/test/java/DataInit.java" timestamp="1475128950850">
         <mark key="[" line="27" column="23" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/DepartmentRepository.java" timestamp="1475998508124">
+        <mark key="[" line="14" column="45" />
+        <mark key="]" line="14" column="58" />
+        <mark key="." line="14" column="58" />
+        <mark key="^" line="14" column="58" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/EditController.js" timestamp="1471318507246">
         <mark key="[" line="6" column="6" />
@@ -911,46 +916,46 @@
       <jump line="1" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(readOnly = false)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF1dG9Mb2FkT25WYWx1ZTogdHJ1ZSwK</text>
       </register>
       <register name="-" type="4">
-        <text>(readOnly = false)</text>
+        <text>Ext.create('Lems.store.Persons');</text>
       </register>
       <register name="/" type="4">
         <text>Element</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFyZWNvcmQpIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF1dG9Mb2FkT25WYWx1ZTogdHJ1ZSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvcyA9IG5ldyBCTWFwLlBvaW50KG1lLm1hcmtlclBvc2l0aW9uLmxuZywgbWUubWFya2VyUG9zaXRpb24ubGF0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF1dG9Mb2FkT25WYWx1ZTogdHJ1ZSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lLmJtYXAuY2VudGVyQW5kWm9vbShwb3MsIDEyKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvcyA9IG5ldyBCTWFwLlBvaW50KG1lLm1hcmtlclBvc2l0aW9uLmxuZywgbWUubWFya2VyUG9zaXRpb24ubGF0KTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRoaXMuYWN0aXZlTWFya2VyKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gdGhpcy5hY3RpdmVNYXJrZXIuZ2V0UG9zaXRpb24oKTsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4gbnVsbDs=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lLmJtYXAuY2VudGVyQW5kWm9vbShwb3MsIDEyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRoaXMuYWN0aXZlTWFya2VyKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gdGhpcy5hY3RpdmVNYXJrZXIuZ2V0UG9zaXRpb24oKTsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4gbnVsbDs=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="8" type="4">
         <text>data: [
                     {code: '340000', name: '安徽省'}
                 ]</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgRG91YmxlIHRvdGFsVG9uYWdlOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4ocHJlY2lzaW9uID0gMTAsIHNjYWxlID0gMikK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgRG91YmxlIGdldFRvdGFsVG9uYWdlKCkgewogICAgICAgIHJldHVybiB0b3RhbFRvbmFnZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRUb3RhbFRvbmFnZShEb3VibGUgdG90YWxUb25hZ2UpIHsKICAgICAgICB0aGlzLnRvdGFsVG9uYWdlID0gdG90YWxUb25hZ2U7CiAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
