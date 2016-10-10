@@ -37,11 +37,11 @@
         <mark key="^" line="3" column="28" />
         <mark key="." line="3" column="28" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Task.java" timestamp="1476063771713">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="54" column="27" />
-        <mark key="." line="38" column="46" />
-        <mark key="^" line="38" column="46" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Task.java" timestamp="1476085775644">
+        <mark key="[" line="59" column="16" />
+        <mark key="]" line="61" column="27" />
+        <mark key="." line="61" column="27" />
+        <mark key="^" line="61" column="27" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/Permissions.js" timestamp="1473061743263">
         <mark key="[" line="32" column="50" />
@@ -168,11 +168,11 @@
         <mark key="^" line="51" column="30" />
         <mark key="." line="51" column="31" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1476083772490">
-        <mark key="[" line="113" column="85" />
-        <mark key="]" line="120" column="103" />
-        <mark key="." line="120" column="103" />
-        <mark key="^" line="120" column="103" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1476086042906">
+        <mark key="[" line="29" column="60" />
+        <mark key="]" line="29" column="88" />
+        <mark key="." line="29" column="88" />
+        <mark key="^" line="29" column="88" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/SecurityRepositoryCustomImpl.java" timestamp="1472442660116">
         <mark key="[" line="13" column="67" />
@@ -180,11 +180,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="15" column="36" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/TaskServiceImpl.java" timestamp="1476082787889">
-        <mark key="[" line="73" column="31" />
-        <mark key="]" line="73" column="53" />
-        <mark key="." line="73" column="53" />
-        <mark key="^" line="73" column="53" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/TaskServiceImpl.java" timestamp="1476085837235">
+        <mark key="[" line="51" column="46" />
+        <mark key="]" line="64" column="43" />
+        <mark key="." line="64" column="43" />
+        <mark key="^" line="64" column="43" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/BaseEntity.java" timestamp="1472197535541">
         <mark key="[" line="26" column="30" />
@@ -435,12 +435,12 @@
         <mark key="." line="46" column="42" />
         <mark key="^" line="46" column="42" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/task/List.js" timestamp="1476082954489">
-        <mark key="i" line="35" column="18" />
-        <mark key="[" line="38" column="22" />
-        <mark key="]" line="38" column="28" />
-        <mark key="." line="38" column="28" />
-        <mark key="^" line="38" column="28" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/task/List.js" timestamp="1476085726491">
+        <mark key="i" line="42" column="18" />
+        <mark key="[" line="25" column="36" />
+        <mark key="]" line="32" column="36" />
+        <mark key="." line="32" column="36" />
+        <mark key="^" line="32" column="36" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/resources/init/permissions.xml" timestamp="1472804766091">
         <mark key="[" line="6" column="18" />
@@ -562,9 +562,6 @@
         <mark key="]" line="17" column="21" />
         <mark key="." line="17" column="21" />
         <mark key="^" line="17" column="21" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/resources/spring-root.xml" timestamp="1475993973016">
-        <mark key="[" line="34" column="81" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/DistrictRepository.java" timestamp="1472200170599">
         <mark key="[" line="9" column="44" />
@@ -745,9 +742,6 @@
         <mark key="]" line="58" column="78" />
         <mark key="." line="77" column="35" />
         <mark key="^" line="77" column="51" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1476064467407">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/common/CollectionUtils.java" timestamp="1467794992879">
         <mark key="[" line="15" column="1" />
@@ -932,10 +926,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>create</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>create</text>
       </register>
       <register name="/" type="4">
         <text>Element</text>
