@@ -44,9 +44,9 @@
         <mark key="^" line="3" column="28" />
         <mark key="." line="3" column="28" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Task.java" timestamp="1476060825399">
-        <mark key="[" line="33" column="15" />
-        <mark key="]" line="38" column="46" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Task.java" timestamp="1476063771713">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="54" column="27" />
         <mark key="." line="38" column="46" />
         <mark key="^" line="38" column="46" />
       </file>
@@ -74,8 +74,11 @@
         <mark key="^" line="37" column="11" />
         <mark key="." line="71" column="24" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/TaskSummaryDto.java" timestamp="1476003340719">
-        <mark key="[" line="7" column="27" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/TaskSummaryDto.java" timestamp="1476063803634">
+        <mark key="[" line="15" column="28" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="13" column="3" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/CsvReader.java" timestamp="1472783810530">
         <mark key="[" line="8" column="26" />
@@ -737,6 +740,9 @@
         <mark key="." line="72" column="57" />
         <mark key="^" line="72" column="57" />
       </file>
+      <file name="/Dummy.txt" timestamp="1476064467407">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/common/CollectionUtils.java" timestamp="1467794992879">
         <mark key="[" line="15" column="1" />
         <mark key="]" line="15" column="0" />
@@ -919,8 +925,8 @@
       <jump line="1" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getComponent</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>getComponent</text>
@@ -928,37 +934,37 @@
       <register name="/" type="4">
         <text>Element</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF1dG9Mb2FkT25WYWx1ZTogdHJ1ZSwK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyByZWxhdGVkRW50aXR5SWQ7CgogICAgcHJpdmF0ZSBTdHJpbmcgaW52b2NlTnVtYmVyOwoKICAgIHByaXZhdGUgU3RyaW5nIHZpZXdOYW1lOw==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>function getCompVal(itemId) {
             
         }</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF1dG9Mb2FkT25WYWx1ZTogdHJ1ZSwK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBvcyA9IG5ldyBCTWFwLlBvaW50KG1lLm1hcmtlclBvc2l0aW9uLmxuZywgbWUubWFya2VyUG9zaXRpb24ubGF0KTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG1lLmJtYXAuY2VudGVyQW5kWm9vbShwb3MsIDEyKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRoaXMuYWN0aXZlTWFya2VyKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gdGhpcy5hY3RpdmVNYXJrZXIuZ2V0UG9zaXRpb24oKTsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4gbnVsbDs=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
