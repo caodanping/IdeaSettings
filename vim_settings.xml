@@ -33,7 +33,7 @@
         <mark key="." line="47" column="106" />
         <mark key="^" line="47" column="106" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" timestamp="1475999331684">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" timestamp="1476065410354">
         <mark key="[" line="290" column="64" />
         <mark key="]" line="291" column="0" />
         <mark key="." line="291" column="0" />
@@ -307,7 +307,7 @@
         <mark key="^" line="6" column="11" />
         <mark key="." line="6" column="11" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/resources/init/permissions.csv" timestamp="1475128461649">
+      <file name="D:/IdeaProjects/lems/src/main/resources/init/permissions.csv" timestamp="1476065464843">
         <mark key="[" line="44" column="20" />
         <mark key="]" line="44" column="21" />
         <mark key="." line="44" column="21" />
@@ -319,7 +319,7 @@
         <mark key="^" line="35" column="41" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/test/java/DataInit.java" timestamp="1475128950850">
+      <file name="D:/IdeaProjects/lems/src/test/java/DataInit.java" timestamp="1476064965650">
         <mark key="[" line="27" column="23" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/DepartmentRepository.java" timestamp="1475998508124">
@@ -614,6 +614,13 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/resources/init/import.sql" timestamp="1476065339210">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="11" column="63" />
+        <mark key="]" line="11" column="54" />
+        <mark key="^" line="11" column="54" />
+        <mark key="." line="11" column="54" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DispatchingController.java" timestamp="1475985060637">
         <mark key="[" line="39" column="26" />
         <mark key="]" line="40" column="110" />
@@ -823,7 +830,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1573" column="26" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1577" column="26" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1578" column="50" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
       <jump line="1579" column="22" filename="D:/IdeaProjects/lems/src/main/frontend/ext/src/panel/Table.js" />
@@ -923,19 +929,20 @@
       <jump line="104" column="67" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" />
       <jump line="78" column="55" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" />
       <jump line="1" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" />
+      <jump line="10" column="0" filename="D:/IdeaProjects/lems/src/main/resources/init/import.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>验</text>
       </register>
       <register name="-" type="4">
-        <text>getComponent</text>
+        <text>验</text>
       </register>
       <register name="/" type="4">
         <text>Element</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyByZWxhdGVkRW50aXR5SWQ7CgogICAgcHJpdmF0ZSBTdHJpbmcgaW52b2NlTnVtYmVyOwoKICAgIHByaXZhdGUgU3RyaW5nIHZpZXdOYW1lOw==</text>
+      <register name="0" type="2">
+        <text encoding="base64">SU5TRVJUIElOVE8gcm9sZXMgKGlkLCBuYW1lLCB2ZXJzaW9uKSBWQUxVRVMgKCdQTScsICfP7sS/uLrU8MjLJywgMCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
