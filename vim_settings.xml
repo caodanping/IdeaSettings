@@ -21,7 +21,7 @@
         <mark key="." line="108" column="40" />
         <mark key="^" line="108" column="40" />
       </file>
-      <file name="/a.dummy" timestamp="1476061306238">
+      <file name="/a.dummy" timestamp="1476076689764">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -74,8 +74,8 @@
         <mark key="^" line="37" column="11" />
         <mark key="." line="71" column="24" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/TaskSummaryDto.java" timestamp="1476063803634">
-        <mark key="[" line="15" column="28" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/TaskSummaryDto.java" timestamp="1476076635875">
+        <mark key="[" line="14" column="30" />
         <mark key="]" line="15" column="0" />
         <mark key="^" line="13" column="3" />
         <mark key="." line="15" column="0" />
@@ -188,10 +188,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="15" column="36" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/TaskServiceImpl.java" timestamp="1476071950743">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/TaskServiceImpl.java" timestamp="1476076677908">
+        <mark key="[" line="73" column="31" />
+        <mark key="]" line="73" column="53" />
+        <mark key="." line="73" column="53" />
+        <mark key="^" line="73" column="53" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/BaseEntity.java" timestamp="1472197535541">
         <mark key="[" line="26" column="30" />
@@ -436,6 +437,12 @@
         <mark key="." line="46" column="42" />
         <mark key="^" line="46" column="42" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/task/List.js" timestamp="1476076610548">
+        <mark key="[" line="18" column="33" />
+        <mark key="]" line="18" column="33" />
+        <mark key="." line="18" column="33" />
+        <mark key="^" line="18" column="17" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/resources/init/permissions.xml" timestamp="1472804766091">
         <mark key="[" line="6" column="18" />
         <mark key="]" line="6" column="18" />
@@ -478,6 +485,7 @@
         <mark key="^" line="51" column="17" />
         <mark key="." line="55" column="34" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.11.4.RELEASE/spring-data-commons-1.11.4.RELEASE-sources.jar!/org/springframework/data/domain/Slice.java" timestamp="1476075466282" />
       <file name="D:/IdeaProjects/lems/src/jetty/webdefault.xml" timestamp="1472706486797">
         <mark key="[" line="152" column="19" />
         <mark key="]" line="152" column="22" />
@@ -572,7 +580,7 @@
         <mark key="." line="84" column="40" />
         <mark key="^" line="84" column="40" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/TaskRepository.java" timestamp="1476074214730">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/TaskRepository.java" timestamp="1476075282322">
         <mark key="[" line="15" column="94" />
         <mark key="]" line="17" column="46" />
         <mark key="^" line="17" column="46" />
@@ -931,34 +939,40 @@
       <jump line="10" column="0" filename="D:/IdeaProjects/lems/src/main/resources/init/import.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0YXMK</text>
+      <register name="&quot;" type="4">
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text>Tasks</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>Element</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LS0gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCi0tIDEuMiDIqM/eCi0tIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
+        <text encoding="base64">ICAgICAgICB7dGV4dDogJ8jOzvHD+7PGJywgZGF0YUluZGV4OiAnbmFtZSd9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0YXMK</text>
+        <text encoding="base64">ICAgIGh0bWw6ICJIZWxsbywgV29ybGQhISIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGFza1JlcG9zaXRvcnkuZmluZEFsbAo=</text>
+        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSB1c2VyUmVwb3NpdG9yeS5maW5kQnlVc2VybmFtZSh1c2VybmFtZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0YXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGFza1JlcG9zaXRvcnkuZmluZEFsbAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>INSERT INTO menus (id, iconCls, name, position, url, version, parent_id, description)
 VALUES (3, 'fa fa-hotel', '梁', 1, '#cobels', 0, NULL, NULL);
 INSERT INTO menus (id, description, iconCls, name, position, url, version, parent_id)
@@ -1015,12 +1029,6 @@ INSERT INTO menus (id, description, iconCls, name, position, url, version, paren
 VALUES (3, 'fa fa-hotel', '梁', 1, '#cobels', 0, NULL, NULL);
 INSERT INTO menus (id, description, iconCls, name, position, url, version, parent_id)
 VALUES (3, 'fa fa-hotel', '梁', 1, '#cobels', 0, NULL, NULL);</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gbWVudXMgKGlkLCBkZXNjcmlwdGlvbiwgaWNvbkNscywgbmFtZSwgcG9zaXRpb24sIHVybCwgdmVyc2lvbiwgcGFyZW50X2lkKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gbWVudXMgKGlkLCBkZXNjcmlwdGlvbiwgaWNvbkNscywgbmFtZSwgcG9zaXRpb24sIHVybCwgdmVyc2lvbiwgcGFyZW50X2lkKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gbWVudXMgKGlkLCBkZXNjcmlwdGlvbiwgaWNvbkNscywgbmFtZSwgcG9zaXRpb24sIHVybCwgdmVyc2lvbiwgcGFyZW50X2lkKQo=</text>
