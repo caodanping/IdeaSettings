@@ -33,12 +33,12 @@
         <mark key="." line="47" column="106" />
         <mark key="^" line="47" column="106" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" timestamp="1476065410354">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" timestamp="1476070371502">
         <mark key="[" line="290" column="64" />
         <mark key="]" line="291" column="0" />
         <mark key="." line="291" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/resources/init/menus.xml" timestamp="1474961336371">
+      <file name="D:/IdeaProjects/lems/src/main/resources/init/menus.xml" timestamp="1476066431036">
         <mark key="[" line="3" column="29" />
         <mark key="]" line="3" column="28" />
         <mark key="^" line="3" column="28" />
@@ -122,7 +122,7 @@
         <mark key="." line="39" column="37" />
         <mark key="^" line="39" column="36" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/resources/init/roleMenus.csv" timestamp="1473223379879">
+      <file name="D:/IdeaProjects/lems/src/main/resources/init/roleMenus.csv" timestamp="1476068937669">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="5" column="3" />
         <mark key="." line="5" column="3" />
@@ -188,10 +188,10 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="15" column="36" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/TaskServiceImpl.java" timestamp="1474954127332">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/TaskServiceImpl.java" timestamp="1476071950743">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/BaseEntity.java" timestamp="1472197535541">
         <mark key="[" line="26" column="30" />
@@ -572,11 +572,11 @@
         <mark key="." line="84" column="40" />
         <mark key="^" line="84" column="40" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/TaskRepository.java" timestamp="1474953963189">
-        <mark key="[" line="10" column="83" />
-        <mark key="]" line="10" column="135" />
-        <mark key="^" line="10" column="135" />
-        <mark key="." line="10" column="135" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/TaskRepository.java" timestamp="1476071970839">
+        <mark key="[" line="12" column="92" />
+        <mark key="]" line="11" column="135" />
+        <mark key="^" line="11" column="135" />
+        <mark key="." line="11" column="135" />
       </file>
       <file name="D:/IdeaProjects/lems/src/test/groovy/JsonBuilderTest.groovy" timestamp="1473406565977">
         <mark key="[" line="19" column="5" />
@@ -614,12 +614,11 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/resources/init/import.sql" timestamp="1476065339210">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="11" column="63" />
-        <mark key="]" line="11" column="54" />
-        <mark key="^" line="11" column="54" />
-        <mark key="." line="11" column="54" />
+      <file name="D:/IdeaProjects/lems/src/main/resources/init/import.sql" timestamp="1476070786408">
+        <mark key="'" line="12" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DispatchingController.java" timestamp="1475985060637">
         <mark key="[" line="39" column="26" />
@@ -723,11 +722,11 @@
         <mark key="^" line="3" column="30" />
         <mark key="." line="3" column="30" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/TaskService.java" timestamp="1474953793532">
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="15" column="156" />
-        <mark key="." line="17" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/TaskService.java" timestamp="1476071137168">
+        <mark key="[" line="22" column="29" />
+        <mark key="]" line="22" column="41" />
+        <mark key="^" line="22" column="41" />
+        <mark key="." line="22" column="41" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/SimData.js" timestamp="1473646386335">
         <mark key="[" line="387" column="46" />
@@ -932,46 +931,99 @@
       <jump line="10" column="0" filename="D:/IdeaProjects/lems/src/main/resources/init/import.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>验</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0YXMK</text>
       </register>
       <register name="-" type="4">
-        <text>验</text>
+        <text>Tasks</text>
       </register>
       <register name="/" type="4">
         <text>Element</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gcm9sZXMgKGlkLCBuYW1lLCB2ZXJzaW9uKSBWQUxVRVMgKCdQTScsICfP7sS/uLrU8MjLJywgMCk7Cg==</text>
+        <text encoding="base64">LS0gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCi0tIDEuMiDIqM/eCi0tIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0YXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGFza1JlcG9zaXRvcnkuZmluZEFsbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>function getCompVal(itemId) {
-            
-        }</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF1dG9Mb2FkT25WYWx1ZTogdHJ1ZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text>INSERT INTO menus (id, iconCls, name, position, url, version, parent_id, description)
+VALUES (3, 'fa fa-hotel', '梁', 1, '#cobels', 0, NULL, NULL);
+INSERT INTO menus (id, description, iconCls, name, position, url, version, parent_id)
+VALUES (3, 'fa fa-hotel', '梁', 1, '#cobels', 0, NULL, NULL);
+INSERT INTO menus (id, description, iconCls, name, position, url, version, parent_id)
+VALUES (3, 'fa fa-hotel', '梁', 1, '#cobels', 0, NULL, NULL);
+INSERT INTO menus (id, description, iconCls, name, position, url, version, parent_id)
+VALUES (3, 'fa fa-hotel', '梁', 1, '#cobels', 0, NULL, NULL);
+INSERT INTO menus (id, description, iconCls, name, position, url, version, parent_id)
+VALUES (3, 'fa fa-hotel', '梁', 1, '#cobels', 0, NULL, NULL);
+INSERT INTO menus (id, description, iconCls, name, position, url, version, parent_id)
+VALUES (3, 'fa fa-hotel', '梁', 1, '#cobels', 0, NULL, NULL);
+INSERT INTO menus (id, description, iconCls, name, position, url, version, parent_id)
+VALUES (3, 'fa fa-hotel', '梁', 1, '#cobels', 0, NULL, NULL);
+INSERT INTO menus (id, description, iconCls, name, position, url, version, parent_id)
+VALUES (3, 'fa fa-hotel', '梁', 1, '#cobels', 0, NULL, NULL);
+INSERT INTO menus (id, description, iconCls, name, position, url, version, parent_id)
+VALUES (3, 'fa fa-hotel', '梁', 1, '#cobels', 0, NULL, NULL);
+INSERT INTO menus (id, description, iconCls, name, position, url, version, parent_id)
+VALUES (3, 'fa fa-hotel', '梁', 1, '#cobels', 0, NULL, NULL);
+INSERT INTO menus (id, description, iconCls, name, position, url, version, parent_id)
+VALUES (3, 'fa fa-hotel', '梁', 1, '#cobels', 0, NULL, NULL);
+INSERT INTO menus (id, description, iconCls, name, position, url, version, parent_id)
+VALUES (3, 'fa fa-hotel', '梁', 1, '#cobels', 0, NULL, NULL);
+INSERT INTO menus (id, description, iconCls, name, position, url, version, parent_id)
+VALUES (3, 'fa fa-hotel', '梁', 1, '#cobels', 0, NULL, NULL);
+INSERT INTO menus (id, description, iconCls, name, position, url, version, parent_id)
+VALUES (3, 'fa fa-hotel', '梁', 1, '#cobels', 0, NULL, NULL);
+INSERT INTO menus (id, description, iconCls, name, position, url, version, parent_id)
+VALUES (3, 'fa fa-hotel', '梁', 1, '#cobels', 0, NULL, NULL);
+INSERT INTO menus (id, description, iconCls, name, position, url, version, parent_id)
+VALUES (3, 'fa fa-hotel', '梁', 1, '#cobels', 0, NULL, NULL);
+INSERT INTO menus (id, description, iconCls, name, position, url, version, parent_id)
+VALUES (3, 'fa fa-hotel', '梁', 1, '#cobels', 0, NULL, NULL);
+INSERT INTO menus (id, description, iconCls, name, position, url, version, parent_id)
+VALUES (3, 'fa fa-hotel', '梁', 1, '#cobels', 0, NULL, NULL);
+INSERT INTO menus (id, description, iconCls, name, position, url, version, parent_id)
+VALUES (3, 'fa fa-hotel', '梁', 1, '#cobels', 0, NULL, NULL);
+INSERT INTO menus (id, description, iconCls, name, position, url, version, parent_id)
+VALUES (3, 'fa fa-hotel', '梁', 1, '#cobels', 0, NULL, NULL);
+INSERT INTO menus (id, description, iconCls, name, position, url, version, parent_id)
+VALUES (3, 'fa fa-hotel', '梁', 1, '#cobels', 0, NULL, NULL);
+INSERT INTO menus (id, description, iconCls, name, position, url, version, parent_id)
+VALUES (3, 'fa fa-hotel', '梁', 1, '#cobels', 0, NULL, NULL);
+INSERT INTO menus (id, description, iconCls, name, position, url, version, parent_id)
+VALUES (3, 'fa fa-hotel', '梁', 1, '#cobels', 0, NULL, NULL);
+INSERT INTO menus (id, description, iconCls, name, position, url, version, parent_id)
+VALUES (3, 'fa fa-hotel', '梁', 1, '#cobels', 0, NULL, NULL);
+INSERT INTO menus (id, description, iconCls, name, position, url, version, parent_id)
+VALUES (3, 'fa fa-hotel', '梁', 1, '#cobels', 0, NULL, NULL);
+INSERT INTO menus (id, description, iconCls, name, position, url, version, parent_id)
+VALUES (3, 'fa fa-hotel', '梁', 1, '#cobels', 0, NULL, NULL);
+INSERT INTO menus (id, description, iconCls, name, position, url, version, parent_id)
+VALUES (3, 'fa fa-hotel', '梁', 1, '#cobels', 0, NULL, NULL);
+INSERT INTO menus (id, description, iconCls, name, position, url, version, parent_id)
+VALUES (3, 'fa fa-hotel', '梁', 1, '#cobels', 0, NULL, NULL);</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvcyA9IG5ldyBCTWFwLlBvaW50KG1lLm1hcmtlclBvc2l0aW9uLmxuZywgbWUubWFya2VyUG9zaXRpb24ubGF0KTsK</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gbWVudXMgKGlkLCBkZXNjcmlwdGlvbiwgaWNvbkNscywgbmFtZSwgcG9zaXRpb24sIHVybCwgdmVyc2lvbiwgcGFyZW50X2lkKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lLmJtYXAuY2VudGVyQW5kWm9vbShwb3MsIDEyKTsK</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gbWVudXMgKGlkLCBkZXNjcmlwdGlvbiwgaWNvbkNscywgbmFtZSwgcG9zaXRpb24sIHVybCwgdmVyc2lvbiwgcGFyZW50X2lkKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gbWVudXMgKGlkLCBkZXNjcmlwdGlvbiwgaWNvbkNscywgbmFtZSwgcG9zaXRpb24sIHVybCwgdmVyc2lvbiwgcGFyZW50X2lkKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
