@@ -168,11 +168,11 @@
         <mark key="^" line="51" column="30" />
         <mark key="." line="51" column="31" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1476062370647">
-        <mark key="[" line="43" column="18" />
-        <mark key="]" line="43" column="18" />
-        <mark key="." line="43" column="18" />
-        <mark key="^" line="43" column="34" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1476083772490">
+        <mark key="[" line="113" column="85" />
+        <mark key="]" line="120" column="103" />
+        <mark key="." line="120" column="103" />
+        <mark key="^" line="120" column="103" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/SecurityRepositoryCustomImpl.java" timestamp="1472442660116">
         <mark key="[" line="13" column="67" />
@@ -180,7 +180,7 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="15" column="36" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/TaskServiceImpl.java" timestamp="1476076677908">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/TaskServiceImpl.java" timestamp="1476082787889">
         <mark key="[" line="73" column="31" />
         <mark key="]" line="73" column="53" />
         <mark key="." line="73" column="53" />
@@ -435,12 +435,12 @@
         <mark key="." line="46" column="42" />
         <mark key="^" line="46" column="42" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/task/List.js" timestamp="1476081746469">
-        <mark key="i" line="34" column="18" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="15" column="3" />
-        <mark key="." line="15" column="3" />
-        <mark key="^" line="15" column="3" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/task/List.js" timestamp="1476082954489">
+        <mark key="i" line="35" column="18" />
+        <mark key="[" line="38" column="22" />
+        <mark key="]" line="38" column="28" />
+        <mark key="." line="38" column="28" />
+        <mark key="^" line="38" column="28" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/resources/init/permissions.xml" timestamp="1472804766091">
         <mark key="[" line="6" column="18" />
@@ -497,7 +497,7 @@
         <mark key="^" line="68" column="3" />
         <mark key="." line="68" column="3" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/DispatchingRequests.js" timestamp="1474965429950">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/DispatchingRequests.js" timestamp="1476082929200">
         <mark key="[" line="5" column="40" />
         <mark key="]" line="6" column="27" />
         <mark key="^" line="6" column="27" />
@@ -572,11 +572,11 @@
         <mark key="^" line="9" column="56" />
         <mark key="." line="9" column="56" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/TaskRepository.java" timestamp="1476075282322">
-        <mark key="[" line="15" column="94" />
-        <mark key="]" line="17" column="46" />
-        <mark key="^" line="17" column="46" />
-        <mark key="." line="17" column="46" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/TaskRepository.java" timestamp="1476083185577">
+        <mark key="[" line="16" column="121" />
+        <mark key="]" line="16" column="121" />
+        <mark key="^" line="16" column="104" />
+        <mark key="." line="16" column="121" />
       </file>
       <file name="D:/IdeaProjects/lems/src/test/groovy/JsonBuilderTest.groovy" timestamp="1473406565977">
         <mark key="[" line="19" column="5" />
@@ -932,10 +932,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>Element</text>
@@ -944,31 +944,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaGFuZGxlcjogZnVuY3Rpb24gKHZpZXcsIHJlY29yZEluZGV4LCBjZWxsSW5kZXgsIGUsIHJlY29yZCwgcm93KSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0b0xvYWQ6IHRydWUK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZXcuc2hvdyhhbmltVGFyZ2V0KTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZXcgPSBFeHQuY3JlYXRlKCdMZW1zLnZpZXcuZGV2aWNlRGlzcGF0Y2hpbmcuRWRpdCcsIHsKICAgICAgICAgICAgICAgICAgICBkYXRhVmFsdWU6IGRhdGEKICAgICAgICAgICAgICAgIH0pOw==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGh0bWw6ICJIZWxsbywgV29ybGQhISIK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSB1c2VyUmVwb3NpdG9yeS5maW5kQnlVc2VybmFtZSh1c2VybmFtZSk7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB0YXMK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGFza1JlcG9zaXRvcnkuZmluZEFsbAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGFza1JlcG9zaXRvcnkuZmluZEFsbAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1007,7 +1007,6 @@
         <entry>Element</entry>
       </history-search>
       <history-cmd>
-        <entry>46</entry>
         <entry encoding="base64">JzwsJz50Mzk=</entry>
         <entry encoding="base64">JzwsJz50NTc=</entry>
         <entry encoding="base64">JzwsJz50ODU=</entry>
@@ -1026,6 +1025,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5tMjY4</entry>
+        <entry encoding="base64">JzwsJz5tMzA=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
