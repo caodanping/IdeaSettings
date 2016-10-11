@@ -144,7 +144,7 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1476080773327">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1476152008879">
         <mark key="'" line="87" column="55" />
         <mark key="[" line="267" column="0" />
         <mark key="]" line="267" column="0" />
@@ -318,9 +318,6 @@
         <mark key="^" line="35" column="41" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/test/java/DataInit.java" timestamp="1476064965650">
-        <mark key="[" line="27" column="23" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/DepartmentRepository.java" timestamp="1475998508124">
         <mark key="[" line="14" column="45" />
         <mark key="]" line="14" column="58" />
@@ -484,7 +481,6 @@
         <mark key="^" line="51" column="17" />
         <mark key="." line="55" column="34" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.11.4.RELEASE/spring-data-commons-1.11.4.RELEASE-sources.jar!/org/springframework/data/domain/Slice.java" timestamp="1476075466282" />
       <file name="D:/IdeaProjects/lems/src/jetty/webdefault.xml" timestamp="1472706486797">
         <mark key="[" line="152" column="19" />
         <mark key="]" line="152" column="22" />
@@ -569,6 +565,7 @@
         <mark key="^" line="9" column="56" />
         <mark key="." line="9" column="56" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EditController.js" timestamp="1476151892312" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/TaskRepository.java" timestamp="1476083185577">
         <mark key="[" line="16" column="121" />
         <mark key="]" line="16" column="121" />
@@ -646,6 +643,12 @@
         <mark key="]" line="42" column="41" />
         <mark key="." line="42" column="41" />
         <mark key="^" line="42" column="41" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Audit.js" timestamp="1476152061750">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="4" column="3" />
+        <mark key="." line="4" column="3" />
+        <mark key="^" line="4" column="3" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ReqirementTableItemController.js" timestamp="1473824888245">
         <mark key="[" line="4" column="0" />
@@ -926,10 +929,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>create</text>
+        <text>panel.Panel</text>
       </register>
       <register name="-" type="4">
-        <text>create</text>
+        <text>panel.Panel</text>
       </register>
       <register name="/" type="4">
         <text>Element</text>
