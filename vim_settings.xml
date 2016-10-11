@@ -144,7 +144,7 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1476157407443">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1476157046258">
         <mark key="'" line="87" column="55" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="28" column="26" />
@@ -571,6 +571,7 @@
         <mark key="^" line="9" column="56" />
         <mark key="." line="9" column="56" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EditController.js" timestamp="1476151892312" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/TaskRepository.java" timestamp="1476083185577">
         <mark key="[" line="16" column="121" />
         <mark key="]" line="16" column="121" />
@@ -643,11 +644,11 @@
         <mark key="." line="42" column="41" />
         <mark key="^" line="42" column="41" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Audit.js" timestamp="1476157690093">
-        <mark key="[" line="44" column="35" />
-        <mark key="]" line="45" column="40" />
-        <mark key="." line="45" column="40" />
-        <mark key="^" line="45" column="40" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Audit.js" timestamp="1476156984547">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="20" />
+        <mark key="." line="27" column="20" />
+        <mark key="^" line="27" column="20" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ReqirementTableItemController.js" timestamp="1473824888245">
         <mark key="[" line="4" column="0" />
@@ -715,10 +716,11 @@
         <mark key="." line="9" column="66" />
         <mark key="^" line="9" column="66" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/BMap.js" timestamp="1476157673374">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/BMap.js" timestamp="1474271545621">
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="30" />
+        <mark key="^" line="3" column="30" />
+        <mark key="." line="3" column="30" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/TaskService.java" timestamp="1476071137168">
         <mark key="[" line="22" column="29" />
@@ -804,6 +806,7 @@
         <mark key="." line="70" column="26" />
         <mark key="^" line="70" column="26" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/Audit.js" timestamp="1476154776849" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/grant/GrantModel.js" timestamp="1473167745077">
         <mark key="[" line="2" column="34" />
         <mark key="]" line="4" column="19" />
@@ -933,7 +936,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpZHRoOiA2ODAsCg==</text>
       </register>
       <register name="-" type="4">
         <text>getId(),</text>
@@ -945,27 +948,21 @@
         <text encoding="base64">ICAgIHdpZHRoOiA2ODAsCiAgICBoZWlnaHQ6IDYwMCwKICAgIGJvZHlQYWRkaW5nOiAxMCwKICAgIG1vZGFsOiB0cnVlLAogICAgYm9keVN0eWxlOiB7CiAgICAgICAgYmFja2dyb3VuZENvbG9yOiAnd2hpdGUnCiAgICB9LAogICAgY2FsbGJhY2s6IEV4dC5lbXB0eUZuLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIHdpZHRoOiA2ODAsCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29udHJvbHM6IFttYXhCdG5dLAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZmllbGRMYWJlbDogJ8/uxL+4utTwyMvJ87rLJwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWVsZExhYmVsOiAnyse38c2s0uInCiAgICAgICAgICAgICAgICB9LCB7</text>
       </register>
-      <register name="8" type="4">
+      <register name="6" type="4">
         <text>layout: 'anchor',
             defaults: {
                 layout: '100%'
@@ -974,8 +971,14 @@
                 {}
             ]</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaXRlbXM6IHsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1014,6 +1017,8 @@
         <entry>Element</entry>
       </history-search>
       <history-cmd>
+        <entry encoding="base64">JzwsJz50Mzk=</entry>
+        <entry encoding="base64">JzwsJz50NTc=</entry>
         <entry encoding="base64">JzwsJz50ODU=</entry>
         <entry encoding="base64">JzwsJz5qb2lu</entry>
         <entry>help join</entry>
@@ -1031,8 +1036,6 @@
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5tMjY4</entry>
         <entry encoding="base64">JzwsJz5tMzA=</entry>
-        <entry encoding="base64">JzwsJz5tMTIz</entry>
-        <entry encoding="base64">JzwsJz5tMjI=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
