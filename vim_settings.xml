@@ -137,11 +137,11 @@
         <mark key="^" line="28" column="21" />
         <mark key="." line="36" column="17" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/AuditDisplay.js" timestamp="1476176264388">
-        <mark key="[" line="16" column="28" />
-        <mark key="]" line="16" column="28" />
-        <mark key="." line="16" column="28" />
-        <mark key="^" line="36" column="29" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/AuditDisplay.js" timestamp="1476276570308">
+        <mark key="[" line="42" column="39" />
+        <mark key="]" line="42" column="42" />
+        <mark key="^" line="42" column="42" />
+        <mark key="." line="42" column="42" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/model/Warehouse.js" timestamp="1471941946054">
         <mark key="[" line="0" column="3" />
@@ -167,11 +167,11 @@
         <mark key="^" line="51" column="30" />
         <mark key="." line="51" column="31" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1476275267382">
-        <mark key="[" line="263" column="35" />
-        <mark key="]" line="263" column="35" />
-        <mark key="." line="263" column="35" />
-        <mark key="^" line="263" column="66" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1476275876706">
+        <mark key="[" line="260" column="30" />
+        <mark key="]" line="269" column="0" />
+        <mark key="." line="269" column="0" />
+        <mark key="^" line="269" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/SecurityRepositoryCustomImpl.java" timestamp="1472442660116">
         <mark key="[" line="13" column="67" />
@@ -407,11 +407,11 @@
         <mark key="." line="8" column="9" />
         <mark key="^" line="8" column="9" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/ApplyDisplay.js" timestamp="1476176236660">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="10" column="5" />
-        <mark key="." line="9" column="23" />
-        <mark key="^" line="9" column="23" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/ApplyDisplay.js" timestamp="1476276259589">
+        <mark key="[" line="39" column="47" />
+        <mark key="]" line="39" column="47" />
+        <mark key="^" line="39" column="47" />
+        <mark key="." line="39" column="47" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/Menus.js" timestamp="1474857346921">
         <mark key="[" line="32" column="50" />
@@ -960,21 +960,27 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getProjectManagerApprovalState()</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>getProjectManagerApprovalState()</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>Element</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gYHVzZXJfcm9sZXNgIChgVXNlcl9pZGAsIGByb2xlc19pZGApIFZBTFVFUyAoMSwgJ1NBJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJpbmQ6IHRoaXMudXNlckJpbmQsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>function (view, recordIndex, cellIndex, e, record, row) {
                 var id = record.get('relatedEntityId'),
                     viewName = record.get('viewName'),
@@ -992,26 +998,20 @@
                 view.showAndLoad(id);
             }</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciByZXN1bHQgPSAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGxheW91dDogJ2ZpdCcsCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9jdXNhYmxlOiBmYWxzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVhZE9ubHk6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgIGxheW91dDogJ2ZpdCcsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9jdXNhYmxlOiBmYWxzZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVhZE9ubHk6IHRydWUsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1050,8 +1050,6 @@
         <entry>Element</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5tNzg=</entry>
-        <entry>587</entry>
         <entry encoding="base64">JzwsJz5tMTU=</entry>
         <entry>actionlist format</entry>
         <entry>action format</entry>
@@ -1069,6 +1067,8 @@
         <entry encoding="base64">JzwsJz4xNjY=</entry>
         <entry encoding="base64">JzwsJz5tMTY2</entry>
         <entry encoding="base64">JzwsJz5tMTQ5</entry>
+        <entry encoding="base64">JzwsJz5tNDM=</entry>
+        <entry encoding="base64">JzwsJz5tNDU=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
