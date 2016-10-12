@@ -21,10 +21,11 @@
         <mark key="." line="108" column="40" />
         <mark key="^" line="108" column="40" />
       </file>
-      <file name="/a.dummy" timestamp="1476155746068">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="D:/IdeaProjects/lems/.editorconfig" timestamp="1476255497571">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+        <mark key="." line="8" column="31" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1476242660256">
         <mark key="[" line="81" column="56" />
@@ -33,11 +34,6 @@
         <mark key="]" line="16" column="40" />
         <mark key="^" line="16" column="40" />
         <mark key="." line="16" column="40" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" timestamp="1476070371502">
-        <mark key="[" line="290" column="64" />
-        <mark key="]" line="291" column="0" />
-        <mark key="." line="291" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/resources/init/menus.xml" timestamp="1476066431036">
         <mark key="[" line="3" column="29" />
@@ -129,11 +125,6 @@
         <mark key="." line="5" column="3" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/resources/init/districts.csv" timestamp="1475127925904">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/login/LoginModel.js" timestamp="1471569351492">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="6" column="4" />
@@ -182,10 +173,11 @@
         <mark key="^" line="51" column="30" />
         <mark key="." line="51" column="31" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1476249684655">
-        <mark key="]" line="166" column="92" />
-        <mark key="." line="166" column="92" />
-        <mark key="^" line="166" column="92" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1476255294507">
+        <mark key="[" line="144" column="66" />
+        <mark key="]" line="144" column="66" />
+        <mark key="." line="144" column="66" />
+        <mark key="^" line="144" column="65" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/SecurityRepositoryCustomImpl.java" timestamp="1472442660116">
         <mark key="[" line="13" column="67" />
@@ -638,6 +630,9 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/resources/init/import.sql" timestamp="1476255419707">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DispatchingController.java" timestamp="1476253777770">
         <mark key="[" line="50" column="48" />
         <mark key="]" line="50" column="48" />
@@ -746,7 +741,7 @@
         <mark key="." line="3" column="30" />
         <mark key="^" line="3" column="30" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/TaskService.java" timestamp="1476071137168">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/TaskService.java" timestamp="1476255218962">
         <mark key="[" line="22" column="29" />
         <mark key="]" line="22" column="41" />
         <mark key="^" line="22" column="41" />
@@ -965,10 +960,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>&quot;dispatching-request&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>&quot;dispatching-request&quot;</text>
       </register>
       <register name="/" type="4">
         <text>Element</text>
