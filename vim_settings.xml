@@ -75,11 +75,11 @@
         <mark key="^" line="37" column="11" />
         <mark key="." line="71" column="24" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/TaskSummaryDto.java" timestamp="1476076635875">
-        <mark key="[" line="14" column="30" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="13" column="3" />
-        <mark key="." line="15" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/TaskSummaryDto.java" timestamp="1476253205682">
+        <mark key="[" line="15" column="28" />
+        <mark key="]" line="15" column="27" />
+        <mark key="^" line="15" column="27" />
+        <mark key="." line="15" column="27" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/CsvReader.java" timestamp="1472783810530">
         <mark key="[" line="8" column="26" />
@@ -199,11 +199,11 @@
         <mark key="." line="64" column="43" />
         <mark key="^" line="64" column="43" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/AuditController.js" timestamp="1476250996520">
-        <mark key="[" line="20" column="66" />
-        <mark key="]" line="21" column="49" />
-        <mark key="." line="21" column="49" />
-        <mark key="^" line="21" column="49" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/AuditController.js" timestamp="1476253763267">
+        <mark key="[" line="13" column="53" />
+        <mark key="]" line="13" column="53" />
+        <mark key="." line="13" column="53" />
+        <mark key="^" line="21" column="32" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/BaseEntity.java" timestamp="1472197535541">
         <mark key="[" line="26" column="30" />
@@ -307,11 +307,11 @@
         <mark key="." line="23" column="59" />
         <mark key="^" line="23" column="59" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchingDto.java" timestamp="1476164615194">
-        <mark key="[" line="21" column="33" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="191" column="14" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchingDto.java" timestamp="1476252831056">
+        <mark key="[" line="232" column="5" />
+        <mark key="]" line="234" column="31" />
+        <mark key="." line="234" column="31" />
+        <mark key="^" line="234" column="31" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/scripts/MyControls.js" timestamp="1474253000471">
         <mark key="[" line="7" column="38" />
@@ -457,12 +457,12 @@
         <mark key="." line="46" column="42" />
         <mark key="^" line="46" column="42" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/task/List.js" timestamp="1476251526759">
-        <mark key="i" line="47" column="18" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="48" />
-        <mark key="." line="34" column="48" />
-        <mark key="^" line="34" column="48" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/task/List.js" timestamp="1476253376394">
+        <mark key="i" line="50" column="18" />
+        <mark key="[" line="32" column="17" />
+        <mark key="]" line="33" column="45" />
+        <mark key="." line="33" column="45" />
+        <mark key="^" line="33" column="45" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/resources/init/permissions.xml" timestamp="1472804766091">
         <mark key="[" line="6" column="18" />
@@ -638,10 +638,10 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DispatchingController.java" timestamp="1476250550943">
-        <mark key="[" line="44" column="29" />
-        <mark key="]" line="44" column="62" />
-        <mark key="." line="54" column="4" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DispatchingController.java" timestamp="1476253777770">
+        <mark key="[" line="50" column="48" />
+        <mark key="]" line="50" column="48" />
+        <mark key="." line="50" column="48" />
         <mark key="^" line="54" column="4" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" timestamp="1476168245637">
@@ -668,11 +668,11 @@
         <mark key="." line="42" column="41" />
         <mark key="^" line="42" column="41" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Audit.js" timestamp="1476250632140">
-        <mark key="[" line="108" column="46" />
-        <mark key="]" line="109" column="47" />
-        <mark key="^" line="109" column="47" />
-        <mark key="." line="109" column="47" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Audit.js" timestamp="1476252651713">
+        <mark key="[" line="195" column="41" />
+        <mark key="]" line="198" column="42" />
+        <mark key="^" line="198" column="42" />
+        <mark key="." line="198" column="42" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ReqirementTableItemController.js" timestamp="1473824888245">
         <mark key="[" line="4" column="0" />
@@ -965,18 +965,21 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>view</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>view</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>Element</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciByZXN1bHQgPSBFeHQuZGVjb2RlKHJlc3AucmVzcG9uc2VUZXh0KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZpZXcuY2xvc2UoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEV4dC5Nc2cuYWxlcnQoJ7SmwO2zybmmJywgcmVzdWx0Lm1lc3NhZ2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICfJ6LG4tfe2yDrP7sS/uLrU8MjLyfPF+icgOiAnZGlzcGF0Y2hpbmctcmVxdWVzdHMtcG0tYXVkaXQvJywK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>function (view, recordIndex, cellIndex, e, record, row) {
                 var id = record.get('relatedEntityId'),
                     viewName = record.get('viewName'),
@@ -994,29 +997,26 @@
                 view.showAndLoad(id);
             }</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciByZXN1bHQgPSAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxheW91dDogJ2ZpdCcsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9jdXNhYmxlOiBmYWxzZQo=</text>
+        <text encoding="base64">ICAgIGxheW91dDogJ2ZpdCcsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVhZE9ubHk6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9jdXNhYmxlOiBmYWxzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVhZE9ubHk6IHRydWUsCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIGxheW91dDogewogICAgICAgIHR5cGU6ICd2Ym94JywKICAgICAgICBhbGlnbjogJ3N0cmV0Y2gnCiAgICB9LA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
