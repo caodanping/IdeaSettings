@@ -41,11 +41,11 @@
         <mark key="^" line="3" column="28" />
         <mark key="." line="3" column="28" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Task.java" timestamp="1476257618316">
-        <mark key="[" line="59" column="16" />
-        <mark key="]" line="61" column="27" />
-        <mark key="." line="61" column="27" />
-        <mark key="^" line="61" column="27" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Task.java" timestamp="1476259927350">
+        <mark key="[" line="39" column="65" />
+        <mark key="]" line="63" column="27" />
+        <mark key="." line="63" column="27" />
+        <mark key="^" line="63" column="27" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/Permissions.js" timestamp="1473061743263">
         <mark key="[" line="32" column="50" />
@@ -582,7 +582,7 @@
         <mark key="^" line="9" column="56" />
         <mark key="." line="9" column="56" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/TaskRepository.java" timestamp="1476258960533">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/TaskRepository.java" timestamp="1476259064757">
         <mark key="[" line="17" column="41" />
         <mark key="]" line="19" column="93" />
         <mark key="^" line="19" column="93" />
@@ -777,7 +777,7 @@
         <mark key="^" line="13" column="51" />
         <mark key="." line="13" column="51" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Job.java" timestamp="1476257328508">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Job.java" timestamp="1476259895718">
         <mark key="[" line="4" column="3" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/ManagerController.js" timestamp="1473646501142">
