@@ -29,6 +29,11 @@
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1476242660256">
         <mark key="[" line="81" column="56" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/task/ListController.js" timestamp="1476251242000">
+        <mark key="]" line="16" column="40" />
+        <mark key="^" line="16" column="40" />
+        <mark key="." line="16" column="40" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" timestamp="1476070371502">
         <mark key="[" line="290" column="64" />
         <mark key="]" line="291" column="0" />
@@ -194,11 +199,11 @@
         <mark key="." line="64" column="43" />
         <mark key="^" line="64" column="43" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/AuditController.js" timestamp="1476250458616">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="12" />
-        <mark key="." line="16" column="12" />
-        <mark key="^" line="12" column="35" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/AuditController.js" timestamp="1476250996520">
+        <mark key="[" line="20" column="66" />
+        <mark key="]" line="21" column="49" />
+        <mark key="." line="21" column="49" />
+        <mark key="^" line="21" column="49" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/BaseEntity.java" timestamp="1472197535541">
         <mark key="[" line="26" column="30" />
@@ -452,12 +457,12 @@
         <mark key="." line="46" column="42" />
         <mark key="^" line="46" column="42" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/task/List.js" timestamp="1476156735930">
-        <mark key="i" line="43" column="18" />
-        <mark key="[" line="24" column="32" />
-        <mark key="]" line="24" column="54" />
-        <mark key="." line="24" column="54" />
-        <mark key="^" line="24" column="54" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/task/List.js" timestamp="1476251526759">
+        <mark key="i" line="47" column="18" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="48" />
+        <mark key="." line="34" column="48" />
+        <mark key="^" line="34" column="48" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/resources/init/permissions.xml" timestamp="1472804766091">
         <mark key="[" line="6" column="18" />
@@ -567,7 +572,7 @@
         <mark key="^" line="30" column="26" />
         <mark key="." line="30" column="26" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/LinkActionColumn.js" timestamp="1475126125673">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/LinkActionColumn.js" timestamp="1476251393519">
         <mark key="[" line="34" column="40" />
         <mark key="]" line="34" column="43" />
         <mark key="." line="34" column="43" />
@@ -633,9 +638,9 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DispatchingController.java" timestamp="1476250126838">
-        <mark key="[" line="54" column="5" />
-        <mark key="]" line="54" column="4" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DispatchingController.java" timestamp="1476250550943">
+        <mark key="[" line="44" column="29" />
+        <mark key="]" line="44" column="62" />
         <mark key="." line="54" column="4" />
         <mark key="^" line="54" column="4" />
       </file>
@@ -663,11 +668,11 @@
         <mark key="." line="42" column="41" />
         <mark key="^" line="42" column="41" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Audit.js" timestamp="1476236431315">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="32" />
-        <mark key="^" line="6" column="18" />
-        <mark key="." line="6" column="18" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Audit.js" timestamp="1476250632140">
+        <mark key="[" line="108" column="46" />
+        <mark key="]" line="109" column="47" />
+        <mark key="^" line="109" column="47" />
+        <mark key="." line="109" column="47" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ReqirementTableItemController.js" timestamp="1473824888245">
         <mark key="[" line="4" column="0" />
@@ -960,43 +965,58 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>目</text>
+        <text>view</text>
       </register>
       <register name="-" type="4">
-        <text>目</text>
+        <text>view</text>
       </register>
       <register name="/" type="4">
         <text>Element</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwYXRjaGluZ1NlcnZpY2UuYXBwcm92ZVJlcXVlc3RGb3JQTShpZCwgYXBwcm92ZWQsIGNvbW1lbnRzKTsKICAgICAgICByZXR1cm4gbmV3IFJlc3BvbnNlRW50aXR5PFJlc3VsdER0bz4obmV3IFJlc3VsdER0bygiz+7Ev7i61PDIy8nzusvN6rPJISIpLCBIdHRwU3RhdHVzLk9LKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciByZXN1bHQgPSBFeHQuZGVjb2RlKHJlc3AucmVzcG9uc2VUZXh0KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZpZXcuY2xvc2UoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEV4dC5Nc2cuYWxlcnQoJ7SmwO2zybmmJywgcmVzdWx0Lm1lc3NhZ2UpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>function (view, recordIndex, cellIndex, e, record, row) {
+                var id = record.get('relatedEntityId'),
+                    viewName = record.get('viewName'),
+                    viewClass = Ext.ClassManager.getByAlias('widget.' + viewName),
+                    view;
+                if (!viewClass) {
+                    Ext.Msg.alert('错误', '未找到页面:' + viewName);
+                    return;
+                }
+                view = new viewClass({
+                    callback: function () {
+                        
+                    }
+                });
+                view.showAndLoad(id);
+            }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxheW91dDogJ2ZpdCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciByZXN1bHQgPSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9jdXNhYmxlOiBmYWxzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVhZE9ubHk6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgIGxheW91dDogJ2ZpdCcsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9jdXNhYmxlOiBmYWxzZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVhZE9ubHk6IHRydWUsCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIGxheW91dDogewogICAgICAgIHR5cGU6ICd2Ym94JywKICAgICAgICBhbGlnbjogJ3N0cmV0Y2gnCiAgICB9LA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAnMTAwJScsCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIGxheW91dDogewogICAgICAgIHR5cGU6ICd2Ym94JywKICAgICAgICBhbGlnbjogJ3N0cmV0Y2gnCiAgICB9LA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
