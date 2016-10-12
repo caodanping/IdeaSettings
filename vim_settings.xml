@@ -167,11 +167,11 @@
         <mark key="^" line="51" column="30" />
         <mark key="." line="51" column="31" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1476260863935">
-        <mark key="[" line="162" column="66" />
-        <mark key="]" line="162" column="65" />
-        <mark key="." line="162" column="65" />
-        <mark key="^" line="162" column="65" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1476275267382">
+        <mark key="[" line="263" column="35" />
+        <mark key="]" line="263" column="35" />
+        <mark key="." line="263" column="35" />
+        <mark key="^" line="263" column="66" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/SecurityRepositoryCustomImpl.java" timestamp="1472442660116">
         <mark key="[" line="13" column="67" />
@@ -293,11 +293,11 @@
         <mark key="." line="23" column="59" />
         <mark key="^" line="23" column="59" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchingDto.java" timestamp="1476252831056">
-        <mark key="[" line="232" column="5" />
-        <mark key="]" line="234" column="31" />
-        <mark key="." line="234" column="31" />
-        <mark key="^" line="234" column="31" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchingDto.java" timestamp="1476275155837">
+        <mark key="[" line="44" column="20" />
+        <mark key="]" line="296" column="35" />
+        <mark key="." line="296" column="35" />
+        <mark key="^" line="296" column="35" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/scripts/MyControls.js" timestamp="1474253000471">
         <mark key="[" line="7" column="38" />
@@ -960,10 +960,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>getProjectManagerApprovalState()</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>getProjectManagerApprovalState()</text>
       </register>
       <register name="/" type="4">
         <text>Element</text>
