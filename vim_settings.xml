@@ -32,9 +32,6 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1476242660256">
-        <mark key="[" line="81" column="56" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" timestamp="1476070371502">
         <mark key="[" line="290" column="64" />
         <mark key="]" line="291" column="0" />
@@ -458,11 +455,11 @@
         <mark key="." line="46" column="42" />
         <mark key="^" line="46" column="42" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Dispatching.js" timestamp="1476342539711">
-        <mark key="[" line="9" column="30" />
-        <mark key="]" line="10" column="25" />
-        <mark key="^" line="10" column="25" />
-        <mark key="." line="10" column="25" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Dispatching.js" timestamp="1476343933585">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="5" />
+        <mark key="." line="9" column="5" />
+        <mark key="^" line="9" column="5" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/resources/init/permissions.xml" timestamp="1472804766091">
         <mark key="[" line="6" column="18" />
@@ -804,9 +801,6 @@
         <mark key="^" line="13" column="51" />
         <mark key="." line="13" column="51" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Job.java" timestamp="1476260175446">
-        <mark key="[" line="4" column="3" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/ManagerController.js" timestamp="1473646501142">
         <mark key="[" line="88" column="16" />
         <mark key="]" line="88" column="21" />
@@ -866,6 +860,12 @@
         <mark key="]" line="41" column="37" />
         <mark key="." line="41" column="37" />
         <mark key="^" line="41" column="37" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/CloseButton.js" timestamp="1476343867768">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="14" />
+        <mark key="." line="7" column="14" />
+        <mark key="^" line="7" column="14" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/AjaxUserFilter.java" timestamp="1472712549514">
         <mark key="[" line="15" column="14" />
@@ -982,8 +982,8 @@
       <jump line="45" column="8" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>add</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB3LmNsb3NlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>add</text>
@@ -995,31 +995,34 @@
         <text>Lems.view.deviceDispatching.Dispatching</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvY3VzYWJsZTogZmFsc2UsCg==</text>
+        <text encoding="base64">ICAgICAgICB3LmNsb3NlKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvY3VzYWJsZTogZmFsc2UsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>this.buttons.unshift({
+            glyph: 0xf0d1,
+            text: '进入调度页面'
+        });</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvY3VzYWJsZTogZmFsc2UsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvY3VzYWJsZTogZmFsc2UsCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIHJlcXVpcmVzOiBbCiAgICAgICAgIkxlbXMudmlldy5kZXZpY2VEaXNwYXRjaGluZy5EZXRhaWxDb250cm9sbGVyIiwKICAgICAgICAiTGVtcy52aWV3LmRldmljZURpc3BhdGNoaW5nLkRldGFpbE1vZGVsIgogICAgXSw=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBjb250cm9sbGVyOiAiZGV2aWNlZGlzcGF0Y2hpbmctZGV0YWlsIiwKICAgIHZpZXdNb2RlbDogewogICAgICAgIHR5cGU6ICJkZXZpY2VkaXNwYXRjaGluZy1kZXRhaWwiCiAgICB9LA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
