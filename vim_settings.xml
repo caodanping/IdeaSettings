@@ -21,6 +21,11 @@
         <mark key="." line="108" column="40" />
         <mark key="^" line="108" column="40" />
       </file>
+      <file name="/a.dummy" timestamp="1476155746068">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="D:/IdeaProjects/lems/.editorconfig" timestamp="1476255497571">
         <mark key="[" line="8" column="28" />
         <mark key="]" line="8" column="31" />
@@ -29,6 +34,11 @@
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1476242660256">
         <mark key="[" line="81" column="56" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" timestamp="1476070371502">
+        <mark key="[" line="290" column="64" />
+        <mark key="]" line="291" column="0" />
+        <mark key="." line="291" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/resources/init/menus.xml" timestamp="1476066431036">
         <mark key="[" line="3" column="29" />
@@ -120,6 +130,11 @@
         <mark key="." line="5" column="3" />
         <mark key="^" line="5" column="3" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/resources/init/districts.csv" timestamp="1475127925904">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/login/LoginModel.js" timestamp="1471569351492">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="6" column="4" />
@@ -162,11 +177,11 @@
         <mark key="^" line="51" column="30" />
         <mark key="." line="51" column="31" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1476326424707">
-        <mark key="[" line="277" column="26" />
-        <mark key="]" line="285" column="18" />
-        <mark key="." line="285" column="18" />
-        <mark key="^" line="285" column="18" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1476328249964">
+        <mark key="[" line="273" column="25" />
+        <mark key="]" line="283" column="66" />
+        <mark key="." line="283" column="66" />
+        <mark key="^" line="283" column="65" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/SecurityRepositoryCustomImpl.java" timestamp="1472442660116">
         <mark key="[" line="13" column="67" />
@@ -293,11 +308,11 @@
         <mark key="." line="23" column="59" />
         <mark key="^" line="23" column="59" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchingDto.java" timestamp="1476326320947">
-        <mark key="[" line="284" column="11" />
-        <mark key="]" line="264" column="43" />
-        <mark key="." line="264" column="43" />
-        <mark key="^" line="264" column="43" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchingDto.java" timestamp="1476328274493">
+        <mark key="[" line="240" column="29" />
+        <mark key="]" line="35" column="18" />
+        <mark key="." line="35" column="18" />
+        <mark key="^" line="35" column="18" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/scripts/MyControls.js" timestamp="1474253000471">
         <mark key="[" line="7" column="38" />
@@ -620,11 +635,11 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/resources/init/import.sql" timestamp="1476261311680">
-        <mark key="[" line="155" column="61" />
-        <mark key="]" line="155" column="61" />
-        <mark key="." line="155" column="62" />
-        <mark key="^" line="152" column="62" />
+      <file name="D:/IdeaProjects/lems/src/main/resources/init/import.sql" timestamp="1476327517589">
+        <mark key="[" line="3678" column="61" />
+        <mark key="]" line="3678" column="140" />
+        <mark key="." line="3678" column="140" />
+        <mark key="^" line="3678" column="140" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DispatchingController.java" timestamp="1476253777770">
         <mark key="[" line="50" column="48" />
@@ -852,11 +867,10 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="15" column="14" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ReqirementTableItem.js" timestamp="1476002316358">
-        <mark key="[" line="195" column="38" />
-        <mark key="]" line="164" column="35" />
-        <mark key="^" line="164" column="35" />
-        <mark key="." line="164" column="35" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ReqirementTableItem.js" timestamp="1476328019190">
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -972,36 +986,34 @@
         <text>Element</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBhcHByb3ZlZCA9IGdldCgncG1BcHByb3ZlZCcpOwogICAgICAgICAgICAgICAgcmV0dXJuIGFwcHJvdmVkID09IG51bGwgPyAnJyA6IChhcHByb3ZlZCA/ICfNrNLiJyA6ICeyu82s0uInKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvY3VzYWJsZTogZmFsc2UsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvY3VzYWJsZTogZmFsc2UsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvY3VzYWJsZTogZmFsc2UsCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIHJlcXVpcmVzOiBbCiAgICAgICAgIkxlbXMudmlldy5kZXZpY2VEaXNwYXRjaGluZy5EZXRhaWxDb250cm9sbGVyIiwKICAgICAgICAiTGVtcy52aWV3LmRldmljZURpc3BhdGNoaW5nLkRldGFpbE1vZGVsIgogICAgXSw=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICBjb250cm9sbGVyOiAiZGV2aWNlZGlzcGF0Y2hpbmctZGV0YWlsIiwKICAgIHZpZXdNb2RlbDogewogICAgICAgIHR5cGU6ICJkZXZpY2VkaXNwYXRjaGluZy1kZXRhaWwiCiAgICB9LA==</text>
+        <text encoding="base64">ICAgIHJlcXVpcmVzOiBbCiAgICAgICAgIkxlbXMudmlldy5kZXZpY2VEaXNwYXRjaGluZy5EZXRhaWxDb250cm9sbGVyIiwKICAgICAgICAiTGVtcy52aWV3LmRldmljZURpc3BhdGNoaW5nLkRldGFpbE1vZGVsIgogICAgXSw=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwLnNldFByb2NEZXB0TWdyKHVzZXIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>{
-                return toApprovedString(get);
-            }</text>
+        <text encoding="base64">CiAgICBjb250cm9sbGVyOiAiZGV2aWNlZGlzcGF0Y2hpbmctZGV0YWlsIiwKICAgIHZpZXdNb2RlbDogewogICAgICAgIHR5cGU6ICJkZXZpY2VkaXNwYXRjaGluZy1kZXRhaWwiCiAgICB9LA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
