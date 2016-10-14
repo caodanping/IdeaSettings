@@ -32,9 +32,6 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1476242660256">
-        <mark key="[" line="81" column="56" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" timestamp="1476070371502">
         <mark key="[" line="290" column="64" />
         <mark key="]" line="291" column="0" />
@@ -111,11 +108,11 @@
         <mark key="." line="11" column="27" />
         <mark key="^" line="12" column="45" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Site.java" timestamp="1476428467796">
-        <mark key="[" line="53" column="23" />
-        <mark key="]" line="53" column="41" />
-        <mark key="^" line="53" column="41" />
-        <mark key="." line="53" column="41" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Site.java" timestamp="1476432091120">
+        <mark key="[" line="118" column="15" />
+        <mark key="]" line="118" column="33" />
+        <mark key="^" line="118" column="33" />
+        <mark key="." line="118" column="33" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/user/ChangePassword.js" timestamp="1471502320161">
         <mark key="[" line="2" column="17" />
@@ -480,9 +477,7 @@
         <mark key="." line="6" column="33" />
         <mark key="^" line="6" column="33" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenterController.js" timestamp="1476348636493">
-        <mark key="[" line="3" column="4" />
-      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StateEquipmentEntry.java" timestamp="1476430592430" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/WeightEntry.java" timestamp="1473383014359">
         <mark key="[" line="11" column="5" />
         <mark key="]" line="11" column="7" />
@@ -525,9 +520,6 @@
         <mark key="." line="35" column="29" />
         <mark key="^" line="35" column="29" />
       </file>
-      <file name="/fragment.js" timestamp="1476277301022">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/UserSessionDto.java" timestamp="1472700116400">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -569,9 +561,6 @@
         <mark key="]" line="31" column="37" />
         <mark key="." line="31" column="37" />
         <mark key="^" line="30" column="43" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/PotentialCreditFilter.java" timestamp="1476408796413">
-        <mark key="[" line="7" column="34" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/WarehouseController.java" timestamp="1473646443952">
         <mark key="[" line="46" column="36" />
@@ -717,8 +706,11 @@
         <mark key="." line="7" column="25" />
         <mark key="^" line="7" column="25" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentGroup.java" timestamp="1476428862013">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentGroup.java" timestamp="1476431057638">
         <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="23" />
+        <mark key="^" line="7" column="23" />
+        <mark key="." line="7" column="23" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/user/Settings.js" timestamp="1471505660825">
         <mark key="[" line="41" column="41" />
@@ -822,6 +814,12 @@
         <mark key="^" line="35" column="18" />
         <mark key="." line="35" column="18" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StateEquipmentGroup.java" timestamp="1476431190919">
+        <mark key="[" line="19" column="33" />
+        <mark key="]" line="18" column="14" />
+        <mark key="^" line="18" column="14" />
+        <mark key="." line="18" column="14" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/TaskService.java" timestamp="1476255218962">
         <mark key="[" line="22" column="29" />
         <mark key="]" line="22" column="41" />
@@ -865,9 +863,6 @@
         <mark key="." line="13" column="51" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/SiteIdEquipment.java" timestamp="1476411885039" />
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Job.java" timestamp="1476260175446">
-        <mark key="[" line="4" column="3" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/warehouse/ManagerController.js" timestamp="1473646501142">
         <mark key="[" line="88" column="16" />
         <mark key="]" line="88" column="21" />
@@ -909,6 +904,12 @@
         <mark key="]" line="70" column="26" />
         <mark key="." line="70" column="26" />
         <mark key="^" line="70" column="26" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentGroupName.java" timestamp="1476430535550">
+        <mark key="[" line="25" column="44" />
+        <mark key="]" line="16" column="85" />
+        <mark key="^" line="16" column="85" />
+        <mark key="." line="16" column="85" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/grant/GrantModel.js" timestamp="1473167745077">
         <mark key="[" line="2" column="34" />
@@ -1050,43 +1051,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DeviceEntry</text>
+        <text>StateEquipmentEntry</text>
       </register>
       <register name="-" type="4">
-        <text>DeviceEntry</text>
+        <text>StateEquipmentEntry</text>
       </register>
       <register name="/" type="4">
         <text>Element</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lLmxvYWRDdXJyZW50U2l0ZShtZS5kaXNwYXRjaGluZ0lkKTsK</text>
+        <text encoding="base64">ICAgIEBFbGVtZW50Q29sbGVjdGlvbgogICAgQENvbGxlY3Rpb25UYWJsZShuYW1lID0gIlNJVEVfRVFVSVBNRU5UX0VOVFJJRVMiLCBqb2luQ29sdW1ucyA9IHsgQEpvaW5Db2x1bW4obmFtZSA9ICJTSVRFX0lEIikgfSkKICAgIHByaXZhdGUgTWFwPEVxdWlwbWVudEdyb3VwTmFtZSwgSW50ZWdlcj4gZXF1aXBtZW50RW50cmllcyA9IG5ldyBIYXNoTWFwPEVxdWlwbWVudEdyb3VwTmFtZSwgSW50ZWdlcj4oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGFkZEVxdWlwbWVudEVudHJpZXMoKSB7CgogICAgfQ==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgRXF1aXBtZW50R3JvdXBOYW1lIGNyZWF0ZUphY2soZG91YmxlIHRvbmFnZSkgewogICAgICAgIHJldHVybiBuZXcgRXF1aXBtZW50R3JvdXBOYW1lKCLHp73vtqUiLCBudWxsLCB0b25hZ2UpOwogICAgfQogICAg</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICBpZiAobWUuZGlzcGF0Y2hpbmdJZCkgewogICAgICAgICAgICBFeHQuZGVmZXIoZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgbWUubG9hZEN1cnJlbnRTaXRlKG1lLmRpc3BhdGNoaW5nSWQpOwogICAgICAgICAgICB9LCAxMDApOwogICAgICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGQgCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGFkZEVxdWlwbWVudEVudHJpZXMoKSB7CgogICAgfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLnVuKCdtYXBsb2FkJywgY2VudGVyUG9zaXRpb24pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgICAgICA=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobWUuZGlzcGF0Y2hpbmdJZCkgewogICAgICAgICAgICBFeHQuZGVmZXIoZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgbWUubG9hZEN1cnJlbnRTaXRlKG1lLmRpc3BhdGNoaW5nSWQpOwogICAgICAgICAgICB9LCAxMDApOwogICAgICAgIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lLnVuKCdtYXBsb2FkJywgY2VudGVyUG9zaXRpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGQgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
