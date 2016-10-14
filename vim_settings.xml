@@ -256,12 +256,12 @@
         <mark key="^" line="24" column="63" />
         <mark key="." line="24" column="63" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" timestamp="1476414583642">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" timestamp="1476416715875">
         <mark key="'" line="2" column="13" />
-        <mark key="[" line="36" column="18" />
-        <mark key="]" line="36" column="18" />
-        <mark key="." line="36" column="18" />
-        <mark key="^" line="3" column="30" />
+        <mark key="[" line="29" column="38" />
+        <mark key="]" line="29" column="38" />
+        <mark key="." line="29" column="38" />
+        <mark key="^" line="28" column="29" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/MenuRepository.java" timestamp="1473233121222">
         <mark key="[" line="21" column="0" />
@@ -1039,10 +1039,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sites</text>
+        <text>siteId</text>
       </register>
       <register name="-" type="4">
-        <text>sites</text>
+        <text>siteId</text>
       </register>
       <register name="/" type="4">
         <text>Element</text>
