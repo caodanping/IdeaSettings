@@ -70,6 +70,11 @@
         <mark key="^" line="12" column="24" />
         <mark key="." line="12" column="24" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/dto/StateEquipmentEntry.java" timestamp="1476425563706">
+        <mark key="]" line="16" column="19" />
+        <mark key="^" line="16" column="19" />
+        <mark key="." line="16" column="19" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/store/Departments.js" timestamp="1471941977790">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="2" column="2" />
@@ -106,11 +111,11 @@
         <mark key="." line="11" column="27" />
         <mark key="^" line="12" column="45" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Site.java" timestamp="1476414317809">
-        <mark key="[" line="47" column="37" />
-        <mark key="]" line="12" column="49" />
-        <mark key="." line="12" column="49" />
-        <mark key="^" line="12" column="49" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Site.java" timestamp="1476425754042">
+        <mark key="[" line="103" column="23" />
+        <mark key="]" line="52" column="95" />
+        <mark key="." line="52" column="95" />
+        <mark key="^" line="52" column="95" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/user/ChangePassword.js" timestamp="1471502320161">
         <mark key="[" line="2" column="17" />
@@ -402,7 +407,7 @@
         <mark key="^" line="21" column="34" />
         <mark key="." line="21" column="34" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/DeviceEntry.java" timestamp="1475986310547">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/DeviceEntry.java" timestamp="1476425491482">
         <mark key="[" line="18" column="24" />
         <mark key="]" line="18" column="25" />
         <mark key="^" line="18" column="24" />
@@ -637,6 +642,10 @@
         <mark key="." line="9" column="56" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EditController.js" timestamp="1476347903542" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/dto/StateDeviceEntry.java" timestamp="1476425530746">
+        <mark key="[" line="10" column="18" />
+        <mark key="^" line="11" column="3" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/TaskRepository.java" timestamp="1476341766191">
         <mark key="[" line="17" column="158" />
         <mark key="]" line="17" column="185" />
@@ -1126,7 +1135,6 @@
         <entry>e</entry>
         <entry>set surround</entry>
         <entry>wa</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz5tMjY4</entry>
         <entry encoding="base64">JzwsJz5tMzA=</entry>
         <entry encoding="base64">JzwsJz5tMTIz</entry>
@@ -1140,6 +1148,7 @@
         <entry encoding="base64">JzwsJz5tMg==</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
