@@ -25,7 +25,7 @@
         <mark key="." line="46" column="30" />
         <mark key="^" line="46" column="30" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/SiteService.java" timestamp="1476424533089">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/SiteService.java" timestamp="1476765386473">
         <mark key="[" line="25" column="14" />
         <mark key="]" line="37" column="7" />
         <mark key="." line="37" column="7" />
@@ -105,8 +105,8 @@
         <mark key="." line="15" column="115" />
         <mark key="^" line="15" column="115" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/SiteServiceImpl.java" timestamp="1476424679033">
-        <mark key="[" line="32" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/SiteServiceImpl.java" timestamp="1476766061553">
+        <mark key="[" line="34" column="98" />
         <mark key="]" line="33" column="33" />
         <mark key="^" line="33" column="33" />
         <mark key="." line="33" column="33" />
@@ -128,7 +128,7 @@
         <mark key="." line="28" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StateEquipmentEntry.java" timestamp="1476433966497" />
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Dispatching.js" timestamp="1476348693220">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Dispatching.js" timestamp="1476765345520">
         <mark key="[" line="20" column="20" />
         <mark key="]" line="20" column="34" />
         <mark key="." line="20" column="34" />
@@ -160,10 +160,6 @@
         <mark key="." line="5" column="59" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EditController.js" timestamp="1476347903542" />
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/dto/StateDeviceEntry.java" timestamp="1476425530746">
-        <mark key="[" line="10" column="18" />
-        <mark key="^" line="11" column="3" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/TaskRepository.java" timestamp="1476341766191">
         <mark key="[" line="17" column="158" />
         <mark key="]" line="17" column="185" />
