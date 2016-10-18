@@ -31,11 +31,6 @@
         <mark key="." line="37" column="7" />
         <mark key="^" line="37" column="7" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/dto/StateEquipmentEntry.java" timestamp="1476425563706">
-        <mark key="]" line="16" column="19" />
-        <mark key="^" line="16" column="19" />
-        <mark key="." line="16" column="19" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/TaskSummaryDto.java" timestamp="1476340558967">
         <mark key="[" line="41" column="11" />
         <mark key="]" line="41" column="11" />
@@ -111,8 +106,8 @@
         <mark key="^" line="33" column="33" />
         <mark key="." line="33" column="33" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/PotentialCreditsFilter.java" timestamp="1476763667223">
-        <mark key="[" line="10" column="20" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/PotentialCreditsFilter.java" timestamp="1476768845620">
+        <mark key="[" line="7" column="34" />
         <mark key="]" line="10" column="53" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/DeviceEntry.java" timestamp="1476425491482">
@@ -133,6 +128,9 @@
         <mark key="]" line="20" column="34" />
         <mark key="." line="20" column="34" />
         <mark key="^" line="20" column="34" />
+      </file>
+      <file name="/fragment.js" timestamp="1476277301022">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/ServiceException.java" timestamp="1476433723960" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/AuditModel.js" timestamp="1476325508419">
@@ -190,12 +188,16 @@
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="23" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/PotentialCreditsSpecs.java" timestamp="1476768882028" />
       <file name="D:/IdeaProjects/lems/src/main/resources/spring-web.xml" timestamp="1476691652143" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Audit.js" timestamp="1476338237924">
         <mark key="[" line="213" column="54" />
         <mark key="]" line="213" column="54" />
         <mark key="^" line="213" column="54" />
         <mark key="." line="213" column="54" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/SiteRepository.java" timestamp="1476768482603">
+        <mark key="[" line="12" column="65" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/UserServiceImpl.java" timestamp="1476257880724">
         <mark key="[" line="68" column="25" />
