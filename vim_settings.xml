@@ -31,6 +31,11 @@
         <mark key="." line="37" column="7" />
         <mark key="^" line="37" column="7" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/dto/StateEquipmentEntry.java" timestamp="1476425563706">
+        <mark key="]" line="16" column="19" />
+        <mark key="^" line="16" column="19" />
+        <mark key="." line="16" column="19" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/TaskSummaryDto.java" timestamp="1476340558967">
         <mark key="[" line="41" column="11" />
         <mark key="]" line="41" column="11" />
@@ -100,15 +105,16 @@
         <mark key="." line="15" column="115" />
         <mark key="^" line="15" column="115" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/SiteServiceImpl.java" timestamp="1476766061553">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/SiteServiceImpl.java" timestamp="1476772553328">
         <mark key="[" line="34" column="98" />
-        <mark key="]" line="33" column="33" />
-        <mark key="^" line="33" column="33" />
-        <mark key="." line="33" column="33" />
+        <mark key="]" line="34" column="96" />
+        <mark key="^" line="34" column="96" />
+        <mark key="." line="34" column="96" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/PotentialCreditsFilter.java" timestamp="1476768845620">
-        <mark key="[" line="7" column="34" />
-        <mark key="]" line="10" column="53" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/PotentialCreditsFilter.java" timestamp="1476772570721">
+        <mark key="]" line="7" column="34" />
+        <mark key="^" line="7" column="34" />
+        <mark key="." line="7" column="34" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/DeviceEntry.java" timestamp="1476425491482">
         <mark key="[" line="18" column="24" />
@@ -132,6 +138,7 @@
       <file name="/fragment.js" timestamp="1476277301022">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.2.5.RELEASE/spring-webmvc-4.2.5.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" timestamp="1476773301663" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/ServiceException.java" timestamp="1476433723960" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/AuditModel.js" timestamp="1476325508419">
         <mark key="[" line="31" column="36" />
@@ -188,7 +195,12 @@
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/PotentialCreditsSpecs.java" timestamp="1476768882028" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/PotentialCreditsSpecs.java" timestamp="1476772562463">
+        <mark key="[" line="13" column="33" />
+        <mark key="]" line="13" column="23" />
+        <mark key="." line="13" column="23" />
+        <mark key="^" line="13" column="23" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/resources/spring-web.xml" timestamp="1476691652143" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Audit.js" timestamp="1476338237924">
         <mark key="[" line="213" column="54" />
@@ -383,7 +395,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIFNwZWNpZmljYXRpb248U2l0ZT4gaXNJbmNsdWRlUHJvamVjdHMgPSBuZXcgU3BlY2lmaWNhdGlvbjxTaXRlPigpIHsKICAgICAgICBwdWJsaWMgUHJlZGljYXRlIHRvUHJlZGljYXRlKFJvb3Q8U2l0ZT4gcm9vdCwgQ3JpdGVyaWFRdWVyeTw/PiBxdWVyeSwgQ3JpdGVyaWFCdWlsZGVyIGNiKSB7CiAgICAgICAgICAgIHJldHVybiBjYi5pbigpOwogICAgICAgIH0KICAgIH0=</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -395,33 +407,33 @@
         <text encoding="base64">aW5jbHVkZU5vdFNhdGlzZnlSZXF1aXJlbWVudFNpdGVzIA==</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIFNwZWNpZmljYXRpb248U2l0ZT4gaXNJbmNsdWRlUHJvamVjdHMgPSBuZXcgU3BlY2lmaWNhdGlvbjxTaXRlPigpIHsKICAgICAgICBwdWJsaWMgUHJlZGljYXRlIHRvUHJlZGljYXRlKFJvb3Q8U2l0ZT4gcm9vdCwgQ3JpdGVyaWFRdWVyeTw/PiBxdWVyeSwgQ3JpdGVyaWFCdWlsZGVyIGNiKSB7CiAgICAgICAgICAgIHJldHVybiBjYi5pbigpOwogICAgICAgIH0KICAgIH0=</text>
+      </register>
+      <register name="2" type="4">
         <text>else {
             this.stateEquipmentEntries.put(key, current + amount);
         }</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICBwdWJsaWMgRXF1aXBtZW50QW1vdW50Tm90RW5vdXBoRXhjZXB0aW9uKFN0cmluZyBtZXNzYWdlLCBUaHJvd2FibGUgY2F1c2UsIGJvb2xlYW4gZW5hYmxlU3VwcHJlc3Npb24sIGJvb2xlYW4gd3JpdGFibGVTdGFja1RyYWNlKSB7CiAgICAgICAgc3VwZXIobWVzc2FnZSwgY2F1c2UsIGVuYWJsZVN1cHByZXNzaW9uLCB3cml0YWJsZVN0YWNrVHJhY2UpOwogICAgfQ==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBCdXNpbmVzc0V4Y2VwdGlvbihTdHJpbmcgbWVzc2FnZSwgVGhyb3dhYmxlIGNhdXNlLCBib29sZWFuIGVuYWJsZVN1cHByZXNzaW9uLCBib29sZWFuIHdyaXRhYmxlU3RhY2tUcmFjZSkgewogICAgICAgIHN1cGVyKG1lc3NhZ2UsIGNhdXNlLCBlbmFibGVTdXBwcmVzc2lvbiwgd3JpdGFibGVTdGFja1RyYWNlKTsKICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBCdXNpbmVzc0V4Y2VwdGlvbihTdHJpbmcgbWVzc2FnZSwgVGhyb3dhYmxlIGNhdXNlLCBib29sZWFuIGVuYWJsZVN1cHByZXNzaW9uLCBib29sZWFuIHdyaXRhYmxlU3RhY2tUcmFjZSkgewogICAgICAgIHN1cGVyKG1lc3NhZ2UsIGNhdXNlLCBlbmFibGVTdXBwcmVzc2lvbiwgd3JpdGFibGVTdGFja1RyYWNlKTsKICAgIH0=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgRXF1aXBtZW50R3JvdXBOYW1lIGNyZWF0ZUphY2soZG91YmxlIHRvbmFnZSkgewogICAgICAgIHJldHVybiBuZXcgRXF1aXBtZW50R3JvdXBOYW1lKCLHp73vtqUiLCBudWxsLCB0b25hZ2UpOwogICAgfQogICAg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
