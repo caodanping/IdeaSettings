@@ -101,6 +101,12 @@
         <mark key="." line="5" column="59" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EditController.js" timestamp="1476347903542" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/IdEquipment.java" timestamp="1476950932935">
+        <mark key="[" line="51" column="26" />
+        <mark key="]" line="53" column="23" />
+        <mark key="." line="53" column="23" />
+        <mark key="^" line="53" column="23" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/TaskRepository.java" timestamp="1476341766191">
         <mark key="[" line="17" column="158" />
         <mark key="]" line="17" column="185" />
@@ -418,10 +424,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>\n</text>
+        <text>ORDINAL</text>
       </register>
       <register name="-" type="4">
-        <text>\n</text>
+        <text>ORDINAL</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
