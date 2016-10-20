@@ -3,11 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1476842533810">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
+      <file name="D:/Program Files/Java/jdk1.8.0_31/src.zip!/java/util/logging/Level.java" timestamp="1476933842903" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/SiteService.java" timestamp="1476765386473">
         <mark key="[" line="25" column="14" />
         <mark key="]" line="37" column="7" />
@@ -106,11 +102,6 @@
         <mark key="^" line="17" column="185" />
         <mark key="." line="17" column="185" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/BusinessException.java" timestamp="1476432773920">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" timestamp="1476422818832">
         <mark key="'" line="45" column="8" />
         <mark key="[" line="88" column="16" />
@@ -162,11 +153,6 @@
         <mark key="." line="7" column="14" />
         <mark key="^" line="7" column="14" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ReqirementTableItem.js" timestamp="1476328019190">
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
-      </file>
       <file name="/fragment.java" timestamp="1476408379886">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="15" />
@@ -190,11 +176,6 @@
         <mark key="]" line="8" column="31" />
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/init/AppInit.java" timestamp="1476070371502">
-        <mark key="[" line="290" column="64" />
-        <mark key="]" line="291" column="0" />
-        <mark key="." line="291" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Task.java" timestamp="1476261576128">
         <mark key="[" line="39" column="25" />
@@ -220,11 +201,6 @@
         <mark key="]" line="57" column="27" />
         <mark key="^" line="57" column="27" />
         <mark key="." line="57" column="27" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/resources/init/districts.csv" timestamp="1475127925904">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-orm/4.1.9.RELEASE/spring-orm-4.1.9.RELEASE-sources.jar!/org/springframework/orm/jpa/SharedEntityManagerCreator.java" timestamp="1476861472607" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/AuditDisplay.js" timestamp="1476338152133">
@@ -270,10 +246,12 @@
         <mark key="^" line="28" column="37" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="D:/Program Files/Java/jdk1.8.0_31/src.zip!/java/util/logging/Logger.java" timestamp="1476933618007" />
       <file name="/fragment.js" timestamp="1476277301022">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.2.5.RELEASE/spring-webmvc-4.2.5.RELEASE-sources.jar!/org/springframework/web/servlet/view/InternalResourceView.java" timestamp="1476776051697" />
+      <file name="D:/Program Files/Java/jdk1.8.0_31/src.zip!/java/util/logging/LogRecord.java" timestamp="1476933701279" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/AuditModel.js" timestamp="1476325508419">
         <mark key="[" line="31" column="36" />
         <mark key="]" line="31" column="37" />
