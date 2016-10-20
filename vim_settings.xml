@@ -154,11 +154,11 @@
         <mark key="." line="14" column="58" />
         <mark key="^" line="14" column="58" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/SiteRepositoryImpl.java" timestamp="1476867462285">
-        <mark key="[" line="31" column="62" />
-        <mark key="]" line="31" column="121" />
-        <mark key="^" line="31" column="121" />
-        <mark key="." line="31" column="121" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/SiteRepositoryImpl.java" timestamp="1476926665574">
+        <mark key="[" line="31" column="63" />
+        <mark key="]" line="31" column="65" />
+        <mark key="^" line="31" column="65" />
+        <mark key="." line="31" column="65" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Permission.java" timestamp="1473223225535">
         <mark key="[" line="12" column="4" />
@@ -1128,10 +1128,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text encoding="base64">IElO</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IElO</text>
       </register>
       <register name="/" type="4">
         <text>Element</text>
