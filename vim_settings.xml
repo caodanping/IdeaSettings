@@ -45,11 +45,12 @@
         <mark key="^" line="12" column="18" />
         <mark key="." line="41" column="11" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Site.java" timestamp="1477018911741">
-        <mark key="'" line="162" column="14" />
-        <mark key="[" line="191" column="0" />
-        <mark key="]" line="191" column="0" />
-        <mark key="." line="191" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Site.java" timestamp="1477026906121">
+        <mark key="'" line="163" column="14" />
+        <mark key="[" line="63" column="114" />
+        <mark key="]" line="64" column="3" />
+        <mark key="." line="64" column="3" />
+        <mark key="^" line="64" column="3" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/LinkActionColumn.js" timestamp="1476251393519">
         <mark key="[" line="34" column="40" />
@@ -215,11 +216,11 @@
         <mark key="." line="76" column="72" />
         <mark key="^" line="76" column="72" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/SiteRepositoryImpl.java" timestamp="1477024773242">
-        <mark key="[" line="41" column="62" />
-        <mark key="]" line="39" column="37" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/SiteRepositoryImpl.java" timestamp="1477026636145">
+        <mark key="[" line="41" column="116" />
+        <mark key="]" line="44" column="0" />
         <mark key="^" line="39" column="37" />
-        <mark key="." line="39" column="37" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/common/CollectionUtils.java" timestamp="1477017377411">
         <mark key="[" line="18" column="78" />
@@ -385,11 +386,11 @@
       <jump line="79" column="14" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, in(s.stateEquipmentEntries) e where key(e).state in (0, 1)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLnNldFBhcmFtZXRlcigyLCBjbGFzc2VzKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>, in(s.stateEquipmentEntries) e where key(e).state in (0, 1)</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
@@ -397,32 +398,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFBST0pFQ1QgPSAiUHJvamVjdCI7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLnNldFBhcmFtZXRlcigyLCBjbGFzc2VzKQo=</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9uVXRpbHMuZmlsdGVyKHNpdGVzLCBuZXcgUHJlZGljYXRlPFNpdGU+KCkgewogICAgICAgICAgICBwdWJsaWMgYm9vbGVhbiBhcHBseShTaXRlIGlucHV0KSB7CiAgICAgICAgICAgICAgICByZXR1cm4gOwogICAgICAgICAgICB9CiAgICAgICAgfSwgbnVsbCk7</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGlzU2F0aXNmeVJlcXVpcmVtZW50cygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiAgSU5ORVIgSk9JTiBTSVRFX1NUQVRFX0VRVUlQTUVOVF9FTlRSSUVTIHNlICIgKwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGlzU2F0aXNmeVJlcXVpcmVtZW50cygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiAgICBPTiBzLmlkID0gc2UuU0lURV9JRCAiICsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiAgSU5ORVIgSk9JTiBTSVRFX1NUQVRFX0VRVUlQTUVOVF9FTlRSSUVTIHNlICIgKwo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIiAgICBPTiBzLmlkID0gc2UuU0lURV9JRCAiICsK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICBJTk5FUiBKT0lOIFNJVEVfU1RBVEVfRVFVSVBNRU5UX0VOVFJJRVMgc2UKICAgIE9OIHMuaWQgPSBzZS5TSVRFX0lE</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
