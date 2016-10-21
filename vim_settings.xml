@@ -215,11 +215,11 @@
         <mark key="." line="76" column="72" />
         <mark key="^" line="76" column="72" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/SiteRepositoryImpl.java" timestamp="1477022720366">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="28" />
-        <mark key="^" line="40" column="28" />
-        <mark key="." line="40" column="28" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/SiteRepositoryImpl.java" timestamp="1477024773242">
+        <mark key="[" line="41" column="62" />
+        <mark key="]" line="39" column="37" />
+        <mark key="^" line="39" column="37" />
+        <mark key="." line="39" column="37" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/common/CollectionUtils.java" timestamp="1477017377411">
         <mark key="[" line="18" column="78" />
@@ -386,10 +386,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9uVXRpbHMuZmlsdGVyKHNpdGVzLCBuZXcgUHJlZGljYXRlPFNpdGU+KCkgewogICAgICAgICAgICBwdWJsaWMgYm9vbGVhbiBhcHBseShTaXRlIGlucHV0KSB7CiAgICAgICAgICAgICAgICByZXR1cm4gOwogICAgICAgICAgICB9CiAgICAgICAgfSwgbnVsbCk7</text>
+        <text>, in(s.stateEquipmentEntries) e where key(e).state in (0, 1)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>, in(s.stateEquipmentEntries) e where key(e).state in (0, 1)</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
