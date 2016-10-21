@@ -216,11 +216,11 @@
         <mark key="." line="76" column="72" />
         <mark key="^" line="76" column="72" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/SiteRepositoryImpl.java" timestamp="1477029603838">
-        <mark key="[" line="41" column="124" />
-        <mark key="]" line="41" column="123" />
-        <mark key="^" line="41" column="123" />
-        <mark key="." line="41" column="123" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/SiteRepositoryImpl.java" timestamp="1477031572286">
+        <mark key="[" line="46" column="31" />
+        <mark key="]" line="46" column="56" />
+        <mark key="^" line="46" column="56" />
+        <mark key="." line="46" column="56" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/common/CollectionUtils.java" timestamp="1477017377411">
         <mark key="[" line="18" column="78" />
@@ -263,13 +263,13 @@
         <mark key="^" line="16" column="85" />
         <mark key="." line="16" column="85" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StateEquipmentEntry.java" timestamp="1477028298523">
-        <mark key="[" line="57" column="8" />
-        <mark key="]" line="59" column="7" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StateEquipmentEntry.java" timestamp="1477030534405">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="4" />
         <mark key="^" line="59" column="7" />
-        <mark key="." line="59" column="7" />
+        <mark key="." line="16" column="4" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/EntityManager.java" timestamp="1477021444141" />
+      <file name="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/EntityManager.java" timestamp="1477031197045" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/AuditWindow.js" timestamp="1476239021343">
         <mark key="[" line="41" column="34" />
         <mark key="]" line="41" column="37" />
@@ -393,10 +393,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGtleQ==</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGtleQ==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
@@ -404,32 +404,39 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFBST0pFQ1QgPSAiUHJvamVjdCI7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>@Column(length = 50)
+    private String type;
+    @Column(precision = 10, scale = 2)
+    private Double length;
+    @Column(precision = 10, scale = 2)
+    private Double tonage;
+    @Enumerated(EnumType.ORDINAL)
+    private EquipmentState state;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBFcXVpcG1lbnRHcm91cCB0aGF0ID0gKEVxdWlwbWVudEdyb3VwKSBvOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobyA9PSBudWxsIHx8IGdldENsYXNzKCkgIT0gby5nZXRDbGFzcygpKSByZXR1cm4gZmFsc2U7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFN0YXRlRXF1aXBtZW50RW50cmllcyhNYXAgc3RhdGVFcXVpcG1lbnRFbnRyaWVzKSB7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnNldFBhcmFtZXRlcigyLCBjbGFzc2VzKQo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9uVXRpbHMuZmlsdGVyKHNpdGVzLCBuZXcgUHJlZGljYXRlPFNpdGU+KCkgewogICAgICAgICAgICBwdWJsaWMgYm9vbGVhbiBhcHBseShTaXRlIGlucHV0KSB7CiAgICAgICAgICAgICAgICByZXR1cm4gOwogICAgICAgICAgICB9CiAgICAgICAgfSwgbnVsbCk7</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBFcXVpcG1lbnRHcm91cCB0aGF0ID0gKEVxdWlwbWVudEdyb3VwKSBvOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobyA9PSBudWxsIHx8IGdldENsYXNzKCkgIT0gby5nZXRDbGFzcygpKSByZXR1cm4gZmFsc2U7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFN0YXRlRXF1aXBtZW50RW50cmllcyhNYXAgc3RhdGVFcXVpcG1lbnRFbnRyaWVzKSB7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLnNldFBhcmFtZXRlcigyLCBjbGFzc2VzKQo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9uVXRpbHMuZmlsdGVyKHNpdGVzLCBuZXcgUHJlZGljYXRlPFNpdGU+KCkgewogICAgICAgICAgICBwdWJsaWMgYm9vbGVhbiBhcHBseShTaXRlIGlucHV0KSB7CiAgICAgICAgICAgICAgICByZXR1cm4gOwogICAgICAgICAgICB9CiAgICAgICAgfSwgbnVsbCk7</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGlzU2F0aXNmeVJlcXVpcmVtZW50cygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
