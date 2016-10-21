@@ -12,9 +12,6 @@
         <mark key="^" line="28" column="120" />
         <mark key="." line="28" column="120" />
       </file>
-      <file name="/fragment.js" timestamp="1476277301022">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/IdeaProjects/lems/.editorconfig" timestamp="1476255497571">
         <mark key="[" line="8" column="28" />
         <mark key="]" line="8" column="31" />
@@ -58,12 +55,13 @@
         <mark key="." line="34" column="43" />
         <mark key="^" line="34" column="43" />
       </file>
+      <file name="D:/IdeaProjects/jkbp/pom.xml" timestamp="1477036004644" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a76df6ce-c055-473d-a49b-508fc3f41258/console.sql" timestamp="1477016036681">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/webapp/WEB-INF/web.xml" timestamp="1476753624063">
+      <file name="D:/IdeaProjects/lems/src/main/webapp/WEB-INF/web.xml" timestamp="1477035030985">
         <mark key="[" line="13" column="65" />
         <mark key="]" line="13" column="68" />
         <mark key="^" line="13" column="68" />
@@ -80,6 +78,9 @@
         <mark key="]" line="48" column="91" />
         <mark key="^" line="48" column="91" />
         <mark key="." line="48" column="91" />
+      </file>
+      <file name="D:/IdeaProjects/jkbp/src/jetty/webdefault.xml" timestamp="1477035064817">
+        <mark key="'" line="68" column="11" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchingService.java" timestamp="1476242489594">
         <mark key="[" line="36" column="14" />
@@ -154,6 +155,7 @@
         <mark key="." line="50" column="48" />
         <mark key="^" line="54" column="4" />
       </file>
+      <file name="D:/IdeaProjects/jkbp/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" timestamp="1477035077328" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentGroup.java" timestamp="1477028195467">
         <mark key="[" line="7" column="27" />
         <mark key="]" line="7" column="23" />
@@ -178,14 +180,14 @@
         <mark key="^" line="56" column="26" />
         <mark key="." line="56" column="26" />
       </file>
-      <file name="/a.sql" timestamp="1476932020612">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/UserServiceImpl.java" timestamp="1476858072250">
         <mark key="[" line="68" column="25" />
         <mark key="]" line="71" column="30" />
         <mark key="." line="71" column="30" />
         <mark key="^" line="71" column="30" />
+      </file>
+      <file name="D:/IdeaProjects/lems/pom.xml" timestamp="1477035294232">
+        <mark key="'" line="289" column="29" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/BMap.js" timestamp="1476344153985">
         <mark key="[" line="3" column="27" />
@@ -217,6 +219,12 @@
         <mark key="^" line="22" column="41" />
         <mark key="." line="22" column="41" />
       </file>
+      <file name="D:/IdeaProjects/jkbp/src/main/resources/persistence-mssql.properties" timestamp="1477034373631">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="13" />
+        <mark key="." line="4" column="13" />
+        <mark key="^" line="4" column="13" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/List.js" timestamp="1476324725282">
         <mark key="[" line="76" column="67" />
         <mark key="]" line="76" column="72" />
@@ -247,11 +255,18 @@
         <mark key="^" line="33" column="28" />
         <mark key="." line="33" column="28" />
       </file>
+      <file name="D:/IdeaProjects/jkbp/src/main/webapp/WEB-INF/web.xml" timestamp="1477035466393">
+        <mark key="[" line="45" column="22" />
+        <mark key="]" line="45" column="27" />
+        <mark key="^" line="45" column="27" />
+        <mark key="." line="45" column="27" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Warehouse.java" timestamp="1477015934417">
         <mark key="[" line="12" column="20" />
         <mark key="]" line="12" column="20" />
         <mark key="." line="12" column="20" />
       </file>
+      <file name="D:/IdeaProjects/jkbp/src/main/java/com/aucdi/sample/web/controllers/HomeController.java" timestamp="1477034750265" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/ProjectSite.java" timestamp="1477015981114">
         <mark key="[" line="12" column="20" />
         <mark key="]" line="12" column="31" />
@@ -297,23 +312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="15" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/EnhancedBMapPanel.js" />
-      <jump line="35" column="4" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/EnhancedBMapPanel.js" />
-      <jump line="37" column="4" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/EnhancedBMapPanel.js" />
-      <jump line="273" column="11" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
-      <jump line="184" column="17" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
-      <jump line="176" column="21" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
-      <jump line="68" column="19" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
-      <jump line="8" column="61" filename="D:/Home/hibernate-examples/CeveatEmptor/src/main/resources/META-INF/persistence.xml" />
-      <jump line="391" column="29" filename="D:/IdeaProjects/lems/pom.xml" />
-      <jump line="208" column="23" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
-      <jump line="220" column="21" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
-      <jump line="222" column="28" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
-      <jump line="280" column="41" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
-      <jump line="281" column="17" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
-      <jump line="28" column="8" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
-      <jump line="58" column="55" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="57" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" />
       <jump line="143" column="18" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" />
       <jump line="86" column="4" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.9.4.RELEASE/spring-data-jpa-1.9.4.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.java" />
       <jump line="62" column="37" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchingSummaryDto.java" />
@@ -397,21 +395,44 @@
       <jump line="66" column="78" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
       <jump line="74" column="28" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
       <jump line="79" column="14" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
+      <jump line="249" column="15" filename="D:/IdeaProjects/lems/pom.xml" />
+      <jump line="318" column="23" filename="D:/IdeaProjects/jkbp/src/jetty/webdefault.xml" />
+      <jump line="331" column="11" filename="D:/IdeaProjects/jkbp/src/jetty/webdefault.xml" />
+      <jump line="9" column="30" filename="D:/IdeaProjects/jkbp/src/jetty/webdefault.xml" />
+      <jump line="12" column="62" filename="D:/IdeaProjects/jkbp/src/jetty/webdefault.xml" />
+      <jump line="15" column="35" filename="D:/IdeaProjects/jkbp/src/jetty/webdefault.xml" />
+      <jump line="19" column="7" filename="D:/IdeaProjects/jkbp/src/jetty/webdefault.xml" />
+      <jump line="68" column="11" filename="D:/IdeaProjects/jkbp/src/jetty/webdefault.xml" />
+      <jump line="319" column="22" filename="D:/IdeaProjects/lems/pom.xml" />
+      <jump line="331" column="30" filename="D:/IdeaProjects/lems/pom.xml" />
+      <jump line="9" column="13" filename="D:/IdeaProjects/lems/pom.xml" />
+      <jump line="245" column="26" filename="D:/IdeaProjects/lems/pom.xml" />
+      <jump line="250" column="63" filename="D:/IdeaProjects/lems/pom.xml" />
+      <jump line="270" column="29" filename="D:/IdeaProjects/lems/pom.xml" />
+      <jump line="273" column="31" filename="D:/IdeaProjects/lems/pom.xml" />
+      <jump line="274" column="34" filename="D:/IdeaProjects/lems/pom.xml" />
+      <jump line="289" column="29" filename="D:/IdeaProjects/lems/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>resources</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>resources</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>front</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFBST0pFQ1QgPSAiUHJvamVjdCI7Cg==</text>
+        <text encoding="base64">CQk8dXJsLXBhdHRlcm4+L3Jlc291cmNlcy8qPC91cmwtcGF0dGVybj4K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIDx3ZWJBcHBTb3VyY2VEaXJlY3Rvcnk+c3JjL21haW4vd2ViYXBwLCBzcmMvbWFpbi9mcm9udGVuZDwvd2ViQXBwU291cmNlRGlyZWN0b3J5Pgo=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgIDx3ZWJSZXNvdXJjZXM+CiAgICAgICAgICAgIDxyZXNvdXJjZT4KICAgICAgICAgICAgICA8ZGlyZWN0b3J5PiR7ZnJvbnRlbmRCYXNlRGlyfS9idWlsZC9wcm9kdWN0aW9uLyR7ZnJvbnRlbmRBcHBOYW1lfTwvZGlyZWN0b3J5PgogICAgICAgICAgICA8L3Jlc291cmNlPgogICAgICAgICAgPC93ZWJSZXNvdXJjZXM+</text>
+      </register>
+      <register name="3" type="4">
         <text>@Column(length = 50)
     private String type;
     @Column(precision = 10, scale = 2)
@@ -421,38 +442,32 @@
     @Enumerated(EnumType.ORDINAL)
     private EquipmentState state;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBFcXVpcG1lbnRHcm91cCB0aGF0ID0gKEVxdWlwbWVudEdyb3VwKSBvOwo=</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobyA9PSBudWxsIHx8IGdldENsYXNzKCkgIT0gby5nZXRDbGFzcygpKSByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBFcXVpcG1lbnRHcm91cCB0aGF0ID0gKEVxdWlwbWVudEdyb3VwKSBvOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFN0YXRlRXF1aXBtZW50RW50cmllcyhNYXAgc3RhdGVFcXVpcG1lbnRFbnRyaWVzKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobyA9PSBudWxsIHx8IGdldENsYXNzKCkgIT0gby5nZXRDbGFzcygpKSByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnNldFBhcmFtZXRlcigyLCBjbGFzc2VzKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9uVXRpbHMuZmlsdGVyKHNpdGVzLCBuZXcgUHJlZGljYXRlPFNpdGU+KCkgewogICAgICAgICAgICBwdWJsaWMgYm9vbGVhbiBhcHBseShTaXRlIGlucHV0KSB7CiAgICAgICAgICAgICAgICByZXR1cm4gOwogICAgICAgICAgICB9CiAgICAgICAgfSwgbnVsbCk7</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFN0YXRlRXF1aXBtZW50RW50cmllcyhNYXAgc3RhdGVFcXVpcG1lbnRFbnRyaWVzKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnNldFBhcmFtZXRlcigyLCBjbGFzc2VzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>front</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>front</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -460,9 +475,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setup</entry>
-        <entry>begin</entry>
-        <entry encoding="base64">XDxtYXJrZXJUb29sXD4=</entry>
         <entry>isMarkerTool</entry>
         <entry encoding="base64">XDxfc2V0dXBNYXJrZXJcPg==</entry>
         <entry encoding="base64">XDxhY3RpdmVNYXJrZXJJY29uXD4=</entry>
@@ -472,7 +484,6 @@
         <entry>^marker$</entry>
         <entry encoding="base64">XDxzZXRNYXJrZXJBdFw+</entry>
         <entry>destroy</entry>
-        <entry>jetty</entry>
         <entry encoding="base64">XDxhY3RpdmVNYXJrZXJcPg==</entry>
         <entry>state</entry>
         <entry>Page</entry>
@@ -480,6 +491,10 @@
         <entry>Element</entry>
         <entry>log(</entry>
         <entry>log</entry>
+        <entry>jetty</entry>
+        <entry>default</entry>
+        <entry>war</entry>
+        <entry>front</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist format</entry>
@@ -499,8 +514,8 @@
         <entry encoding="base64">JzwsJz5tNDM=</entry>
         <entry encoding="base64">JzwsJz5tNDU=</entry>
         <entry encoding="base64">JzwsJz5tMg==</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
