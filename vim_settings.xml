@@ -141,12 +141,12 @@
         <mark key="^" line="10" column="48" />
         <mark key="." line="10" column="48" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" timestamp="1477273043571">
-        <mark key="'" line="45" column="8" />
-        <mark key="[" line="47" column="30" />
-        <mark key="]" line="276" column="43" />
-        <mark key="." line="276" column="43" />
-        <mark key="^" line="276" column="33" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" timestamp="1477274585757">
+        <mark key="'" line="51" column="28" />
+        <mark key="[" line="263" column="20" />
+        <mark key="]" line="263" column="20" />
+        <mark key="." line="263" column="20" />
+        <mark key="^" line="51" column="28" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DispatchingController.java" timestamp="1476424463881">
         <mark key="[" line="50" column="48" />
@@ -315,7 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="18" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" />
       <jump line="86" column="4" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.9.4.RELEASE/spring-data-jpa-1.9.4.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.java" />
       <jump line="62" column="37" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchingSummaryDto.java" />
       <jump line="104" column="67" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" />
@@ -415,27 +414,31 @@
       <jump line="273" column="31" filename="D:/IdeaProjects/lems/pom.xml" />
       <jump line="274" column="34" filename="D:/IdeaProjects/lems/pom.xml" />
       <jump line="289" column="29" filename="D:/IdeaProjects/lems/pom.xml" />
+      <jump line="51" column="28" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>resources</text>
+        <text>me.fireEvent('activemarkerclick', me, mkr);</text>
       </register>
       <register name="-" type="4">
-        <text>resources</text>
+        <text>me.fireEvent('activemarkerclick', me, mkr);</text>
       </register>
       <register name="/" type="4">
-        <text>front</text>
+        <text>click</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQk8dXJsLXBhdHRlcm4+L3Jlc291cmNlcy8qPC91cmwtcGF0dGVybj4K</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIG1rci5hZGRFdmVudExpc3RlbmVyKCdjbGljaycsIGZ1bmN0aW9uIChldnQpIHsKICAgICAgICAgICAgICAgIG1lLmZpcmVFdmVudCgnYWN0aXZlbWFya2VyZGJsY2xpY2snLCBtZSwgbWtyKTsKICAgICAgICAgICAgfSk7</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgIDx3ZWJBcHBTb3VyY2VEaXJlY3Rvcnk+c3JjL21haW4vd2ViYXBwLCBzcmMvbWFpbi9mcm9udGVuZDwvd2ViQXBwU291cmNlRGlyZWN0b3J5Pgo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgICAgICAgIDx3ZWJSZXNvdXJjZXM+CiAgICAgICAgICAgIDxyZXNvdXJjZT4KICAgICAgICAgICAgICA8ZGlyZWN0b3J5PiR7ZnJvbnRlbmRCYXNlRGlyfS9idWlsZC9wcm9kdWN0aW9uLyR7ZnJvbnRlbmRBcHBOYW1lfTwvZGlyZWN0b3J5PgogICAgICAgICAgICA8L3Jlc291cmNlPgogICAgICAgICAgPC93ZWJSZXNvdXJjZXM+</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>@Column(length = 50)
     private String type;
     @Column(precision = 10, scale = 2)
@@ -445,32 +448,29 @@
     @Enumerated(EnumType.ORDINAL)
     private EquipmentState state;</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBFcXVpcG1lbnRHcm91cCB0aGF0ID0gKEVxdWlwbWVudEdyb3VwKSBvOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBpZiAobyA9PSBudWxsIHx8IGdldENsYXNzKCkgIT0gby5nZXRDbGFzcygpKSByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFN0YXRlRXF1aXBtZW50RW50cmllcyhNYXAgc3RhdGVFcXVpcG1lbnRFbnRyaWVzKSB7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnNldFBhcmFtZXRlcigyLCBjbGFzc2VzKQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFN0YXRlRXF1aXBtZW50RW50cmllcyhNYXAgc3RhdGVFcXVpcG1lbnRFbnRyaWVzKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>front</last-search>
+      <last-search>click</last-search>
       <last-offset />
-      <last-pattern>front</last-pattern>
+      <last-pattern>click</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -478,7 +478,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isMarkerTool</entry>
         <entry encoding="base64">XDxfc2V0dXBNYXJrZXJcPg==</entry>
         <entry encoding="base64">XDxhY3RpdmVNYXJrZXJJY29uXD4=</entry>
         <entry>markerIcon</entry>
@@ -498,6 +497,7 @@
         <entry>default</entry>
         <entry>war</entry>
         <entry>front</entry>
+        <entry>click</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist format</entry>
