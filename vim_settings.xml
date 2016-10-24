@@ -141,12 +141,12 @@
         <mark key="^" line="10" column="48" />
         <mark key="." line="10" column="48" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" timestamp="1477274585757">
-        <mark key="'" line="51" column="28" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" timestamp="1477275479223">
+        <mark key="'" line="150" column="23" />
         <mark key="[" line="263" column="20" />
         <mark key="]" line="263" column="20" />
         <mark key="." line="263" column="20" />
-        <mark key="^" line="51" column="28" />
+        <mark key="^" line="320" column="42" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DispatchingController.java" timestamp="1476424463881">
         <mark key="[" line="50" column="48" />
@@ -315,9 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="4" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.9.4.RELEASE/spring-data-jpa-1.9.4.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.java" />
-      <jump line="62" column="37" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchingSummaryDto.java" />
-      <jump line="104" column="67" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" />
       <jump line="78" column="55" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" />
       <jump line="1" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" />
       <jump line="10" column="0" filename="D:/IdeaProjects/lems/src/main/resources/init/import.sql" />
@@ -415,16 +412,19 @@
       <jump line="274" column="34" filename="D:/IdeaProjects/lems/pom.xml" />
       <jump line="289" column="29" filename="D:/IdeaProjects/lems/pom.xml" />
       <jump line="51" column="28" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
+      <jump line="305" column="46" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
+      <jump line="326" column="15" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
+      <jump line="150" column="23" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>me.fireEvent('activemarkerclick', me, mkr);</text>
+        <text>me.activeMarkerInfoWindowContentTpl.apply()</text>
       </register>
       <register name="-" type="4">
-        <text>me.fireEvent('activemarkerclick', me, mkr);</text>
+        <text>me.activeMarkerInfoWindowContentTpl.apply()</text>
       </register>
       <register name="/" type="4">
-        <text>click</text>
+        <text>_markerItemPair</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQk8dXJsLXBhdHRlcm4+L3Jlc291cmNlcy8qPC91cmwtcGF0dGVybj4K</text>
@@ -468,9 +468,9 @@
       </register>
     </registers>
     <search>
-      <last-search>click</last-search>
+      <last-search>_markerItemPair</last-search>
       <last-offset />
-      <last-pattern>click</last-pattern>
+      <last-pattern>_markerItemPair</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -478,7 +478,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfc2V0dXBNYXJrZXJcPg==</entry>
         <entry encoding="base64">XDxhY3RpdmVNYXJrZXJJY29uXD4=</entry>
         <entry>markerIcon</entry>
         <entry encoding="base64">XDxfc2V0dXBBY3RpdmVNYXJrZXJcPg==</entry>
@@ -498,6 +497,7 @@
         <entry>war</entry>
         <entry>front</entry>
         <entry>click</entry>
+        <entry>_markerItemPair</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist format</entry>
