@@ -55,7 +55,6 @@
         <mark key="." line="34" column="43" />
         <mark key="^" line="34" column="43" />
       </file>
-      <file name="D:/IdeaProjects/jkbp/pom.xml" timestamp="1477036004644" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a76df6ce-c055-473d-a49b-508fc3f41258/console.sql" timestamp="1477016036681">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="0" />
@@ -155,8 +154,7 @@
         <mark key="." line="50" column="48" />
         <mark key="^" line="54" column="4" />
       </file>
-      <file name="D:/IdeaProjects/jkbp/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" timestamp="1477035077328" />
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" timestamp="1477037880802">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" timestamp="1477271166544">
         <mark key="'" line="2" column="13" />
         <mark key="[" line="52" column="57" />
         <mark key="]" line="35" column="39" />
@@ -273,7 +271,6 @@
         <mark key="]" line="12" column="20" />
         <mark key="." line="12" column="20" />
       </file>
-      <file name="D:/IdeaProjects/jkbp/src/main/java/com/aucdi/sample/web/controllers/HomeController.java" timestamp="1477034750265" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/ProjectSite.java" timestamp="1477015981114">
         <mark key="[" line="12" column="20" />
         <mark key="]" line="12" column="31" />
@@ -298,7 +295,6 @@
         <mark key="^" line="59" column="7" />
         <mark key="." line="16" column="4" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/EntityManager.java" timestamp="1477031197045" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/AuditWindow.js" timestamp="1476239021343">
         <mark key="[" line="41" column="34" />
         <mark key="]" line="41" column="37" />
