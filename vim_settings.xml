@@ -155,12 +155,12 @@
         <mark key="." line="50" column="48" />
         <mark key="^" line="54" column="4" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" timestamp="1477283726363">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" timestamp="1477295260638">
         <mark key="'" line="2" column="13" />
-        <mark key="[" line="33" column="14" />
-        <mark key="]" line="33" column="17" />
-        <mark key="." line="33" column="17" />
-        <mark key="^" line="33" column="17" />
+        <mark key="[" line="37" column="12" />
+        <mark key="]" line="33" column="30" />
+        <mark key="." line="33" column="30" />
+        <mark key="^" line="33" column="30" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentGroup.java" timestamp="1477028195467">
         <mark key="[" line="7" column="27" />
@@ -180,7 +180,7 @@
         <mark key="." line="15" column="115" />
         <mark key="^" line="15" column="115" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/SiteServiceImpl.java" timestamp="1477290529048">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/SiteServiceImpl.java" timestamp="1477295042412">
         <mark key="[" line="44" column="41" />
         <mark key="]" line="52" column="40" />
         <mark key="^" line="52" column="40" />
