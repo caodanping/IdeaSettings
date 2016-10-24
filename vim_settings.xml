@@ -42,6 +42,7 @@
         <mark key="^" line="12" column="18" />
         <mark key="." line="41" column="11" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/SiteDto.java" timestamp="1477277886718" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Site.java" timestamp="1477028827636">
         <mark key="'" line="159" column="14" />
         <mark key="[" line="16" column="49" />
@@ -141,12 +142,11 @@
         <mark key="^" line="10" column="48" />
         <mark key="." line="10" column="48" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" timestamp="1477275479223">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" timestamp="1477276749014">
         <mark key="'" line="150" column="23" />
-        <mark key="[" line="263" column="20" />
-        <mark key="]" line="263" column="20" />
-        <mark key="." line="263" column="20" />
-        <mark key="^" line="320" column="42" />
+        <mark key="[" line="290" column="0" />
+        <mark key="]" line="290" column="0" />
+        <mark key="." line="290" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DispatchingController.java" timestamp="1476424463881">
         <mark key="[" line="50" column="48" />
@@ -194,11 +194,11 @@
       <file name="D:/IdeaProjects/lems/pom.xml" timestamp="1477035294232">
         <mark key="'" line="289" column="29" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/BMap.js" timestamp="1476344153985">
-        <mark key="[" line="3" column="27" />
-        <mark key="]" line="3" column="30" />
-        <mark key="." line="3" column="30" />
-        <mark key="^" line="3" column="30" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/BMap.js" timestamp="1477278676902">
+        <mark key="[" line="35" column="34" />
+        <mark key="]" line="43" column="29" />
+        <mark key="." line="43" column="29" />
+        <mark key="^" line="43" column="29" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingController.js" timestamp="1476759772293">
         <mark key="[" line="31" column="20" />
@@ -417,28 +417,37 @@
       <jump line="150" column="23" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>me.activeMarkerInfoWindowContentTpl.apply()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJzx0ZD57bmFtZX08L3RkPicsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>me.activeMarkerInfoWindowContentTpl.apply()</text>
+        <text>me.fireEvent('markerclick', me, mkr, item);</text>
       </register>
       <register name="/" type="4">
         <text>_markerItemPair</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQk8dXJsLXBhdHRlcm4+L3Jlc291cmNlcy8qPC91cmwtcGF0dGVybj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJzx0ZD57bmFtZX08L3RkPicsCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIG1rci5hZGRFdmVudExpc3RlbmVyKCdjbGljaycsIGZ1bmN0aW9uIChldnQpIHsKICAgICAgICAgICAgICAgIG1lLmZpcmVFdmVudCgnYWN0aXZlbWFya2VyZGJsY2xpY2snLCBtZSwgbWtyKTsKICAgICAgICAgICAgfSk7</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx3ZWJBcHBTb3VyY2VEaXJlY3Rvcnk+c3JjL21haW4vd2ViYXBwLCBzcmMvbWFpbi9mcm9udGVuZDwvd2ViQXBwU291cmNlRGlyZWN0b3J5Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgIDx3ZWJSZXNvdXJjZXM+CiAgICAgICAgICAgIDxyZXNvdXJjZT4KICAgICAgICAgICAgICA8ZGlyZWN0b3J5PiR7ZnJvbnRlbmRCYXNlRGlyfS9idWlsZC9wcm9kdWN0aW9uLyR7ZnJvbnRlbmRBcHBOYW1lfTwvZGlyZWN0b3J5PgogICAgICAgICAgICA8L3Jlc291cmNlPgogICAgICAgICAgPC93ZWJSZXNvdXJjZXM+</text>
+        <text encoding="base64">CiAgICAgICAgICAgIG1rci5hZGRFdmVudExpc3RlbmVyKCdjbGljaycsIGZ1bmN0aW9uIChldnQpIHsKICAgICAgICAgICAgICAgIG1lLmZpcmVFdmVudCgnbWFya2VyZGJsY2xpY2snLCBtZSwgbWtyLCBpdGVtKTsKICAgICAgICAgICAgfSk7</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIG1rci5hZGRFdmVudExpc3RlbmVyKCdjbGljaycsIGZ1bmN0aW9uIChldnQpIHsKICAgICAgICAgICAgICAgIG1lLmZpcmVFdmVudCgnYWN0aXZlbWFya2VyZGJsY2xpY2snLCBtZSwgbWtyKTsKICAgICAgICAgICAgfSk7</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIDx3ZWJBcHBTb3VyY2VEaXJlY3Rvcnk+c3JjL21haW4vd2ViYXBwLCBzcmMvbWFpbi9mcm9udGVuZDwvd2ViQXBwU291cmNlRGlyZWN0b3J5Pgo=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAgIDx3ZWJSZXNvdXJjZXM+CiAgICAgICAgICAgIDxyZXNvdXJjZT4KICAgICAgICAgICAgICA8ZGlyZWN0b3J5PiR7ZnJvbnRlbmRCYXNlRGlyfS9idWlsZC9wcm9kdWN0aW9uLyR7ZnJvbnRlbmRBcHBOYW1lfTwvZGlyZWN0b3J5PgogICAgICAgICAgICA8L3Jlc291cmNlPgogICAgICAgICAgPC93ZWJSZXNvdXJjZXM+</text>
+      </register>
+      <register name="7" type="4">
         <text>@Column(length = 50)
     private String type;
     @Column(precision = 10, scale = 2)
@@ -448,20 +457,11 @@
     @Enumerated(EnumType.ORDINAL)
     private EquipmentState state;</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBFcXVpcG1lbnRHcm91cCB0aGF0ID0gKEVxdWlwbWVudEdyb3VwKSBvOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobyA9PSBudWxsIHx8IGdldENsYXNzKCkgIT0gby5nZXRDbGFzcygpKSByZXR1cm4gZmFsc2U7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFN0YXRlRXF1aXBtZW50RW50cmllcyhNYXAgc3RhdGVFcXVpcG1lbnRFbnRyaWVzKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBFcXVpcG1lbnRHcm91cCB0aGF0ID0gKEVxdWlwbWVudEdyb3VwKSBvOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
