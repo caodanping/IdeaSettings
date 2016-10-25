@@ -148,12 +148,12 @@
         <mark key="." line="50" column="48" />
         <mark key="^" line="54" column="4" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" timestamp="1477376335573">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" timestamp="1477378255526">
         <mark key="'" line="2" column="13" />
-        <mark key="[" line="83" column="25" />
-        <mark key="]" line="115" column="3" />
-        <mark key="." line="115" column="3" />
-        <mark key="^" line="115" column="3" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+        <mark key="^" line="114" column="3" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentGroup.java" timestamp="1477028195467">
         <mark key="[" line="7" column="27" />
@@ -229,11 +229,11 @@
         <mark key="." line="76" column="72" />
         <mark key="^" line="76" column="72" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/SiteRepositoryImpl.java" timestamp="1477365194211">
-        <mark key="[" line="60" column="5" />
-        <mark key="]" line="25" column="13" />
-        <mark key="^" line="25" column="13" />
-        <mark key="." line="25" column="13" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/SiteRepositoryImpl.java" timestamp="1477377766423">
+        <mark key="[" line="51" column="48" />
+        <mark key="]" line="51" column="57" />
+        <mark key="^" line="51" column="57" />
+        <mark key="." line="51" column="57" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/common/CollectionUtils.java" timestamp="1477017377411">
         <mark key="[" line="18" column="78" />
@@ -423,7 +423,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5jbHVkZU5vdFNhdGlzZnlSZXF1aXJlbWVudFNpdGVzOiBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lLmJlZ2luTWFyaygpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -435,32 +435,32 @@
         <text encoding="base64">ICAgICAgICBpbmNsdWRlTm90U2F0aXNmeVJlcXVpcmVtZW50U2l0ZXM6IGZhbHNlCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lLmJlZ2luTWFyaygpOwo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW5jbHVkZU5vdFNhdGlzZnlSZXF1aXJlbWVudFNpdGVzOiBmYWxzZQo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">CiAgPGJlYW4gaWQ9ImVudGl0eU1hbmFnZXIiIGNsYXNzPSJvcmcuc3ByaW5nZnJhbWV3b3JrLm9ybS5qcGEuc3VwcG9ydC5TaGFyZWRFbnRpdHlNYW5hZ2VyQmVhbiI+CiAgICA8cHJvcGVydHkgbmFtZT0iZW50aXR5TWFuYWdlckZhY3RvcnkiIHJlZj0iZW50aXR5TWFuYWdlckZhY3RvcnkiLz4KICA8L2JlYW4+</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIEBQZXJzaXN0ZW5jZUNvbnRleHQK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>,
                         content = win.getContent()</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ZHRvLnNldEVxdWlwbWVudEVudHJpZXMoTGlzdHMudHJhbnNmb3JtKGlucHV0LmdldFN0YXRlRXF1aXBtZW50RW50cmllcygpLCBuZXcgRnVuY3Rpb248U3RhdGVFcXVpcG1lbnRFbnRyeSwgT2JqZWN0PigpIHsKICAgICAgICAgICAgICAgIH0pKTs=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJzx0ZD57bmFtZX08L3RkPicsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
