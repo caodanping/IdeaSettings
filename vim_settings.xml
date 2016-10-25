@@ -53,11 +53,6 @@
         <mark key="." line="34" column="43" />
         <mark key="^" line="34" column="43" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a76df6ce-c055-473d-a49b-508fc3f41258/console.sql" timestamp="1477016036681">
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/webapp/WEB-INF/web.xml" timestamp="1477037106642">
         <mark key="[" line="13" column="65" />
         <mark key="]" line="13" column="68" />
@@ -152,7 +147,7 @@
         <mark key="." line="50" column="48" />
         <mark key="^" line="54" column="4" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" timestamp="1477367190573">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" timestamp="1477370014159">
         <mark key="'" line="2" column="13" />
         <mark key="[" line="66" column="38" />
         <mark key="]" line="66" column="38" />
@@ -192,7 +187,7 @@
       <file name="D:/IdeaProjects/lems/pom.xml" timestamp="1477035294232">
         <mark key="'" line="289" column="29" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/BMap.js" timestamp="1477281743913">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/BMap.js" timestamp="1477370481864">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
@@ -269,11 +264,6 @@
         <mark key="]" line="45" column="27" />
         <mark key="^" line="45" column="27" />
         <mark key="." line="45" column="27" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Warehouse.java" timestamp="1477015934417">
-        <mark key="[" line="12" column="20" />
-        <mark key="]" line="12" column="20" />
-        <mark key="." line="12" column="20" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/ProjectSite.java" timestamp="1477015981114">
         <mark key="[" line="12" column="20" />
