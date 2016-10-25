@@ -155,12 +155,12 @@
         <mark key="." line="50" column="48" />
         <mark key="^" line="54" column="4" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" timestamp="1477298408462">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" timestamp="1477358873504">
         <mark key="'" line="2" column="13" />
-        <mark key="[" line="54" column="19" />
-        <mark key="]" line="33" column="30" />
-        <mark key="." line="33" column="30" />
-        <mark key="^" line="33" column="30" />
+        <mark key="[" line="55" column="36" />
+        <mark key="]" line="55" column="52" />
+        <mark key="." line="55" column="52" />
+        <mark key="^" line="55" column="52" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentGroup.java" timestamp="1477028195467">
         <mark key="[" line="7" column="27" />
@@ -254,6 +254,7 @@
         <mark key="^" line="18" column="24" />
         <mark key="." line="18" column="25" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/sass/src/Application.scss" timestamp="1477358689382" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/SiteRepositoryCustomImpl.java" timestamp="1476842299054">
         <mark key="[" line="30" column="51" />
         <mark key="]" line="33" column="28" />
@@ -418,10 +419,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>siteName</text>
+        <text>class=&quot;btn&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>siteName</text>
+        <text>class=&quot;btn&quot;</text>
       </register>
       <register name="/" type="4">
         <text>_markerItemPair</text>
