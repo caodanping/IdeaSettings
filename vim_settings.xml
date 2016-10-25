@@ -148,12 +148,12 @@
         <mark key="." line="50" column="48" />
         <mark key="^" line="54" column="4" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" timestamp="1477371742239">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" timestamp="1477376335573">
         <mark key="'" line="2" column="13" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="48" />
-        <mark key="." line="66" column="38" />
-        <mark key="^" line="66" column="38" />
+        <mark key="[" line="83" column="25" />
+        <mark key="]" line="115" column="3" />
+        <mark key="." line="115" column="3" />
+        <mark key="^" line="115" column="3" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentGroup.java" timestamp="1477028195467">
         <mark key="[" line="7" column="27" />
@@ -188,7 +188,7 @@
       <file name="D:/IdeaProjects/lems/pom.xml" timestamp="1477035294232">
         <mark key="'" line="289" column="29" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/BMap.js" timestamp="1477370481864">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/BMap.js" timestamp="1477376330127">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
