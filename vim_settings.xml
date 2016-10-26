@@ -146,12 +146,12 @@
         <mark key="." line="50" column="48" />
         <mark key="^" line="54" column="4" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" timestamp="1477386464159">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" timestamp="1477446303587">
         <mark key="'" line="2" column="13" />
-        <mark key="[" line="86" column="20" />
-        <mark key="]" line="86" column="19" />
-        <mark key="." line="86" column="19" />
-        <mark key="^" line="86" column="19" />
+        <mark key="[" line="88" column="20" />
+        <mark key="]" line="88" column="20" />
+        <mark key="." line="88" column="20" />
+        <mark key="^" line="84" column="65" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentGroup.java" timestamp="1477028195467">
         <mark key="[" line="7" column="27" />
@@ -257,11 +257,11 @@
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/SiteFilterControl.js" timestamp="1477370993873">
         <mark key="[" line="2" column="3" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/sass/src/Application.scss" timestamp="1477386821748">
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="129" column="24" />
-        <mark key="^" line="129" column="24" />
-        <mark key="." line="129" column="24" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/sass/src/Application.scss" timestamp="1477446070559">
+        <mark key="[" line="135" column="1" />
+        <mark key="]" line="141" column="21" />
+        <mark key="^" line="141" column="21" />
+        <mark key="." line="141" column="21" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/SiteRepositoryCustomImpl.java" timestamp="1476842299054">
         <mark key="[" line="30" column="51" />
@@ -319,11 +319,11 @@
         <mark key="." line="20" column="34" />
         <mark key="^" line="20" column="34" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/SiteFilterPanel.js" timestamp="1477387003790">
-        <mark key="[" line="23" column="25" />
-        <mark key="]" line="23" column="25" />
-        <mark key="^" line="13" column="19" />
-        <mark key="." line="23" column="25" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/SiteFilterPanel.js" timestamp="1477445689996">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="33" />
+        <mark key="." line="9" column="14" />
+        <mark key="^" line="9" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -430,51 +430,50 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>他</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>他</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>_markerItemPair</text>
       </register>
       <register name="0" type="4">
-        <text>BMAP_ANCHOR_TOP_RIGHT</text>
+        <text>BMap_site_filter_options</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJyNmZmYnLAo=</text>
+      <register name="1" type="4">
+        <text>// el.innerHTML = &quot;Hello Popup&quot;;
+                    // var panel = Ext.create('Lems.view.deviceDispatching.SiteFilterPanel', {
+                    //     renderTo: el
+                    // });
+                    me.filterOptionsTpl.overwrite(el, me.filter);</text>
       </register>
       <register name="2" type="4">
-        <text>// el.innerHTML = &quot;Hello Popup&quot;;
-                    el.onload = function () {
-                        var panel = Ext.create('Lems.view.deviceDispatching.SiteFilterPanel', {
-                            renderTo: el
-                        });
-                    }</text>
+        <text encoding="base64">YnV0dG9uJiB7CgogIH0=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYW5lbC5yZW5kZXIoZWwpOwo=</text>
+      <register name="3" type="4">
+        <text>,
+    buttons: [
+        
+    ]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAyMDAsCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICBvblNob3dGaWx0ZXJPcHRpb25zOiBmdW5jdGlvbiAoKSB7CiAgICAgICAgdmFyIHBhbmVsID0gRXh0LmNyZWF0ZSgnTGVtcy52aWV3LmRldmljZURpc3BhdGNoaW5nLlNpdGVGaWx0ZXJQYW5lbCcsIHsKICAgICAgICAgICAgcGFuZWwKICAgICAgICB9KTsKICAgICAgICBwYW5lbC4KICAgIH0s</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGhlaWdodDogMzAwLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsYXNzTmFtZXM6ICdCTWFwTGliX2J0biBCTWFwTGliX2J0bl9maWx0ZXJfb3B0aW9ucycsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>this.click = function () {
-            
-            me.popupElement.classList.add('BMap_Popup_Open');
-        };</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIHh0eXBlOiAnYnV0dG9uJywKICAgICAgICAgICAgCiAgICAgICAgfQ==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICBtZS5wb3B1cEVsZW1lbnQgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdkaXYnKTsKICAgICAgICBtZS5wb3B1cEVsZW1lbnQuc2V0QXR0cmlidXRlKCdjbGFzcycsICdCTWFwX1BvcHVwX1dyYXBwZXInKTs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGxheW91dDogJ2Zvcm0nLAo=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">dmFyIHRwbCA9IEV4dC5YVGVtcGxhdGUoCiAgICAgICAgICAgICc8ZGl2IGNsYXNzPSJwYW5lbCI+JywKICAgICAgICAgICAgCiAgICAgICAgICAgICc8L2Rpdj4nCiAgICAgICAgKTs=</text>
+        <text encoding="base64">ICAgIGRlZmF1bHRzOiB7CiAgICAgICAgYm94TGFiZWxBbGlnbjogJ2xlZnQnCiAgICB9LA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
