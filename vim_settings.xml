@@ -224,7 +224,7 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/scripts/MyControls.js" timestamp="1477449103814">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/scripts/MyControls.js" timestamp="1477450606431">
         <mark key="[" line="56" column="44" />
         <mark key="]" line="57" column="7" />
         <mark key="^" line="57" column="7" />
@@ -294,6 +294,9 @@
         <mark key="]" line="16" column="85" />
         <mark key="^" line="16" column="85" />
         <mark key="." line="16" column="85" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DeviceSelect.js" timestamp="1477450987567">
+        <mark key="[" line="2" column="3" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StateEquipmentEntry.java" timestamp="1477366441077">
         <mark key="[" line="26" column="0" />
