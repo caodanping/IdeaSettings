@@ -146,12 +146,12 @@
         <mark key="." line="50" column="48" />
         <mark key="^" line="54" column="4" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" timestamp="1477454752589">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" timestamp="1477458051725">
         <mark key="'" line="2" column="13" />
-        <mark key="[" line="150" column="49" />
-        <mark key="]" line="150" column="57" />
-        <mark key="." line="150" column="57" />
-        <mark key="^" line="150" column="57" />
+        <mark key="[" line="162" column="45" />
+        <mark key="]" line="162" column="48" />
+        <mark key="." line="162" column="48" />
+        <mark key="^" line="162" column="48" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentGroup.java" timestamp="1477028195467">
         <mark key="[" line="7" column="27" />
@@ -159,7 +159,7 @@
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Audit.js" timestamp="1476338237924">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Audit.js" timestamp="1477458844710">
         <mark key="[" line="213" column="54" />
         <mark key="]" line="213" column="54" />
         <mark key="^" line="213" column="54" />
@@ -295,11 +295,11 @@
         <mark key="^" line="16" column="85" />
         <mark key="." line="16" column="85" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DeviceSelect.js" timestamp="1477453204042">
-        <mark key="[" line="61" column="5" />
-        <mark key="]" line="61" column="5" />
-        <mark key="." line="61" column="5" />
-        <mark key="^" line="61" column="5" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DeviceSelect.js" timestamp="1477459983711">
+        <mark key="[" line="71" column="41" />
+        <mark key="]" line="71" column="51" />
+        <mark key="." line="71" column="51" />
+        <mark key="^" line="71" column="51" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StateEquipmentEntry.java" timestamp="1477366441077">
         <mark key="[" line="26" column="0" />
@@ -319,11 +319,10 @@
         <mark key="." line="7" column="14" />
         <mark key="^" line="7" column="14" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Dispatching.js" timestamp="1476765345520">
-        <mark key="[" line="20" column="20" />
-        <mark key="]" line="20" column="34" />
-        <mark key="." line="20" column="34" />
-        <mark key="^" line="20" column="34" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Dispatching.js" timestamp="1477458914625">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/SiteFilterPanel.js" timestamp="1477451862344">
         <mark key="[" line="5" column="10" />
@@ -436,47 +435,51 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tn</text>
+        <text>data</text>
       </register>
       <register name="-" type="4">
-        <text>tn</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>_markerItemPair</text>
       </register>
-      <register name="0" type="4">
-        <text>BMap_site_filter_options</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYnRuLm9uKCdjbGljaycsIG1lLm9uRGlzcGF0Y2hGcm9tSGVyZSwgbWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgYnRuID0gCg==</text>
+        <text encoding="base64">ICAgIGxheW91dDogJ2ZpdCcsCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIAogICAgaW5pdENvbXBvbmVudDogZnVuY3Rpb24gKCkgewogICAgICAgIAogICAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtZS5ib2R5LmFwcGVuZENoaWxkKG1lLmNvbnRlbnRUcGwuYXBwbHkobWUuZGF0YSkpOwo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgIGluaXRDb21wb21lbnQ6IGZ1bmN0aW9uICgpIHsKCiAgICB9LA==</text>
+        <text>bind: {
+        title: '调度设备',
+    },</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnPGRpdiBjbGFzcz0iZGlzdGFuY2UiPtPrvei3vbmktdjCt7PMucC8xjrV/dTavMbL4y4uLjwvZGl2PicsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGJ0biA9IEV4dC5mbHkoZXZ0LnRhcmdldC5nZXRDb250ZW50KCkpLnNlbGVjdE5vZGUoJ2J1dHRvbicsIGZhbHNlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnPC9kaXY+Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnPGJ1dHRvbj6007TLtKa197bIyeixuDwvYnV0dG9uPicsCg==</text>
+      <register name="7" type="4">
+        <text>btn.on({
+                click: function() {
+                    console.log('laalalal');
+                },
+                scope: me
+            });
+            evt.target.redraw();</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnPGRpdiBzdHlsZT0ibWFyZ2luLXRvcDo1cHg7IHRleHQtYWxpZ246cmlnaHQ7Ij4nLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXZ0LnRhcmdldCk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>// el.innerHTML = &quot;Hello Popup&quot;;
-                    // var panel = Ext.create('Lems.view.deviceDispatching.SiteFilterPanel', {
-                    //     renderTo: el
-                    // });
-                    me.filterOptionsTpl.overwrite(el, me.filter);</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBidG4ub24oJ2NsaWNrJywgbWUub25EaXNwYXRjaEZyb21IZXJlLCBtZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
