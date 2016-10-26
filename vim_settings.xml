@@ -133,17 +133,25 @@
         <mark key="^" line="10" column="48" />
         <mark key="." line="10" column="48" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" timestamp="1477281434539">
+        <mark key="'" line="150" column="23" />
+        <mark key="[" line="258" column="44" />
+        <mark key="]" line="259" column="25" />
+        <mark key="." line="259" column="25" />
+        <mark key="^" line="259" column="25" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DispatchingController.java" timestamp="1476424463881">
         <mark key="[" line="50" column="48" />
         <mark key="]" line="50" column="48" />
         <mark key="." line="50" column="48" />
         <mark key="^" line="54" column="4" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" timestamp="1477464965803">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" timestamp="1477467168259">
         <mark key="'" line="2" column="13" />
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="0" />
-        <mark key="." line="173" column="0" />
+        <mark key="[" line="172" column="70" />
+        <mark key="]" line="173" column="28" />
+        <mark key="." line="173" column="28" />
+        <mark key="^" line="173" column="28" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentGroup.java" timestamp="1477028195467">
         <mark key="[" line="7" column="27" />
@@ -287,11 +295,11 @@
         <mark key="^" line="16" column="85" />
         <mark key="." line="16" column="85" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DeviceSelect.js" timestamp="1477464676698">
-        <mark key="[" line="73" column="22" />
-        <mark key="]" line="73" column="30" />
-        <mark key="." line="73" column="30" />
-        <mark key="^" line="73" column="30" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DeviceSelect.js" timestamp="1477467775751">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="71" column="29" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StateEquipmentEntry.java" timestamp="1477366441077">
         <mark key="[" line="26" column="0" />
@@ -427,51 +435,45 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnPC9kaXY+JywK</text>
       </register>
       <register name="-" type="4">
-        <text>Lems.view.deviceDispatching.DeviceSelect</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>_markerItemPair</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzZWxlY3QgPSBFeHQuY3JlYXRlKCdMZW1zLnZpZXcuZGV2aWNlRGlzcGF0Y2hpbmcuRGV2aWNlU2VsZWN0Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGh0bWw6IG1lLmNvbnRlbnRUcGwuYXBwbHkobWUuY29udGVudERhdGEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnPC9kaXY+JywK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICBzZWxlY3QgPSBFeHQuY3JlYXRlKCdFeHQud2luZG93LldpbmRvdycsIHsKICAgICAgICAgICAgdGl0bGU6ICey4srUJwogICAgICAgIH0pOw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnRlbnREYXRhOiB7fSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxheW91dDogJ2ZpdCcsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgIAogICAgaW5pdENvbXBvbmVudDogZnVuY3Rpb24gKCkgewogICAgICAgIAogICAgfQ==</text>
+        <text encoding="base64">ICAgICAgICBzZWxlY3QgPSBFeHQuY3JlYXRlKCdFeHQud2luZG93LldpbmRvdycsIHsKICAgICAgICAgICAgdGl0bGU6ICey4srUJwogICAgICAgIH0pOw==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtZS5ib2R5LmFwcGVuZENoaWxkKG1lLmNvbnRlbnRUcGwuYXBwbHkobWUuZGF0YSkpOwo=</text>
+        <text encoding="base64">ICAgIGxheW91dDogJ2ZpdCcsCg==</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">ICAgIAogICAgaW5pdENvbXBvbmVudDogZnVuY3Rpb24gKCkgewogICAgICAgIAogICAgfQ==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBtZS5ib2R5LmFwcGVuZENoaWxkKG1lLmNvbnRlbnRUcGwuYXBwbHkobWUuZGF0YSkpOwo=</text>
+      </register>
+      <register name="8" type="4">
         <text>bind: {
         title: '调度设备',
     },</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGJ0biA9IEV4dC5mbHkoZXZ0LnRhcmdldC5nZXRDb250ZW50KCkpLnNlbGVjdE5vZGUoJ2J1dHRvbicsIGZhbHNlKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>btn.on({
-                click: function() {
-                    console.log('laalalal');
-                },
-                scope: me
-            });
-            evt.target.redraw();</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
