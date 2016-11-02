@@ -299,11 +299,11 @@
         <mark key="^" line="16" column="85" />
         <mark key="." line="16" column="85" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DeviceSelect.js" timestamp="1478071136838">
-        <mark key="[" line="39" column="59" />
-        <mark key="]" line="39" column="59" />
-        <mark key="." line="39" column="59" />
-        <mark key="^" line="39" column="59" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DeviceSelect.js" timestamp="1478072213499">
+        <mark key="[" line="69" column="35" />
+        <mark key="]" line="69" column="35" />
+        <mark key="." line="69" column="35" />
+        <mark key="^" line="69" column="35" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StateEquipmentEntry.java" timestamp="1477366441077">
         <mark key="[" line="26" column="0" />
@@ -439,10 +439,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>pdeviceentries</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>pdeviceentries</text>
       </register>
       <register name="/" type="4">
         <text>_markerItemPair</text>
