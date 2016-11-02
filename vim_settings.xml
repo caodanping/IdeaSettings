@@ -299,11 +299,11 @@
         <mark key="^" line="16" column="85" />
         <mark key="." line="16" column="85" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DeviceSelect.js" timestamp="1478060982966">
-        <mark key="[" line="17" column="18" />
-        <mark key="]" line="18" column="18" />
-        <mark key="." line="18" column="18" />
-        <mark key="^" line="18" column="18" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DeviceSelect.js" timestamp="1478071136838">
+        <mark key="[" line="39" column="59" />
+        <mark key="]" line="39" column="59" />
+        <mark key="." line="39" column="59" />
+        <mark key="^" line="39" column="59" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StateEquipmentEntry.java" timestamp="1477366441077">
         <mark key="[" line="26" column="0" />
@@ -439,16 +439,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>度</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>度</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>_markerItemPair</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGh0bWw6IG1lLmNvbnRlbnRUcGwuYXBwbHkobWUuY29udGVudERhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICAnPHRkPjxpbnB1dCB0eXBlPSJ0ZXh0IiBzdHlsZT0id2lkdGg6IDYwcHgiIHZhbHVlPSJ7YW1vdW50fSI+PC90ZD4nLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGhlaWdodDogNjAwLAo=</text>
