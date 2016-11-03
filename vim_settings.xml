@@ -102,7 +102,6 @@
         <mark key="^" line="17" column="185" />
         <mark key="." line="17" column="185" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/test/groovy/JsonBuilderTest.groovy" timestamp="1478050329309" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1476328249964">
         <mark key="[" line="273" column="25" />
         <mark key="]" line="283" column="66" />
@@ -299,11 +298,10 @@
         <mark key="^" line="16" column="85" />
         <mark key="." line="16" column="85" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DeviceSelect.js" timestamp="1478072213499">
-        <mark key="[" line="69" column="35" />
-        <mark key="]" line="69" column="35" />
-        <mark key="." line="69" column="35" />
-        <mark key="^" line="69" column="35" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DeviceSelect.js" timestamp="1478145800923">
+        <mark key="[" line="68" column="57" />
+        <mark key="]" line="68" column="58" />
+        <mark key="." line="68" column="58" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StateEquipmentEntry.java" timestamp="1477366441077">
         <mark key="[" line="26" column="0" />
@@ -438,8 +436,8 @@
       <jump line="150" column="23" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>pdeviceentries</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3RvcmUgPSBFeHQuY3JlYXRlKCdFeHQuZGF0YS5TdG9yZScsIHttZS5jb250ZW50RGF0YS5lcXVpcG1lbnRFbnRyaWVzOwo=</text>
       </register>
       <register name="-" type="4">
         <text>pdeviceentries</text>
@@ -451,33 +449,31 @@
         <text encoding="base64">ICAgICAgICAnPHRkPjxpbnB1dCB0eXBlPSJ0ZXh0IiBzdHlsZT0id2lkdGg6IDYwcHgiIHZhbHVlPSJ7YW1vdW50fSI+PC90ZD4nLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogNjAwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RvcmUgPSBFeHQuY3JlYXRlKCdFeHQuZGF0YS5TdG9yZScsIHttZS5jb250ZW50RGF0YS5lcXVpcG1lbnRFbnRyaWVzOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnPC9kaXY+JywK</text>
+        <text encoding="base64">ICAgIGhlaWdodDogNjAwLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnRlbnREYXRhOiB7fSwK</text>
+        <text encoding="base64">ICAgICAgICAnPC9kaXY+JywK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnRlbnREYXRhOiB7fSwK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICAgICBzZWxlY3QgPSBFeHQuY3JlYXRlKCdFeHQud2luZG93LldpbmRvdycsIHsKICAgICAgICAgICAgdGl0bGU6ICey4srUJwogICAgICAgIH0pOw==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGxheW91dDogJ2ZpdCcsCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgIAogICAgaW5pdENvbXBvbmVudDogZnVuY3Rpb24gKCkgewogICAgICAgIAogICAgfQ==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBtZS5ib2R5LmFwcGVuZENoaWxkKG1lLmNvbnRlbnRUcGwuYXBwbHkobWUuZGF0YSkpOwo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>bind: {
-        title: '调度设备',
-    },</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
