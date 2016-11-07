@@ -15,6 +15,9 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
+      <file name="/a.dummy" timestamp="1478501465639">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/SiteService.java" timestamp="1476765386473">
         <mark key="[" line="25" column="14" />
         <mark key="]" line="37" column="7" />
@@ -298,11 +301,11 @@
         <mark key="^" line="16" column="85" />
         <mark key="." line="16" column="85" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DeviceSelect.js" timestamp="1478483224593">
-        <mark key="[" line="100" column="10" />
-        <mark key="]" line="99" column="10" />
-        <mark key="." line="99" column="10" />
-        <mark key="^" line="99" column="10" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DeviceSelect.js" timestamp="1478501032375">
+        <mark key="[" line="66" column="31" />
+        <mark key="]" line="62" column="21" />
+        <mark key="." line="62" column="21" />
+        <mark key="^" line="62" column="21" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StateEquipmentEntry.java" timestamp="1477366441077">
         <mark key="[" line="26" column="0" />
@@ -335,7 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="55" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" />
       <jump line="1" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" />
       <jump line="10" column="0" filename="D:/IdeaProjects/lems/src/main/resources/init/import.sql" />
       <jump line="45" column="8" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
@@ -435,6 +437,7 @@
       <jump line="305" column="46" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
       <jump line="326" column="15" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
       <jump line="150" column="23" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
+      <jump line="43" column="37" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DeviceSelect.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -477,7 +480,7 @@
         <text encoding="base64">ICAgIGxheW91dDogJ2ZpdCcsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>160</text>
       </register>
     </registers>
     <search>
@@ -513,8 +516,6 @@
         <entry>_markerItemPair</entry>
       </history-search>
       <history-cmd>
-        <entry>actionlist format</entry>
-        <entry>action format</entry>
         <entry>actionlist</entry>
         <entry>e</entry>
         <entry>set surround</entry>
@@ -533,6 +534,8 @@
         <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry>h ctrl_n</entry>
+        <entry>160</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -591,6 +594,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
