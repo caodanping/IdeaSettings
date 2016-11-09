@@ -113,11 +113,11 @@
         <mark key="^" line="17" column="185" />
         <mark key="." line="17" column="185" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1478675774002">
-        <mark key="[" line="211" column="13" />
-        <mark key="]" line="211" column="13" />
-        <mark key="." line="211" column="13" />
-        <mark key="^" line="30" column="56" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1478677526349">
+        <mark key="[" line="213" column="0" />
+        <mark key="]" line="213" column="0" />
+        <mark key="." line="213" column="0" />
+        <mark key="^" line="162" column="96" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/SiteRepositoryCustom.java" timestamp="1476857736810">
         <mark key="[" line="12" column="39" />
@@ -461,8 +461,8 @@
       <jump line="108" column="19" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DeviceSelect.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>setOutUser(user);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkaXNwLnNldFByb2dyZXNzTm9kZShUQVNLX05BTUVfQ09ORklSTV9JTik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>setOutUser(user);</text>
@@ -473,7 +473,10 @@
       <register name="0" type="4">
         <text encoding="base64">IFRBU0tfTkFNRV9PVVRfQ09ORklSTQ==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBkaXNwLnNldFByb2dyZXNzTm9kZShUQVNLX05BTUVfQ09ORklSTV9JTik7Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>disp.setDispatcher(user);
         disp.setDispatchTime(new Date());
 
@@ -486,32 +489,29 @@
                     it.getAmount()));
         }</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>disp.setProcDeptMgr(user);
         disp.setDeptMgrComment(comments);
         disp.setDeptMgrProcTime(new Date());
         disp.setDeptMgrApprovalState(approved ? ApprovalState.APPROVED : ApprovalState.REJECTED);</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaSwK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBkaXNwYXRjaGluZ1NlcnZpY2UuYXBwcm92ZVJlcXVlc3RGb3JETShpZCwgYXBwcm92ZWQsIGNvbW1lbnRzKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBmb3IoaSA9IGVudHJpZXMpCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgRXh0LmVhY2goZW50cmllcywgZnVuY3Rpb24gKCkgewoKICAgICAgICB9KQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RvcmUgPSBFeHQuY3JlYXRlKCdFeHQuZGF0YS5TdG9yZScsIHttZS5jb250ZW50RGF0YS5lcXVpcG1lbnRFbnRyaWVzOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogNjAwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RvcmUgPSBFeHQuY3JlYXRlKCdFeHQuZGF0YS5TdG9yZScsIHttZS5jb250ZW50RGF0YS5lcXVpcG1lbnRFbnRyaWVzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
