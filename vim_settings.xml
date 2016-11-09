@@ -113,11 +113,11 @@
         <mark key="^" line="17" column="185" />
         <mark key="." line="17" column="185" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1478655952876">
-        <mark key="[" line="182" column="8" />
-        <mark key="]" line="182" column="8" />
-        <mark key="." line="182" column="8" />
-        <mark key="^" line="306" column="65" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1478656918373">
+        <mark key="[" line="195" column="29" />
+        <mark key="]" line="195" column="29" />
+        <mark key="." line="195" column="29" />
+        <mark key="^" line="204" column="28" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/SiteRepositoryCustom.java" timestamp="1476857736810">
         <mark key="[" line="12" column="39" />
@@ -462,19 +462,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>disp.setProcDeptMgr(user);
-        disp.setDeptMgrComment(comments);
-        disp.setDeptMgrProcTime(new Date());
-        disp.setDeptMgrApprovalState(approved ? ApprovalState.APPROVED : ApprovalState.REJECTED);</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>System.out.println(dto);</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>_markerItemPair</text>
       </register>
       <register name="0" type="4">
-        <text>me.contentData</text>
+        <text encoding="base64">IFRBU0tfTkFNRV9PVVRfQ09ORklSTQ==</text>
       </register>
       <register name="1" type="4">
         <text>disp.setProcDeptMgr(user);
