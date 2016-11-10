@@ -113,11 +113,11 @@
         <mark key="^" line="17" column="185" />
         <mark key="." line="17" column="185" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1478749423938">
-        <mark key="[" line="213" column="0" />
-        <mark key="]" line="213" column="0" />
-        <mark key="." line="213" column="0" />
-        <mark key="^" line="162" column="96" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1478750799587">
+        <mark key="[" line="212" column="16" />
+        <mark key="]" line="230" column="7" />
+        <mark key="." line="230" column="7" />
+        <mark key="^" line="230" column="7" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/SiteRepositoryCustom.java" timestamp="1476857736810">
         <mark key="[" line="12" column="39" />
@@ -461,11 +461,11 @@
       <jump line="108" column="19" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DeviceSelect.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwLnNldFByb2dyZXNzTm9kZShUQVNLX05BTUVfQ09ORklSTV9JTik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>setOutUser(user);</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>_markerItemPair</text>
