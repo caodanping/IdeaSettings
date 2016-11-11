@@ -113,11 +113,10 @@
         <mark key="^" line="17" column="185" />
         <mark key="." line="17" column="185" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1478828013624">
-        <mark key="[" line="234" column="0" />
-        <mark key="]" line="234" column="0" />
-        <mark key="." line="234" column="0" />
-        <mark key="^" line="233" column="39" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1478832959117">
+        <mark key="[" line="214" column="36" />
+        <mark key="]" line="216" column="0" />
+        <mark key="." line="216" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/SiteRepositoryCustom.java" timestamp="1476857736810">
         <mark key="[" line="12" column="39" />
@@ -467,7 +466,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRpc3BhdGNoaW5nUmVwb3NpdG9yeS5zYXZlKGRpc3ApOwo=</text>
+        <text encoding="base64">ICAgICAgICBkaXNwLnNldE91dElkRXF1aXBtZW50cygpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>EquipmentEntry</text>
@@ -479,15 +478,18 @@
         <text encoding="base64">IFRBU0tfTkFNRV9PVVRfQ09ORklSTQ==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBkaXNwLnNldE91dElkRXF1aXBtZW50cygpOwo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Ly8gICAgICAgIGRpc3BhdGNoaW5nUmVwb3NpdG9yeS5zYXZlKGRpc3ApOwo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">cHVibGljIFNldDxFcXVpcG1lbnRFbnRyeT4gZ2V0T3V0V2VpZ2h0cygpIHsKICAgICAgICByZXR1cm4gb3V0V2VpZ2h0czsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRPdXRXZWlnaHRzKFNldDxFcXVpcG1lbnRFbnRyeT4gb3V0V2VpZ2h0cykgewogICAgICAgIHRoaXMub3V0V2VpZ2h0cyA9IG91dFdlaWdodHM7CiAgICB9</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICBwdWJsaWMgU2V0PEVxdWlwbWVudEVudHJ5PiBnZXRJbldlaWdodHMoKSB7CiAgICAgICAgcmV0dXJuIGluV2VpZ2h0czsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRJbldlaWdodHMoU2V0PEVxdWlwbWVudEVudHJ5PiBpbldlaWdodHMpIHsKICAgICAgICB0aGlzLmluV2VpZ2h0cyA9IGluV2VpZ2h0czsKICAgIH0=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>@ManyToOne
     private WeightGroup weightGroup;
     @ManyToOne
@@ -529,16 +531,16 @@
         this.version = version;
     }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">QEVudGl0eQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CkBUYWJsZShuYW1lID0gIldFSUdIVF9FTlRSSUVTIik=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBkaXNwLnNldFByb2dyZXNzTm9kZShUQVNLX05BTUVfQ09ORklSTV9JTik7Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>disp.setDispatcher(user);
         disp.setDispatchTime(new Date());
 
@@ -550,12 +552,6 @@
                     it.getTonage(),
                     it.getAmount()));
         }</text>
-      </register>
-      <register name="9" type="4">
-        <text>disp.setProcDeptMgr(user);
-        disp.setDeptMgrComment(comments);
-        disp.setDeptMgrProcTime(new Date());
-        disp.setDeptMgrApprovalState(approved ? ApprovalState.APPROVED : ApprovalState.REJECTED);</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
