@@ -18,9 +18,12 @@
       <file name="/a.dummy" timestamp="1478655310347">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1478852825659">
-        <mark key="[" line="538" column="3" />
-        <mark key="^" line="538" column="3" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1478854205780">
+        <mark key="'" line="546" column="39" />
+        <mark key="[" line="552" column="23" />
+        <mark key="]" line="546" column="41" />
+        <mark key="^" line="546" column="41" />
+        <mark key="." line="546" column="41" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/SiteService.java" timestamp="1476765386473">
         <mark key="[" line="25" column="14" />
@@ -362,7 +365,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="D:/IdeaProjects/lems/src/main/resources/init/import.sql" />
       <jump line="45" column="8" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
       <jump line="2" column="13" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" />
       <jump line="156" column="14" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Site.java" />
@@ -462,6 +464,7 @@
       <jump line="150" column="23" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
       <jump line="43" column="37" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DeviceSelect.js" />
       <jump line="108" column="19" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DeviceSelect.js" />
+      <jump line="546" column="39" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
