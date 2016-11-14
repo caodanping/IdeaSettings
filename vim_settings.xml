@@ -18,12 +18,12 @@
       <file name="/a.dummy" timestamp="1478655310347">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1479086325303">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1479087330336">
         <mark key="'" line="546" column="39" />
-        <mark key="[" line="552" column="23" />
-        <mark key="]" line="546" column="41" />
-        <mark key="^" line="546" column="41" />
-        <mark key="." line="546" column="41" />
+        <mark key="[" line="554" column="48" />
+        <mark key="]" line="554" column="48" />
+        <mark key="^" line="554" column="53" />
+        <mark key="." line="554" column="48" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/SiteService.java" timestamp="1476765386473">
         <mark key="[" line="25" column="14" />
@@ -467,11 +467,11 @@
       <jump line="546" column="39" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZW50cnkg</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">ZW50cnkg</text>
       </register>
       <register name="/" type="4">
         <text>_markerItemPair</text>
