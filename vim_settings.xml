@@ -9,6 +9,12 @@
         <mark key="^" line="28" column="120" />
         <mark key="." line="28" column="120" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/MismatchProcessService.java" timestamp="1479110909890">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="D:/IdeaProjects/lems/.editorconfig" timestamp="1476255497571">
         <mark key="[" line="8" column="28" />
         <mark key="]" line="8" column="31" />
@@ -114,11 +120,11 @@
         <mark key="^" line="17" column="185" />
         <mark key="." line="17" column="185" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1478850326177">
-        <mark key="[" line="234" column="87" />
-        <mark key="]" line="236" column="0" />
-        <mark key="." line="236" column="0" />
-        <mark key="^" line="236" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1479110387947">
+        <mark key="[" line="243" column="17" />
+        <mark key="]" line="243" column="17" />
+        <mark key="^" line="243" column="17" />
+        <mark key="." line="243" column="17" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/SiteRepositoryCustom.java" timestamp="1476857736810">
         <mark key="[" line="12" column="39" />
@@ -214,6 +220,7 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Loss.java" timestamp="1479109709338" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingController.js" timestamp="1476759772293">
         <mark key="[" line="31" column="20" />
         <mark key="]" line="31" column="32" />
@@ -474,10 +481,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Q29sbGVjdGlvbjxFcXVpcG1lbnRFbnRyeT4gZW50cmllcyA9IENvbGxlY3Rpb25zMi5maWx0ZXIoaW5FbnRyaWVzLCBuZXcgUHJlZGljYXRlPEVxdWlwbWVudEVudHJ5PigpIHsKICAgICAgICAgICAgcHVibGljIGJvb2xlYW4gYXBwbHkoRXF1aXBtZW50RW50cnkgaW5wdXQpIHsKICAgICAgICAgICAgICAgIHJldHVybiAhb3V0RW50cmllcy5jb250YWlucyhpbnB1dCk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTs=</text>
+        <text>get</text>
       </register>
       <register name="-" type="4">
-        <text>Collections2</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text>_markerItemPair</text>
@@ -486,31 +493,31 @@
         <text encoding="base64">IFRBU0tfTkFNRV9PVVRfQ09ORklSTQ==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">Q29sbGVjdGlvbjxFcXVpcG1lbnRFbnRyeT4gZW50cmllcyA9IENvbGxlY3Rpb25zMi5maWx0ZXIoaW5FbnRyaWVzLCBuZXcgUHJlZGljYXRlPEVxdWlwbWVudEVudHJ5PigpIHsKICAgICAgICAgICAgcHVibGljIGJvb2xlYW4gYXBwbHkoRXF1aXBtZW50RW50cnkgaW5wdXQpIHsKICAgICAgICAgICAgICAgIHJldHVybiAhb3V0RW50cmllcy5jb250YWlucyhpbnB1dCk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTs=</text>
+        <text encoding="base64">CiAgICAgICAgU2V0PFVzZXI+IHVzZXJzID0gZGlzcC5nZXREZWJpdCgpLmdldFRlc3RlcnMoKQ==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">dG9uYWdlCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICB0YXNrU2VydmljZS5jcmVhdGVUYXNrKEZMT1dfTkFNRV9ESVNQQVRDSElORywgVEFTS19OQU1FX0NPTkZJUk1fSU4sCiAgICAgICAgICAgIHVzZXJzLCBEaXNwYXRjaGluZy5jbGFzcy5nZXROYW1lKCksIGRpc3AuZ2V0SWQoKSwgVklFV19OQU1FX0RFVklDRV9ESVNQQVRDSElORywgZGlzcC5nZXRTZXJpYWxOdW1iZXIoKSk7</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYwo=</text>
+        <text encoding="base64">ICAgICAgICBTZXQ8VXNlcj4gdXNlcnMgPSBkaXNwLmdldERlYml0KCkuZ2V0VGVzdGVycygpOwoKICAgICAgICB0YXNrU2VydmljZS5jcmVhdGVUYXNrKEZMT1dfTkFNRV9ESVNQQVRDSElORywgVEFTS19OQU1FX0NPTkZJUk1fSU4sCiAgICAgICAgICAgIHVzZXJzLCBEaXNwYXRjaGluZy5jbGFzcy5nZXROYW1lKCksIGRpc3AuZ2V0SWQoKSwgVklFV19OQU1FX0RFVklDRV9ESVNQQVRDSElORywgZGlzcC5nZXRTZXJpYWxOdW1iZXIoKSk7Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">TGlzdHMuZmlsdGVyKG91dEVudHJpZXMsIG5ldyBQcmVkaWNhdGU8RXF1aXBtZW50RW50cnk+KCkgewogICAgICAgICAgICBwdWJsaWMgYm9vbGVhbiBhcHBseShFcXVpcG1lbnRFbnRyeSBpbnB1dCkgewogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9CiAgICAgICAgfSk7</text>
+        <text encoding="base64">Q29sbGVjdGlvbjxFcXVpcG1lbnRFbnRyeT4gZW50cmllcyA9IENvbGxlY3Rpb25zMi5maWx0ZXIoaW5FbnRyaWVzLCBuZXcgUHJlZGljYXRlPEVxdWlwbWVudEVudHJ5PigpIHsKICAgICAgICAgICAgcHVibGljIGJvb2xlYW4gYXBwbHkoRXF1aXBtZW50RW50cnkgaW5wdXQpIHsKICAgICAgICAgICAgICAgIHJldHVybiAhb3V0RW50cmllcy5jb250YWlucyhpbnB1dCk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTs=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChvMS5lcXVhbHMoKSkK</text>
+        <text encoding="base64">dG9uYWdlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">TGlzdHMuZmlsdGVyKG91dEVudHJpZXMsIG5ldyBQcmVkaWNhdGU8RXF1aXBtZW50RW50cnk+KCkgewogICAgICAgICAgICBwdWJsaWMgYm9vbGVhbiBhcHBseShFcXVpcG1lbnRFbnRyeSBpbnB1dCkgewogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9CiAgICAgICAgfSk7</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChvMS5lcXVhbHMoKSkK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PEVxdWlwbWVudEVudHJ5PiBjYWxjdWxhdGVFcXVpcG1lbnRFbnRyaWVzKCkgewogICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
