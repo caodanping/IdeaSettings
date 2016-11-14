@@ -18,12 +18,12 @@
       <file name="/a.dummy" timestamp="1478655310347">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1479095193118">
-        <mark key="'" line="546" column="39" />
-        <mark key="[" line="555" column="48" />
-        <mark key="]" line="555" column="48" />
-        <mark key="^" line="555" column="53" />
-        <mark key="." line="555" column="48" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1479096081662">
+        <mark key="'" line="551" column="39" />
+        <mark key="[" line="596" column="8" />
+        <mark key="]" line="596" column="8" />
+        <mark key="." line="596" column="8" />
+        <mark key="^" line="596" column="16" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/SiteService.java" timestamp="1476765386473">
         <mark key="[" line="25" column="14" />
@@ -468,10 +468,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZW50cnkg</text>
+        <text encoding="base64">TGlzdHMuZmlsdGVyKG91dEVudHJpZXMsIG5ldyBQcmVkaWNhdGU8RXF1aXBtZW50RW50cnk+KCkgewogICAgICAgICAgICBwdWJsaWMgYm9vbGVhbiBhcHBseShFcXVpcG1lbnRFbnRyeSBpbnB1dCkgewogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9CiAgICAgICAgfSk7</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZW50cnkg</text>
+        <text>Collections2</text>
       </register>
       <register name="/" type="4">
         <text>_markerItemPair</text>
@@ -479,71 +479,32 @@
       <register name="0" type="4">
         <text encoding="base64">IFRBU0tfTkFNRV9PVVRfQ09ORklSTQ==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">TGlzdHMuZmlsdGVyKG91dEVudHJpZXMsIG5ldyBQcmVkaWNhdGU8RXF1aXBtZW50RW50cnk+KCkgewogICAgICAgICAgICBwdWJsaWMgYm9vbGVhbiBhcHBseShFcXVpcG1lbnRFbnRyeSBpbnB1dCkgewogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9CiAgICAgICAgfSk7</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChvMS5lcXVhbHMoKSkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PEVxdWlwbWVudEVudHJ5PiBjYWxjdWxhdGVFcXVpcG1lbnRFbnRyaWVzKCkgewogICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PEVxdWlwbWVudEVudHJ5PiBjYWxjdWxhdGVFcXVpcG1lbnRFbnRyaWVzKCkgewogICAgfQ==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBkaXNwLnNldE91dElkRXF1aXBtZW50cygpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Ly8gICAgICAgIGRpc3BhdGNoaW5nUmVwb3NpdG9yeS5zYXZlKGRpc3ApOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">cHVibGljIFNldDxFcXVpcG1lbnRFbnRyeT4gZ2V0T3V0V2VpZ2h0cygpIHsKICAgICAgICByZXR1cm4gb3V0V2VpZ2h0czsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRPdXRXZWlnaHRzKFNldDxFcXVpcG1lbnRFbnRyeT4gb3V0V2VpZ2h0cykgewogICAgICAgIHRoaXMub3V0V2VpZ2h0cyA9IG91dFdlaWdodHM7CiAgICB9</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgU2V0PEVxdWlwbWVudEVudHJ5PiBnZXRJbldlaWdodHMoKSB7CiAgICAgICAgcmV0dXJuIGluV2VpZ2h0czsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRJbldlaWdodHMoU2V0PEVxdWlwbWVudEVudHJ5PiBpbldlaWdodHMpIHsKICAgICAgICB0aGlzLmluV2VpZ2h0cyA9IGluV2VpZ2h0czsKICAgIH0=</text>
-      </register>
       <register name="9" type="4">
-        <text>@ManyToOne
-    private WeightGroup weightGroup;
-    @ManyToOne
-    private Site site;
-    @Column(nullable = true)
-    private Integer amount;
-    @Version
-    private Integer version;
-
-    public WeightGroup getWeightGroup() {
-        return weightGroup;
-    }
-
-    public void setWeightGroup(WeightGroup weightGroup) {
-        this.weightGroup = weightGroup;
-    }
-
-    public Site getSite() {
-        return site;
-    }
-
-    public void setSite(Site site) {
-        this.site = site;
-    }
-
-    public Integer getAmount() {
-        return amount;
-    }
-
-    public void setAmount(Integer amount) {
-        this.amount = amount;
-    }
-
-    public Integer getVersion() {
-        return version;
-    }
-
-    public void setVersion(Integer version) {
-        this.version = version;
-    }</text>
+        <text encoding="base64">cHVibGljIFNldDxFcXVpcG1lbnRFbnRyeT4gZ2V0T3V0V2VpZ2h0cygpIHsKICAgICAgICByZXR1cm4gb3V0V2VpZ2h0czsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRPdXRXZWlnaHRzKFNldDxFcXVpcG1lbnRFbnRyeT4gb3V0V2VpZ2h0cykgewogICAgICAgIHRoaXMub3V0V2VpZ2h0cyA9IG91dFdlaWdodHM7CiAgICB9</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5tNTg3</text>
