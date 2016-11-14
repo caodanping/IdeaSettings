@@ -9,7 +9,7 @@
         <mark key="^" line="28" column="120" />
         <mark key="." line="28" column="120" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/MismatchProcessService.java" timestamp="1479110909890">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/MismatchProcessService.java" timestamp="1479110912746">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="9" column="0" />
@@ -184,6 +184,12 @@
         <mark key="]" line="63" column="9" />
         <mark key="." line="63" column="9" />
         <mark key="^" line="63" column="9" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/JudgementResult.java" timestamp="1479111064315">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="10" />
+        <mark key="." line="5" column="10" />
+        <mark key="^" line="5" column="10" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Audit.js" timestamp="1477458844710">
         <mark key="[" line="213" column="54" />
@@ -481,10 +487,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>get</text>
+        <text>s JudgementResult {</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>s JudgementResult {</text>
       </register>
       <register name="/" type="4">
         <text>_markerItemPair</text>
