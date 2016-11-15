@@ -9,11 +9,11 @@
         <mark key="^" line="28" column="120" />
         <mark key="." line="28" column="120" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/MismatchProcessService.java" timestamp="1479110912746">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/MismatchProcessService.java" timestamp="1479174570316">
         <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+        <mark key="]" line="12" column="57" />
+        <mark key="^" line="12" column="57" />
+        <mark key="." line="12" column="57" />
       </file>
       <file name="D:/IdeaProjects/lems/.editorconfig" timestamp="1476255497571">
         <mark key="[" line="8" column="28" />
@@ -185,7 +185,7 @@
         <mark key="." line="63" column="9" />
         <mark key="^" line="63" column="9" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/JudgementResult.java" timestamp="1479173175517">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/JudgementResult.java" timestamp="1479174764493">
         <mark key="[" line="5" column="7" />
         <mark key="]" line="5" column="7" />
         <mark key="." line="5" column="7" />
@@ -226,7 +226,7 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Loss.java" timestamp="1479109709338" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Loss.java" timestamp="1479175336765" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingController.js" timestamp="1476759772293">
         <mark key="[" line="31" column="20" />
         <mark key="]" line="31" column="32" />
@@ -487,10 +487,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>class</text>
+        <text encoding="base64">Y2xhc3Mg</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text encoding="base64">Y2xhc3Mg</text>
       </register>
       <register name="/" type="4">
         <text>_markerItemPair</text>
