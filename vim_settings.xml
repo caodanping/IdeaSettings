@@ -9,11 +9,11 @@
         <mark key="^" line="28" column="120" />
         <mark key="." line="28" column="120" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/MismatchProcessService.java" timestamp="1479174570316">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="12" column="57" />
-        <mark key="^" line="12" column="57" />
-        <mark key="." line="12" column="57" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/MismatchProcessService.java" timestamp="1479260738473">
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="15" column="15" />
+        <mark key="^" line="15" column="57" />
+        <mark key="." line="15" column="15" />
       </file>
       <file name="D:/IdeaProjects/lems/.editorconfig" timestamp="1476255497571">
         <mark key="[" line="8" column="28" />
@@ -185,7 +185,7 @@
         <mark key="." line="63" column="9" />
         <mark key="^" line="63" column="9" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/JudgementResult.java" timestamp="1479174764493">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/JudgementResult.java" timestamp="1479260657001">
         <mark key="[" line="5" column="7" />
         <mark key="]" line="5" column="7" />
         <mark key="." line="5" column="7" />
@@ -220,6 +220,12 @@
         <mark key="]" line="71" column="30" />
         <mark key="." line="71" column="30" />
         <mark key="^" line="71" column="30" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/LossReasonType.java" timestamp="1479260941153">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="6" column="17" />
+        <mark key="^" line="6" column="17" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/BMap.js" timestamp="1477451835521">
         <mark key="[" line="31" column="0" />
@@ -487,10 +493,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y2xhc3Mg</text>
+        <text>ass</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2xhc3Mg</text>
+        <text>ass</text>
       </register>
       <register name="/" type="4">
         <text>_markerItemPair</text>
