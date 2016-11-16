@@ -120,7 +120,7 @@
         <mark key="^" line="17" column="185" />
         <mark key="." line="17" column="185" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1479277325631">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1479279571999">
         <mark key="[" line="334" column="33" />
         <mark key="]" line="334" column="33" />
         <mark key="^" line="253" column="24" />
@@ -179,11 +179,11 @@
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentEntry.java" timestamp="1479105778303">
-        <mark key="[" line="64" column="5" />
-        <mark key="]" line="63" column="9" />
-        <mark key="." line="63" column="9" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentEntry.java" timestamp="1479279251688">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
         <mark key="^" line="63" column="9" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/JudgementResult.java" timestamp="1479260657001">
         <mark key="[" line="5" column="7" />
@@ -499,8 +499,8 @@
       <jump line="546" column="39" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getDeviceType()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>getDeviceType()</text>
@@ -511,34 +511,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGNvbXBsZXRlRGlzcGF0Y2hpbmcoTG9uZyBpZCkgewo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldEFtb3VudChpbnQgYW1vdW50KSB7CiAgICAgICAgdGhpcy5hbW91bnQgPSBhbW91bnQ7CiAgICB9</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldEFtb3VudChpbnQgYW1vdW50KSB7Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>{
                 lost.add(new WeightEntry(e.getType(), e.getAmount() - ))
             }</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICAgICAgU2V0PFVzZXI+IHVzZXJzID0gZGlzcC5nZXREZWJpdCgpLmdldFRlc3RlcnMoKQ==</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICB0YXNrU2VydmljZS5jcmVhdGVUYXNrKEZMT1dfTkFNRV9ESVNQQVRDSElORywgVEFTS19OQU1FX0NPTkZJUk1fSU4sCiAgICAgICAgICAgIHVzZXJzLCBEaXNwYXRjaGluZy5jbGFzcy5nZXROYW1lKCksIGRpc3AuZ2V0SWQoKSwgVklFV19OQU1FX0RFVklDRV9ESVNQQVRDSElORywgZGlzcC5nZXRTZXJpYWxOdW1iZXIoKSk7</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBTZXQ8VXNlcj4gdXNlcnMgPSBkaXNwLmdldERlYml0KCkuZ2V0VGVzdGVycygpOwoKICAgICAgICB0YXNrU2VydmljZS5jcmVhdGVUYXNrKEZMT1dfTkFNRV9ESVNQQVRDSElORywgVEFTS19OQU1FX0NPTkZJUk1fSU4sCiAgICAgICAgICAgIHVzZXJzLCBEaXNwYXRjaGluZy5jbGFzcy5nZXROYW1lKCksIGRpc3AuZ2V0SWQoKSwgVklFV19OQU1FX0RFVklDRV9ESVNQQVRDSElORywgZGlzcC5nZXRTZXJpYWxOdW1iZXIoKSk7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text encoding="base64">Q29sbGVjdGlvbjxFcXVpcG1lbnRFbnRyeT4gZW50cmllcyA9IENvbGxlY3Rpb25zMi5maWx0ZXIoaW5FbnRyaWVzLCBuZXcgUHJlZGljYXRlPEVxdWlwbWVudEVudHJ5PigpIHsKICAgICAgICAgICAgcHVibGljIGJvb2xlYW4gYXBwbHkoRXF1aXBtZW50RW50cnkgaW5wdXQpIHsKICAgICAgICAgICAgICAgIHJldHVybiAhb3V0RW50cmllcy5jb250YWlucyhpbnB1dCk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTs=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">dG9uYWdlCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYwo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">TGlzdHMuZmlsdGVyKG91dEVudHJpZXMsIG5ldyBQcmVkaWNhdGU8RXF1aXBtZW50RW50cnk+KCkgewogICAgICAgICAgICBwdWJsaWMgYm9vbGVhbiBhcHBseShFcXVpcG1lbnRFbnRyeSBpbnB1dCkgewogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9CiAgICAgICAgfSk7</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChvMS5lcXVhbHMoKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
