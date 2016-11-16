@@ -9,11 +9,11 @@
         <mark key="^" line="28" column="120" />
         <mark key="." line="28" column="120" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/MismatchProcessService.java" timestamp="1479262633890">
-        <mark key="[" line="15" column="15" />
-        <mark key="]" line="15" column="15" />
-        <mark key="^" line="15" column="57" />
-        <mark key="." line="15" column="15" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/MismatchProcessService.java" timestamp="1479263602211">
+        <mark key="[" line="16" column="42" />
+        <mark key="]" line="16" column="41" />
+        <mark key="^" line="16" column="41" />
+        <mark key="." line="16" column="41" />
       </file>
       <file name="D:/IdeaProjects/lems/.editorconfig" timestamp="1476255497571">
         <mark key="[" line="8" column="28" />
@@ -24,12 +24,12 @@
       <file name="/a.dummy" timestamp="1478655310347">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1479107699522">
-        <mark key="'" line="551" column="39" />
-        <mark key="[" line="608" column="9" />
-        <mark key="]" line="600" column="11" />
-        <mark key="." line="600" column="11" />
-        <mark key="^" line="600" column="11" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1479264451149">
+        <mark key="'" line="574" column="39" />
+        <mark key="[" line="560" column="19" />
+        <mark key="]" line="560" column="19" />
+        <mark key="." line="560" column="19" />
+        <mark key="^" line="623" column="11" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/SiteService.java" timestamp="1476765386473">
         <mark key="[" line="25" column="14" />
@@ -120,7 +120,7 @@
         <mark key="^" line="17" column="185" />
         <mark key="." line="17" column="185" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1479263175059">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1479263371203">
         <mark key="[" line="396" column="5" />
         <mark key="]" line="394" column="54" />
         <mark key="^" line="394" column="54" />
@@ -317,6 +317,7 @@
         <mark key="^" line="33" column="28" />
         <mark key="." line="33" column="28" />
       </file>
+      <file name="D:/Program Files/Java/jdk1.8.0_31/src.zip!/java/util/HashMap.java" timestamp="1479263915036" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DeviceListItemDto.java" timestamp="1478586938695">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="26" column="27" />
@@ -493,10 +494,12 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ass</text>
+        <text>{
+                lost.add(new WeightEntry(e.getType(), e.getAmount() - ))
+            }</text>
       </register>
       <register name="-" type="4">
-        <text>ass</text>
+        <text>integer</text>
       </register>
       <register name="/" type="4">
         <text>_markerItemPair</text>
@@ -505,31 +508,33 @@
         <text encoding="base64">IFRBU0tfTkFNRV9PVVRfQ09ORklSTQ==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgU2V0PFVzZXI+IHVzZXJzID0gZGlzcC5nZXREZWJpdCgpLmdldFRlc3RlcnMoKQ==</text>
+        <text>{
+                lost.add(new WeightEntry(e.getType(), e.getAmount() - ))
+            }</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgU2V0PFVzZXI+IHVzZXJzID0gZGlzcC5nZXREZWJpdCgpLmdldFRlc3RlcnMoKQ==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ICAgICAgICB0YXNrU2VydmljZS5jcmVhdGVUYXNrKEZMT1dfTkFNRV9ESVNQQVRDSElORywgVEFTS19OQU1FX0NPTkZJUk1fSU4sCiAgICAgICAgICAgIHVzZXJzLCBEaXNwYXRjaGluZy5jbGFzcy5nZXROYW1lKCksIGRpc3AuZ2V0SWQoKSwgVklFV19OQU1FX0RFVklDRV9ESVNQQVRDSElORywgZGlzcC5nZXRTZXJpYWxOdW1iZXIoKSk7</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBTZXQ8VXNlcj4gdXNlcnMgPSBkaXNwLmdldERlYml0KCkuZ2V0VGVzdGVycygpOwoKICAgICAgICB0YXNrU2VydmljZS5jcmVhdGVUYXNrKEZMT1dfTkFNRV9ESVNQQVRDSElORywgVEFTS19OQU1FX0NPTkZJUk1fSU4sCiAgICAgICAgICAgIHVzZXJzLCBEaXNwYXRjaGluZy5jbGFzcy5nZXROYW1lKCksIGRpc3AuZ2V0SWQoKSwgVklFV19OQU1FX0RFVklDRV9ESVNQQVRDSElORywgZGlzcC5nZXRTZXJpYWxOdW1iZXIoKSk7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">Q29sbGVjdGlvbjxFcXVpcG1lbnRFbnRyeT4gZW50cmllcyA9IENvbGxlY3Rpb25zMi5maWx0ZXIoaW5FbnRyaWVzLCBuZXcgUHJlZGljYXRlPEVxdWlwbWVudEVudHJ5PigpIHsKICAgICAgICAgICAgcHVibGljIGJvb2xlYW4gYXBwbHkoRXF1aXBtZW50RW50cnkgaW5wdXQpIHsKICAgICAgICAgICAgICAgIHJldHVybiAhb3V0RW50cmllcy5jb250YWlucyhpbnB1dCk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTs=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">dG9uYWdlCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHB1YmxpYwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">TGlzdHMuZmlsdGVyKG91dEVudHJpZXMsIG5ldyBQcmVkaWNhdGU8RXF1aXBtZW50RW50cnk+KCkgewogICAgICAgICAgICBwdWJsaWMgYm9vbGVhbiBhcHBseShFcXVpcG1lbnRFbnRyeSBpbnB1dCkgewogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9CiAgICAgICAgfSk7</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChvMS5lcXVhbHMoKSkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChvMS5lcXVhbHMoKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
