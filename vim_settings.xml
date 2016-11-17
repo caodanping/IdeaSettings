@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/IdeaProjects/hibernate-man/src/main/java/com/caodanping/hibernate_man/domain/Triangle.java" timestamp="1479347839226">
+        <mark key="[" line="39" column="29" />
+        <mark key="]" line="41" column="54" />
+        <mark key="^" line="41" column="54" />
+        <mark key="." line="41" column="54" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/test/java/SpringConfigTest.java" timestamp="1476858111691">
         <mark key="[" line="28" column="102" />
         <mark key="]" line="28" column="120" />
@@ -31,7 +37,7 @@
         <mark key="." line="252" column="23" />
         <mark key="^" line="252" column="23" />
       </file>
-      <file name="D:/IdeaProjects/hibernate-man/src/main/java/com/caodanping/hibernate_man/domain/Rectangle.java" timestamp="1479346050174">
+      <file name="D:/IdeaProjects/hibernate-man/src/main/java/com/caodanping/hibernate_man/domain/Rectangle.java" timestamp="1479347663487">
         <mark key="[" line="12" column="12" />
         <mark key="]" line="12" column="12" />
         <mark key="^" line="12" column="15" />
