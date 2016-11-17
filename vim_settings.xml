@@ -31,6 +31,12 @@
         <mark key="." line="252" column="23" />
         <mark key="^" line="252" column="23" />
       </file>
+      <file name="D:/IdeaProjects/hibernate-man/src/main/java/com/caodanping/hibernate_man/domain/Rectangle.java" timestamp="1479345830382">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="12" />
+        <mark key="^" line="12" column="15" />
+        <mark key="." line="12" column="12" />
+      </file>
       <file name="D:/IdeaProjects/hibernate-man/src/main/java/com/caodanping/hibernate_man/domain/Shape.java" timestamp="1479286733677">
         <mark key="[" line="12" column="7" />
         <mark key="]" line="13" column="18" />
@@ -66,11 +72,6 @@
         <mark key="]" line="41" column="11" />
         <mark key="^" line="12" column="18" />
         <mark key="." line="41" column="11" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/SiteDto.java" timestamp="1477359537223">
-        <mark key="[" line="25" column="7" />
-        <mark key="]" line="25" column="7" />
-        <mark key="." line="25" column="7" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Site.java" timestamp="1479281171609">
         <mark key="[" line="195" column="1" />
@@ -246,11 +247,6 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/BMap.js" timestamp="1477451835521">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Loss.java" timestamp="1479177217078" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingController.js" timestamp="1476759772293">
         <mark key="[" line="31" column="20" />
@@ -373,11 +369,6 @@
         <mark key="^" line="27" column="36" />
         <mark key="." line="27" column="36" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/WeightEntry.java" timestamp="1478763706782">
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="19" column="4" />
-        <mark key="." line="19" column="4" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/AuditWindow.js" timestamp="1476239021343">
         <mark key="[" line="41" column="34" />
         <mark key="]" line="41" column="37" />
@@ -389,11 +380,6 @@
         <mark key="]" line="7" column="14" />
         <mark key="." line="7" column="14" />
         <mark key="^" line="7" column="14" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Dispatching.js" timestamp="1477458914625">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/SiteFilterPanel.js" timestamp="1477451862344">
         <mark key="[" line="5" column="10" />
@@ -509,10 +495,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, nullable = false)</text>
+        <text>doub</text>
       </register>
       <register name="-" type="4">
-        <text>, nullable = false)</text>
+        <text>doub</text>
       </register>
       <register name="/" type="4">
         <text>_markerItemPair</text>
