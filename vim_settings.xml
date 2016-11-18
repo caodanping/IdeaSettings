@@ -79,13 +79,13 @@
         <mark key="^" line="12" column="18" />
         <mark key="." line="41" column="11" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Site.java" timestamp="1479443445814">
-        <mark key="e" line="199" column="0" />
-        <mark key="'" line="199" column="0" />
-        <mark key="[" line="241" column="24" />
-        <mark key="]" line="241" column="24" />
-        <mark key="." line="241" column="24" />
-        <mark key="^" line="240" column="3" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Site.java" timestamp="1479450479483">
+        <mark key="e" line="207" column="0" />
+        <mark key="'" line="207" column="0" />
+        <mark key="[" line="189" column="5" />
+        <mark key="]" line="278" column="10" />
+        <mark key="." line="278" column="10" />
+        <mark key="^" line="278" column="10" />
       </file>
       <file name="D:/IdeaProjects/hibernate-man/src/test/java/HibernateJPATest.java" timestamp="1479364031036">
         <mark key="[" line="57" column="0" />
@@ -147,11 +147,11 @@
         <mark key="^" line="10" column="18" />
         <mark key="." line="10" column="18" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/IdEquipment.java" timestamp="1479441753069">
-        <mark key="[" line="219" column="5" />
-        <mark key="]" line="53" column="23" />
-        <mark key="." line="53" column="23" />
-        <mark key="^" line="53" column="23" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/IdEquipment.java" timestamp="1479451132980">
+        <mark key="[" line="228" column="4" />
+        <mark key="]" line="229" column="5" />
+        <mark key="." line="228" column="0" />
+        <mark key="^" line="227" column="3" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/TaskRepository.java" timestamp="1476341766191">
         <mark key="[" line="17" column="158" />
@@ -512,10 +512,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwLmdldE91dFdlaWdodHMoKS5hZGQobmV3IFdlaWdodEVudHJ5KHdlaWdodHMuZ2V0VHlwZSgpLCB3ZWlnaHRzLmdldEFtb3VudCgpKSk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTWFwPEVxdWlwbWVudEdyb3VwLEludGVnZXI+IGNvdW50RXF1aXBtZW50RW50cmllcyhDb2xsZWN0aW9uPElkRXF1aXBtZW50PiBlcXVpcG1lbnRzKSB7CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>user;</text>
+        <text encoding="base64">TWFwPEVxdWlwbWVudEdyb3VwLCBJbnRlZ2VyPiBzdGF0ID0gbmV3IEhhc2hNYXA8RXF1aXBtZW50R3JvdXAsIEludGVnZXI+KCk=</text>
       </register>
       <register name="/" type="4">
         <text>equipmentEntries</text>
@@ -524,35 +524,35 @@
         <text encoding="base64">ICAgICAgICBlbS5wZXJzaXN0KHNoYXBlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwLmdldE91dFdlaWdodHMoKS5hZGQobmV3IFdlaWdodEVudHJ5KHdlaWdodHMuZ2V0VHlwZSgpLCB3ZWlnaHRzLmdldEFtb3VudCgpKSk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTWFwPEVxdWlwbWVudEdyb3VwLEludGVnZXI+IGNvdW50RXF1aXBtZW50RW50cmllcyhDb2xsZWN0aW9uPElkRXF1aXBtZW50PiBlcXVpcG1lbnRzKSB7CiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBkaXNwLmdldE91dFdlaWdodHMoKS5hZGQobmV3IFdlaWdodEVudHJ5KHdlaWdodHMuZ2V0VHlwZSgpLCB3ZWlnaHRzLmdldEFtb3VudCgpKSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBkaXNwLnNldE91dFVzZXIodXNlcik7CiAgICAgICAgZGlzcC5zZXRPdXRUaW1lKG5ldyBEYXRlKCkpOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>outIdEquipments.addAll(equipments);
         weights.addAll(weights);</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">aWYgKGFtb3VudCA9PSBudWxsIHx8IGFtb3VudCA8PSAwKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgCiAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU2V0PElkRXF1aXBtZW50PiBlcXVpcG1lbnRzID0gbmV3IEhhc2hTZXQ8SWRFcXVpcG1lbnQ+KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU2V0PElkRXF1aXBtZW50PiBlcXVpcG1lbnRzID0gbmV3IEhhc2hTZXQ8SWRFcXVpcG1lbnQ+KCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIEBDbwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgICAgICAgICAgZGlzcC5nZXREaXNwYXRjaEVxdWlwbWVudEVudHJpZXMoKS5hZGQoCiAgICAgICAgICAgICAgICBlKTs=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5tMjMw</text>
       </register>
     </registers>
     <search>
@@ -588,7 +588,6 @@
         <entry>equipmentEntries</entry>
       </history-search>
       <history-cmd>
-        <entry>wa</entry>
         <entry encoding="base64">JzwsJz5tMjY4</entry>
         <entry encoding="base64">JzwsJz5tMzA=</entry>
         <entry encoding="base64">JzwsJz5tMTIz</entry>
@@ -608,6 +607,7 @@
         <entry encoding="base64">JzwsJz5tNTU4</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5tMjMw</entry>
       </history-cmd>
       <history-expr />
       <history-input />
