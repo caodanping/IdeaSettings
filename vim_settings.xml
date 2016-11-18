@@ -79,12 +79,12 @@
         <mark key="^" line="12" column="18" />
         <mark key="." line="41" column="11" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Site.java" timestamp="1479450479483">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Site.java" timestamp="1479452091476">
         <mark key="e" line="207" column="0" />
         <mark key="'" line="207" column="0" />
-        <mark key="[" line="189" column="5" />
-        <mark key="]" line="278" column="10" />
-        <mark key="." line="278" column="10" />
+        <mark key="[" line="290" column="16" />
+        <mark key="]" line="290" column="16" />
+        <mark key="." line="290" column="16" />
         <mark key="^" line="278" column="10" />
       </file>
       <file name="D:/IdeaProjects/hibernate-man/src/test/java/HibernateJPATest.java" timestamp="1479364031036">
@@ -147,11 +147,11 @@
         <mark key="^" line="10" column="18" />
         <mark key="." line="10" column="18" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/IdEquipment.java" timestamp="1479451132980">
-        <mark key="[" line="228" column="4" />
-        <mark key="]" line="229" column="5" />
-        <mark key="." line="228" column="0" />
-        <mark key="^" line="227" column="3" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/IdEquipment.java" timestamp="1479451388668">
+        <mark key="[" line="232" column="41" />
+        <mark key="]" line="240" column="18" />
+        <mark key="." line="240" column="18" />
+        <mark key="^" line="240" column="18" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/TaskRepository.java" timestamp="1476341766191">
         <mark key="[" line="17" column="158" />
@@ -205,11 +205,11 @@
         <mark key="." line="23" column="9" />
         <mark key="^" line="23" column="9" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentGroup.java" timestamp="1479434623832">
-        <mark key="[" line="42" column="5" />
-        <mark key="]" line="7" column="23" />
-        <mark key="^" line="7" column="23" />
-        <mark key="." line="7" column="23" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentGroup.java" timestamp="1479451702069">
+        <mark key="[" line="53" column="5" />
+        <mark key="]" line="59" column="35" />
+        <mark key="^" line="59" column="35" />
+        <mark key="." line="59" column="35" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentEntry.java" timestamp="1479279251688">
         <mark key="[" line="75" column="0" />
@@ -386,6 +386,12 @@
         <mark key="^" line="27" column="36" />
         <mark key="." line="27" column="36" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/WeightEntry.java" timestamp="1479451764947">
+        <mark key="[" line="72" column="120" />
+        <mark key="]" line="81" column="40" />
+        <mark key="." line="81" column="40" />
+        <mark key="^" line="81" column="40" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/AuditWindow.js" timestamp="1476239021343">
         <mark key="[" line="41" column="34" />
         <mark key="]" line="41" column="37" />
@@ -511,11 +517,11 @@
       <jump line="172" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Site.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTWFwPEVxdWlwbWVudEdyb3VwLEludGVnZXI+IGNvdW50RXF1aXBtZW50RW50cmllcyhDb2xsZWN0aW9uPElkRXF1aXBtZW50PiBlcXVpcG1lbnRzKSB7CiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>throw new EquipmentAmountNotEnouphException(&quot;库存不足.&quot;);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TWFwPEVxdWlwbWVudEdyb3VwLCBJbnRlZ2VyPiBzdGF0ID0gbmV3IEhhc2hNYXA8RXF1aXBtZW50R3JvdXAsIEludGVnZXI+KCk=</text>
+        <text>throw new EquipmentAmountNotEnouphException(&quot;库存不足.&quot;);</text>
       </register>
       <register name="/" type="4">
         <text>equipmentEntries</text>
@@ -552,7 +558,7 @@
         <text encoding="base64">ICAgICAgICAgICAgZGlzcC5nZXREaXNwYXRjaEVxdWlwbWVudEVudHJpZXMoKS5hZGQoCiAgICAgICAgICAgICAgICBlKTs=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5tMjMw</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -606,8 +612,8 @@
         <entry encoding="base64">JzwsJz5tNTg3</entry>
         <entry encoding="base64">JzwsJz5tNTU4</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5tMjMw</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
