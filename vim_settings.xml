@@ -79,13 +79,13 @@
         <mark key="^" line="12" column="18" />
         <mark key="." line="41" column="11" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Site.java" timestamp="1479435568608">
-        <mark key="e" line="178" column="0" />
-        <mark key="'" line="178" column="0" />
-        <mark key="[" line="167" column="76" />
-        <mark key="]" line="167" column="16" />
-        <mark key="." line="167" column="16" />
-        <mark key="^" line="163" column="8" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Site.java" timestamp="1479436476041">
+        <mark key="e" line="194" column="0" />
+        <mark key="'" line="194" column="0" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="184" column="8" />
       </file>
       <file name="D:/IdeaProjects/hibernate-man/src/test/java/HibernateJPATest.java" timestamp="1479364031036">
         <mark key="[" line="57" column="0" />
@@ -199,10 +199,11 @@
         <mark key="." line="59" column="8" />
         <mark key="^" line="59" column="24" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentState.java" timestamp="1479435609057">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentState.java" timestamp="1479436491817">
         <mark key="[" line="20" column="6" />
-        <mark key="]" line="20" column="6" />
-        <mark key="." line="20" column="6" />
+        <mark key="]" line="18" column="8" />
+        <mark key="." line="18" column="8" />
+        <mark key="^" line="18" column="8" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentGroup.java" timestamp="1479434623832">
         <mark key="[" line="42" column="5" />
@@ -510,10 +511,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>OKED</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJBTU9VTlQiKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>OKED</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJBTU9VTlQiKQ==</text>
       </register>
       <register name="/" type="4">
         <text>equipmentEntries</text>
