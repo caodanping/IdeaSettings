@@ -27,15 +27,15 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
-      <file name="/a.dummy" timestamp="1479438494580">
+      <file name="/a.dummy" timestamp="1479452977582">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1479441696077">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1479452761175">
         <mark key="'" line="594" column="39" />
-        <mark key="[" line="662" column="23" />
-        <mark key="]" line="662" column="23" />
-        <mark key="." line="662" column="23" />
-        <mark key="^" line="663" column="12" />
+        <mark key="[" line="675" column="9" />
+        <mark key="]" line="675" column="9" />
+        <mark key="." line="675" column="9" />
+        <mark key="^" line="675" column="10" />
       </file>
       <file name="D:/IdeaProjects/hibernate-man/src/main/java/com/caodanping/hibernate_man/domain/Rectangle.java" timestamp="1479347663487">
         <mark key="[" line="12" column="12" />
@@ -79,13 +79,13 @@
         <mark key="^" line="12" column="18" />
         <mark key="." line="41" column="11" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Site.java" timestamp="1479452091476">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Site.java" timestamp="1479454088774">
         <mark key="e" line="207" column="0" />
         <mark key="'" line="207" column="0" />
-        <mark key="[" line="290" column="16" />
-        <mark key="]" line="290" column="16" />
-        <mark key="." line="290" column="16" />
-        <mark key="^" line="278" column="10" />
+        <mark key="[" line="254" column="0" />
+        <mark key="]" line="311" column="15" />
+        <mark key="." line="311" column="15" />
+        <mark key="^" line="316" column="6" />
       </file>
       <file name="D:/IdeaProjects/hibernate-man/src/test/java/HibernateJPATest.java" timestamp="1479364031036">
         <mark key="[" line="57" column="0" />
@@ -159,11 +159,10 @@
         <mark key="^" line="17" column="185" />
         <mark key="." line="17" column="185" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1479441547821">
-        <mark key="[" line="248" column="8" />
-        <mark key="]" line="251" column="0" />
-        <mark key="^" line="245" column="27" />
-        <mark key="." line="251" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1479453321223">
+        <mark key="[" line="272" column="0" />
+        <mark key="]" line="276" column="0" />
+        <mark key="." line="276" column="0" />
       </file>
       <file name="D:/IdeaProjects/hibernate-man/src/main/java/com/caodanping/hibernate_man/domain/Event.java" timestamp="1479351778218" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/SiteRepositoryCustom.java" timestamp="1476857736810">
@@ -311,7 +310,7 @@
         <mark key="^" line="51" column="57" />
         <mark key="." line="51" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1479440899757">
+      <file name="/Dummy.txt" timestamp="1479452920404">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/common/CollectionUtils.java" timestamp="1477017377411">
@@ -410,7 +409,7 @@
         <mark key="." line="9" column="14" />
         <mark key="^" line="9" column="14" />
       </file>
-      <file name="/fragment.java" timestamp="1479440899750">
+      <file name="/fragment.java" timestamp="1479452920398">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -517,45 +516,45 @@
       <jump line="172" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Site.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>throw new EquipmentAmountNotEnouphException(&quot;库存不足.&quot;);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>throw new EquipmentAmountNotEnouphException(&quot;库存不足.&quot;);</text>
+        <text>ut</text>
       </register>
       <register name="/" type="4">
         <text>equipmentEntries</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbS5wZXJzaXN0KHNoYXBlKTsK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKE1hcC5FbnRyeTxFcXVpcG1lbnRHcm91cCwgSW50ZWdlcj4gZSA6IGVudHJpZXMuZW50cnlTZXQoKSkgewogICAgICAgICAgICBhZGRTdGF0ZUVxdWlwbWVudEFtb3VudChlLmdldEtleSgpLCBzdGF0ZSwgZS5nZXRWYWx1ZSgpKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTWFwPEVxdWlwbWVudEdyb3VwLEludGVnZXI+IGNvdW50RXF1aXBtZW50RW50cmllcyhDb2xsZWN0aW9uPElkRXF1aXBtZW50PiBlcXVpcG1lbnRzKSB7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwLmdldE91dFdlaWdodHMoKS5hZGQobmV3IFdlaWdodEVudHJ5KHdlaWdodHMuZ2V0VHlwZSgpLCB3ZWlnaHRzLmdldEFtb3VudCgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaXNwLmdldE91dElkRXF1aXBtZW50cygpLmFkZEFsbChhbGwpOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTWFwPEVxdWlwbWVudEdyb3VwLEludGVnZXI+IGNvdW50RXF1aXBtZW50RW50cmllcyhDb2xsZWN0aW9uPElkRXF1aXBtZW50PiBlcXVpcG1lbnRzKSB7CiAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkaXNwLmdldE91dFdlaWdodHMoKS5hZGQobmV3IFdlaWdodEVudHJ5KHdlaWdodHMuZ2V0VHlwZSgpLCB3ZWlnaHRzLmdldEFtb3VudCgpKSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBkaXNwLnNldE91dFVzZXIodXNlcik7CiAgICAgICAgZGlzcC5zZXRPdXRUaW1lKG5ldyBEYXRlKCkpOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>outIdEquipments.addAll(equipments);
         weights.addAll(weights);</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">aWYgKGFtb3VudCA9PSBudWxsIHx8IGFtb3VudCA8PSAwKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgCiAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU2V0PElkRXF1aXBtZW50PiBlcXVpcG1lbnRzID0gbmV3IEhhc2hTZXQ8SWRFcXVpcG1lbnQ+KCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEBDbwo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgZGlzcC5nZXREaXNwYXRjaEVxdWlwbWVudEVudHJpZXMoKS5hZGQoCiAgICAgICAgICAgICAgICBlKTs=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
