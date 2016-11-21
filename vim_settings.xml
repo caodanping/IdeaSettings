@@ -169,7 +169,6 @@
         <mark key="]" line="276" column="0" />
         <mark key="." line="276" column="0" />
       </file>
-      <file name="D:/IdeaProjects/hibernate-man/src/main/java/com/caodanping/hibernate_man/domain/Event.java" timestamp="1479351778218" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/SiteRepositoryCustom.java" timestamp="1476857736810">
         <mark key="[" line="12" column="39" />
         <mark key="]" line="13" column="79" />
@@ -271,7 +270,6 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Loss.java" timestamp="1479177217078" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingController.js" timestamp="1476759772293">
         <mark key="[" line="31" column="20" />
         <mark key="]" line="31" column="32" />
@@ -313,6 +311,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentServiceImpl.java" timestamp="1479694372228" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/List.js" timestamp="1476324725282">
         <mark key="[" line="76" column="67" />
         <mark key="]" line="76" column="72" />
@@ -361,7 +360,6 @@
         <mark key="^" line="33" column="28" />
         <mark key="." line="33" column="28" />
       </file>
-      <file name="D:/Program Files/Java/jdk1.8.0_31/src.zip!/java/util/HashMap.java" timestamp="1479263915036" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DeviceListItemDto.java" timestamp="1478586938695">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="26" column="27" />
@@ -374,8 +372,6 @@
         <mark key="^" line="45" column="27" />
         <mark key="." line="45" column="27" />
       </file>
-      <file name="D:/IdeaProjects/hibernate-man/pom.xml" timestamp="1479360581353" />
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DepartmentServiceImpl.java" timestamp="1479441800957" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Warehouse.java" timestamp="1479457677185">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="17" column="34" />
