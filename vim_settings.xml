@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="D:/IdeaProjects/hibernate-man/src/main/java/com/caodanping/hibernate_man/domain/Triangle.java" timestamp="1479347839226">
@@ -27,12 +27,8 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1479458697594">
-        <mark key="'" line="594" column="39" />
-        <mark key="[" line="675" column="9" />
-        <mark key="]" line="675" column="9" />
-        <mark key="." line="675" column="9" />
-        <mark key="^" line="675" column="10" />
+      <file name="/a.dummy" timestamp="1479457613857">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/hibernate-man/src/main/java/com/caodanping/hibernate_man/domain/Rectangle.java" timestamp="1479347663487">
         <mark key="[" line="12" column="12" />
@@ -194,6 +190,9 @@
         <mark key="^" line="10" column="48" />
         <mark key="." line="10" column="48" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchFromSiteDto.java" timestamp="1478574381287">
+        <mark key="[" line="11" column="32" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DispatchingController.java" timestamp="1478654979573">
         <mark key="[" line="59" column="8" />
         <mark key="]" line="59" column="8" />
@@ -229,7 +228,7 @@
         <mark key="." line="5" column="7" />
         <mark key="^" line="5" column="10" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Audit.js" timestamp="1477458844710">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Audit.js" timestamp="1479783655294">
         <mark key="[" line="213" column="54" />
         <mark key="]" line="213" column="54" />
         <mark key="^" line="213" column="54" />
@@ -241,7 +240,7 @@
         <mark key="." line="67" column="11" />
         <mark key="^" line="59" column="18" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ConfirmOut.js" timestamp="1479783070300">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ConfirmOut.js" timestamp="1479783256987">
         <mark key="[" line="36" column="17" />
         <mark key="]" line="36" column="17" />
         <mark key="." line="36" column="17" />
@@ -251,6 +250,9 @@
         <mark key="]" line="15" column="115" />
         <mark key="." line="15" column="115" />
         <mark key="^" line="15" column="115" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/MismatchProcessServiceImpl.java" timestamp="1479277122974">
+        <mark key="[" line="15" column="39" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/UniqueEquipmentRepositoryImpl.java" timestamp="1479713853469" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/SiteServiceImpl.java" timestamp="1479780703825">
@@ -328,6 +330,9 @@
         <mark key="^" line="40" column="90" />
         <mark key="." line="40" column="90" />
       </file>
+      <file name="/Dummy.txt" timestamp="1479452920404">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/common/CollectionUtils.java" timestamp="1477017377411">
         <mark key="[" line="18" column="78" />
         <mark key="]" line="21" column="8" />
@@ -339,6 +344,9 @@
         <mark key="]" line="18" column="25" />
         <mark key="^" line="18" column="24" />
         <mark key="." line="18" column="25" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/SiteFilterControl.js" timestamp="1477370993873">
+        <mark key="[" line="2" column="3" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/sass/src/Application.scss" timestamp="1477446070559">
         <mark key="[" line="135" column="1" />
@@ -426,6 +434,9 @@
         <mark key="." line="7" column="14" />
         <mark key="^" line="7" column="14" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EquipmentEntryTable.js" timestamp="1479783577547">
+        <mark key="[" line="3" column="0" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Dispatching.js" timestamp="1479717514997">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -436,6 +447,9 @@
         <mark key="]" line="5" column="33" />
         <mark key="." line="9" column="14" />
         <mark key="^" line="9" column="14" />
+      </file>
+      <file name="/fragment.java" timestamp="1479452920398">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
