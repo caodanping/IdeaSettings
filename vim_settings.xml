@@ -241,10 +241,10 @@
         <mark key="." line="67" column="11" />
         <mark key="^" line="59" column="18" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ConfirmOut.js" timestamp="1479782181378">
-        <mark key="[" line="12" column="6" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ConfirmOut.js" timestamp="1479783070300">
+        <mark key="[" line="36" column="17" />
+        <mark key="]" line="36" column="17" />
+        <mark key="." line="36" column="17" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/DispatchingRepository.java" timestamp="1476325793731">
         <mark key="[" line="15" column="106" />
@@ -541,8 +541,10 @@
       <jump line="172" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Site.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, {
+                    xtype: 'component',
+                }</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -553,32 +555,39 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJzxhIGhyZWY9IiMiPtX91NrKudPDyeixuDwvYT4nLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>, {
+                    xtype: 'component',
+                }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGh0bWw6ICJIZWxsbywgV29ybGQhIQo=</text>
+      <register name="2" type="4">
+        <text>, {
+                    xtype: 'displayfield',
+                    bind: {
+                        value: '{}'
+                    }
+                }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnPGgzIHN0eWxlPSJtYXJnaW46IDAiPrWxx7C/ydPDyeixuDwvaDM+JywK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGh0bWw6ICJIZWxsbywgV29ybGQhIQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA2ZjQ3MmY1NjFiYTYzNTBiY2YxODRlMzUxNDBkZjhkMTNkZDNkYjAzCg==</text>
+        <text encoding="base64">ICAgICAgICAnPGgzIHN0eWxlPSJtYXJnaW46IDAiPrWxx7C/ydPDyeixuDwvaDM+JywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUEK</text>
+        <text encoding="base64">Pj4+Pj4+PiA2ZjQ3MmY1NjFiYTYzNTBiY2YxODRlMzUxNDBkZjhkMTNkZDNkYjAzCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAxYmFiN2U4MTdiYTNhZjMyOTNmODM5ODhiZGNjNWUzZDVmMTk3NmM3Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
