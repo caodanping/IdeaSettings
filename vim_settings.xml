@@ -99,6 +99,12 @@
         <mark key="^" line="13" column="68" />
         <mark key="." line="13" column="68" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EquipmentSelector.js" timestamp="1479787669318">
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="35" column="20" />
+        <mark key="^" line="22" column="24" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/resources/spring-shiro.xml" timestamp="1476858275507">
         <mark key="[" line="25" column="29" />
         <mark key="]" line="25" column="29" />
@@ -420,13 +426,13 @@
         <mark key="." line="7" column="14" />
         <mark key="^" line="7" column="14" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EquipmentEntryTable.js" timestamp="1479785886589">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EquipmentEntryTable.js" timestamp="1479787029677">
         <mark key="[" line="40" column="32" />
         <mark key="]" line="5" column="36" />
         <mark key="^" line="5" column="36" />
         <mark key="." line="5" column="36" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Dispatching.js" timestamp="1479717514997">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Dispatching.js" timestamp="1479786928598">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
@@ -542,16 +548,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9LCB7CiAgICAgICAgICAgIHh0eXBlOiAnZ3JpZCcK</text>
+        <text encoding="base64">ICAgICAgICAnPHRkPjwvdGQ+JywK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>idNumber</text>
       </register>
       <register name="/" type="4">
         <text>equipmentEntries</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJzxhIGhyZWY9IiMiPtX91NrKudPDyeixuDwvYT4nLAo=</text>
+        <text encoding="base64">ICAgICAgICAnPHRkPjwvdGQ+JywK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB9LCB7CiAgICAgICAgICAgIHh0eXBlOiAnZ3JpZCcK</text>
