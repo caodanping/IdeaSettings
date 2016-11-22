@@ -60,6 +60,12 @@
         <mark key="^" line="15" column="33" />
         <mark key="." line="14" column="39" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/EquipmentSelectDialog.js" timestamp="1479797277725">
+        <mark key="[" line="41" column="21" />
+        <mark key="]" line="41" column="21" />
+        <mark key="." line="41" column="21" />
+        <mark key="^" line="41" column="21" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/AuditModel.js" timestamp="1476325508419">
         <mark key="[" line="31" column="36" />
         <mark key="]" line="31" column="37" />
@@ -288,6 +294,7 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/ext/src/ux/form/SearchField.js" timestamp="1479796051275" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingController.js" timestamp="1476759772293">
         <mark key="[" line="31" column="20" />
         <mark key="]" line="31" column="32" />
@@ -414,7 +421,13 @@
         <mark key="^" line="16" column="85" />
         <mark key="." line="16" column="85" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/EquipmentSelector.js" timestamp="1479790499360" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/EquipmentSelector.js" timestamp="1479797338766">
+        <mark key="e" line="130" column="16" />
+        <mark key="[" line="3" column="43" />
+        <mark key="]" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DeviceSelect.js" timestamp="1479717537186">
         <mark key="[" line="36" column="14" />
         <mark key="]" line="37" column="44" />
@@ -570,26 +583,45 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>[
+        {
+            xtype: 'searchfield',
+            
+        }
+    ]</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>equipmentEntries</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnPHRkPjwvdGQ+JywK</text>
+        <text encoding="base64">ICAgICAgICBtZS5yZW5kZXJUcGwub3ZlcndyaXRlKG1lLmVsLCBpdGVtcyk7Cg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>[
+        {
+            xtype: 'searchfield',
+            
+        }
+    ]</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">IHsKICAgICAgICAgICAgZm9ybWF0RGV2aWNlVHlwZTogZnVuY3Rpb24gKGRldmljZVR5cGUpIHsKICAgICAgICAgICAgICAgIGlmIChkZXZpY2VUeXBlKQogICAgICAgICAgICB9CiAgICAgICAg</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB9LCB7CiAgICAgICAgICAgIHh0eXBlOiAnZ3JpZCcK</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>, {
                     xtype: 'component',
                 }</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>, {
                     xtype: 'displayfield',
                     bind: {
@@ -597,23 +629,14 @@
                     }
                 }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGh0bWw6ICJIZWxsbywgV29ybGQhIQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnPGgzIHN0eWxlPSJtYXJnaW46IDAiPrWxx7C/ydPDyeixuDwvaDM+JywK</text>
-      </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA2ZjQ3MmY1NjFiYTYzNTBiY2YxODRlMzUxNDBkZjhkMTNkZDNkYjAzCg==</text>
+        <text encoding="base64">ICAgIGh0bWw6ICJIZWxsbywgV29ybGQhIQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAnPGgzIHN0eWxlPSJtYXJnaW46IDAiPrWxx7C/ydPDyeixuDwvaDM+JywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
