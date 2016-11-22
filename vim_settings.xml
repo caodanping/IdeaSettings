@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="D:/IdeaProjects/hibernate-man/src/main/java/com/caodanping/hibernate_man/domain/Triangle.java" timestamp="1479347839226">
@@ -26,9 +26,6 @@
         <mark key="]" line="8" column="31" />
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
-      </file>
-      <file name="/a.dummy" timestamp="1479457613857">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/hibernate-man/src/main/java/com/caodanping/hibernate_man/domain/Rectangle.java" timestamp="1479347663487">
         <mark key="[" line="12" column="12" />
@@ -190,9 +187,6 @@
         <mark key="^" line="10" column="48" />
         <mark key="." line="10" column="48" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchFromSiteDto.java" timestamp="1478574381287">
-        <mark key="[" line="11" column="32" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DispatchingController.java" timestamp="1478654979573">
         <mark key="[" line="59" column="8" />
         <mark key="]" line="59" column="8" />
@@ -240,19 +234,17 @@
         <mark key="." line="67" column="11" />
         <mark key="^" line="59" column="18" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ConfirmOut.js" timestamp="1479783256987">
-        <mark key="[" line="36" column="17" />
-        <mark key="]" line="36" column="17" />
-        <mark key="." line="36" column="17" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ConfirmOut.js" timestamp="1479786042293">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="5" column="57" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/DispatchingRepository.java" timestamp="1476325793731">
         <mark key="[" line="15" column="106" />
         <mark key="]" line="15" column="115" />
         <mark key="." line="15" column="115" />
         <mark key="^" line="15" column="115" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/MismatchProcessServiceImpl.java" timestamp="1479277122974">
-        <mark key="[" line="15" column="39" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/UniqueEquipmentRepositoryImpl.java" timestamp="1479713853469" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/SiteServiceImpl.java" timestamp="1479780703825">
@@ -330,9 +322,6 @@
         <mark key="^" line="40" column="90" />
         <mark key="." line="40" column="90" />
       </file>
-      <file name="/Dummy.txt" timestamp="1479452920404">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/common/CollectionUtils.java" timestamp="1477017377411">
         <mark key="[" line="18" column="78" />
         <mark key="]" line="21" column="8" />
@@ -344,9 +333,6 @@
         <mark key="]" line="18" column="25" />
         <mark key="^" line="18" column="24" />
         <mark key="." line="18" column="25" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/SiteFilterControl.js" timestamp="1477370993873">
-        <mark key="[" line="2" column="3" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/sass/src/Application.scss" timestamp="1477446070559">
         <mark key="[" line="135" column="1" />
@@ -434,8 +420,11 @@
         <mark key="." line="7" column="14" />
         <mark key="^" line="7" column="14" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EquipmentEntryTable.js" timestamp="1479783577547">
-        <mark key="[" line="3" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EquipmentEntryTable.js" timestamp="1479785886589">
+        <mark key="[" line="40" column="32" />
+        <mark key="]" line="5" column="36" />
+        <mark key="^" line="5" column="36" />
+        <mark key="." line="5" column="36" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Dispatching.js" timestamp="1479717514997">
         <mark key="[" line="14" column="0" />
@@ -447,9 +436,6 @@
         <mark key="]" line="5" column="33" />
         <mark key="." line="9" column="14" />
         <mark key="^" line="9" column="14" />
-      </file>
-      <file name="/fragment.java" timestamp="1479452920398">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -555,10 +541,8 @@
       <jump line="172" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Site.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, {
-                    xtype: 'component',
-                }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9LCB7CiAgICAgICAgICAgIHh0eXBlOiAnZ3JpZCcK</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -569,12 +553,15 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJzxhIGhyZWY9IiMiPtX91NrKudPDyeixuDwvYT4nLAo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB9LCB7CiAgICAgICAgICAgIHh0eXBlOiAnZ3JpZCcK</text>
+      </register>
+      <register name="2" type="4">
         <text>, {
                     xtype: 'component',
                 }</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>, {
                     xtype: 'displayfield',
                     bind: {
@@ -582,26 +569,23 @@
                     }
                 }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGh0bWw6ICJIZWxsbywgV29ybGQhIQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnPGgzIHN0eWxlPSJtYXJnaW46IDAiPrWxx7C/ydPDyeixuDwvaDM+JywK</text>
+        <text encoding="base64">ICAgIGh0bWw6ICJIZWxsbywgV29ybGQhIQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnPGgzIHN0eWxlPSJtYXJnaW46IDAiPrWxx7C/ydPDyeixuDwvaDM+JywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA2ZjQ3MmY1NjFiYTYzNTBiY2YxODRlMzUxNDBkZjhkMTNkZDNkYjAzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiA2ZjQ3MmY1NjFiYTYzNTBiY2YxODRlMzUxNDBkZjhkMTNkZDNkYjAzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUEK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
