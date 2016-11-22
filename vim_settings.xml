@@ -60,11 +60,11 @@
         <mark key="^" line="15" column="33" />
         <mark key="." line="14" column="39" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/EquipmentSelectDialog.js" timestamp="1479797277725">
-        <mark key="[" line="41" column="21" />
-        <mark key="]" line="41" column="21" />
-        <mark key="." line="41" column="21" />
-        <mark key="^" line="41" column="21" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/EquipmentSelectDialog.js" timestamp="1479798420936">
+        <mark key="[" line="15" column="51" />
+        <mark key="]" line="15" column="49" />
+        <mark key="." line="15" column="49" />
+        <mark key="^" line="15" column="49" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/AuditModel.js" timestamp="1476325508419">
         <mark key="[" line="31" column="36" />
@@ -96,7 +96,12 @@
         <mark key="^" line="60" column="9" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/WeightSelectDialg.js" timestamp="1479797944638" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/WeightSelectDialg.js" timestamp="1479799504856">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="24" column="35" />
+        <mark key="^" line="24" column="35" />
+        <mark key="." line="24" column="35" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/LinkActionColumn.js" timestamp="1476251393519">
         <mark key="[" line="34" column="40" />
         <mark key="]" line="34" column="43" />
@@ -583,13 +588,8 @@
       <jump line="172" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Site.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>[
-        {
-            xtype: 'searchfield',
-            
-        }
-    ]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBFeHQuQWpheC5yZXF1ZXN0KHsKICAgICAgICAgICAgdXJsOiAnc2l0ZXMvJyArIG1lLnNpdGVJZCArICcvd2VpZ2h0cycsCiAgICAgICAgICAgIHN1Y2Nlc3M6IGZ1bmN0aW9uIChyZXNwKSB7CiAgICAgICAgICAgICAgICB2YXIgd2VpZ2h0cyA9IEV4dC5kZWNvZGUocmVzcC5yZXNwb25zZVRleHQpOwogICAgICAgICAgICAgICAgbWUud2VpZ2h0cyA9IHdlaWdodHM7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -600,7 +600,19 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtZS5yZW5kZXJUcGwub3ZlcndyaXRlKG1lLmVsLCBpdGVtcyk7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBFeHQuQWpheC5yZXF1ZXN0KHsKICAgICAgICAgICAgdXJsOiAnc2l0ZXMvJyArIG1lLnNpdGVJZCArICcvd2VpZ2h0cycsCiAgICAgICAgICAgIHN1Y2Nlc3M6IGZ1bmN0aW9uIChyZXNwKSB7CiAgICAgICAgICAgICAgICB2YXIgd2VpZ2h0cyA9IEV4dC5kZWNvZGUocmVzcC5yZXNwb25zZVRleHQpOwogICAgICAgICAgICAgICAgbWUud2VpZ2h0cyA9IHdlaWdodHM7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>,
+            baseParams: {
+                siteId: me.siteId
+            }</text>
+      </register>
+      <register name="4" type="4">
         <text>[
         {
             xtype: 'searchfield',
@@ -608,21 +620,21 @@
         }
     ]</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IHsKICAgICAgICAgICAgZm9ybWF0RGV2aWNlVHlwZTogZnVuY3Rpb24gKGRldmljZVR5cGUpIHsKICAgICAgICAgICAgICAgIGlmIChkZXZpY2VUeXBlKQogICAgICAgICAgICB9CiAgICAgICAg</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB9LCB7CiAgICAgICAgICAgIHh0eXBlOiAnZ3JpZCcK</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>, {
                     xtype: 'component',
                 }</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>, {
                     xtype: 'displayfield',
                     bind: {
@@ -630,17 +642,8 @@
                     }
                 }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGh0bWw6ICJIZWxsbywgV29ybGQhIQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnPGgzIHN0eWxlPSJtYXJnaW46IDAiPrWxx7C/ydPDyeixuDwvaDM+JywK</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5tMzg=</text>
       </register>
     </registers>
     <search>
@@ -676,7 +679,6 @@
         <entry>equipmentEntries</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5tMjY4</entry>
         <entry encoding="base64">JzwsJz5tMzA=</entry>
         <entry encoding="base64">JzwsJz5tMTIz</entry>
         <entry encoding="base64">JzwsJz5tMjI=</entry>
@@ -696,6 +698,7 @@
         <entry encoding="base64">JzwsJz5tMjMw</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5tMzg=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
