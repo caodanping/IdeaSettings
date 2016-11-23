@@ -226,11 +226,11 @@
         <mark key="^" line="37" column="44" />
         <mark key="." line="37" column="44" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/WeightSelectDialog.js" timestamp="1479887807237">
-        <mark key="[" line="49" column="11" />
-        <mark key="]" line="51" column="23" />
-        <mark key="^" line="51" column="23" />
-        <mark key="." line="51" column="23" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/WeightSelectDialog.js" timestamp="1479889413799">
+        <mark key="[" line="36" column="36" />
+        <mark key="]" line="34" column="31" />
+        <mark key="^" line="34" column="31" />
+        <mark key="." line="34" column="31" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StateEquipmentEntry.java" timestamp="1477366441077">
         <mark key="[" line="26" column="0" />
@@ -345,6 +345,11 @@
         <mark key="^" line="5" column="59" />
         <mark key="." line="5" column="59" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/IdEquipment.java" timestamp="1479713712597">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/TaskRepository.java" timestamp="1476341766191">
         <mark key="[" line="17" column="158" />
         <mark key="]" line="17" column="185" />
@@ -387,12 +392,22 @@
         <mark key="." line="71" column="30" />
         <mark key="^" line="71" column="30" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/BMap.js" timestamp="1477451835521">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/ext/src/ux/form/SearchField.js" timestamp="1479796051275" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingController.js" timestamp="1476759772293">
         <mark key="[" line="31" column="20" />
         <mark key="]" line="31" column="32" />
         <mark key="^" line="31" column="32" />
         <mark key="." line="31" column="32" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/SiteController.java" timestamp="1479889489496">
+        <mark key="[" line="76" column="5" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StateEquipmentGroup.java" timestamp="1479434874600">
         <mark key="[" line="20" column="0" />
@@ -405,6 +420,11 @@
         <mark key="]" line="22" column="41" />
         <mark key="^" line="22" column="41" />
         <mark key="." line="22" column="41" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/webapp/WEB-INF/dispatcherServlet-servlet.xml" timestamp="1479458268846">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/List.js" timestamp="1476324725282">
         <mark key="[" line="76" column="67" />
@@ -586,8 +606,8 @@
       <jump line="172" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Site.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>form</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHdpZHRoOiA0MDAsCg==</text>
       </register>
       <register name="-" type="4">
         <text>form</text>
@@ -598,33 +618,33 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtZS5yZW5kZXJUcGwub3ZlcndyaXRlKG1lLmVsLCBpdGVtcyk7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHdpZHRoOiA0MDAsCg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChtZS5jYWxsYmFjaykgewogICAgICAgICAgICAgICAgICAgIG1lLmNhbGxiYWNrKCk7CiAgICAgICAgICAgICAgICB9</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBlLmNvZGQK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIHx8IHQucGFyZW50Tm9kZS4p</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xvZyhlT3B0cyk7Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>e.log(e);
         console.l</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAnPGgzPsnosbjRodTxPC9oMz4nLAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBFeHQuQWpheC5yZXF1ZXN0KHsKICAgICAgICAgICAgdXJsOiAnc2l0ZXMvJyArIG1lLnNpdGVJZCArICcvd2VpZ2h0cycsCiAgICAgICAgICAgIHN1Y2Nlc3M6IGZ1bmN0aW9uIChyZXNwKSB7CiAgICAgICAgICAgICAgICB2YXIgd2VpZ2h0cyA9IEV4dC5kZWNvZGUocmVzcC5yZXNwb25zZVRleHQpOwogICAgICAgICAgICAgICAgbWUud2VpZ2h0cyA9IHdlaWdodHM7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBFeHQuQWpheC5yZXF1ZXN0KHsKICAgICAgICAgICAgdXJsOiAnc2l0ZXMvJyArIG1lLnNpdGVJZCArICcvd2VpZ2h0cycsCiAgICAgICAgICAgIHN1Y2Nlc3M6IGZ1bmN0aW9uIChyZXNwKSB7CiAgICAgICAgICAgICAgICB2YXIgd2VpZ2h0cyA9IEV4dC5kZWNvZGUocmVzcC5yZXNwb25zZVRleHQpOwogICAgICAgICAgICAgICAgbWUud2VpZ2h0cyA9IHdlaWdodHM7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
