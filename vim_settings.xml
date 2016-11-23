@@ -66,11 +66,11 @@
         <mark key="^" line="15" column="33" />
         <mark key="." line="14" column="39" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/EquipmentSelectDialog.js" timestamp="1479873208730">
-        <mark key="[" line="27" column="45" />
-        <mark key="]" line="27" column="45" />
-        <mark key="." line="27" column="45" />
-        <mark key="^" line="27" column="45" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/EquipmentSelectDialog.js" timestamp="1479875020428">
+        <mark key="[" line="54" column="39" />
+        <mark key="]" line="54" column="39" />
+        <mark key="." line="54" column="39" />
+        <mark key="^" line="54" column="39" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/AuditModel.js" timestamp="1476325508419">
         <mark key="[" line="31" column="36" />
@@ -601,10 +601,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>el</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>el</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>480</text>
