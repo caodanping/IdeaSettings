@@ -168,7 +168,7 @@
         <mark key="^" line="57" column="7" />
         <mark key="." line="57" column="7" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentServiceImpl.java" timestamp="1479960182007">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentServiceImpl.java" timestamp="1479961378593">
         <mark key="[" line="67" column="72" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/SiteRepositoryImpl.java" timestamp="1479959765615">
@@ -183,11 +183,11 @@
         <mark key="^" line="12" column="115" />
         <mark key="." line="12" column="115" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentSummaryProjection.java" timestamp="1479959187879">
-        <mark key="[" line="11" column="67" />
-        <mark key="]" line="11" column="74" />
-        <mark key="^" line="11" column="74" />
-        <mark key="." line="11" column="74" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentSummaryProjection.java" timestamp="1479962271297">
+        <mark key="[" line="12" column="46" />
+        <mark key="]" line="7" column="33" />
+        <mark key="^" line="7" column="33" />
+        <mark key="." line="7" column="33" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/DeviceEntry.java" timestamp="1476425491482">
         <mark key="[" line="18" column="24" />
@@ -286,7 +286,7 @@
         <mark key="^" line="12" column="15" />
         <mark key="." line="12" column="12" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/EquipmentSummaryDto.java" timestamp="1479959910344" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/EquipmentSummaryDto.java" timestamp="1479961398504" />
       <file name="D:/IdeaProjects/hibernate-man/src/main/java/com/caodanping/hibernate_man/domain/Square.java" timestamp="1479286931198">
         <mark key="[" line="14" column="39" />
         <mark key="]" line="14" column="39" />
