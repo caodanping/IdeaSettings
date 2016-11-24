@@ -151,7 +151,9 @@
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/MismatchProcessServiceImpl.java" timestamp="1479277122974">
         <mark key="[" line="15" column="39" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/UniqueEquipmentRepositoryImpl.java" timestamp="1479713853469" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/UniqueEquipmentRepositoryImpl.java" timestamp="1479955384540">
+        <mark key="[" line="16" column="121" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/SiteServiceImpl.java" timestamp="1479780703825">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -176,7 +178,7 @@
         <mark key="^" line="57" column="7" />
         <mark key="." line="57" column="7" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentServiceImpl.java" timestamp="1479890761640">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentServiceImpl.java" timestamp="1479955138844">
         <mark key="[" line="62" column="72" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/SiteRepositoryImpl.java" timestamp="1479715846725">
@@ -184,6 +186,12 @@
         <mark key="]" line="40" column="90" />
         <mark key="^" line="40" column="90" />
         <mark key="." line="40" column="90" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/UniqueEquipmentRepository.java" timestamp="1479955184645">
+        <mark key="[" line="12" column="83" />
+        <mark key="]" line="12" column="115" />
+        <mark key="^" line="12" column="115" />
+        <mark key="." line="12" column="115" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/DeviceEntry.java" timestamp="1476425491482">
         <mark key="[" line="18" column="24" />
@@ -360,6 +368,7 @@
         <mark key="^" line="17" column="185" />
         <mark key="." line="17" column="185" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/UniqueEquipmentRepositoryCustom.java" timestamp="1479955191861" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/SiteRepositoryCustom.java" timestamp="1476857736810">
         <mark key="[" line="12" column="39" />
         <mark key="]" line="13" column="79" />
@@ -468,7 +477,7 @@
         <mark key="^" line="16" column="85" />
         <mark key="." line="16" column="85" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/EquipmentSelector.js" timestamp="1479888031390">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/EquipmentSelector.js" timestamp="1479955096055">
         <mark key="e" line="148" column="16" />
         <mark key="[" line="144" column="26" />
         <mark key="]" line="161" column="18" />
