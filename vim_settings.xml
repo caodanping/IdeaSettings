@@ -28,8 +28,8 @@
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="11" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1480044879435">
-        <mark key="[" line="414" column="52" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1480045992020">
+        <mark key="[" line="416" column="5" />
         <mark key="]" line="414" column="52" />
         <mark key="." line="414" column="52" />
         <mark key="^" line="414" column="51" />
@@ -38,6 +38,12 @@
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentEntry.java" timestamp="1480046001541">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="^" line="63" column="9" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ConfirmOut.js" timestamp="1480045755529">
         <mark key="[" line="51" column="25" />
@@ -145,14 +151,17 @@
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/UniqueEquipmentRepositoryCustom.java" timestamp="1479957056053">
-        <mark key="[" line="9" column="50" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DispatchingController.java" timestamp="1480043145739">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="62" column="33" />
         <mark key="." line="62" column="33" />
         <mark key="^" line="62" column="33" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentGroup.java" timestamp="1480046522756">
+        <mark key="[" line="28" column="12" />
+        <mark key="]" line="25" column="33" />
+        <mark key="^" line="25" column="28" />
+        <mark key="." line="25" column="33" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Audit.js" timestamp="1479866272781">
         <mark key="[" line="213" column="54" />
@@ -284,43 +293,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>equipmentEntries</text>
+        <text>管桩配重</text>
       </register>
       <register name="-" type="4">
-        <text>equipmentEntries</text>
+        <text>管桩配重</text>
       </register>
       <register name="/" type="4">
         <text>findOne</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JkZXJNYXAucHV0KCK53NeuxeTW2CIsIDEpOwo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgLyoqCiAgICAgICAgICogQ29tcGFyZXMgaXRzIHR3byBhcmd1bWVudHMgZm9yIG9yZGVyLiAgUmV0dXJucyBhIG5lZ2F0aXZlIGludGVnZXIsCiAgICAgICAgICogemVybywgb3IgYSBwb3NpdGl2ZSBpbnRlZ2VyIGFzIHRoZSBmaXJzdCBhcmd1bWVudCBpcyBsZXNzIHRoYW4sIGVxdWFsCiAgICAgICAgICogdG8sIG9yIGdyZWF0ZXIgdGhhbiB0aGUgc2Vjb25kLjxwPgogICAgICAgICAqIDxwPgogICAgICAgICAqIEluIHRoZSBmb3JlZ29pbmcgZGVzY3JpcHRpb24sIHRoZSBub3RhdGlvbgogICAgICAgICAqIDx0dD5zZ24oPC90dD48aT5leHByZXNzaW9uPC9pPjx0dD4pPC90dD4gZGVzaWduYXRlcyB0aGUgbWF0aGVtYXRpY2FsCiAgICAgICAgICogPGk+c2lnbnVtPC9pPiBmdW5jdGlvbiwgd2hpY2ggaXMgZGVmaW5lZCB0byByZXR1cm4gb25lIG9mIDx0dD4tMTwvdHQ+LAogICAgICAgICAqIDx0dD4wPC90dD4sIG9yIDx0dD4xPC90dD4gYWNjb3JkaW5nIHRvIHdoZXRoZXIgdGhlIHZhbHVlIG9mCiAgICAgICAgICogPGk+ZXhwcmVzc2lvbjwvaT4gaXMgbmVnYXRpdmUsIHplcm8gb3IgcG9zaXRpdmUuPHA+CiAgICAgICAgICogPHA+CiAgICAgICAgICogVGhlIGltcGxlbWVudG9yIG11c3QgZW5zdXJlIHRoYXQgPHR0PnNnbihjb21wYXJlKHgsIHkpKSA9PQogICAgICAgICAqIC1zZ24oY29tcGFyZSh5LCB4KSk8L3R0PiBmb3IgYWxsIDx0dD54PC90dD4gYW5kIDx0dD55PC90dD4uICAoVGhpcwogICAgICAgICAqIGltcGxpZXMgdGhhdCA8dHQ+Y29tcGFyZSh4LCB5KTwvdHQ+IG11c3QgdGhyb3cgYW4gZXhjZXB0aW9uIGlmIGFuZCBvbmx5CiAgICAgICAgICogaWYgPHR0PmNvbXBhcmUoeSwgeCk8L3R0PiB0aHJvd3MgYW4gZXhjZXB0aW9uLik8cD4KICAgICAgICAgKiA8cD4KICAgICAgICAgKiBUaGUgaW1wbGVtZW50b3IgbXVzdCBhbHNvIGVuc3VyZSB0aGF0IHRoZSByZWxhdGlvbiBpcyB0cmFuc2l0aXZlOgogICAgICAgICAqIDx0dD4oKGNvbXBhcmUoeCwgeSkmZ3Q7MCkgJmFtcDsmYW1wOyAoY29tcGFyZSh5LCB6KSZndDswKSk8L3R0PiBpbXBsaWVzCiAgICAgICAgICogPHR0PmNvbXBhcmUoeCwgeikmZ3Q7MDwvdHQ+LjxwPgogICAgICAgICAqIDxwPgogICAgICAgICAqIEZpbmFsbHksIHRoZSBpbXBsZW1lbnRvciBtdXN0IGVuc3VyZSB0aGF0IDx0dD5jb21wYXJlKHgsIHkpPT0wPC90dD4KICAgICAgICAgKiBpbXBsaWVzIHRoYXQgPHR0PnNnbihjb21wYXJlKHgsIHopKT09c2duKGNvbXBhcmUoeSwgeikpPC90dD4gZm9yIGFsbAogICAgICAgICAqIDx0dD56PC90dD4uPHA+CiAgICAgICAgICogPHA+CiAgICAgICAgICogSXQgaXMgZ2VuZXJhbGx5IHRoZSBjYXNlLCBidXQgPGk+bm90PC9pPiBzdHJpY3RseSByZXF1aXJlZCB0aGF0CiAgICAgICAgICogPHR0Pihjb21wYXJlKHgsIHkpPT0wKSA9PSAoeC5lcXVhbHMoeSkpPC90dD4uICBHZW5lcmFsbHkgc3BlYWtpbmcsCiAgICAgICAgICogYW55IGNvbXBhcmF0b3IgdGhhdCB2aW9sYXRlcyB0aGlzIGNvbmRpdGlvbiBzaG91bGQgY2xlYXJseSBpbmRpY2F0ZQogICAgICAgICAqIHRoaXMgZmFjdC4gIFRoZSByZWNvbW1lbmRlZCBsYW5ndWFnZSBpcyAiTm90ZTogdGhpcyBjb21wYXJhdG9yCiAgICAgICAgICogaW1wb3NlcyBvcmRlcmluZ3MgdGhhdCBhcmUgaW5jb25zaXN0ZW50IHdpdGggZXF1YWxzLiIKICAgICAgICAgKgogICAgICAgICAqIEBwYXJhbSBvMSB0aGUgZmlyc3Qgb2JqZWN0IHRvIGJlIGNvbXBhcmVkLgogICAgICAgICAqIEBwYXJhbSBvMiB0aGUgc2Vjb25kIG9iamVjdCB0byBiZSBjb21wYXJlZC4KICAgICAgICAgKiBAcmV0dXJuIGEgbmVnYXRpdmUgaW50ZWdlciwgemVybywgb3IgYSBwb3NpdGl2ZSBpbnRlZ2VyIGFzIHRoZQogICAgICAgICAqIGZpcnN0IGFyZ3VtZW50IGlzIGxlc3MgdGhhbiwgZXF1YWwgdG8sIG9yIGdyZWF0ZXIgdGhhbiB0aGUKICAgICAgICAgKiBzZWNvbmQuCiAgICAgICAgICogQHRocm93cyBOdWxsUG9pbnRlckV4Y2VwdGlvbiBpZiBhbiBhcmd1bWVudCBpcyBudWxsIGFuZCB0aGlzCiAgICAgICAgICogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb21wYXJhdG9yIGRvZXMgbm90IHBlcm1pdCBudWxsIGFyZ3VtZW50cwogICAgICAgICAqIEB0aHJvd3MgQ2xhc3NDYXN0RXhjZXB0aW9uICAgaWYgdGhlIGFyZ3VtZW50cycgdHlwZXMgcHJldmVudCB0aGVtIGZyb20KICAgICAgICAgKiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJlaW5nIGNvbXBhcmVkIGJ5IHRoaXMgY29tcGFyYXRvci4KICAgICAgICAgKi8=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBkdG8uc2V0RnJvbVNpdGVJZChkaXNwLmdldENyZWRpdCgpLmdldElkKCkpOwo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgIAogICAgcHVibGljIFJlc3BvbnNlRW50aXR5PERpc3BhdGNoRnJvbVNpdGVEdG8+</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgVHlwZVtdIHZhbHVlcyA9IFR5cGUudmFsdWVzKCk7CiAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBlcXVpcG1lbnRTZXJ2aWNlLmZpbmQK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNpdGVTZXJ2aWNlID0gc2l0ZVNlcnZpY2U7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTaXRlQ29udHJvbGxlcihTaXRlU2VydmljZSBzaXRlU2VydmljZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNpdGVTZXJ2aWNlID0gc2l0ZVNlcnZpY2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
