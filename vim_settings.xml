@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1480305714355">
@@ -35,14 +35,20 @@
         <mark key="." line="17" column="115" />
         <mark key="^" line="17" column="115" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/model/IdEquipment.js" timestamp="1480317701130" />
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentServiceImpl.java" timestamp="1480319098332">
-        <mark key="[" line="94" column="19" />
-        <mark key="]" line="94" column="19" />
-        <mark key="^" line="92" column="17" />
-        <mark key="." line="94" column="19" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/UniqueEquipmentRepositoryImpl.java" timestamp="1480319843149">
+        <mark key="[" line="31" column="68" />
+        <mark key="]" line="31" column="68" />
+        <mark key="^" line="53" column="112" />
+        <mark key="." line="31" column="68" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/UniqueEquipmentRepository.java" timestamp="1480319072220">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/model/IdEquipment.js" timestamp="1480317701130" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentServiceImpl.java" timestamp="1480319174341">
+        <mark key="[" line="93" column="19" />
+        <mark key="]" line="93" column="19" />
+        <mark key="^" line="91" column="17" />
+        <mark key="." line="93" column="19" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/UniqueEquipmentRepository.java" timestamp="1480319170147">
         <mark key="[" line="12" column="83" />
         <mark key="]" line="12" column="115" />
         <mark key="^" line="12" column="115" />
@@ -73,7 +79,7 @@
         <mark key="." line="26" column="17" />
         <mark key="^" line="26" column="17" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DispatchingController.java" timestamp="1480319127493">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DispatchingController.java" timestamp="1480319148204">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="62" column="33" />
         <mark key="." line="62" column="33" />
@@ -85,10 +91,11 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="70" column="5" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/test/java/UUIDTest.java" timestamp="1480296644739">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="/Dummy.txt" timestamp="1480319342196">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1480319355132">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -194,11 +201,11 @@
       <jump line="0" column="78625" filename="D:/IdeaProjects/lems/src/main/frontend/bootstrap.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBvcmcuc3ByaW5nZnJhbWV3b3JrLmRhdGEuZG9tYWluLlBhZ2U8SWRFcXVpcG1lbnREdG8+IGZpbmQoU3RyaW5nIHR5cGUsIFN0cmluZyBxdWVyeSwgSW50ZWdlciBzdGFydCwgSW50ZWdlciBsaW1pdCkgewogICAgICAgIFBhZ2VhYmxlIHBhZ2VhYmxlID0gbmV3IFBhZ2VSZXF1ZXN0KHN0YXJ0LCBsaW1pdCk7CiAgICAgICAgZXF1aXBtZW50U2VydmljZS5maW5kRHRvUGFnZSgpCgogICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICIgZnJvbSBJZEVxdWlwbWVudCBlIGlubmVyIGpvaW4gZS5zaXRlIHMi</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SWRFcXVpcG1lbnQuVHlwZSB0eXBlIA==</text>
+        <text>new com.aucdi.csfy.domain.dto.IdEquipmentDto(e.id,e.equipmentNo,e.tonnage,s.name as siteName,e.lender,e.borrowState)&quot; +</text>
       </register>
       <register name="/" type="4">
         <text>byName</text>
@@ -206,32 +213,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnTGVtcy52aWV3LkVxdWlwbWVudEVudHJ5VGFibGUnLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBvcmcuc3ByaW5nZnJhbWV3b3JrLmRhdGEuZG9tYWluLlBhZ2U8SWRFcXVpcG1lbnREdG8+IGZpbmQoU3RyaW5nIHR5cGUsIFN0cmluZyBxdWVyeSwgSW50ZWdlciBzdGFydCwgSW50ZWdlciBsaW1pdCkgewogICAgICAgIFBhZ2VhYmxlIHBhZ2VhYmxlID0gbmV3IFBhZ2VSZXF1ZXN0KHN0YXJ0LCBsaW1pdCk7CiAgICAgICAgZXF1aXBtZW50U2VydmljZS5maW5kRHRvUGFnZSgpCgogICAgfQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICIgZnJvbSBJZEVxdWlwbWVudCBlIGlubmVyIGpvaW4gZS5zaXRlIHMi</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBQYWdlPElkRXF1aXBtZW50RHRvPiBwYWdlID0gbmV3IFBhZ2U8SWRFcXVpcG1lbnREdG8+KCk7Cg==</text>
+        <text encoding="base64">CQllbS5jbGVhcigpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICBAUmVxdWVzdE1hcHBpbmcodmFsdWUgPSAiL2JlYW1zIiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5HRVQpCiAgICBwdWJsaWMgb3JnLnNwcmluZ2ZyYW1ld29yay5kYXRhLmRvbWFpbi5QYWdlPElkRXF1aXBtZW50RHRvPiBmaW5kQmVhbXMoU3RyaW5nIHF1ZXJ5KSB7CgogICAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly9pbXBvcnQgY29tLmF1Y2RpLmNzZnkudXRpbHMuUGFnZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnR5cGUgPSB0eXBlOwo=</text>
+        <text encoding="base64">CQlwYWdlLnNldFJlc3VsdChsaXN0KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlJZEVxdWlwbWVudCBpZEVxdWlwbWVudCA9IG5ldyBJZEVxdWlwbWVudCh1bmlxdWVFcXVpcG1lbnREdG8pOwo=</text>
+        <text encoding="base64">ICAgICAgICBvcmcuc3ByaW5nZnJhbWV3b3JrLmRhdGEuZG9tYWluLlBhZ2U8SWRFcXVpcG1lbnREdG8+IHBhZ2UgPSBuZXcgUGFnZUltcGw8SWRFcXVpcG1lbnREdG8+KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKElkRXF1aXBtZW50LlR5cGUuQkVBTSwgSWRFcXVpcG1lbnQuVHlwZS5ieU5hbWUoIkJFQU0iKSk7Cg==</text>
+        <text encoding="base64">CQllbS5jbGVhcigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlpZihkdG8uZ2V0VHlwZSgpID09ICIxIikgewoJCQl0aGlzLnR5cGUgPSBUeXBlLkJFQU07CgkJfWVsc2UgaWYoZHRvLmdldFR5cGUoKSA9PSAiMiIpIHsKCQkJdGhpcy50eXBlID0gVHlwZS5DT1JCRUw7CgkJfWVsc2UgewoJCQl0aGlzLnR5cGUgPSBUeXBlLkpBQ0s7CgkJfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBvcmcuc3ByaW5nZnJhbWV3b3JrLmRhdGEuZG9tYWluLlBhZ2U8SWRFcXVpcG1lbnREdG8+IGZpbmQoU3RyaW5nIHR5cGUsIFN0cmluZyBxdWVyeSwgSW50ZWdlciBzdGFydCwgSW50ZWdlciBsaW1pdCkgewogICAgICAgIFBhZ2VhYmxlIHBhZ2VhYmxlID0gbmV3IFBhZ2VSZXF1ZXN0KHN0YXJ0LCBsaW1pdCk7CiAgICAgICAgZXF1aXBtZW50U2VydmljZS5maW5kRHRvUGFnZSgpCgogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG8xLmdldEFtb3VudCgpIC0gbzIuZ2V0QW1vdW50KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBQYWdlPElkRXF1aXBtZW50RHRvPiBwYWdlID0gbmV3IFBhZ2U8SWRFcXVpcG1lbnREdG8+KCk7Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IGNvbXBhcmUoRXF1aXBtZW50RW50cnkgbzEsIEVxdWlwbWVudEVudHJ5IG8yKSB7CiAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgIH0KICAgIH0gewo=</text>
+        <text encoding="base64">CiAgICBAUmVxdWVzdE1hcHBpbmcodmFsdWUgPSAiL2JlYW1zIiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5HRVQpCiAgICBwdWJsaWMgb3JnLnNwcmluZ2ZyYW1ld29yay5kYXRhLmRvbWFpbi5QYWdlPElkRXF1aXBtZW50RHRvPiBmaW5kQmVhbXMoU3RyaW5nIHF1ZXJ5KSB7CgogICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
