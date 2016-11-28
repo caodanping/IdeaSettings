@@ -69,7 +69,7 @@
         <mark key="." line="53" column="34" />
         <mark key="^" line="53" column="34" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchingService.java" timestamp="1480305880946">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchingService.java" timestamp="1480315406481">
         <mark key="[" line="95" column="45" />
         <mark key="]" line="69" column="11" />
         <mark key="^" line="69" column="11" />
@@ -129,7 +129,7 @@
         <mark key="." line="23" column="9" />
         <mark key="^" line="23" column="9" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" timestamp="1480305032673" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" timestamp="1480315555474" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentEntry.java" timestamp="1480049505160">
         <mark key="[" line="32" column="13" />
         <mark key="]" line="34" column="76" />
@@ -214,6 +214,7 @@
         <mark key="^" line="7" column="33" />
         <mark key="." line="7" column="33" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/groovy/com/aucdi/csfy/web/DispatchingViewsController.groovy" timestamp="1480315309562" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/DeviceEntry.java" timestamp="1476425491482">
         <mark key="[" line="18" column="24" />
         <mark key="]" line="18" column="25" />
