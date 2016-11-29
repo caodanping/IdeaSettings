@@ -1,5 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="http://xmlns.jcp.org/xml/ns/persistence/orm" location="$USER_HOME$/.IntelliJIdea2016.2/system/extResources/99717ece_orm_2_1.xsd" />
     <ignored-resource url="http://ehcache.org/ehcache.xsd" />
   </component>
 </application>
