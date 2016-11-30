@@ -9,6 +9,13 @@
         <mark key="^" line="136" column="10" />
         <mark key="." line="136" column="10" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/SiteService.java" timestamp="1480475225428">
+        <mark key="[" line="52" column="22" />
+        <mark key="]" line="30" column="3" />
+        <mark key="." line="30" column="3" />
+        <mark key="^" line="30" column="3" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/SiteDetailsDto.java" timestamp="1480475061215" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/beam/List.js" timestamp="1480316938275" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/SiteDto.java" timestamp="1480305260778">
         <mark key="[" line="122" column="5" />
@@ -40,6 +47,12 @@
         <mark key="]" line="31" column="68" />
         <mark key="^" line="53" column="112" />
         <mark key="." line="31" column="68" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/SiteServiceImpl.java" timestamp="1480475921612">
+        <mark key="[" line="122" column="59" />
+        <mark key="]" line="122" column="58" />
+        <mark key="." line="122" column="58" />
+        <mark key="^" line="122" column="58" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/model/IdEquipment.js" timestamp="1480317701130" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentServiceImpl.java" timestamp="1480319174341">
@@ -79,6 +92,11 @@
         <mark key="." line="26" column="17" />
         <mark key="^" line="26" column="17" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/SiteEquipDetailDto.java" timestamp="1480475019219">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="17" />
+        <mark key="." line="9" column="17" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DispatchingController.java" timestamp="1480319148204">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="62" column="33" />
@@ -91,8 +109,19 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="70" column="5" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/SiteController.java" timestamp="1480475097796">
+        <mark key="[" line="53" column="11" />
+        <mark key="]" line="53" column="11" />
+        <mark key="." line="53" column="11" />
+        <mark key="^" line="52" column="40" />
+      </file>
       <file name="/Dummy.txt" timestamp="1480319342196">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/test/java/UUIDTest.java" timestamp="1480296644739">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1480319355132">
         <mark key="[" line="0" column="0" />
@@ -202,10 +231,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICIgZnJvbSBJZEVxdWlwbWVudCBlIGlubmVyIGpvaW4gZS5zaXRlIHMi</text>
+        <text>Site</text>
       </register>
       <register name="-" type="4">
-        <text>new com.aucdi.csfy.domain.dto.IdEquipmentDto(e.id,e.equipmentNo,e.tonnage,s.name as siteName,e.lender,e.borrowState)&quot; +</text>
+        <text>Site</text>
       </register>
       <register name="/" type="4">
         <text>byName</text>
@@ -292,10 +321,10 @@
         <entry encoding="base64">JzwsJz5tNTg3</entry>
         <entry encoding="base64">JzwsJz5tNTU4</entry>
         <entry encoding="base64">JzwsJz5tMjMw</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5tMzg=</entry>
         <entry encoding="base64">JzwsJz5tMzE=</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -350,7 +379,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -362,8 +391,14 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
