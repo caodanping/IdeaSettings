@@ -1,7 +1,4 @@
 <application>
-  <component name="CodeInsightSettings">
-    <EXCLUDED_PACKAGE NAME="com.aucdi.csfy.domain.MovingToWarehouse" />
-  </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
