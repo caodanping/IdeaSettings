@@ -1,9 +1,9 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/MovingToWarehouseServiceImpl.java" timestamp="1490064203707" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/MovingToWarehouseServiceImpl.java" timestamp="1490064360531" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ConfirmInModel.js" timestamp="1490063221382">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="37" column="0" />
@@ -96,10 +96,7 @@
         <mark key="." line="122" column="34" />
         <mark key="^" line="122" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1480319342196">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentServiceV2Impl.java" timestamp="1490064222411" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentServiceV2Impl.java" timestamp="1490064414875" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/UniqueEquipmentRepository.java" timestamp="1480319170147">
         <mark key="[" line="12" column="83" />
         <mark key="]" line="12" column="115" />
@@ -149,11 +146,13 @@
         <mark key="." line="36" column="4" />
         <mark key="^" line="36" column="4" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/ShippingServiceImpl.java" timestamp="1490064376435" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/SiteEquipDetailDto.java" timestamp="1480475019219">
         <mark key="[" line="9" column="23" />
         <mark key="]" line="9" column="17" />
         <mark key="." line="9" column="17" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/EquipmentServiceV2.java" timestamp="1490064393531" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/EquipmentService.java" timestamp="1480318877476">
         <mark key="[" line="36" column="62" />
         <mark key="]" line="32" column="32" />
@@ -165,9 +164,6 @@
         <mark key="]" line="62" column="33" />
         <mark key="." line="62" column="33" />
         <mark key="^" line="62" column="33" />
-      </file>
-      <file name="/fragment.java" timestamp="1480319355132">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" timestamp="1487035067373">
         <mark key="[" line="148" column="40" />
