@@ -3,7 +3,6 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/MovingToWarehouseServiceImpl.java" timestamp="1490064360531" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ConfirmInModel.js" timestamp="1490063221382">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="37" column="0" />
@@ -96,14 +95,18 @@
         <mark key="." line="122" column="34" />
         <mark key="^" line="122" column="34" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentServiceV2Impl.java" timestamp="1490064414875" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentServiceV2Impl.java" timestamp="1509593668871">
+        <mark key="[" line="488" column="62" />
+        <mark key="]" line="488" column="73" />
+        <mark key="." line="488" column="73" />
+        <mark key="^" line="488" column="73" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/UniqueEquipmentRepository.java" timestamp="1480319170147">
         <mark key="[" line="12" column="83" />
         <mark key="]" line="12" column="115" />
         <mark key="^" line="12" column="115" />
         <mark key="." line="12" column="115" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/mtw/ConfirmOutModel.js" timestamp="1490063205498" />
       <file name="D:/IdeaProjects/lems/src/test/java/UUIDTest.java" timestamp="1480296644739">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -146,13 +149,11 @@
         <mark key="." line="36" column="4" />
         <mark key="^" line="36" column="4" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/ShippingServiceImpl.java" timestamp="1490064376435" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/SiteEquipDetailDto.java" timestamp="1480475019219">
         <mark key="[" line="9" column="23" />
         <mark key="]" line="9" column="17" />
         <mark key="." line="9" column="17" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/EquipmentServiceV2.java" timestamp="1490064393531" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/EquipmentService.java" timestamp="1480318877476">
         <mark key="[" line="36" column="62" />
         <mark key="]" line="32" column="32" />
@@ -274,11 +275,11 @@
       <jump line="142" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/mtw/ConfirmOut.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0RGF0ZTogRXh0LkRhdGUuZm9ybWF0KG91dERhdGUsICdZLW0tZCBIOmk6cycpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlcXVpcG1lbnRzXD4=</text>
@@ -353,7 +354,6 @@
         <entry encoding="base64">XDxlcXVpcG1lbnRzXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5tMjI=</entry>
         <entry encoding="base64">JzwsJz5tNjI=</entry>
         <entry encoding="base64">JzwsJz4xNjY=</entry>
         <entry encoding="base64">JzwsJz5tMTY2</entry>
@@ -372,6 +372,7 @@
         <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>17</entry>
+        <entry>439</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
