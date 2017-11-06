@@ -21,6 +21,9 @@
   <action id="DatabaseView.CopyAction" />
   <action id="DatabaseView.ShowDiff" />
   <action id="Diff.UpdatedFiles" />
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="control button1" />
+  </action>
   <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
@@ -96,7 +99,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
   <action id="GotoDeclaration">
-    <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="f12" />
   </action>
