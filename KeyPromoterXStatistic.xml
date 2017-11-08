@@ -89,6 +89,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Property">
+        <Item>
+          <IdeaActionID>refactoring.introduce.property</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+V'</ShortCut>
+          <Description>Property</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'HibernateJPATest.testJpaFetching001'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
