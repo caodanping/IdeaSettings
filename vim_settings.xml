@@ -16,13 +16,15 @@
         <mark key="[" line="3" column="4" />
         <mark key="]" line="37" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1480305714355">
-        <mark key="[" line="135" column="7" />
-        <mark key="]" line="136" column="10" />
-        <mark key="^" line="136" column="10" />
-        <mark key="." line="136" column="10" />
+      <file name="/a.dummy" timestamp="1510318792624">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.1.10.Final/hibernate-core-5.1.10.Final-sources.jar!/org/hibernate/bytecode/internal/javassist/ProxyFactoryFactoryImpl.java" timestamp="1510317549102" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1510318293202">
+        <mark key="[" line="204" column="4" />
+        <mark key="]" line="209" column="37" />
+        <mark key="^" line="73" column="16" />
+        <mark key="." line="73" column="16" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ConfirmIn.js" timestamp="1480303884947">
         <mark key="[" line="70" column="5" />
         <mark key="]" line="70" column="5" />
@@ -155,9 +157,12 @@
         <mark key="." line="10" column="16" />
         <mark key="^" line="10" column="16" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StopChargingRequest.java" timestamp="1510313417989">
-        <mark key="'" line="115" column="0" />
-        <mark key="^" line="30" column="94" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StopChargingRequest.java" timestamp="1510321826095">
+        <mark key="'" line="106" column="27" />
+        <mark key="[" line="48" column="27" />
+        <mark key="]" line="51" column="27" />
+        <mark key="^" line="51" column="27" />
+        <mark key="." line="51" column="27" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/mtw/ConfirmInModel.js" timestamp="1490063332450">
         <mark key="[" line="36" column="0" />
@@ -165,12 +170,12 @@
         <mark key="." line="36" column="4" />
         <mark key="^" line="36" column="4" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/StopCharingRequestServiceImpl.java" timestamp="1510313048591">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="66" column="15" />
-        <mark key="." line="35" column="62" />
-        <mark key="^" line="35" column="62" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/StopCharingRequestServiceImpl.java" timestamp="1510321661903">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="114" column="32" />
+        <mark key="]" line="118" column="132" />
+        <mark key="^" line="118" column="132" />
+        <mark key="." line="118" column="132" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/EquipmentService.java" timestamp="1480318877476">
         <mark key="[" line="36" column="62" />
@@ -189,7 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="386" column="69" filename="D:/Home/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
       <jump line="389" column="20" filename="D:/Home/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
       <jump line="403" column="47" filename="D:/Home/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
       <jump line="412" column="28" filename="D:/Home/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
@@ -289,46 +293,54 @@
       <jump line="115" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StopChargingRequest.java" />
       <jump line="32" column="5" filename="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.1.10.Final/hibernate-core-5.1.10.Final-sources.jar!/org/hibernate/bytecode/internal/javassist/ProxyFactoryFactoryImpl.java" />
       <jump line="31" column="45" filename="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.1.10.Final/hibernate-core-5.1.10.Final-sources.jar!/org/hibernate/bytecode/internal/javassist/ProxyFactoryFactoryImpl.java" />
+      <jump line="106" column="27" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StopChargingRequest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkCg==</text>
+        <text encoding="base64">ICAgICAgICBlcXVpcG1lbnRTZXJ2aWNlVjIucmVjb3JkRXF1aXBtZW50U3RhdGVFbmQocmVxLmdldFByb2ooKUMK</text>
       </register>
       <register name="-" type="4">
-        <text>equipmentDetailRepository.getOne(data.getId(</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlcXVpcG1lbnRzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkCg==</text>
+      <register name="0" type="4">
+        <text>{
+        StopChargingRequest req = stopChargingRequestRepository.findOne(id);
+        req.setState(StopChargingRequest.State.APPROVED);
+        req.setComments(comments);
+        req.setAuditUser(currentUser());
+        req.setAuditDate(new Date());
+        stopChargingRequestRepository.delete(req);
+    }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlcXVpcG1lbnREZXRhaWxSZXBvc2l0b3J5LmdldAo=</text>
+        <text encoding="base64">ICAgICAgICBlcXVpcG1lbnRTZXJ2aWNlVjIucmVjb3JkRXF1aXBtZW50U3RhdGVFbmQocmVxLmdldFByb2ooKUMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PExvbmc+IGVxdWlwID0gQ29sbGVjdGlvblV0aWxzLm1hcChkYXRhLmdldEl0ZW1zKCksIG5ldyBGdW5jdGlvbjxPYmplY3QsIFN0b3BDaGFyZ2luZ1JlcXVlc3RJdGVtSW5wdXREdG8+KCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxPcGVyYXRpb25FeGNlcHRpb24oIrjD17TMrLK7v8nJvrP9Iik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlbXMuYWRkKG5ldyBTdG9wQ2hhcmdpbmdSZXF1ZXN0SXRlbSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXJlcS5pc0NhbmNlbGxlZCgpIHx8IHJlcS5nZXRBdWRpdERhdGUoKSAhPSBudWxsKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBKb2luQ29sdW1uKG5hbWUgPSAiUkVRX0lEIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXEuc2V0UHJvaigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBFbGVtCg==</text>
+        <text encoding="base64">ICAgICAgICBDQU5DRUxMRUQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBlcXVpcG1lbnREZXRhaWxSZXBvc2l0b3J5LmdldAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
