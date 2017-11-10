@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ConfirmInModel.js" timestamp="1490063221382">
@@ -142,6 +142,12 @@
         <mark key="[" line="26" column="37" />
         <mark key="]" line="26" column="37" />
         <mark key="." line="26" column="37" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StopChargingRequest.java" timestamp="1510299389546">
+        <mark key="[" line="22" column="12" />
+        <mark key="]" line="23" column="23" />
+        <mark key="^" line="23" column="23" />
+        <mark key="." line="23" column="23" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/mtw/ConfirmInModel.js" timestamp="1490063332450">
         <mark key="[" line="36" column="0" />
