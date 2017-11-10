@@ -65,7 +65,7 @@
         <mark key="." line="122" column="58" />
         <mark key="^" line="122" column="58" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/StopChargingRequestEditDto.java" timestamp="1510305379397">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/StopChargingRequestEditDto.java" timestamp="1510313124135">
         <mark key="[" line="10" column="56" />
         <mark key="]" line="7" column="35" />
         <mark key="^" line="7" column="35" />
@@ -156,8 +156,9 @@
         <mark key="." line="10" column="16" />
         <mark key="^" line="10" column="16" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StopChargingRequest.java" timestamp="1510305022886">
-        <mark key="[" line="29" column="46" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StopChargingRequest.java" timestamp="1510313162887">
+        <mark key="'" line="115" column="0" />
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="30" column="94" />
         <mark key="." line="30" column="94" />
         <mark key="^" line="30" column="94" />
@@ -168,8 +169,9 @@
         <mark key="." line="36" column="4" />
         <mark key="^" line="36" column="4" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/StopCharingRequestServiceImpl.java" timestamp="1510312297639">
-        <mark key="[" line="66" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/StopCharingRequestServiceImpl.java" timestamp="1510313048591">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="1" column="0" />
         <mark key="]" line="66" column="15" />
         <mark key="." line="35" column="62" />
         <mark key="^" line="35" column="62" />
@@ -191,15 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="294" column="54" filename="D:/Home/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
-      <jump line="295" column="46" filename="D:/Home/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
-      <jump line="303" column="54" filename="D:/Home/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
-      <jump line="314" column="54" filename="D:/Home/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
-      <jump line="326" column="57" filename="D:/Home/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
-      <jump line="336" column="54" filename="D:/Home/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
-      <jump line="338" column="50" filename="D:/Home/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
-      <jump line="343" column="14" filename="D:/Home/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
-      <jump line="353" column="43" filename="D:/Home/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
       <jump line="361" column="64" filename="D:/Home/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
       <jump line="373" column="64" filename="D:/Home/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
       <jump line="386" column="69" filename="D:/Home/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
@@ -291,6 +284,15 @@
       <jump line="92" column="16" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/unbalanceProc/EquipmentCheckList.js" />
       <jump line="157" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ConfirmOut.js" />
       <jump line="142" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/mtw/ConfirmOut.js" />
+      <jump line="37" column="4" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/StopCharingRequestServiceImpl.java" />
+      <jump line="23" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/StopCharingRequestServiceImpl.java" />
+      <jump line="35" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/StopCharingRequestServiceImpl.java" />
+      <jump line="40" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/StopCharingRequestServiceImpl.java" />
+      <jump line="60" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/StopCharingRequestServiceImpl.java" />
+      <jump line="47" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/StopCharingRequestServiceImpl.java" />
+      <jump line="30" column="94" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StopChargingRequest.java" />
+      <jump line="0" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StopChargingRequest.java" />
+      <jump line="115" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StopChargingRequest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -397,7 +399,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
