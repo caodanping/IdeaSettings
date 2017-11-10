@@ -3,6 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/StopChargingRequestItemInputDto.java" timestamp="1510305381982">
+        <mark key="[" line="7" column="46" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/StopChargingRequestDto.java" timestamp="1510305107622">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="5" column="30" />
+        <mark key="^" line="5" column="30" />
+        <mark key="." line="5" column="30" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ConfirmInModel.js" timestamp="1490063221382">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="37" column="0" />
@@ -67,6 +76,12 @@
         <mark key="." line="122" column="58" />
         <mark key="^" line="122" column="58" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/StopChargingRequestEditDto.java" timestamp="1510305379397">
+        <mark key="[" line="10" column="56" />
+        <mark key="]" line="7" column="35" />
+        <mark key="^" line="7" column="35" />
+        <mark key="." line="7" column="35" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/SiteDto.java" timestamp="1480305260778">
         <mark key="[" line="122" column="5" />
         <mark key="]" line="25" column="10" />
@@ -78,11 +93,6 @@
         <mark key="]" line="53" column="11" />
         <mark key="." line="53" column="11" />
         <mark key="^" line="52" column="40" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingController.js" timestamp="1487035114555">
-        <mark key="[" line="31" column="68" />
-        <mark key="]" line="31" column="68" />
-        <mark key="." line="31" column="68" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentServiceImpl.java" timestamp="1480319174341">
         <mark key="[" line="93" column="19" />
@@ -108,16 +118,11 @@
         <mark key="^" line="12" column="115" />
         <mark key="." line="12" column="115" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/StopChargingRequestRepository.java" timestamp="1510302154128">
-        <mark key="[" line="13" column="97" />
-        <mark key="]" line="12" column="10" />
-        <mark key="^" line="12" column="10" />
-        <mark key="." line="12" column="10" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/test/java/UUIDTest.java" timestamp="1480296644739">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/StopChargingRequestRepository.java" timestamp="1510303977286">
+        <mark key="[" line="15" column="28" />
+        <mark key="]" line="15" column="54" />
+        <mark key="^" line="15" column="54" />
+        <mark key="." line="15" column="54" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/beam/EditController.js" timestamp="1480317798148">
         <mark key="[" line="14" column="25" />
@@ -162,11 +167,17 @@
         <mark key="." line="10" column="34" />
         <mark key="^" line="10" column="34" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StopChargingRequest.java" timestamp="1510301941400">
-        <mark key="[" line="29" column="22" />
-        <mark key="]" line="29" column="44" />
-        <mark key="." line="29" column="44" />
-        <mark key="^" line="29" column="44" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/StopCharingRequestService.java" timestamp="1510304059295">
+        <mark key="[" line="9" column="44" />
+        <mark key="]" line="9" column="16" />
+        <mark key="." line="9" column="16" />
+        <mark key="^" line="9" column="16" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StopChargingRequest.java" timestamp="1510305022886">
+        <mark key="[" line="29" column="46" />
+        <mark key="]" line="30" column="94" />
+        <mark key="." line="30" column="94" />
+        <mark key="^" line="30" column="94" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/mtw/ConfirmInModel.js" timestamp="1490063332450">
         <mark key="[" line="36" column="0" />
@@ -174,10 +185,11 @@
         <mark key="." line="36" column="4" />
         <mark key="^" line="36" column="4" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/SiteEquipDetailDto.java" timestamp="1480475019219">
-        <mark key="[" line="9" column="23" />
-        <mark key="]" line="9" column="17" />
-        <mark key="." line="9" column="17" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/StopCharingRequestServiceImpl.java" timestamp="1510304819287">
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="21" column="13" />
+        <mark key="^" line="21" column="13" />
+        <mark key="." line="21" column="13" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/EquipmentService.java" timestamp="1480318877476">
         <mark key="[" line="36" column="62" />
@@ -191,13 +203,8 @@
         <mark key="." line="62" column="33" />
         <mark key="^" line="62" column="33" />
       </file>
-      <file name="/fragment.java" timestamp="1510302019181">
+      <file name="/fragment.java" timestamp="1510305119652">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" timestamp="1487035067373">
-        <mark key="[" line="148" column="40" />
-        <mark key="]" line="148" column="40" />
-        <mark key="." line="148" column="40" />
       </file>
     </filemarks>
     <jumps>
@@ -303,11 +310,11 @@
       <jump line="142" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/mtw/ConfirmOut.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>interface</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBKb2luQ29sdW1uKG5hbWUgPSAiUkVRX0lEIikK</text>
       </register>
       <register name="-" type="4">
-        <text>interface</text>
+        <text>Q_ID&quot;)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlcXVpcG1lbnRzXD4=</text>
@@ -316,31 +323,31 @@
         <text encoding="base64">ICAgICAgICAgICAgb3V0RGF0ZTogRXh0LkRhdGUuZm9ybWF0KG91dERhdGUsICdZLW0tZCBIOmk6cycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4oKQo=</text>
+        <text encoding="base64">ICAgIEBKb2luQ29sdW1uKG5hbWUgPSAiUkVRX0lEIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBFbGVtCg==</text>
+        <text encoding="base64">ICAgICAgICByZXEuc2V0UHJvaigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4oKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0RGF0ZTogb3V0RGF0ZQo=</text>
+        <text encoding="base64">ICAgIEBFbGVtCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aWR0aDogMjAwLAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aWR0aDogMjgwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0RGF0ZTogb3V0RGF0ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6ICcxMDAlJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aWR0aDogMjAwLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGF5b3V0OiAnaGJveCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aWR0aDogMjgwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5jaG9yOiAnMCAxMDAlJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6ICcxMDAlJywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -379,7 +386,6 @@
         <entry encoding="base64">XDxlcXVpcG1lbnRzXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4xNjY=</entry>
         <entry encoding="base64">JzwsJz5tMTY2</entry>
         <entry encoding="base64">JzwsJz5tMTQ5</entry>
         <entry encoding="base64">JzwsJz5tNDM=</entry>
@@ -393,11 +399,12 @@
         <entry encoding="base64">JzwsJz5tMjMw</entry>
         <entry encoding="base64">JzwsJz5tMzg=</entry>
         <entry encoding="base64">JzwsJz5tMzE=</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>17</entry>
         <entry>439</entry>
         <entry>wq</entry>
+        <entry>10</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
