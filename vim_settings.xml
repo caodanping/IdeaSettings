@@ -151,10 +151,10 @@
         <mark key="^" line="10" column="34" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/StopCharingRequestService.java" timestamp="1510304059295">
-        <mark key="[" line="9" column="44" />
-        <mark key="]" line="9" column="16" />
-        <mark key="." line="9" column="16" />
-        <mark key="^" line="9" column="16" />
+        <mark key="[" line="10" column="44" />
+        <mark key="]" line="10" column="16" />
+        <mark key="." line="10" column="16" />
+        <mark key="^" line="10" column="16" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StopChargingRequest.java" timestamp="1510305022886">
         <mark key="[" line="29" column="46" />
@@ -168,11 +168,11 @@
         <mark key="." line="36" column="4" />
         <mark key="^" line="36" column="4" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/StopCharingRequestServiceImpl.java" timestamp="1510304819287">
-        <mark key="[" line="21" column="4" />
-        <mark key="]" line="21" column="13" />
-        <mark key="^" line="21" column="13" />
-        <mark key="." line="21" column="13" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/StopCharingRequestServiceImpl.java" timestamp="1510312297639">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="15" />
+        <mark key="." line="35" column="62" />
+        <mark key="^" line="35" column="62" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/EquipmentService.java" timestamp="1480318877476">
         <mark key="[" line="36" column="62" />
@@ -294,43 +294,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBKb2luQ29sdW1uKG5hbWUgPSAiUkVRX0lEIikK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Q_ID&quot;)</text>
+        <text>equipmentDetailRepository.getOne(data.getId(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlcXVpcG1lbnRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0RGF0ZTogRXh0LkRhdGUuZm9ybWF0KG91dERhdGUsICdZLW0tZCBIOmk6cycpCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBKb2luQ29sdW1uKG5hbWUgPSAiUkVRX0lEIikK</text>
+        <text encoding="base64">ICAgICAgICBlcXVpcG1lbnREZXRhaWxSZXBvc2l0b3J5LmdldAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXEuc2V0UHJvaigpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4oKQo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PExvbmc+IGVxdWlwID0gQ29sbGVjdGlvblV0aWxzLm1hcChkYXRhLmdldEl0ZW1zKCksIG5ldyBGdW5jdGlvbjxPYmplY3QsIFN0b3BDaGFyZ2luZ1JlcXVlc3RJdGVtSW5wdXREdG8+KCkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBFbGVtCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbXMuYWRkKG5ldyBTdG9wQ2hhcmdpbmdSZXF1ZXN0SXRlbSgpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEBKb2luQ29sdW1uKG5hbWUgPSAiUkVRX0lEIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0RGF0ZTogb3V0RGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICByZXEuc2V0UHJvaigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aWR0aDogMjAwLAo=</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4oKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aWR0aDogMjgwCg==</text>
+        <text encoding="base64">ICAgIEBFbGVtCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6ICcxMDAlJywK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
