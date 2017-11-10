@@ -7,6 +7,7 @@
         <mark key="[" line="3" column="4" />
         <mark key="]" line="37" column="0" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StateEquipmentSpecInventory.java" timestamp="1510299541834" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1480305714355">
         <mark key="[" line="135" column="7" />
         <mark key="]" line="136" column="10" />
@@ -143,11 +144,17 @@
         <mark key="]" line="26" column="37" />
         <mark key="." line="26" column="37" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StopChargingRequest.java" timestamp="1510299389546">
-        <mark key="[" line="22" column="12" />
-        <mark key="]" line="23" column="23" />
-        <mark key="^" line="23" column="23" />
-        <mark key="." line="23" column="23" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StopChargingRequestItem.java" timestamp="1510300662522">
+        <mark key="[" line="6" column="3" />
+        <mark key="]" line="8" column="60" />
+        <mark key="." line="8" column="60" />
+        <mark key="^" line="8" column="60" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StopChargingRequest.java" timestamp="1510300319377">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="20" column="3" />
+        <mark key="." line="20" column="3" />
+        <mark key="^" line="20" column="3" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/mtw/ConfirmInModel.js" timestamp="1490063332450">
         <mark key="[" line="36" column="0" />
@@ -282,10 +289,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">aW50ZXJmYWNlIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">aW50ZXJmYWNlIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlcXVpcG1lbnRzXD4=</text>
@@ -294,34 +301,31 @@
         <text encoding="base64">ICAgICAgICAgICAgb3V0RGF0ZTogRXh0LkRhdGUuZm9ybWF0KG91dERhdGUsICdZLW0tZCBIOmk6cycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4oKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0RGF0ZTogb3V0RGF0ZQo=</text>
+        <text encoding="base64">ICAgIEBFbGVtCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aWR0aDogMjAwLAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aWR0aDogMjgwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0RGF0ZTogb3V0RGF0ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6ICcxMDAlJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aWR0aDogMjAwLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGF5b3V0OiAnaGJveCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aWR0aDogMjgwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5jaG9yOiAnMCAxMDAlJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6ICcxMDAlJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5jaG9yOiAnMCAxMDAlJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGF5b3V0OiAnaGJveCcsCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>}
-    data: {
-        name: 'Lems'
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5jaG9yOiAnMCAxMDAlJywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
