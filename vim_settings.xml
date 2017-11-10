@@ -16,14 +16,12 @@
         <mark key="[" line="3" column="4" />
         <mark key="]" line="37" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StateEquipmentSpecInventory.java" timestamp="1510299541834" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1480305714355">
         <mark key="[" line="135" column="7" />
         <mark key="]" line="136" column="10" />
         <mark key="^" line="136" column="10" />
         <mark key="." line="136" column="10" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.1.10.Final/hibernate-core-5.1.10.Final-sources.jar!/org/hibernate/bytecode/internal/javassist/ProxyFactoryFactoryImpl.java" timestamp="1510306140221" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ConfirmIn.js" timestamp="1480303884947">
         <mark key="[" line="70" column="5" />
         <mark key="]" line="70" column="5" />
@@ -156,11 +154,8 @@
         <mark key="." line="10" column="16" />
         <mark key="^" line="10" column="16" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StopChargingRequest.java" timestamp="1510313162887">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StopChargingRequest.java" timestamp="1510313417989">
         <mark key="'" line="115" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="30" column="94" />
-        <mark key="." line="30" column="94" />
         <mark key="^" line="30" column="94" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/mtw/ConfirmInModel.js" timestamp="1490063332450">
