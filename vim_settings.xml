@@ -106,8 +106,8 @@
         <mark key="." line="122" column="34" />
         <mark key="^" line="122" column="34" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/List.js" timestamp="1510462038577">
-        <mark key="[" line="133" column="61" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/List.js" timestamp="1510465843481">
+        <mark key="[" line="133" column="46" />
         <mark key="]" line="133" column="67" />
         <mark key="." line="133" column="67" />
         <mark key="^" line="133" column="67" />
@@ -325,11 +325,11 @@
       <jump line="61" column="0" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/main/Main.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>idddsp-inner-dept:create</text>
       </register>
       <register name="-" type="4">
-        <text>sessionStorage.getItem('loggedIn');</text>
+        <text>idddsp-inner-dept:create</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlcXVpcG1lbnRzXD4=</text>
