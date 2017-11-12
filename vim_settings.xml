@@ -121,12 +121,12 @@
         <mark key="^" line="23" column="24" />
         <mark key="." line="23" column="24" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ItemSelector.js" timestamp="1510496445753">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ItemSelector.js" timestamp="1510497296383">
         <mark key="'" line="117" column="28" />
-        <mark key="[" line="192" column="33" />
-        <mark key="]" line="192" column="34" />
-        <mark key="." line="192" column="34" />
-        <mark key="^" line="192" column="34" />
+        <mark key="[" line="315" column="25" />
+        <mark key="]" line="315" column="25" />
+        <mark key="^" line="295" column="55" />
+        <mark key="." line="315" column="25" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/StopChargingRequestSummaryDto.java" timestamp="1510302014648">
         <mark key="[" line="9" column="68" />
@@ -445,24 +445,36 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>equipmeawtId</text>
+        <text>this.store.findRecord('equipmentId', rec.get('equipmentId'));</text>
       </register>
       <register name="-" type="4">
-        <text>equipmeawtId</text>
+        <text>this.store.findRecord('equipmentId', rec.get('equipmentId'));</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgd2lkdGg6IDE0MAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVjLmdldCgncHJlb3JkZXInKSA9PT0gcHJvcHMucHJlb3JkZXIgJiYK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmxleDogMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlcXVpcG1lbnRJZDogcmVjLmdldCgnZXF1aXBtZW50SWQnKSwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBwcm9wcyA9IHsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmxleDogMQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmbGV4OiAxLAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>function (val, metaData) {
                                 if (val) {
                                     metaData.tdStyle = 'color: orange';
@@ -473,7 +485,7 @@
                                 }
                             },</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>function(value, metaData, rec) {
                                 var preorder = rec.get('preorder');
                                 if (preorder) {
@@ -484,20 +496,8 @@
                                 return txtDic[value.toString()];
                             },</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZXF1aXBtZW50T25saW5lUmVwb3NpdG9yeS5nZXRDaGFyZ2luZ0VxdWlwbWVudHNCeVNpdGVJZChwcm9qSWQpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PEludmVudG9yeUl0ZW1EdG8+IGdldENoYXJnaW5nRXF1aXBtZW50c0J5UHJvaklkKExvbmcgcHJvaklkKSB7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIExpc3Q8SW52ZW50b3J5SXRlbUR0bz4gZ2V0Q2hhcmdpbmdFcXVpcG1lbnRzQnlQcm9qSWQoTG9uZyBwcm9qSWQpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
