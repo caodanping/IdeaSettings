@@ -87,7 +87,12 @@
         <mark key="^" line="59" column="61" />
         <mark key="." line="59" column="61" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/controller/Root.js" timestamp="1510458101003" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/controller/Root.js" timestamp="1510458908852">
+        <mark key="[" line="121" column="36" />
+        <mark key="]" line="123" column="53" />
+        <mark key="." line="123" column="53" />
+        <mark key="^" line="123" column="53" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentServiceImpl.java" timestamp="1480319174341">
         <mark key="[" line="93" column="19" />
         <mark key="]" line="93" column="19" />
@@ -161,6 +166,12 @@
         <mark key="]" line="43" column="32" />
         <mark key="^" line="43" column="32" />
         <mark key="." line="43" column="32" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/main/Main.js" timestamp="1510458605018">
+        <mark key="[" line="60" column="77" />
+        <mark key="]" line="60" column="77" />
+        <mark key="^" line="60" column="77" />
+        <mark key="." line="60" column="77" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/SystemController.java" timestamp="1510454539411" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/mtw/ConfirmInModel.js" timestamp="1490063332450">
@@ -301,39 +312,32 @@
       <jump line="106" column="27" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StopChargingRequest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aWQg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlc3Npb25TdG9yYWdlLnNldEl0ZW0oJ2xvZ2dlZEluJywgJ3RydWUnKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aWQg</text>
+        <text>app</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlcXVpcG1lbnRzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>{
-        StopChargingRequest req = stopChargingRequestRepository.findOne(id);
-        req.setState(StopChargingRequest.State.APPROVED);
-        req.setComments(comments);
-        req.setAuditUser(currentUser());
-        req.setAuditDate(new Date());
-        stopChargingRequestRepository.delete(req);
-    }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlc3Npb25TdG9yYWdlLnNldEl0ZW0oJ2xvZ2dlZEluJywgJ3RydWUnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlcXVpcG1lbnRTZXJ2aWNlVjIucmVjb3JkRXF1aXBtZW50U3RhdGVFbmQocmVxLmdldFByb2ooKUMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlc3Npb25TdG9yYWdlLnNldEl0ZW0oJ3Nlc3Npb24nLCBKU09OLnN0cmluZ2lmeSgpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBlcXVpcG1lbnRTZXJ2aWNlVjIucmVjb3JkRXF1aXBtZW50U3RhdGVFbmQocmVxLmdldFByb2ooKUMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxPcGVyYXRpb25FeGNlcHRpb24oIrjD17TMrLK7v8nJvrP9Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXJlcS5pc0NhbmNlbGxlZCgpIHx8IHJlcS5nZXRBdWRpdERhdGUoKSAhPSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxPcGVyYXRpb25FeGNlcHRpb24oIrjD17TMrLK7v8nJvrP9Iik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXJlcS5pc0NhbmNlbGxlZCgpIHx8IHJlcS5nZXRBdWRpdERhdGUoKSAhPSBudWxsKSB7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -342,10 +346,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDQU5DRUxMRUQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlcXVpcG1lbnREZXRhaWxSZXBvc2l0b3J5LmdldAo=</text>
+        <text encoding="base64">ICAgICAgICBDQU5DRUxMRUQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
