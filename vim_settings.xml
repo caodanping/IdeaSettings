@@ -106,6 +106,12 @@
         <mark key="." line="122" column="34" />
         <mark key="^" line="122" column="34" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/List.js" timestamp="1510461962946">
+        <mark key="[" line="109" column="65" />
+        <mark key="]" line="115" column="22" />
+        <mark key="." line="115" column="22" />
+        <mark key="^" line="115" column="22" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentServiceV2Impl.java" timestamp="1509593668871">
         <mark key="[" line="488" column="62" />
         <mark key="]" line="488" column="73" />
@@ -195,11 +201,10 @@
         <mark key="^" line="21" column="38" />
         <mark key="." line="21" column="38" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/Application.js" timestamp="1510460429430">
-        <mark key="[" line="143" column="8" />
-        <mark key="]" line="145" column="45" />
-        <mark key="^" line="145" column="45" />
-        <mark key="." line="145" column="45" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/Application.js" timestamp="1510461676862">
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/EquipmentService.java" timestamp="1480318877476">
         <mark key="[" line="36" column="62" />
@@ -320,8 +325,8 @@
       <jump line="61" column="0" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/main/Main.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>sessionStorage.getItem('loggedIn');</text>
@@ -336,25 +341,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZWRJbiA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlc3Npb25TdG9yYWdlLnNldEl0ZW0oJ3Nlc3Npb24nLCBKU09OLnN0cmluZ2lmeSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZWRJbiA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlcXVpcG1lbnRTZXJ2aWNlVjIucmVjb3JkRXF1aXBtZW50U3RhdGVFbmQocmVxLmdldFByb2ooKUMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlc3Npb25TdG9yYWdlLnNldEl0ZW0oJ3Nlc3Npb24nLCBKU09OLnN0cmluZ2lmeSgpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBlcXVpcG1lbnRTZXJ2aWNlVjIucmVjb3JkRXF1aXBtZW50U3RhdGVFbmQocmVxLmdldFByb2ooKUMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxPcGVyYXRpb25FeGNlcHRpb24oIrjD17TMrLK7v8nJvrP9Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXJlcS5pc0NhbmNlbGxlZCgpIHx8IHJlcS5nZXRBdWRpdERhdGUoKSAhPSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxPcGVyYXRpb25FeGNlcHRpb24oIrjD17TMrLK7v8nJvrP9Iik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXJlcS5pc0NhbmNlbGxlZCgpIHx8IHJlcS5nZXRBdWRpdERhdGUoKSAhPSBudWxsKSB7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -396,8 +401,6 @@
         <entry encoding="base64">XDxlcXVpcG1lbnRzXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5tMTY2</entry>
-        <entry encoding="base64">JzwsJz5tMTQ5</entry>
         <entry encoding="base64">JzwsJz5tNDM=</entry>
         <entry encoding="base64">JzwsJz5tNDU=</entry>
         <entry encoding="base64">JzwsJz5tMg==</entry>
@@ -415,6 +418,8 @@
         <entry>wq</entry>
         <entry>10</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz5tMTM4</entry>
+        <entry encoding="base64">JzwsJz5tMTQ0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
