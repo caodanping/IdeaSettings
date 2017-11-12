@@ -154,12 +154,12 @@
         <mark key="." line="10" column="16" />
         <mark key="^" line="10" column="16" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StopChargingRequest.java" timestamp="1510454098157">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StopChargingRequest.java" timestamp="1510455926528">
         <mark key="'" line="106" column="27" />
-        <mark key="[" line="48" column="27" />
-        <mark key="]" line="51" column="27" />
-        <mark key="^" line="51" column="27" />
-        <mark key="." line="51" column="27" />
+        <mark key="[" line="43" column="5" />
+        <mark key="]" line="43" column="32" />
+        <mark key="^" line="43" column="32" />
+        <mark key="." line="43" column="32" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/SystemController.java" timestamp="1510454539411" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/mtw/ConfirmInModel.js" timestamp="1490063332450">
@@ -175,11 +175,11 @@
         <mark key="^" line="118" column="132" />
         <mark key="." line="118" column="132" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/PermissionRepository.java" timestamp="1510454827265">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="21" column="112" />
-        <mark key="^" line="21" column="112" />
-        <mark key="." line="21" column="112" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/PermissionRepository.java" timestamp="1510456541157">
+        <mark key="[" line="21" column="29" />
+        <mark key="]" line="21" column="38" />
+        <mark key="^" line="21" column="38" />
+        <mark key="." line="21" column="38" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/EquipmentService.java" timestamp="1480318877476">
         <mark key="[" line="36" column="62" />
@@ -300,11 +300,11 @@
       <jump line="106" column="27" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StopChargingRequest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlcXVpcG1lbnRTZXJ2aWNlVjIucmVjb3JkRXF1aXBtZW50U3RhdGVFbmQocmVxLmdldFByb2ooKUMK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aWQg</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">aWQg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlcXVpcG1lbnRzXD4=</text>
