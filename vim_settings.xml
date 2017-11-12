@@ -9,9 +9,6 @@
         <mark key="^" line="6" column="56" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1510318792624">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1510318293202">
         <mark key="[" line="204" column="4" />
         <mark key="]" line="209" column="37" />
@@ -24,6 +21,7 @@
         <mark key="^" line="65" column="47" />
         <mark key="." line="65" column="47" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/mtw/Edit.js" timestamp="1510471668626" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/SiteService.java" timestamp="1480475225428">
         <mark key="[" line="52" column="22" />
         <mark key="]" line="30" column="3" />
@@ -44,6 +42,7 @@
         <mark key="^" line="121" column="38" />
         <mark key="." line="123" column="0" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/mtw/EditModel.js" timestamp="1510471747560" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentServiceV2Impl.java" timestamp="1509593668871">
         <mark key="[" line="488" column="62" />
         <mark key="]" line="488" column="73" />
@@ -55,6 +54,12 @@
         <mark key="]" line="15" column="54" />
         <mark key="^" line="15" column="54" />
         <mark key="." line="15" column="54" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/EditModel.js" timestamp="1510471896608">
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="7" column="17" />
+        <mark key="^" line="7" column="17" />
+        <mark key="." line="7" column="17" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchingService.java" timestamp="1480318640836">
         <mark key="[" line="95" column="45" />
@@ -105,14 +110,18 @@
         <mark key="." line="62" column="33" />
         <mark key="^" line="62" column="33" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/StopChargingRequestItemInputDto.java" timestamp="1510305381982">
-        <mark key="[" line="7" column="46" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/StopChargingRequestDto.java" timestamp="1510305107622">
         <mark key="[" line="5" column="30" />
         <mark key="]" line="5" column="30" />
         <mark key="^" line="5" column="30" />
         <mark key="." line="5" column="30" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/Edit.js" timestamp="1510472760100">
+        <mark key="'" line="16" column="14" />
+        <mark key="[" line="62" column="33" />
+        <mark key="]" line="62" column="38" />
+        <mark key="." line="62" column="38" />
+        <mark key="^" line="62" column="38" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ConfirmIn.js" timestamp="1480303884947">
         <mark key="[" line="70" column="5" />
@@ -238,13 +247,8 @@
         <mark key="." line="32" column="32" />
         <mark key="^" line="32" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1510305119652">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="468" column="14" filename="D:/Home/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
-      <jump line="478" column="43" filename="D:/Home/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
       <jump line="486" column="64" filename="D:/Home/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
       <jump line="498" column="69" filename="D:/Home/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
       <jump line="501" column="20" filename="D:/Home/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
@@ -343,13 +347,15 @@
       <jump line="81" column="56" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ListController.js" />
       <jump line="99" column="56" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ListController.js" />
       <jump line="118" column="39" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ListController.js" />
+      <jump line="133" column="3" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/Edit.js" />
+      <jump line="16" column="14" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/Edit.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>fromcawcccccateId</text>
       </register>
       <register name="-" type="4">
-        <text>onCreate: function () {</text>
+        <text>fromcawcccccateId</text>
       </register>
       <register name="/" type="4">
         <text>mtw</text>
@@ -357,32 +363,32 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="1" type="4">
+        <text encoding="base64">LCB7CiAgICAgICAgICAgICAgICAgICAgeHR5cGU6ICdjb21ib2JveCcsCiAgICAgICAgICAgICAgICAgICAgZmllbGRMYWJlbDogJ8S/seqy1r/iJywKICAgICAgICAgICAgICAgICAgICBhbGxvd0JsYW5rOiBmYWxzZSwKICAgICAgICAgICAgICAgICAgICBlbXB0eVRleHQ6ICItLcfr0aHU8S0tIiwKICAgICAgICAgICAgICAgICAgICBkaXNwbGF5RmllbGQ6ICJ2YWx1ZSIsCiAgICAgICAgICAgICAgICAgICAgdmFsdWVGaWVsZDogImtleSIsCiAgICAgICAgICAgICAgICAgICAgc3RvcmU6IHsKICAgICAgICAgICAgICAgICAgICAgICAgbW9kZWw6ICdMZW1zLm1vZGVsLldhcmVob3VzZScsCiAgICAgICAgICAgICAgICAgICAgICAgIHByb3h5OiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0eXBlOiAnYWpheCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB1cmw6ICd3YXJlaG91c2VzL3VuY2FuY2VsbGVkJwogICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICBhdXRvTG9hZDogdHJ1ZQogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgYmluZDogewogICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZTogJ3t0b1NpdGVJZH0nCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSwg</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBzdWJtaXREYXRhLnZlcnNpb24gPSB2bS5nZXQoInZlcnNpb24iKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzdWJtaXREYXRhLnRvU2l0ZUlkID0gdm0uZ2V0KCJ0b1NpdGVJZCIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExlbXMuTXNnLmVycm9yKG9iai5tZXNzYWdlKTsK</text>
+        <text encoding="base64">ICAgIGNvbnRyb2xsZXI6ICJtdHctZWRpdCIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBvYmogPSBFeHQuZGVjb2RlKHJlc3AucmVzcG9uc2VUZXh0KTsK</text>
+        <text encoding="base64">ICAgICAgICB0b1NpdGVJZDogbnVsbCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmFpbHVyZTogZnVuY3Rpb24gKHJlc3ApIHsK</text>
+        <text encoding="base64">ICAgICAgICBmcm9tU2l0ZUlkOiBudWxsLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZXcuZ2V0U3RvcmUoKS5yZWxvYWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExlbXMuTXNnLmluZm8ob2JqLm1lc3NhZ2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
