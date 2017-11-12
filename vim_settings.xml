@@ -16,7 +16,14 @@
         <mark key="." line="24" column="39" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/EquipmentEntryV2Dto.java" timestamp="1510491767832" />
-      <file name="/a.dummy" timestamp="1510500531146">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/dto/StopChargingRequestDto.java" timestamp="1510503841559">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="92" />
+        <mark key="^" line="25" column="27" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1510503313571">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/DetailModel.js" timestamp="1510474863146">
@@ -97,7 +104,7 @@
         <mark key="^" line="69" column="11" />
         <mark key="." line="69" column="11" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/dto/StopChargingRequestSummaryDto.java" timestamp="1510469165846">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/dto/StopChargingRequestSummaryDto.java" timestamp="1510503629177">
         <mark key="[" line="25" column="144" />
         <mark key="]" line="32" column="38" />
         <mark key="." line="32" column="38" />
@@ -249,11 +256,17 @@
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/equipment/List.js" timestamp="1510494440089">
         <mark key="'" line="2" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/StopChargingRequestController.java" timestamp="1510454369232">
-        <mark key="[" line="58" column="9" />
-        <mark key="]" line="59" column="61" />
-        <mark key="^" line="59" column="61" />
-        <mark key="." line="59" column="61" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/dto/StopChargingRequestItemDto.java" timestamp="1510504044760">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="19" column="37" />
+        <mark key="^" line="19" column="37" />
+        <mark key="." line="19" column="37" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/StopChargingRequestController.java" timestamp="1510503044999">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="28" column="56" />
+        <mark key="^" line="28" column="56" />
+        <mark key="." line="28" column="56" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentServiceImpl.java" timestamp="1480319174341">
         <mark key="[" line="93" column="19" />
@@ -337,16 +350,8 @@
       <file name="/fragment.java" timestamp="1510493190302">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/ProjectController.java" timestamp="1510492760703">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="4" />
-        <mark key="." line="33" column="4" />
-        <mark key="^" line="33" column="4" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="545" column="49" filename="D:/Home/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
-      <jump line="546" column="46" filename="D:/Home/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
       <jump line="554" column="54" filename="D:/Home/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
       <jump line="565" column="54" filename="D:/Home/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
       <jump line="577" column="57" filename="D:/Home/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
@@ -445,19 +450,21 @@
       <jump line="57" column="30" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/Edit.js" />
       <jump line="2" column="0" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/equipment/List.js" />
       <jump line="116" column="28" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ItemSelector.js" />
+      <jump line="25" column="28" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/dto/StopChargingRequestDto.java" />
+      <jump line="0" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/dto/StopChargingRequestDto.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>appliedTime</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIFN0b3BDaGFyZ2luZ1JlcXVlc3RJdGVtRHRvIHsKICAgIHByaXZhdGUgTG9uZyBlcXVpcG1lbnRJZDsK</text>
       </register>
       <register name="-" type="4">
-        <text>appliedTime</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHJlYyA9IHRoaXMuYXZhaWxhYmxlRW50cmllc1N0b3JlLmZpbmRSZWNvcmQoJ2VxdWlwbWVudElkJywgZXF1aXBJZCk7Cg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFN0b3BDaGFyZ2luZ1JlcXVlc3RJdGVtRHRvIHsKICAgIHByaXZhdGUgTG9uZyBlcXVpcG1lbnRJZDsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
