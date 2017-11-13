@@ -71,6 +71,12 @@
         <mark key="." line="25" column="10" />
         <mark key="^" line="25" column="10" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/equipStateRec/List.js" timestamp="1510536389855">
+        <mark key="[" line="56" column="46" />
+        <mark key="]" line="74" column="32" />
+        <mark key="^" line="74" column="32" />
+        <mark key="." line="74" column="32" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/mtw/EditController.js" timestamp="1510487089523" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/controller/Root.js" timestamp="1510459646285">
         <mark key="'" line="121" column="38" />
@@ -80,7 +86,7 @@
         <mark key="." line="123" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/mtw/EditModel.js" timestamp="1510471747560" />
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentServiceV2Impl.java" timestamp="1510511279488">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentServiceV2Impl.java" timestamp="1510536471068">
         <mark key="[" line="766" column="72" />
         <mark key="]" line="766" column="92" />
         <mark key="." line="766" column="92" />
@@ -169,7 +175,7 @@
         <mark key="^" line="309" column="7" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/SystemController.java" timestamp="1510454539411" />
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/ShippingServiceImpl.java" timestamp="1510535587536" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/ShippingServiceImpl.java" timestamp="1510536461889" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/PermissionRepository.java" timestamp="1510456541157">
         <mark key="[" line="21" column="29" />
         <mark key="]" line="21" column="38" />
