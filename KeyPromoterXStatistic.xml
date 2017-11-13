@@ -22,7 +22,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>42</Count>
+          <Count>43</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'HibernateJPATest.testJpaFetchi...'">
@@ -79,6 +79,14 @@
           <ShortCut>'Alt+F7'</ShortCut>
           <Description>Find Usages</Description>
           <Count>37</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find...">
+        <Item>
+          <IdeaActionID>Find</IdeaActionID>
+          <ShortCut>'Ctrl+F'</ShortCut>
+          <Description>Find...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -198,7 +206,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'lems [jetty:run]'</Description>
-          <Count>54</Count>
+          <Count>55</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'lems [org.eclipse.jetty:jetty-maven-plugin:9.2.19.v20160908:run]'">
