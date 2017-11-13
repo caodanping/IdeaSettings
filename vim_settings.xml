@@ -32,6 +32,10 @@
         <mark key="." line="2" column="41" />
         <mark key="^" line="2" column="41" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/ConfigRenderer.js" timestamp="1510543920249">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="26" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1510318293202">
         <mark key="[" line="204" column="4" />
         <mark key="]" line="209" column="37" />
@@ -51,17 +55,23 @@
         <mark key="." line="24" column="39" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/mtw/Edit.js" timestamp="1510471668626" />
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/Detail.js" timestamp="1510542927546">
-        <mark key="[" line="82" column="21" />
-        <mark key="]" line="82" column="21" />
-        <mark key="^" line="82" column="21" />
-        <mark key="." line="82" column="21" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/Detail.js" timestamp="1510544386502">
+        <mark key="[" line="78" column="34" />
+        <mark key="]" line="78" column="35" />
+        <mark key="^" line="78" column="35" />
+        <mark key="." line="78" column="35" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/SiteService.java" timestamp="1480475225428">
         <mark key="[" line="52" column="22" />
         <mark key="]" line="30" column="3" />
         <mark key="." line="30" column="3" />
         <mark key="^" line="30" column="3" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/Renders.js" timestamp="1510543331738">
+        <mark key="[" line="46" column="5" />
+        <mark key="]" line="46" column="5" />
+        <mark key="^" line="46" column="5" />
+        <mark key="." line="46" column="5" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/mtw/List.js" timestamp="1510470753641" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/mtw/AuditController.js" timestamp="1510476840731" />
@@ -104,6 +114,12 @@
         <mark key="^" line="16" column="54" />
         <mark key="." line="16" column="54" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/Renders.js" timestamp="1510544085521">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="46" column="5" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/EditModel.js" timestamp="1510471896608">
         <mark key="[" line="7" column="8" />
         <mark key="]" line="7" column="17" />
@@ -141,7 +157,7 @@
         <mark key="^" line="23" column="24" />
         <mark key="." line="23" column="24" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ItemSelector.js" timestamp="1510543005834">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ItemSelector.js" timestamp="1510543260259">
         <mark key="'" line="117" column="28" />
         <mark key="[" line="1" column="4" />
         <mark key="]" line="37" column="4" />
@@ -292,11 +308,11 @@
         <mark key="." line="118" column="34" />
         <mark key="^" line="116" column="42" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/dto/StopChargingRequestItemDto.java" timestamp="1510505090909">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="19" column="57" />
-        <mark key="." line="24" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/dto/StopChargingRequestItemDto.java" timestamp="1510544458625">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="37" column="35" />
+        <mark key="^" line="37" column="35" />
+        <mark key="." line="37" column="35" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/StopChargingRequestController.java" timestamp="1510508366602">
         <mark key="[" line="59" column="58" />
@@ -345,7 +361,7 @@
         <mark key="^" line="18" column="30" />
         <mark key="." line="18" column="30" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/EquipmentEntryGrid.js" timestamp="1510542862404" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/EquipmentEntryGrid.js" timestamp="1510543669930" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/UserService.java" timestamp="1510454549453" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/StopChargingRequestService.java" timestamp="1510493847433" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StopChargingRequest.java" timestamp="1510508968073">
@@ -386,11 +402,17 @@
       <file name="/fragment.java" timestamp="1510541022545">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/StopChargingRequestRepositoryImpl.java" timestamp="1510507923957">
-        <mark key="[" line="28" column="92" />
-        <mark key="]" line="29" column="16" />
-        <mark key="^" line="29" column="16" />
-        <mark key="." line="29" column="16" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/StopChargingRequestRepositoryImpl.java" timestamp="1510544487868">
+        <mark key="[" line="41" column="32" />
+        <mark key="]" line="41" column="33" />
+        <mark key="^" line="41" column="33" />
+        <mark key="." line="41" column="33" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/ProjectController.java" timestamp="1510492760703">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="4" />
+        <mark key="." line="33" column="4" />
+        <mark key="^" line="33" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -497,43 +519,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>var clsDic = {
-            &quot;0&quot;: &quot;state-idle&quot;,
-            &quot;1&quot;: &quot;state-using&quot;,
-            &quot;2&quot;: &quot;state-freezen&quot;,
-            &quot;3&quot;: &quot;state-shipping&quot;,
-            &quot;4&quot;: &quot;state-repairing&quot;,
-            &quot;5&quot;: &quot;state-lent&quot;,
-            &quot;6&quot;: &quot;state-broken&quot;
-        },
-
-        txtDic = {
-            &quot;0&quot;: &quot;闲置&quot;,
-            &quot;1&quot;: &quot;使用中&quot;,
-            &quot;2&quot;: &quot;已预订&quot;,
-            &quot;3&quot;: &quot;运送中&quot;,
-            &quot;4&quot;: &quot;维修中&quot;,
-            &quot;5&quot;: &quot;借出中&quot;,
-            &quot;6&quot;: &quot;报废&quot;
-        };
-    function renderState(value, metaData, rec) {
-        var preorder = rec.get('preorder');
-        if (preorder) {
-            metaData.tdCls = 'state-freezen';
-            return txtDic[value.toString()] + '(已预订)';
-        }
-        metaData.tdCls = clsDic[value.toString()];
-        return txtDic[value.toString()];
-    }
-    function renderCharging(val, metaData) {
-        if (val) {
-            metaData.tdStyle = 'color: orange';
-            return '计费中';
-        } else {
-            metaData.tdStyle = 'color: #ccc';
-            return '未计费';
-        }
-    }</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiaW5kOiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGl0ZW1zOiAne2l0ZW1zfScKICAgICAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name="-" type="4">
         <text>equipgrid</text>
@@ -541,71 +527,35 @@
       <register name="/" type="4">
         <text>cancel</text>
       </register>
-      <register name="0" type="4">
-        <text>var clsDic = {
-            &quot;0&quot;: &quot;state-idle&quot;,
-            &quot;1&quot;: &quot;state-using&quot;,
-            &quot;2&quot;: &quot;state-freezen&quot;,
-            &quot;3&quot;: &quot;state-shipping&quot;,
-            &quot;4&quot;: &quot;state-repairing&quot;,
-            &quot;5&quot;: &quot;state-lent&quot;,
-            &quot;6&quot;: &quot;state-broken&quot;
-        },
-
-        txtDic = {
-            &quot;0&quot;: &quot;闲置&quot;,
-            &quot;1&quot;: &quot;使用中&quot;,
-            &quot;2&quot;: &quot;已预订&quot;,
-            &quot;3&quot;: &quot;运送中&quot;,
-            &quot;4&quot;: &quot;维修中&quot;,
-            &quot;5&quot;: &quot;借出中&quot;,
-            &quot;6&quot;: &quot;报废&quot;
-        };
-    function renderState(value, metaData, rec) {
-        var preorder = rec.get('preorder');
-        if (preorder) {
-            metaData.tdCls = 'state-freezen';
-            return txtDic[value.toString()] + '(已预订)';
-        }
-        metaData.tdCls = clsDic[value.toString()];
-        return txtDic[value.toString()];
-    }
-    function renderCharging(val, metaData) {
-        if (val) {
-            metaData.tdStyle = 'color: orange';
-            return '计费中';
-        } else {
-            metaData.tdStyle = 'color: #ccc';
-            return '未计费';
-        }
-    }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZW5kZXJFcXVpcFN0YXRlOiByZW5kZXJFcXVpcFN0YXRlLAogICAgICAgIHJlbmRlckNoYXJnaW5nOiByZW5kZXJDaGFyZ2luZwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiaW5kOiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGl0ZW1zOiAne2l0ZW1zfScKICAgICAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUYXNrIHRhc2sgPSB0YXNrU2VydmljZS5maW5kVGFzayhEaXNwYXRjaGluZy5GTE9XX05BTUVfRElTUEFUQ0hJTkcsIERpc3BhdGNoaW5nLlRBU0tfTkFNRV9DT05GSVJNX09VVCwgRGlzcGF0Y2hpbmdSb3V0ZS5jbGFzcy5nZXROYW1lKCksIHJvdXRlLmdldElkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAnTGVtcy52aWV3LkVxdWlwbWVudEVudHJ5R3JpZCcsCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZGlzcC5zZXREaXNwYXRjaGVkQnkodXNlcik7CiAgICAgICAgZGlzcC5zZXREaXNwYXRjaGVkRGF0ZShuZXcgRGF0ZSgpKTsKICAgICAgICBkaXNwLnNldFN0YXRlKERpc3BhdGNoaW5nLlN0YXRlLlBFTkRJTkdfT1VUKTsKICAgICAgICBmb3IgKERpc3BhdGNoUm91dGVJbnB1dER0byByIDogZGF0YS5nZXRSb3V0ZXMoKSkgewogICAgICAgICAgICBhZGREaXNwYXRjaGluZ1JvdXRlKGRpc3AsIHIpOwogICAgICAgIH0KCiAgICAgICAgLy8gzeqzybX3tsjIzs7xCiAgICAgICAgVGFzayB0YXNrID0gdGFza1NlcnZpY2UuZmluZFRhc2soRGlzcGF0Y2hpbmcuRkxPV19OQU1FX0RJU1BBVENISU5HLCBEaXNwYXRjaGluZy5UQVNLX05BTUVfRElTUEFUQ0hJTkcsIERpc3BhdGNoaW5nLmNsYXNzLmdldE5hbWUoKSwgZGlzcC5nZXRJZCgpKTsKICAgICAgICB0YXNrU2VydmljZS5jb21wbGV0ZVRhc2sodGFzay5nZXRJZCgpLCBudWxsKTsKCiAgICAgICAgZGlzcGF0Y2hpbmdSZXBvc2l0b3J5LnNhdmUoZGlzcCk7CiAgICB9CgogICAgQFRyYW5zYWN0aW9uYWwKICAgIHB1YmxpYyBEaXNwYXRjaGluZ1dpdGhSb3V0ZXNEdG8gZ2V0RGlzcGF0Y2hSb3V0ZXMoTG9uZyBkaXNwYXRjaGluZ0lkKSB7CiAgICAgICAgRGlzcGF0Y2hpbmcgZGlzcCA9IGRpc3BhdGNoaW5nUmVwb3NpdG9yeS5maW5kRGlzcGF0Y2goZGlzcGF0Y2hpbmdJZCk7CiAgICAgICAgcmV0dXJuIHRvRGlzcGF0Y2hpbmdSb3V0ZXNEdG8oZGlzcCk7CiAgICB9CgogICAgcHJpdmF0ZSBEaXNwYXRjaGluZ1dpdGhSb3V0ZXNEdG8gdG9EaXNwYXRjaGluZ1JvdXRlc0R0byhEaXNwYXRjaGluZyBkaXNwKSB7CiAgICAgICAgRGlzcGF0Y2hpbmdXaXRoUm91dGVzRHRvIG91dCA9IG5ldyBEaXNwYXRjaGluZ1dpdGhSb3V0ZXNEdG8oKTsKICAgICAgICBvdXQuc2V0SWQoZGlzcC5nZXRJZCgpKTsKICAgICAgICBvdXQuc2V0U2VyaWFsTnVtYmVyKGRpc3AuZ2V0U2VyaWFsTnVtYmVyKCkpOwogICAgICAgIG91dC5zZXRQcm9qZWN0TnVtYmVyKGRpc3AuZ2V0RGViaXQoKS5nZXRQcm9qZWN0TnVtYmVyKCkpOwogICAgICAgIG91dC5zZXRQcm9qZWN0TmFtZShkaXNwLmdldERlYml0KCkuZ2V0TmFtZSgpKTsKICAgICAgICBvdXQuc2V0TWFuYWdlcklkKGRpc3AuZ2V0RGViaXQoKS5nZXRNYW5hZ2VyKCkuZ2V0SWQoKSk7CiAgICAgICAgb3V0LnNldE1hbmFnZXJOYW1lKGRpc3AuZ2V0RGViaXQoKS5nZXRNYW5hZ2VyKCkuZ2V0RnVsbE5hbWUoKSk7CiAgICAgICAgb3V0LnNldE1hbmFnZXJQaG9uZShkaXNwLmdldERlYml0KCkuZ2V0TWFuYWdlcigpLmdldE1vYmlsZSgpKTsKICAgICAgICBvdXQuc2V0UmVxdWlyZW1lbnRzKER0b0RvbWFpbkNvbnZlcnRlci5lcXVpcG1lbnRTcGVjRW50cnlUb0R0b3MoZGlzcC5nZXRSZXF1aXJlbWVudHMoKSkpOwogICAgICAgIExpc3Q8RGlzcGF0Y2hSb3V0ZU91dHB1dER0bz4gcm91dGVzID0gbmV3IEFycmF5TGlzdDxEaXNwYXRjaFJvdXRlT3V0cHV0RHRvPihkaXNwLmdldFJvdXRlcygpLnNpemUoKSk7CiAgICAgICAgZm9yIChEaXNwYXRjaGluZ1JvdXRlIHJvdXRlIDogZGlzcC5nZXRSb3V0ZXMoKSkgewogICAgICAgICAgICBEaXNwYXRjaFJvdXRlT3V0cHV0RHRvIHIgPSBuZXcgRGlzcGF0Y2hSb3V0ZU91dHB1dER0bygpOwogICAgICAgICAgICByLnNldFJvdXRlSWQocm91dGUuZ2V0SWQoKSk7CiAgICAgICAgICAgIHIuc2V0RXF1aXBtZW50RW50cmllcyhlcXVpcG1lbnRTcGVjRW50cnlUb0R0b3Mocm91dGUuZ2V0RGlzcGF0Y2hlZEVudHJpZXMoKSkpOwogICAgICAgICAgICByLnNldENyZWRpdChkdG9Eb21haW5Db252ZXJ0ZXIudG9TaXRlRGV0YWlsRHRvKHJvdXRlLmdldENyZWRpdCgpKSk7CiAgICAgICAgICAgIHJvdXRlcy5hZGQocik7CiAgICAgICAgfQogICAgICAgIG91dC5zZXRSb3V0ZXMocm91dGVzKTsKICAgICAgICBvdXQuc2V0RGViaXQodG9TaXRlUmVxdWlyZW1lbnREZXRhaWxEdG8oZGlzcCkpOwogICAgICAgIHJldHVybiBvdXQ7CiAgICB9CgogICAgLyoqCiAgICAgKiDQ3rjEtfe2yNDFz6KhowogICAgICoKICAgICAqIEBwYXJhbSBkYXRhCiAgICAgKi8KICAgIEBUcmFuc2FjdGlvbmFsCiAgICBwdWJsaWMgdm9pZCBjaGFuZ2VEaXNwYXRjaChEaXNwYXRjaElucHV0RHRvIGRhdGEpIHsKICAgICAgICBEaXNwYXRjaGluZyBkaXNwID0gZGlzcGF0Y2hpbmdSZXBvc2l0b3J5LmZpbmRPbmUoZGF0YS5nZXREaXNwYXRjaGluZ0lkKCkpOwogICAgICAgIFVzZXIgdXNlciA9IGN1cnJlbnRVc2VyKCk7CiAgICAgICAgZGlzcC5zZXREaXNwYXRjaGVkQnkodXNlcik7CiAgICAgICAgZGlzcC5zZXREaXNwYXRjaGVkRGF0ZShuZXcgRGF0ZSgpKTsKICAgICAgICBkaXNwLnNldFN0YXRlKERpc3BhdGNoaW5nLlN0YXRlLlBFTkRJTkdfT1VUKTsKICAgICAgICBTZXQ8RGlzcGF0Y2hpbmdSb3V0ZT4gcm91dGVzID0gbmV3IEhhc2hTZXQ8RGlzcGF0Y2hpbmdSb3V0ZT4oKTsKCiAgICAgICAgZm9yIChEaXNwYXRjaFJvdXRlSW5wdXREdG8gciA6IGdldEFkZGluZ1JvdXRlcyhkYXRhLCBkaXNwKSkgewogICAgICAgICAgICBhZGREaXNwYXRjaGluZ1JvdXRlKGRpc3AsIHIpOwogICAgICAgIH0KCiAgICAgICAgZm9yIChEaXNwYXRjaGluZ1JvdXRlIHJvdXRlIDogZ2V0UmVtb3ZpbmdSb3V0ZXMoZGF0YSwgZGlzcCkpIHsKICAgICAgICAgICAgcmVtb3ZlRGlzcGF0Y2hpbmdSb3V0ZShkaXNwLCByb3V0ZSk7CiAgICAgICAgfQoKICAgICAgICBmb3IgKERpc3BhdGNoUm91dGVJbnB1dER0byByIDogZGF0YS5nZXRSb3V0ZXMoKSkgewogICAgICAgICAgICBEaXNwYXRjaGluZ1JvdXRlIHJvdXRlID0gZ2V0Um91dGVCeUNyZWRpdElkKGRpc3AsIHIuZ2V0RnJvbVNpdGVJZCgpKTsKICAgICAgICAgICAgaWYgKHJvdXRlID09IG51bGwpIHsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9CiAgICAgICAgICAgIFNldDxFcXVpcG1lbnRTcGVjRW50cnk+IGVudHJpZXMgPSBuZXcgSGFzaFNldDxFcXVpcG1lbnRTcGVjRW50cnk+KGVxdWlwbWVudFNwZWNFbnRyaWVzRnJvbUR0b3Moci5nZXRFcXVpcG1lbnRFbnRyaWVzKCkpKTsKICAgICAgICAgICAgaWYgKEVxdWlwbWVudFNwZWNFbnRyeS5pc1NhbWUoZW50cmllcywgcm91dGUuZ2V0RGlzcGF0Y2hlZEVudHJpZXMoKSkpIHsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9CgogICAgICAgICAgICBlcXVpcG1lbnRTZXJ2aWNlVjIudW5mcmVlemVFcXVpcG1lbnRTcGVjKHJvdXRlLmdldENyZWRpdCgpLCByb3V0ZS5nZXREaXNwYXRjaGVkRW50cmllcygpLCBkaXNwLmlzSW5uZXJEZXB0KCkpOwogICAgICAgICAgICBlcXVpcG1lbnRTZXJ2aWNlVjIuZnJlZXplRXF1aXBtZW50U3BlYyhyb3V0ZS5nZXRDcmVkaXQoKSwgZW50cmllcywgZGlzcC5pc0lubmVyRGVwdCgpKTsKCiAgICAgICAgICAgIHJvdXRlLnNldERpc3BhdGNoZWRFbnRyaWVzKGVudHJpZXMpOwogICAgICAgICAgICBkaXNwYXRjaGluZ1JvdXRlUmVzcG9zaXRvcnkuc2F2ZShyb3V0ZSk7CiAgICAgICAgfQoKICAgICAgICAvLyDN6rPJtfe2yMjOzvEKLy8gICAgICAgIFRhc2sgdGFzayA9IHRhc2tTZXJ2aWNlLmZpbmRUYXNrKERpc3BhdGNoaW5nLkZMT1dfTkFNRV9ESVNQQVRDSElORywgRGlzcGF0Y2hpbmcuVEFTS19OQU1FX0RJU1BBVENISU5HLCBEaXNwYXRjaGluZy5jbGFzcy5nZXROYW1lKCksIGRpc3AuZ2V0SWQoKSk7Ci8vICAgICAgICB0YXNrU2VydmljZS5jb21wbGV0ZVRhc2sodGFzay5nZXRJZCgpLCBudWxsKTsKCiAgICAgICAgZGlzcGF0Y2hpbmdSZXBvc2l0b3J5LnNhdmUoZGlzcCk7CiAgICB9CgogICAgQFRyYW5zYWN0aW9uYWwKICAgIHB1YmxpYyB2b2lkIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">fSkoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrU2VydmljZS5jcmVhdGVUYXNrVG9Sb2xlKFN0b3BDaGFyZ2luZ1JlcXVlc3QuRkxPV19OQU1FLCBEaXNwYXRjaGluZy5UQVNLX05BTUVfQVVESVQsCg==</text>
+        <text encoding="base64">ICAgIH07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgdmlldyA9IHRoaXMuZ2V0VmlldygpLAo=</text>
+        <text encoding="base64">ICAgICAgICByZW5kZXJDaGFyZ2luZzogcmVuZGVyQ2hhcmdpbmcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmlzUHJlb3JkZXIgPSBpc1ByZW9yZGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICByZW5kZXJFcXVpcFN0YXRlOiByZW5kZXJFcXVpcFN0YXRlLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgIExlbXMuUmVuZGVycyA9IHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgdmlldyA9IHRoaXMuZ2V0VmlldygpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
