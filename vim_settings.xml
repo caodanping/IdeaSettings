@@ -197,7 +197,7 @@
         <mark key="^" line="309" column="7" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/SystemController.java" timestamp="1510454539411" />
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/ShippingServiceImpl.java" timestamp="1510536461889" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/ShippingServiceImpl.java" timestamp="1510545392009" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/PermissionRepository.java" timestamp="1510456541157">
         <mark key="[" line="21" column="29" />
         <mark key="]" line="21" column="38" />
@@ -398,6 +398,9 @@
         <mark key="]" line="32" column="32" />
         <mark key="." line="32" column="32" />
         <mark key="^" line="32" column="32" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Shipping.java" timestamp="1510545642793">
+        <mark key="[" line="97" column="55" />
       </file>
       <file name="/fragment.java" timestamp="1510541022545">
         <mark key="[" line="0" column="0" />
