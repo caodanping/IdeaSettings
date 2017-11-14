@@ -293,12 +293,6 @@
         <mark key="." line="32" column="32" />
         <mark key="^" line="32" column="32" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/ProjectController.java" timestamp="1510492760703">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="4" />
-        <mark key="." line="33" column="4" />
-        <mark key="^" line="33" column="4" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/dto/StopChargingRequestDto.java" timestamp="1510503841559">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="23" column="0" />
@@ -323,12 +317,6 @@
         <mark key="]" line="24" column="39" />
         <mark key="^" line="24" column="39" />
         <mark key="." line="24" column="39" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/Detail.js" timestamp="1510544386502">
-        <mark key="[" line="78" column="34" />
-        <mark key="]" line="78" column="35" />
-        <mark key="^" line="78" column="35" />
-        <mark key="." line="78" column="35" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/Renders.js" timestamp="1510543331738">
         <mark key="[" line="46" column="5" />
@@ -384,6 +372,7 @@
         <mark key="." line="62" column="33" />
         <mark key="^" line="62" column="33" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" timestamp="1510628694969" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/StopChargingRequestItemInputDto.java" timestamp="1510500842388">
         <mark key="[" line="9" column="33" />
         <mark key="]" line="33" column="32" />
