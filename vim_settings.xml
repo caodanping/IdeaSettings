@@ -489,11 +489,12 @@
         <mark key="." line="60" column="44" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/free/Free.js" timestamp="1510488937811" />
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/List.js" timestamp="1510641393766">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/List.js" timestamp="1510651346429">
         <mark key="'" line="66" column="30" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+        <mark key="[" line="112" column="33" />
+        <mark key="]" line="112" column="35" />
+        <mark key="." line="112" column="35" />
+        <mark key="^" line="112" column="35" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/EquipmentEntryGrid.js" timestamp="1510543669930" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/InnerDeptEdit.js" timestamp="1510645901904">
