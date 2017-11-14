@@ -369,12 +369,12 @@
         <mark key="." line="26" column="17" />
         <mark key="^" line="26" column="17" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ItemSelector.js" timestamp="1510637323748">
-        <mark key="'" line="20" column="16" />
-        <mark key="[" line="249" column="38" />
-        <mark key="]" line="249" column="61" />
-        <mark key="^" line="249" column="61" />
-        <mark key="." line="249" column="61" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ItemSelector.js" timestamp="1510638457393">
+        <mark key="'" line="254" column="51" />
+        <mark key="[" line="254" column="38" />
+        <mark key="]" line="254" column="50" />
+        <mark key="^" line="254" column="50" />
+        <mark key="." line="254" column="50" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StopChargingRequestItem.java" timestamp="1510301620272">
         <mark key="[" line="24" column="5" />
@@ -504,9 +504,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="624" column="64" filename="D:/Home/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
-      <jump line="637" column="69" filename="D:/Home/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
-      <jump line="640" column="20" filename="D:/Home/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
       <jump line="654" column="47" filename="D:/Home/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
       <jump line="671" column="49" filename="D:/Home/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
       <jump line="672" column="46" filename="D:/Home/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar!/org/slf4j/Logger.java" />
@@ -604,19 +601,22 @@
       <jump line="113" column="62" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ItemSelector.js" />
       <jump line="249" column="61" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ItemSelector.js" />
       <jump line="20" column="16" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ItemSelector.js" />
+      <jump line="29" column="16" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ItemSelector.js" />
+      <jump line="118" column="51" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ItemSelector.js" />
+      <jump line="254" column="51" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ItemSelector.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>C</text>
+        <text encoding="base64">U0VMRUNUCglzLmlkLAoJcy5TSVRFX1RZUEUgQVMgc2l0ZVR5cGUsCglzLkFERFJFU1MgQVMgYWRkcmVzcywKCXMuTEFUIEFTIGxhdCwKCXMuTE5HIEFTIGxuZywKCXMuYE5BTUVgIEFTIHNpdGVOYW1lLAoJcy5FU1RJTUFURURfT1VUX0RBVEUgQVMgZXN0aW1hdGVkT3V0RGF0ZSwKCXMuTUFOQUdFUl9JRCBBUyBtYW5hZ2VySWQsCgl1LkZVTExfTkFNRSBBUyBtYW5hZ2VyTmFtZSwKCXUuTU9CSUxFIEFTIG1hbmFnZXJQaG9uZSwKCXNlLkVRVUlQX1NQRUNfSUQgQVMgZXF1aXBTcGVjSWQsCgllcy5TUEVDX1RFWFQgQVMgZXF1aXBTcGVjVGV4dCwKCWV0LmlkIEFTIGVxdWlwVHlwZUlkLAoJZXQuYE5BTUVgIEFTIGVxdWlwVHlwZU5hbWUsCglzZS5JU19DSEFSR0lORyBBUyBpc0NoYXJnaW5nLAoJSUZOVUxMKAoJCShTRUxFQ1QKCQkJU1VNKHNzZWUuQU1PVU5UKQoJCUZST00KCQkJc3RhdGVfZXF1aXBfc3BlY19pbnZlbnRvcnkgc3NlZQoJCVdIRVJFCgkJCXNzZWUuU0lURV9JRCA9IHMuaWQKCQlBTkQgc3NlZS5FUVVJUF9TUEVDX0lEID0gc2UuRVFVSVBfU1BFQ19JRAoJCUFORCBzc2VlLklTX0NIQVJHSU5HID0gc2UuSVNfQ0hBUkdJTkcKCQlBTkQgc3NlZS5zdGF0ZSA9ICdJRExFJwoJCUFORCBzc2VlLkFNT1VOVCA+IDApCgksIDApIEFTIGlkbGVDb3VudCwKCUlGTlVMTCgKCQkoU0VMRUNUCgkJCVNVTShzc2VlLkFNT1VOVCkKCQlGUk9NCgkJCXN0YXRlX2VxdWlwX3NwZWNfaW52ZW50b3J5IHNzZWUKCQlXSEVSRQoJCQlzc2VlLlNJVEVfSUQgPSBzLmlkCgkJQU5EIHNzZWUuRVFVSVBfU1BFQ19JRCA9IHNlLkVRVUlQX1NQRUNfSUQKCQlBTkQgc3NlZS5JU19DSEFSR0lORyA9IHNlLklTX0NIQVJHSU5HCgkJQU5EIHNzZWUuc3RhdGUgPSAnVVNJTkcnCgkJQU5EIHNzZWUuQU1PVU5UID4gMCkKCSwgMCkgQVMgdXNpbmdDb3VudCwKCUlGTlVMTCgKCQkoU0VMRUNUCgkJCVNVTShzc2VlLkFNT1VOVCkKCQlGUk9NCgkJCW5hbWVkX2VxdWlwX3NwZWNfaW52ZW50b3J5IHNzZWUKCQlXSEVSRQoJCQlzc2VlLlNJVEVfSUQgPSBzLmlkCgkJQU5EIHNzZWUuRVFVSVBfU1BFQ19JRCA9IHNlLkVRVUlQX1NQRUNfSUQKCQlBTkQgc3NlZS5JU19DSEFSR0lORyA9IHNlLklTX0NIQVJHSU5HCgkJQU5EIHNzZWUubmFtZSA9ICdQUkVPUkRFUicKCQlBTkQgc3NlZS5BTU9VTlQgPiAwKQoJLCAwKSBBUyBmcmVlemVuQ291bnQsCglJRk5VTEwoCgkJKFNFTEVDVAoJCQlTVU0oc2VlLkFNT1VOVCkKCQlGUk9NCgkJCW5hbWVkX2VxdWlwX3NwZWNfaW52ZW50b3J5IHNlZQoJCVdIRVJFCgkJCXNlZS5TSVRFX0lEID0gcy5pZAoJCUFORCBzZWUuRVFVSVBfU1BFQ19JRCA9IHNlLkVRVUlQX1NQRUNfSUQKCQlBTkQgc2VlLklTX0NIQVJHSU5HID0gc2UuSVNfQ0hBUkdJTkcKCQlBTkQgc2VlLk5BTUUgPSAnQVZBSUxBQkxFJwoJCUFORCBzZWUuQU1PVU5UID4gMCkKCSwgMCkgQVMgYXZhaWxhYmxlQ291bnQKRlJPTSBzaXRlcyBzCkxFRlQgSk9JTiB1c2VycyBBUyB1IE9OIHMuTUFOQUdFUl9JRCA9IHUuSUQKTEVGVCBKT0lOCgkoU0VMRUNUIERJU1RJTkNUCgkJc2VzaS5TSVRFX0lELAoJCXNlc2kuRVFVSVBfU1BFQ19JRCwKCQlzZXNpLklTX0NIQVJHSU5HCglGUk9NCgkJc3RhdGVfZXF1aXBfc3BlY19pbnZlbnRvcnkgc2VzaQoJV0hFUkUgc2VzaS5TVEFURSBJTiAoJ0lETEUnLCAnVVNJTkcnKSkgc2UgT04gc2UuU0lURV9JRCA9IHMuaWQKTEVGVCBKT0lOIGVxdWlwX3NwZWNzIEFTIGVzIE9OIGVzLmlkID0gc2UuRVFVSVBfU1BFQ19JRApMRUZUIEpPSU4gZXF1aXBfdHlwZXMgQVMgZXQgT04gZXQuaWQgPSBlcy5FUVVJUF9UWVBFX0lECldIRVJFCgkoU0VMRUNUIFNVTShzc2VlLkFNT1VOVCkgRlJPTSBzdGF0ZV9lcXVpcF9zcGVjX2ludmVudG9yeSBzc2VlIFdIRVJFIHNzZWUuU0lURV9JRCA9IHMuaWQgQU5EIHNzZWUuQU1PVU5UID4gMCBBTkQgc3NlZS5zdGF0ZSBJTiAoJ0lETEUnLCAnVVNJTkcnKSkgPiAwCiBBTkQgc2UuSVNfQ0hBUkdJTkcgPSA/CiBPUkRFUiBCWSBzZS5JU19DSEFSR0lORyBERVND</text>
       </register>
       <register name="-" type="4">
         <text>C</text>
       </register>
       <register name="/" type="4">
-        <text>renderState</text>
+        <text>renderCharging</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkdG8uc2V0SW5uZXJEZXB0KGRpc3AuaXNJbm5lckRlcHQoKSk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">U0VMRUNUCglzLmlkLAoJcy5TSVRFX1RZUEUgQVMgc2l0ZVR5cGUsCglzLkFERFJFU1MgQVMgYWRkcmVzcywKCXMuTEFUIEFTIGxhdCwKCXMuTE5HIEFTIGxuZywKCXMuYE5BTUVgIEFTIHNpdGVOYW1lLAoJcy5FU1RJTUFURURfT1VUX0RBVEUgQVMgZXN0aW1hdGVkT3V0RGF0ZSwKCXMuTUFOQUdFUl9JRCBBUyBtYW5hZ2VySWQsCgl1LkZVTExfTkFNRSBBUyBtYW5hZ2VyTmFtZSwKCXUuTU9CSUxFIEFTIG1hbmFnZXJQaG9uZSwKCXNlLkVRVUlQX1NQRUNfSUQgQVMgZXF1aXBTcGVjSWQsCgllcy5TUEVDX1RFWFQgQVMgZXF1aXBTcGVjVGV4dCwKCWV0LmlkIEFTIGVxdWlwVHlwZUlkLAoJZXQuYE5BTUVgIEFTIGVxdWlwVHlwZU5hbWUsCglzZS5JU19DSEFSR0lORyBBUyBpc0NoYXJnaW5nLAoJSUZOVUxMKAoJCShTRUxFQ1QKCQkJU1VNKHNzZWUuQU1PVU5UKQoJCUZST00KCQkJc3RhdGVfZXF1aXBfc3BlY19pbnZlbnRvcnkgc3NlZQoJCVdIRVJFCgkJCXNzZWUuU0lURV9JRCA9IHMuaWQKCQlBTkQgc3NlZS5FUVVJUF9TUEVDX0lEID0gc2UuRVFVSVBfU1BFQ19JRAoJCUFORCBzc2VlLklTX0NIQVJHSU5HID0gc2UuSVNfQ0hBUkdJTkcKCQlBTkQgc3NlZS5zdGF0ZSA9ICdJRExFJwoJCUFORCBzc2VlLkFNT1VOVCA+IDApCgksIDApIEFTIGlkbGVDb3VudCwKCUlGTlVMTCgKCQkoU0VMRUNUCgkJCVNVTShzc2VlLkFNT1VOVCkKCQlGUk9NCgkJCXN0YXRlX2VxdWlwX3NwZWNfaW52ZW50b3J5IHNzZWUKCQlXSEVSRQoJCQlzc2VlLlNJVEVfSUQgPSBzLmlkCgkJQU5EIHNzZWUuRVFVSVBfU1BFQ19JRCA9IHNlLkVRVUlQX1NQRUNfSUQKCQlBTkQgc3NlZS5JU19DSEFSR0lORyA9IHNlLklTX0NIQVJHSU5HCgkJQU5EIHNzZWUuc3RhdGUgPSAnVVNJTkcnCgkJQU5EIHNzZWUuQU1PVU5UID4gMCkKCSwgMCkgQVMgdXNpbmdDb3VudCwKCUlGTlVMTCgKCQkoU0VMRUNUCgkJCVNVTShzc2VlLkFNT1VOVCkKCQlGUk9NCgkJCW5hbWVkX2VxdWlwX3NwZWNfaW52ZW50b3J5IHNzZWUKCQlXSEVSRQoJCQlzc2VlLlNJVEVfSUQgPSBzLmlkCgkJQU5EIHNzZWUuRVFVSVBfU1BFQ19JRCA9IHNlLkVRVUlQX1NQRUNfSUQKCQlBTkQgc3NlZS5JU19DSEFSR0lORyA9IHNlLklTX0NIQVJHSU5HCgkJQU5EIHNzZWUubmFtZSA9ICdQUkVPUkRFUicKCQlBTkQgc3NlZS5BTU9VTlQgPiAwKQoJLCAwKSBBUyBmcmVlemVuQ291bnQsCglJRk5VTEwoCgkJKFNFTEVDVAoJCQlTVU0oc2VlLkFNT1VOVCkKCQlGUk9NCgkJCW5hbWVkX2VxdWlwX3NwZWNfaW52ZW50b3J5IHNlZQoJCVdIRVJFCgkJCXNlZS5TSVRFX0lEID0gcy5pZAoJCUFORCBzZWUuRVFVSVBfU1BFQ19JRCA9IHNlLkVRVUlQX1NQRUNfSUQKCQlBTkQgc2VlLklTX0NIQVJHSU5HID0gc2UuSVNfQ0hBUkdJTkcKCQlBTkQgc2VlLk5BTUUgPSAnQVZBSUxBQkxFJwoJCUFORCBzZWUuQU1PVU5UID4gMCkKCSwgMCkgQVMgYXZhaWxhYmxlQ291bnQKRlJPTSBzaXRlcyBzCkxFRlQgSk9JTiB1c2VycyBBUyB1IE9OIHMuTUFOQUdFUl9JRCA9IHUuSUQKTEVGVCBKT0lOCgkoU0VMRUNUIERJU1RJTkNUCgkJc2VzaS5TSVRFX0lELAoJCXNlc2kuRVFVSVBfU1BFQ19JRCwKCQlzZXNpLklTX0NIQVJHSU5HCglGUk9NCgkJc3RhdGVfZXF1aXBfc3BlY19pbnZlbnRvcnkgc2VzaQoJV0hFUkUgc2VzaS5TVEFURSBJTiAoJ0lETEUnLCAnVVNJTkcnKSkgc2UgT04gc2UuU0lURV9JRCA9IHMuaWQKTEVGVCBKT0lOIGVxdWlwX3NwZWNzIEFTIGVzIE9OIGVzLmlkID0gc2UuRVFVSVBfU1BFQ19JRApMRUZUIEpPSU4gZXF1aXBfdHlwZXMgQVMgZXQgT04gZXQuaWQgPSBlcy5FUVVJUF9UWVBFX0lECldIRVJFCgkoU0VMRUNUIFNVTShzc2VlLkFNT1VOVCkgRlJPTSBzdGF0ZV9lcXVpcF9zcGVjX2ludmVudG9yeSBzc2VlIFdIRVJFIHNzZWUuU0lURV9JRCA9IHMuaWQgQU5EIHNzZWUuQU1PVU5UID4gMCBBTkQgc3NlZS5zdGF0ZSBJTiAoJ0lETEUnLCAnVVNJTkcnKSkgPiAwCiBBTkQgc2UuSVNfQ0hBUkdJTkcgPSA/CiBPUkRFUiBCWSBzZS5JU19DSEFSR0lORyBERVND</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdXJsOiAnYXZhaWwtY2hhcmdpbmctaWRsZS1lcXVpcC1lbnRyaWVzJywK</text>
@@ -650,9 +650,9 @@
       </register>
     </registers>
     <search>
-      <last-search>renderState</last-search>
+      <last-search>renderCharging</last-search>
       <last-offset />
-      <last-pattern>renderState</last-pattern>
+      <last-pattern>renderCharging</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -660,7 +660,6 @@
     </search>
     <history>
       <history-search>
-        <entry>war</entry>
         <entry>front</entry>
         <entry>click</entry>
         <entry>_markerItemPair</entry>
@@ -680,6 +679,7 @@
         <entry>cancel</entry>
         <entry>getConfirm</entry>
         <entry>renderState</entry>
+        <entry>renderCharging</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5tNTg3</entry>
