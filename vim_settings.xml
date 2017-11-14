@@ -15,6 +15,7 @@
         <mark key="^" line="24" column="39" />
         <mark key="." line="24" column="39" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/DeptEquipFeeReport.java" timestamp="1510655316506" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/EquipmentEntryV2Dto.java" timestamp="1510491767832" />
       <file name="/a.dummy" timestamp="1510649627920">
         <mark key="[" line="0" column="0" />
@@ -481,6 +482,12 @@
         <mark key="]" line="37" column="35" />
         <mark key="^" line="37" column="35" />
         <mark key="." line="37" column="35" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/DeptEquipSpecRecord.java" timestamp="1510655075914">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="44" />
+        <mark key="^" line="16" column="44" />
+        <mark key="." line="16" column="44" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/StopChargingRequestController.java" timestamp="1510508366602">
         <mark key="[" line="59" column="58" />
