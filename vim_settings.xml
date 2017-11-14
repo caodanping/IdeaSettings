@@ -16,7 +16,7 @@
         <mark key="." line="24" column="39" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/EquipmentEntryV2Dto.java" timestamp="1510491767832" />
-      <file name="/a.dummy" timestamp="1510647354825">
+      <file name="/a.dummy" timestamp="1510649627920">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -121,12 +121,12 @@
         <mark key="." line="28" column="47" />
         <mark key="^" line="28" column="47" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1510648870123">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1510650082464">
         <mark key="'" line="122" column="36" />
-        <mark key="[" line="1187" column="20" />
-        <mark key="]" line="502" column="63" />
-        <mark key="." line="502" column="63" />
-        <mark key="^" line="502" column="63" />
+        <mark key="[" line="1205" column="16" />
+        <mark key="]" line="1205" column="51" />
+        <mark key="." line="1205" column="51" />
+        <mark key="^" line="1205" column="51" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/ShippingServiceImpl.java" timestamp="1510545392009" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/TaskServiceImpl.java" timestamp="1510631750622">
@@ -634,10 +634,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>disp.getRoutes().remove(route);</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>disp.getRoutes().remove(route);</text>
       </register>
       <register name="/" type="4">
         <text>saveIn</text>
