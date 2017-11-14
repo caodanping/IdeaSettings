@@ -346,6 +346,12 @@
         <mark key="^" line="24" column="39" />
         <mark key="." line="24" column="39" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/resources/logback.xml" timestamp="1510655939653">
+        <mark key="[" line="31" column="23" />
+        <mark key="]" line="31" column="23" />
+        <mark key="." line="31" column="26" />
+        <mark key="^" line="28" column="26" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/Renders.js" timestamp="1510543331738">
         <mark key="[" line="46" column="5" />
         <mark key="]" line="46" column="5" />
@@ -368,11 +374,11 @@
         <mark key="^" line="115" column="33" />
         <mark key="." line="115" column="33" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/resources/spring-root.xml" timestamp="1510639972105">
-        <mark key="[" line="23" column="63" />
-        <mark key="]" line="23" column="67" />
-        <mark key="^" line="23" column="67" />
-        <mark key="." line="23" column="67" />
+      <file name="D:/IdeaProjects/lems/src/main/resources/spring-root.xml" timestamp="1510655991086">
+        <mark key="[" line="25" column="37" />
+        <mark key="]" line="25" column="43" />
+        <mark key="^" line="25" column="43" />
+        <mark key="." line="25" column="43" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/dto/StopChargingRequestSummaryDto.java" timestamp="1510503629177">
         <mark key="[" line="25" column="144" />
@@ -503,6 +509,9 @@
         <mark key="." line="112" column="35" />
         <mark key="^" line="112" column="35" />
       </file>
+      <file name="/Dummy.txt" timestamp="1510656007808">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/EquipmentEntryGrid.js" timestamp="1510543669930" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/InnerDeptEdit.js" timestamp="1510645901904">
         <mark key="'" line="94" column="37" />
@@ -530,6 +539,9 @@
         <mark key="]" line="100" column="11" />
         <mark key="^" line="100" column="11" />
         <mark key="." line="100" column="11" />
+      </file>
+      <file name="/fragment.java" timestamp="1510624233186">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/StopChargingRequestRepositoryImpl.java" timestamp="1510544487868">
         <mark key="[" line="41" column="32" />
@@ -642,10 +654,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>disp.getRoutes().remove(route);</text>
+        <text>CONSOLE</text>
       </register>
       <register name="-" type="4">
-        <text>disp.getRoutes().remove(route);</text>
+        <text>CONSOLE</text>
       </register>
       <register name="/" type="4">
         <text>saveIn</text>
