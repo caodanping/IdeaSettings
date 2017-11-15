@@ -265,6 +265,14 @@
           <Count>23</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'finance [jetty:run]'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'finance [jetty:run]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'lems [package]'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
