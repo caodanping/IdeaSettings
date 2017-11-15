@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ListController.js" timestamp="1510471056952">
@@ -506,11 +506,11 @@
         <mark key="^" line="107" column="14" />
         <mark key="." line="107" column="14" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ConfirmOutModel.js" timestamp="1510634622227">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="41" column="62" />
-        <mark key="^" line="41" column="62" />
-        <mark key="." line="41" column="62" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ConfirmOutModel.js" timestamp="1510742408620">
+        <mark key="[" line="27" column="52" />
+        <mark key="]" line="28" column="24" />
+        <mark key="^" line="28" column="24" />
+        <mark key="." line="28" column="24" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/SiteRepository.java" timestamp="1510539232938">
         <mark key="[" line="30" column="31" />
