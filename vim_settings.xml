@@ -122,13 +122,6 @@
         <mark key="." line="28" column="47" />
         <mark key="^" line="28" column="47" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1510650082464">
-        <mark key="'" line="122" column="36" />
-        <mark key="[" line="1205" column="16" />
-        <mark key="]" line="1205" column="51" />
-        <mark key="." line="1205" column="51" />
-        <mark key="^" line="1205" column="51" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/ShippingServiceImpl.java" timestamp="1510545392009" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/TaskServiceImpl.java" timestamp="1510631750622">
         <mark key="[" line="149" column="0" />
@@ -347,10 +340,9 @@
         <mark key="." line="24" column="39" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/resources/logback.xml" timestamp="1510655939653">
-        <mark key="[" line="31" column="23" />
-        <mark key="]" line="31" column="23" />
-        <mark key="." line="31" column="26" />
-        <mark key="^" line="28" column="26" />
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="26" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/Renders.js" timestamp="1510543331738">
         <mark key="[" line="46" column="5" />
@@ -375,10 +367,10 @@
         <mark key="." line="115" column="33" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/resources/spring-root.xml" timestamp="1510655991086">
-        <mark key="[" line="25" column="37" />
-        <mark key="]" line="25" column="43" />
-        <mark key="^" line="25" column="43" />
-        <mark key="." line="25" column="43" />
+        <mark key="[" line="6" column="37" />
+        <mark key="]" line="6" column="43" />
+        <mark key="^" line="6" column="43" />
+        <mark key="." line="6" column="43" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/dto/StopChargingRequestSummaryDto.java" timestamp="1510503629177">
         <mark key="[" line="25" column="144" />
@@ -502,15 +494,18 @@
         <mark key="." line="60" column="44" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/free/Free.js" timestamp="1510488937811" />
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/List.js" timestamp="1510651346429">
-        <mark key="'" line="66" column="30" />
-        <mark key="[" line="112" column="33" />
-        <mark key="]" line="112" column="35" />
-        <mark key="." line="112" column="35" />
-        <mark key="^" line="112" column="35" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1510656007808">
+      <file name="/Dummy.txt" timestamp="1510711266039">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/ProjectSiteServiceImpl.java" timestamp="1510493581319">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/ProjectSiteService.java" timestamp="1510493573769">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/EquipmentEntryGrid.js" timestamp="1510543669930" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/InnerDeptEdit.js" timestamp="1510645901904">
@@ -539,9 +534,6 @@
         <mark key="]" line="100" column="11" />
         <mark key="^" line="100" column="11" />
         <mark key="." line="100" column="11" />
-      </file>
-      <file name="/fragment.java" timestamp="1510624233186">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/StopChargingRequestRepositoryImpl.java" timestamp="1510544487868">
         <mark key="[" line="41" column="32" />
