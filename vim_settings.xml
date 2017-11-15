@@ -134,6 +134,9 @@
         <mark key="." line="28" column="47" />
         <mark key="^" line="28" column="47" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1510743246159">
+        <mark key="'" line="1225" column="5" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/ShippingServiceImpl.java" timestamp="1510545392009" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/TaskServiceImpl.java" timestamp="1510631750622">
         <mark key="[" line="149" column="0" />
@@ -577,7 +580,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="319" column="22" filename="D:/IdeaProjects/lems/pom.xml" />
       <jump line="331" column="30" filename="D:/IdeaProjects/lems/pom.xml" />
       <jump line="9" column="13" filename="D:/IdeaProjects/lems/pom.xml" />
       <jump line="245" column="26" filename="D:/IdeaProjects/lems/pom.xml" />
@@ -677,6 +679,7 @@
       <jump line="0" column="0" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" />
       <jump line="489" column="22" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" />
       <jump line="29" column="20" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" />
+      <jump line="1225" column="5" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -686,7 +689,7 @@
         <text>property: 'departmentId', value: val</text>
       </register>
       <register name="/" type="4">
-        <text>调整</text>
+        <text>completeWith</text>
       </register>
       <register name="0" type="4">
         <text>allowedManagers</text>
@@ -727,9 +730,9 @@
       </register>
     </registers>
     <search>
-      <last-search>调整</last-search>
+      <last-search>completeWith</last-search>
       <last-offset />
-      <last-pattern>调整</last-pattern>
+      <last-pattern>completeWith</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -737,7 +740,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMZW1zXD4=</entry>
         <entry>mtw</entry>
         <entry>render</entry>
         <entry>getConfirm</entry>
@@ -757,6 +759,7 @@
         <entry>saveIn</entry>
         <entry>在</entry>
         <entry>调整</entry>
+        <entry>completeWith</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5tNTg3</entry>
