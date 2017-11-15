@@ -103,11 +103,23 @@
         <mark key="^" line="23" column="24" />
         <mark key="." line="23" column="24" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EditModel.js" timestamp="1510737869609">
+        <mark key="[" line="41" column="33" />
+        <mark key="]" line="27" column="48" />
+        <mark key="^" line="27" column="48" />
+        <mark key="." line="27" column="48" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/StopChargingRequestSummaryDto.java" timestamp="1510302014648">
         <mark key="[" line="9" column="68" />
         <mark key="]" line="9" column="66" />
         <mark key="." line="9" column="66" />
         <mark key="^" line="9" column="66" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1510738053960">
+        <mark key="[" line="322" column="67" />
+        <mark key="]" line="323" column="46" />
+        <mark key="^" line="323" column="46" />
+        <mark key="." line="323" column="46" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/StopCharingRequestService.java" timestamp="1510476306600">
         <mark key="[" line="10" column="44" />
@@ -443,7 +455,7 @@
         <mark key="^" line="53" column="19" />
         <mark key="." line="53" column="19" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/impl/ReimburseServiceImpl.java" timestamp="1510731433638">
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/impl/ReimburseServiceImpl.java" timestamp="1510737350660">
         <mark key="[" line="107" column="36" />
         <mark key="]" line="107" column="14" />
         <mark key="^" line="107" column="14" />
@@ -668,16 +680,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2871495</text>
+        <text>Managers</text>
       </register>
       <register name="-" type="4">
-        <text>2871495</text>
+        <text>Managers</text>
       </register>
       <register name="/" type="4">
         <text>调整</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByb3V0ZS5zZXRTdGF0ZShEaXNwYXRjaGluZ1JvdXRlLlN0YXRlLlBFTkRJTkdfT1VUKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWUuZ2V0Vmlld01vZGVsKCkuZ2V0KCdhbGxvd2VkTWFuYWdlcnMnKS5zZXRGaWx0ZXJzKFsKICAgICAgICAgICAgICAgIHtwcm9wZXJ0eTogJ2RlcGFydG1lbnRJZCcsIHZhbHVlOiB2YWx9CiAgICAgICAgICAgIF0pOwo=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">b3V0ZS5pc0NhbmNlbGxhYmxlKCkKICAgICAgICAgICAgICAgICAgICByb3V0ZS5zZXRTdGF0ZShEaXNwYXRjaGluZ1JvdXRlLlN0YXRlLlBFTkRJTkdfT1VUKTsKICAgICAgICAgICAgICAgICAgICBTZXQ8RXF1aXBtZW50U3BlY0VudHJ5PiBlbnRyaWVzID0gbmV3IEhhc2hTZXQ8RXF1aXBtZW50U3BlY0VudHJ5PihlcXVpcG1lbnRTcGVjRW50cmllc0Zyb21EdG9zKHIuZ2V0RXF1aXBtZW50RW50cmllcygpKSk7CiAgICAgICAgICAgICAgICAgICAgcm91dGUuc2V0RGlzcGF0Y2hlZEVudHJpZXMoZW50cmllcyk7CiAgICAgICAgICAgICAgICAgICAgcm91dGUuc2V0U2VyaWFsTnVtYmVyKHNlcmlhbE51bWJlclNlcnZpY2UubmV4dFNlcmlhbE51bWJlcihTZXJpYWxOdW1iZXIuQ2F0ZWdvcnkuRElTUEFUQ0hfUk9VVEUpKTsKICAgICAgICAgICAgICAgICAgICByb3V0ZS5zZXREaXNwYXRjaGluZyhkaXNwKTsKICAgICAgICAgICAgICAgICAgICBkaXNwLmdldFJvdXRlcygpLmFkZChyb3V0ZSk7CgogICAgICAgICAgICAgICAgICAgIC8vILazveHSu7K/t9a/4rTmCiAgICAgICAgICAgICAgICAgICAgZXF1aXBtZW50U2VydmljZVYyLmZyZWV6ZUVxdWlwbWVudFNwZWMoY3JlZGl0LCBlbnRyaWVzLCBkaXNwLmlzSW5uZXJEZXB0KCkpOw==</text>
