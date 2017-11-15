@@ -115,11 +115,11 @@
         <mark key="." line="9" column="66" />
         <mark key="^" line="9" column="66" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1510738053960">
-        <mark key="[" line="322" column="67" />
-        <mark key="]" line="323" column="46" />
-        <mark key="^" line="323" column="46" />
-        <mark key="." line="323" column="46" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1510742211812">
+        <mark key="[" line="330" column="16" />
+        <mark key="]" line="330" column="44" />
+        <mark key="." line="330" column="44" />
+        <mark key="^" line="330" column="44" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/StopCharingRequestService.java" timestamp="1510476306600">
         <mark key="[" line="10" column="44" />
@@ -680,43 +680,47 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Managers</text>
+        <text>property: 'departmentId', value: val</text>
       </register>
       <register name="-" type="4">
-        <text>Managers</text>
+        <text>property: 'departmentId', value: val</text>
       </register>
       <register name="/" type="4">
         <text>调整</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWUuZ2V0Vmlld01vZGVsKCkuZ2V0KCdhbGxvd2VkTWFuYWdlcnMnKS5zZXRGaWx0ZXJzKFsKICAgICAgICAgICAgICAgIHtwcm9wZXJ0eTogJ2RlcGFydG1lbnRJZCcsIHZhbHVlOiB2YWx9CiAgICAgICAgICAgIF0pOwo=</text>
+      <register name="0" type="4">
+        <text>allowedManagers</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">b3V0ZS5pc0NhbmNlbGxhYmxlKCkKICAgICAgICAgICAgICAgICAgICByb3V0ZS5zZXRTdGF0ZShEaXNwYXRjaGluZ1JvdXRlLlN0YXRlLlBFTkRJTkdfT1VUKTsKICAgICAgICAgICAgICAgICAgICBTZXQ8RXF1aXBtZW50U3BlY0VudHJ5PiBlbnRyaWVzID0gbmV3IEhhc2hTZXQ8RXF1aXBtZW50U3BlY0VudHJ5PihlcXVpcG1lbnRTcGVjRW50cmllc0Zyb21EdG9zKHIuZ2V0RXF1aXBtZW50RW50cmllcygpKSk7CiAgICAgICAgICAgICAgICAgICAgcm91dGUuc2V0RGlzcGF0Y2hlZEVudHJpZXMoZW50cmllcyk7CiAgICAgICAgICAgICAgICAgICAgcm91dGUuc2V0U2VyaWFsTnVtYmVyKHNlcmlhbE51bWJlclNlcnZpY2UubmV4dFNlcmlhbE51bWJlcihTZXJpYWxOdW1iZXIuQ2F0ZWdvcnkuRElTUEFUQ0hfUk9VVEUpKTsKICAgICAgICAgICAgICAgICAgICByb3V0ZS5zZXREaXNwYXRjaGluZyhkaXNwKTsKICAgICAgICAgICAgICAgICAgICBkaXNwLmdldFJvdXRlcygpLmFkZChyb3V0ZSk7CgogICAgICAgICAgICAgICAgICAgIC8vILazveHSu7K/t9a/4rTmCiAgICAgICAgICAgICAgICAgICAgZXF1aXBtZW50U2VydmljZVYyLmZyZWV6ZUVxdWlwbWVudFNwZWMoY3JlZGl0LCBlbnRyaWVzLCBkaXNwLmlzSW5uZXJEZXB0KCkpOw==</text>
+        <text>.setFilters([
+                { property: 'departmentId', value: val }
+            ]);</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>setFilters([
+                filterByDeptId(val)
+            ])</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrU2VydmljZS5jYW5jZWxUYXNrKHRhc2suZ2V0SWQoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUYXNrIHRhc2sgPSB0YXNrU2VydmljZS5maW5kVGFzayhEaXNwYXRjaGluZy5GTE9XX05BTUVfRElTUEFUQ0hJTkcsIERpc3BhdGNoaW5nLlRBU0tfTkFNRV9DT05GSVJNX09VVCwgRGlzcGF0Y2hpbmdSb3V0ZS5jbGFzcy5nZXROYW1lKCksIHJvdXRlLmdldElkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBpdGVtLmdldCgnZGVwYXJ0bWVudElkJykgPT09IGRlcHRJZDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDIoc/7tfe2yMjOzvEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdkZXB0SWQ6JyArIGRlcHRJZCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByb3V0ZS5zZXRTZXJpYWxOdW1iZXIoc2VyaWFsTnVtYmVyU2VydmljZS5uZXh0U2VyaWFsTnVtYmVyKFNlcmlhbE51bWJlci5DYXRlZ29yeS5ESVNQQVRDSF9ST1VURSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRlcHRJZCA9IHZhbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwLmdldFJvdXRlcygpLmFkZChyb3V0ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bmN0aW9uIChpdGVtKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGl0ZW0uZ2V0KCdkZXBhcnRtZW50SWQnKSA9PT0gdmFsOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByb3V0ZS5zZXREaXNwYXRjaGluZyhkaXNwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBpdGVtLmdldAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwLmdldFJvdXRlcygpLnJlbW92ZShyb3V0ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhpdGVtLmdldCgnZGVwYXJ0bWVudElkJykpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
