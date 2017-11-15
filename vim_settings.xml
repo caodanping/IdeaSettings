@@ -141,7 +141,12 @@
         <mark key="." line="727" column="97" />
         <mark key="^" line="727" column="97" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/ShippingServiceImpl.java" timestamp="1510750010071" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/ShippingServiceImpl.java" timestamp="1510755927319">
+        <mark key="[" line="227" column="35" />
+        <mark key="]" line="227" column="49" />
+        <mark key="^" line="227" column="49" />
+        <mark key="." line="227" column="49" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/TaskServiceImpl.java" timestamp="1510631750622">
         <mark key="[" line="149" column="0" />
         <mark key="]" line="149" column="0" />
@@ -456,6 +461,7 @@
         <mark key="^" line="9" column="52" />
         <mark key="." line="9" column="52" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/JudgementResult.java" timestamp="1510754999422" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ConfirmIn.js" timestamp="1510632069174">
         <mark key="[" line="45" column="20" />
         <mark key="]" line="53" column="19" />
