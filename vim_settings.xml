@@ -157,10 +157,6 @@
         <mark key="^" line="90" column="13" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ConfirmInModel.js" timestamp="1490063221382">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="37" column="0" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StateEquipmentSpecInventory.java" timestamp="1510552909834">
         <mark key="[" line="37" column="29" />
         <mark key="]" line="27" column="49" />
@@ -356,6 +352,12 @@
         <mark key="." line="8" column="26" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/Msg.js" timestamp="1510731360687" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/RowModel.js" timestamp="1510733064213">
+        <mark key="[" line="36" column="49" />
+        <mark key="]" line="39" column="20" />
+        <mark key="^" line="39" column="20" />
+        <mark key="." line="39" column="20" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/Renders.js" timestamp="1510543331738">
         <mark key="[" line="46" column="5" />
         <mark key="]" line="46" column="5" />
@@ -395,10 +397,6 @@
         <mark key="]" line="26" column="17" />
         <mark key="." line="26" column="17" />
         <mark key="^" line="26" column="17" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EditController.js" timestamp="1510640445927">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="50" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ItemSelector.js" timestamp="1510638457393">
         <mark key="'" line="254" column="51" />
