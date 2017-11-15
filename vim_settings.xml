@@ -134,10 +134,14 @@
         <mark key="." line="28" column="47" />
         <mark key="^" line="28" column="47" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1510743246159">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1510746903201">
         <mark key="'" line="1225" column="5" />
+        <mark key="[" line="727" column="94" />
+        <mark key="]" line="727" column="97" />
+        <mark key="." line="727" column="97" />
+        <mark key="^" line="727" column="97" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/ShippingServiceImpl.java" timestamp="1510545392009" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/ShippingServiceImpl.java" timestamp="1510747272856" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/TaskServiceImpl.java" timestamp="1510631750622">
         <mark key="[" line="149" column="0" />
         <mark key="]" line="149" column="0" />
@@ -683,10 +687,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>property: 'departmentId', value: val</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>property: 'departmentId', value: val</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>completeWith</text>
