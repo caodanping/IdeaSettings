@@ -139,18 +139,18 @@
         <mark key="." line="28" column="47" />
         <mark key="^" line="28" column="47" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1510826869131">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1510838264027">
         <mark key="'" line="1232" column="5" />
         <mark key="[" line="970" column="75" />
         <mark key="]" line="971" column="111" />
         <mark key="." line="971" column="111" />
         <mark key="^" line="971" column="111" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/ShippingServiceImpl.java" timestamp="1510796322852">
-        <mark key="[" line="227" column="35" />
-        <mark key="]" line="227" column="49" />
-        <mark key="^" line="227" column="49" />
-        <mark key="." line="227" column="49" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/ShippingServiceImpl.java" timestamp="1510838617484">
+        <mark key="[" line="49" column="62" />
+        <mark key="]" line="49" column="61" />
+        <mark key="^" line="49" column="61" />
+        <mark key="." line="49" column="61" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/TaskServiceImpl.java" timestamp="1510631750622">
         <mark key="[" line="149" column="0" />
@@ -414,9 +414,6 @@
         <mark key="^" line="121" column="38" />
         <mark key="." line="123" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/StopChargingRequestRepositoryCustom.java" timestamp="1510812800992">
-        <mark key="[" line="12" column="46" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/UnbalanceProc.java" timestamp="1510817057870">
         <mark key="[" line="165" column="36" />
         <mark key="]" line="167" column="33" />
@@ -429,7 +426,7 @@
         <mark key="^" line="115" column="33" />
         <mark key="." line="115" column="33" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/resources/spring-root.xml" timestamp="1510830838759">
+      <file name="D:/IdeaProjects/lems/src/main/resources/spring-root.xml" timestamp="1510838881442">
         <mark key="[" line="27" column="37" />
         <mark key="]" line="27" column="43" />
         <mark key="^" line="27" column="43" />
@@ -573,7 +570,7 @@
         <mark key="^" line="187" column="18" />
         <mark key="." line="187" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510814122127">
+      <file name="/Dummy.txt" timestamp="1510838670472">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -613,7 +610,7 @@
         <mark key="^" line="42" column="36" />
         <mark key="." line="42" column="36" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Shipping.java" timestamp="1510547796831">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Shipping.java" timestamp="1510838329011">
         <mark key="[" line="97" column="55" />
         <mark key="]" line="100" column="11" />
         <mark key="^" line="100" column="11" />
