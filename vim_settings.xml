@@ -121,10 +121,8 @@
         <mark key="." line="9" column="66" />
         <mark key="^" line="9" column="66" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1510742211812">
-        <mark key="[" line="330" column="16" />
-        <mark key="]" line="330" column="44" />
-        <mark key="." line="330" column="44" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Edit.js" timestamp="1510822725983">
+        <mark key="]" line="322" column="11" />
         <mark key="^" line="330" column="44" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/StopCharingRequestService.java" timestamp="1510476306600">
@@ -586,12 +584,11 @@
         <mark key="." line="16" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/EquipmentEntryGrid.js" timestamp="1510543669930" />
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/InnerDeptEdit.js" timestamp="1510645901904">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/InnerDeptEdit.js" timestamp="1510823524797">
         <mark key="'" line="94" column="37" />
-        <mark key="[" line="92" column="36" />
-        <mark key="]" line="94" column="31" />
-        <mark key="^" line="94" column="31" />
-        <mark key="." line="94" column="31" />
+        <mark key="[" line="391" column="0" />
+        <mark key="]" line="391" column="0" />
+        <mark key="." line="391" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/StopChargingRequestService.java" timestamp="1510493847433" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StopChargingRequest.java" timestamp="1510508968073">
@@ -723,8 +720,8 @@
       <jump line="130" column="56" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DispatchingController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygiZGVwdElkOiIgKyBkZXB0SWQpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
@@ -732,39 +729,39 @@
       <register name="/" type="4">
         <text>completeWith</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhc2tTZXJ2aWNlLmNyZWF0ZVRhc2soVW5iYWxhbmNlUHJvYy5GTE9XX05BTUUsIFVuYmFsYW5jZVByb2MuVEFTS19KVURHRU1FTlQsIHVzZXJSZXBvc2l0b3J5LmZpbmREaXNwYXRjaGVycygpLAogICAgICAgICAgICAgICAgICAgIFVuYmFsYW5jZVByb2MuY2xhc3MuZ2V0TmFtZSgpLCB1bmJhbGFuY2VQcm9jLmdldElkKCksCiAgICAgICAgICAgICAgICAgICAgVW5iYWxhbmNlUHJvYy5WSUVXX0pVREdFTUVOVCwgdW5iYWxhbmNlUHJvYy5nZXRTZXJpYWxOdW1iZXIoKSwgcm91dGUuZ2V0Um91dGVOYW1lKCkpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICB0aGlzLmdldFZpZXdNb2RlbCgpLmJpbmQoJ3tkZXBhcnRtZW50SWR9JywgZnVuY3Rpb24gKHZhbCkgewogICAgICAgICAgICBmdW5jdGlvbiBmaWx0ZXJCeURlcHRJZChkZXB0SWQpIHsKICAgICAgICAgICAgICAgIHJldHVybiBmdW5jdGlvbiAoaXRlbSkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBpdGVtLmdldCgnZGVwYXJ0bWVudElkJykgPT09IGRlcHRJZDsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICBtZS5nZXRWaWV3TW9kZWwoKS5nZXQoJ2FsbG93ZWRNYW5hZ2VycycpLmdldEZpbHRlcnMoKS5yZW1vdmVBbGwoKTsKICAgICAgICAgICAgbWUuZ2V0Vmlld01vZGVsKCkuZ2V0KCdhbGxvd2VkTWFuYWdlcnMnKS5nZXRGaWx0ZXJzKCkuYWRkKG5ldyBFeHQudXRpbC5GaWx0ZXIoewogICAgICAgICAgICAgICAgZmlsdGVyRm46IGZpbHRlckJ5RGVwdElkKHZhbCkKICAgICAgICAgICAgfSkpOwoKICAgICAgICAgICAgbWUuZ2V0Vmlld01vZGVsKCkuZ2V0KCdhbGxvd2VkVGVzdGVycycpLmdldEZpbHRlcnMoKS5yZW1vdmVBbGwoKTsKICAgICAgICAgICAgbWUuZ2V0Vmlld01vZGVsKCkuZ2V0KCdhbGxvd2VkVGVzdGVycycpLmdldEZpbHRlcnMoKS5hZGQobmV3IEV4dC51dGlsLkZpbHRlcih7CiAgICAgICAgICAgICAgICBmaWx0ZXJGbjogZmlsdGVyQnlEZXB0SWQodmFsKQogICAgICAgICAgICB9KSk7CiAgICAgICAgfSk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygiZGVwdElkOiIgKyBkZXB0SWQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAid2hlcmUgcmVxLnByb2ouZGVwYXJ0bWVudC5pZCA9ID8xIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAid2hlcmUgcmVxLnByb2ouZGVwYXJ0bWVudC5pZCA9ID8xIiwK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IAogICAgcHVibGljIGJvb2xlYW4gaXNCYWxhbmNlKCkgewogICAgICAgIEJpZ0RlY2ltYWwgdG90YWwgPSAKICAgIH0=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>.setFilters([
                 { property: 'departmentId', value: val }
             ]);</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>setFilters([
                 filterByDeptId(val)
             ])</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
