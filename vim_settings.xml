@@ -141,7 +141,7 @@
         <mark key="." line="727" column="97" />
         <mark key="^" line="727" column="97" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/ShippingServiceImpl.java" timestamp="1510755927319">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/ShippingServiceImpl.java" timestamp="1510796322852">
         <mark key="[" line="227" column="35" />
         <mark key="]" line="227" column="49" />
         <mark key="^" line="227" column="49" />
@@ -736,7 +736,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhpdGVtLmdldCgnZGVwYXJ0bWVudElkJykpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>232</text>
       </register>
     </registers>
     <search>
@@ -772,8 +772,6 @@
         <entry>completeWith</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5tNTg3</entry>
-        <entry encoding="base64">JzwsJz5tNTU4</entry>
         <entry encoding="base64">JzwsJz5tMjMw</entry>
         <entry encoding="base64">JzwsJz5tMzg=</entry>
         <entry encoding="base64">JzwsJz5tMzE=</entry>
@@ -792,6 +790,8 @@
         <entry>W</entry>
         <entry>80</entry>
         <entry>w</entry>
+        <entry>786</entry>
+        <entry>232</entry>
       </history-cmd>
       <history-expr />
       <history-input />
