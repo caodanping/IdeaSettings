@@ -128,6 +128,12 @@
         <mark key="." line="10" column="16" />
         <mark key="^" line="10" column="16" />
       </file>
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/AllocationEditDto.java" timestamp="1510908744829">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="10" column="53" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1510838264027">
         <mark key="'" line="1232" column="5" />
         <mark key="[" line="970" column="75" />
@@ -345,11 +351,11 @@
         <mark key="^" line="39" column="20" />
         <mark key="." line="39" column="20" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/impl/AllocationServiceImpl.java" timestamp="1510884727078">
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="18" column="15" />
-        <mark key="^" line="18" column="14" />
-        <mark key="." line="18" column="15" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/impl/AllocationServiceImpl.java" timestamp="1510908897497">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="24" column="33" />
+        <mark key="." line="24" column="33" />
+        <mark key="^" line="24" column="33" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/Renders.js" timestamp="1510543331738">
         <mark key="[" line="46" column="5" />
@@ -391,7 +397,7 @@
         <mark key="." line="26" column="17" />
         <mark key="^" line="26" column="17" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/AllocationService.java" timestamp="1510908254009">
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/AllocationService.java" timestamp="1510908269994">
         <mark key="[" line="12" column="25" />
         <mark key="]" line="12" column="25" />
         <mark key="." line="12" column="25" />
@@ -653,8 +659,8 @@
       <jump line="130" column="56" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DispatchingController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ll</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhbGxvYy5zZXQK</text>
       </register>
       <register name="-" type="4">
         <text>ll</text>
@@ -666,31 +672,31 @@
         <text encoding="base64">ICAgIEBKc29uRm9ybWF0KHBhdHRlcm4gPSAieXl5eS1NTS1kZCIsIHNoYXBlID0gSnNvbkZvcm1hdC5TaGFwZS5TVFJJTkcsIHRpbWV6b25lID0gImdtdCs4IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBRQWxsb2NhdGlvbiBhbGxvYyA9IFFBbGxvY2F0aW9uLmFsbG9jYXRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbGxvYy5zZXQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY29uZmlybU91dER0by5nZXQpCg==</text>
+        <text encoding="base64">ICAgICAgICBRQWxsb2NhdGlvbiBhbGxvYyA9IFFBbGxvY2F0aW9uLmFsbG9jYXRpb247Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygiZGVwdElkOiIgKyBkZXB0SWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY29uZmlybU91dER0by5nZXQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygiZGVwdElkOiIgKyBkZXB0SWQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAid2hlcmUgcmVxLnByb2ouZGVwYXJ0bWVudC5pZCA9ID8xIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
