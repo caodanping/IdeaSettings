@@ -128,11 +128,11 @@
         <mark key="." line="10" column="16" />
         <mark key="^" line="10" column="16" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/AllocationEditDto.java" timestamp="1510908744829">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="10" column="53" />
-        <mark key="." line="5" column="0" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/AllocationEditDto.java" timestamp="1510977851945">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="18" column="24" />
+        <mark key="^" line="18" column="24" />
+        <mark key="." line="18" column="24" />
       </file>
       <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/AllocationListItemDto.java" timestamp="1510882667103">
         <mark key="[" line="24" column="35" />
@@ -358,11 +358,11 @@
         <mark key="^" line="39" column="20" />
         <mark key="." line="39" column="20" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/impl/AllocationServiceImpl.java" timestamp="1510976490030">
-        <mark key="[" line="53" column="42" />
-        <mark key="]" line="53" column="41" />
-        <mark key="." line="53" column="41" />
-        <mark key="^" line="53" column="41" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/impl/AllocationServiceImpl.java" timestamp="1510978544201">
+        <mark key="[" line="73" column="14" />
+        <mark key="]" line="73" column="14" />
+        <mark key="." line="73" column="14" />
+        <mark key="^" line="72" column="67" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/Renders.js" timestamp="1510543331738">
         <mark key="[" line="46" column="5" />
@@ -671,16 +671,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Dea</text>
+        <text>setSrcAccount(accountDao.getOne(data.getSrcAccountId()));</text>
       </register>
       <register name="-" type="4">
-        <text>Dea</text>
+        <text>setSrcAccount(accountDao.getOne(data.getSrcAccountId()));</text>
       </register>
       <register name="/" type="4">
         <text>completeWith</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBKc29uRm9ybWF0KHBhdHRlcm4gPSAieXl5eS1NTS1kZCIsIHNoYXBlID0gSnNvbkZvcm1hdC5TaGFwZS5TVFJJTkcsIHRpbWV6b25lID0gImdtdCs4IikK</text>
+        <text encoding="base64">ICAgICAgICBhbGxvYy5zZXRTcmNBY2NvdW50KGFjY291bnREYW8uZ2V0T25lKGRhdGEuZ2V0U3JjQWNjb3VudElkKCkpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvL2FsbG9jLnNldEFsbG9jTnVtYmVyKCk7Cg==</text>
