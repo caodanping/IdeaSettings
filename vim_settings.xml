@@ -364,11 +364,7 @@
         <mark key="^" line="39" column="20" />
         <mark key="." line="39" column="20" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/impl/AllocationServiceImpl.java" timestamp="1510998243899">
-        <mark key="[" line="82" column="12" />
-        <mark key="]" line="82" column="12" />
-        <mark key="." line="82" column="12" />
-      </file>
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/impl/AllocationServiceImpl.java" timestamp="1511002103746" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/Renders.js" timestamp="1510543331738">
         <mark key="[" line="46" column="5" />
         <mark key="]" line="46" column="5" />
@@ -676,10 +672,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">SXRlcmFibGVzLmZpbmQoYWxsb2MuZ2V0SXRlbXMoKSwgbmV3IFByZWRpY2F0ZTxBbGxvY2F0aW9uSXRlbT4oKSB7CiAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgIHB1YmxpYyBib29sZWFuIGFwcGx5KEBOdWxsYWJsZSBBbGxvY2F0aW9uSXRlbSBpbnB1dCkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk=</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>alloc.getItems()</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>completeWith</text>
