@@ -104,11 +104,11 @@
         <mark key="^" line="69" column="11" />
         <mark key="." line="69" column="11" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/SerialNumber.java" timestamp="1510495227925">
-        <mark key="[" line="22" column="22" />
-        <mark key="]" line="23" column="24" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/SerialNumber.java" timestamp="1510975538175">
+        <mark key="[" line="46" column="12" />
+        <mark key="]" line="46" column="12" />
         <mark key="^" line="23" column="24" />
-        <mark key="." line="23" column="24" />
+        <mark key="." line="46" column="12" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/EditModel.js" timestamp="1510737869609">
         <mark key="[" line="41" column="33" />
@@ -134,13 +134,6 @@
         <mark key="^" line="10" column="53" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1510838264027">
-        <mark key="'" line="1232" column="5" />
-        <mark key="[" line="970" column="75" />
-        <mark key="]" line="971" column="111" />
-        <mark key="." line="971" column="111" />
-        <mark key="^" line="971" column="111" />
-      </file>
       <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/AllocationListItemDto.java" timestamp="1510882667103">
         <mark key="[" line="24" column="35" />
         <mark key="]" line="26" column="24" />
@@ -164,6 +157,9 @@
         <mark key="]" line="41" column="21" />
         <mark key="^" line="24" column="25" />
         <mark key="." line="41" column="21" />
+      </file>
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/SerialNumberService.java" timestamp="1510974282087">
+        <mark key="[" line="7" column="38" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/StopChargingRequestDto.java" timestamp="1510305107622">
         <mark key="[" line="5" column="30" />
@@ -224,6 +220,11 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
         <mark key="^" line="39" column="8" />
+      </file>
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/impl/SerialNumberServiceImpl.java" timestamp="1510975213761">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/impl/ReimburseDaoImpl.java" timestamp="1510904487857">
         <mark key="[" line="190" column="16" />
@@ -297,6 +298,11 @@
         <mark key="." line="27" column="24" />
         <mark key="^" line="27" column="24" />
       </file>
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/SerialNumber.java" timestamp="1510975483869">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/task/List.js" timestamp="1510632408759">
         <mark key="[" line="45" column="62" />
         <mark key="]" line="46" column="56" />
@@ -327,6 +333,7 @@
         <mark key="^" line="20" column="18" />
         <mark key="." line="20" column="18" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/SerialNumberRepository.java" timestamp="1510974902190" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/DetailModel.js" timestamp="1510507714373">
         <mark key="[" line="2" column="36" />
         <mark key="]" line="2" column="41" />
@@ -351,11 +358,11 @@
         <mark key="^" line="39" column="20" />
         <mark key="." line="39" column="20" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/impl/AllocationServiceImpl.java" timestamp="1510908897497">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="24" column="33" />
-        <mark key="." line="24" column="33" />
-        <mark key="^" line="24" column="33" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/impl/AllocationServiceImpl.java" timestamp="1510975715075">
+        <mark key="[" line="25" column="40" />
+        <mark key="]" line="25" column="38" />
+        <mark key="." line="25" column="38" />
+        <mark key="^" line="25" column="38" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/Renders.js" timestamp="1510543331738">
         <mark key="[" line="46" column="5" />
@@ -421,6 +428,7 @@
         <mark key="." line="238" column="26" />
         <mark key="^" line="238" column="26" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/SerialNumberServiceImpl.java" timestamp="1510975057960" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/StopChargingRequestItemInputDto.java" timestamp="1510500842388">
         <mark key="[" line="9" column="33" />
         <mark key="]" line="33" column="32" />
@@ -552,7 +560,7 @@
         <mark key="^" line="41" column="33" />
         <mark key="." line="41" column="33" />
       </file>
-      <file name="/fragment.java" timestamp="1510908151078">
+      <file name="/fragment.java" timestamp="1510974942110">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -660,7 +668,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxvYy5zZXQK</text>
+        <text encoding="base64">ICAgICAgICAvL2FsbG9jLnNldEFsbG9jTnVtYmVyKCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>ll</text>
@@ -672,28 +680,28 @@
         <text encoding="base64">ICAgIEBKc29uRm9ybWF0KHBhdHRlcm4gPSAieXl5eS1NTS1kZCIsIHNoYXBlID0gSnNvbkZvcm1hdC5TaGFwZS5TVFJJTkcsIHRpbWV6b25lID0gImdtdCs4IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxvYy5zZXQK</text>
+        <text encoding="base64">ICAgICAgICAvL2FsbG9jLnNldEFsbG9jTnVtYmVyKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBRQWxsb2NhdGlvbiBhbGxvYyA9IFFBbGxvY2F0aW9uLmFsbG9jYXRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnZlcnNpb24gPSB2ZXJzaW9uOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFZlcnNpb24oSW50ZWdlciB2ZXJzaW9uKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY29uZmlybU91dER0by5nZXQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygiZGVwdElkOiIgKyBkZXB0SWQpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdmVyc2lvbjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBJbnRlZ2VyIGdldFZlcnNpb24oKSB7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
