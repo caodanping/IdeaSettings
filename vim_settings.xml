@@ -26,6 +26,12 @@
         <mark key="^" line="73" column="16" />
         <mark key="." line="73" column="16" />
       </file>
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/AllocationItem.java" timestamp="1510983984727">
+        <mark key="[" line="25" column="28" />
+        <mark key="]" line="26" column="3" />
+        <mark key="." line="26" column="3" />
+        <mark key="^" line="26" column="3" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/SiteService.java" timestamp="1480475225428">
         <mark key="[" line="52" column="22" />
         <mark key="]" line="30" column="3" />
@@ -358,11 +364,11 @@
         <mark key="^" line="39" column="20" />
         <mark key="." line="39" column="20" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/impl/AllocationServiceImpl.java" timestamp="1510978544201">
-        <mark key="[" line="73" column="14" />
-        <mark key="]" line="73" column="14" />
-        <mark key="." line="73" column="14" />
-        <mark key="^" line="72" column="67" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/impl/AllocationServiceImpl.java" timestamp="1510985555582">
+        <mark key="[" line="80" column="8" />
+        <mark key="]" line="80" column="8" />
+        <mark key="." line="80" column="8" />
+        <mark key="^" line="77" column="67" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/Renders.js" timestamp="1510543331738">
         <mark key="[" line="46" column="5" />
@@ -671,10 +677,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>setSrcAccount(accountDao.getOne(data.getSrcAccountId()));</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>setSrcAccount(accountDao.getOne(data.getSrcAccountId()));</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>completeWith</text>
