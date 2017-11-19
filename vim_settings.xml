@@ -339,7 +339,6 @@
         <mark key="^" line="20" column="18" />
         <mark key="." line="20" column="18" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/SerialNumberRepository.java" timestamp="1510974902190" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/DetailModel.js" timestamp="1510507714373">
         <mark key="[" line="2" column="36" />
         <mark key="]" line="2" column="41" />
@@ -391,7 +390,6 @@
         <mark key="^" line="115" column="33" />
         <mark key="." line="115" column="33" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/ReimburseService.java" timestamp="1510907960890" />
       <file name="D:/IdeaProjects/lems/src/main/resources/spring-root.xml" timestamp="1510880790609">
         <mark key="[" line="27" column="37" />
         <mark key="]" line="27" column="43" />
@@ -434,7 +432,6 @@
         <mark key="." line="238" column="26" />
         <mark key="^" line="238" column="26" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/SerialNumberServiceImpl.java" timestamp="1510975057960" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/StopChargingRequestItemInputDto.java" timestamp="1510500842388">
         <mark key="[" line="9" column="33" />
         <mark key="]" line="33" column="32" />
@@ -495,11 +492,11 @@
         <mark key="^" line="17" column="58" />
         <mark key="." line="17" column="58" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/impl/AllocationDaoImpl.java" timestamp="1511080532739">
-        <mark key="[" line="74" column="8" />
-        <mark key="]" line="74" column="14" />
-        <mark key="^" line="74" column="14" />
-        <mark key="." line="74" column="14" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/impl/AllocationDaoImpl.java" timestamp="1511083488731">
+        <mark key="[" line="76" column="66" />
+        <mark key="]" line="77" column="62" />
+        <mark key="^" line="77" column="62" />
+        <mark key="." line="77" column="62" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/UserServiceImpl.java" timestamp="1510454831484">
         <mark key="[" line="142" column="48" />
@@ -550,6 +547,9 @@
         <mark key="]" line="1" column="30" />
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="30" />
+      </file>
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/AllocationDetailDto.java" timestamp="1511083499270">
+        <mark key="[" line="7" column="33" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/NamedEquipmentSpecInventory.java" timestamp="1510552973271">
         <mark key="[" line="29" column="32" />
