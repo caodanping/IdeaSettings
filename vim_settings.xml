@@ -32,6 +32,7 @@
         <mark key="." line="26" column="3" />
         <mark key="^" line="26" column="3" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/querydsl/querydsl-core/4.1.4/querydsl-core-4.1.4-sources.jar!/com/querydsl/core/types/Projections.java" timestamp="1511102336675" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/SiteService.java" timestamp="1480475225428">
         <mark key="[" line="52" column="22" />
         <mark key="]" line="30" column="3" />
@@ -304,10 +305,11 @@
         <mark key="." line="27" column="24" />
         <mark key="^" line="27" column="24" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/SerialNumber.java" timestamp="1510975483869">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/SerialNumber.java" timestamp="1511102794252">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="30" column="22" />
+        <mark key="." line="30" column="22" />
+        <mark key="^" line="30" column="22" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/task/List.js" timestamp="1510632408759">
         <mark key="[" line="45" column="62" />
@@ -444,6 +446,12 @@
         <mark key="^" line="9" column="52" />
         <mark key="." line="9" column="52" />
       </file>
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/SerialNumberDao.java" timestamp="1511102611085">
+        <mark key="[" line="12" column="3" />
+        <mark key="]" line="13" column="10" />
+        <mark key="." line="13" column="10" />
+        <mark key="^" line="13" column="10" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ConfirmIn.js" timestamp="1510632069174">
         <mark key="[" line="45" column="20" />
         <mark key="]" line="53" column="19" />
@@ -492,7 +500,7 @@
         <mark key="^" line="17" column="58" />
         <mark key="." line="17" column="58" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/impl/AllocationDaoImpl.java" timestamp="1511099842824">
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/impl/AllocationDaoImpl.java" timestamp="1511101865057">
         <mark key="[" line="76" column="27" />
         <mark key="]" line="76" column="28" />
         <mark key="." line="76" column="8" />
