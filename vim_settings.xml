@@ -62,7 +62,7 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="16" column="45" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/Allocation.java" timestamp="1511077014789">
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/Allocation.java" timestamp="1511099905237">
         <mark key="[" line="29" column="16" />
         <mark key="]" line="30" column="7" />
         <mark key="^" line="30" column="7" />
@@ -492,11 +492,11 @@
         <mark key="^" line="17" column="58" />
         <mark key="." line="17" column="58" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/impl/AllocationDaoImpl.java" timestamp="1511083488731">
-        <mark key="[" line="76" column="66" />
-        <mark key="]" line="77" column="62" />
-        <mark key="^" line="77" column="62" />
-        <mark key="." line="77" column="62" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/impl/AllocationDaoImpl.java" timestamp="1511099842824">
+        <mark key="[" line="76" column="27" />
+        <mark key="]" line="76" column="28" />
+        <mark key="." line="76" column="8" />
+        <mark key="^" line="76" column="7" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/UserServiceImpl.java" timestamp="1510454831484">
         <mark key="[" line="142" column="48" />
@@ -539,8 +539,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/AllocationItemDto.java" timestamp="1510976142769">
-        <mark key="[" line="10" column="32" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/AllocationItemDto.java" timestamp="1511098798154">
+        <mark key="[" line="12" column="27" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/resources/application.properties" timestamp="1510821526766">
         <mark key="[" line="1" column="26" />
@@ -548,8 +548,11 @@
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="30" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/AllocationDetailDto.java" timestamp="1511083499270">
-        <mark key="[" line="11" column="33" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/AllocationDetailDto.java" timestamp="1511099948541">
+        <mark key="[" line="12" column="33" />
+        <mark key="]" line="113" column="52" />
+        <mark key="^" line="113" column="52" />
+        <mark key="." line="113" column="52" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/NamedEquipmentSpecInventory.java" timestamp="1510552973271">
         <mark key="[" line="29" column="32" />
@@ -677,43 +680,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text encoding="base64">QWxsb2NhdGlvbkRldGFpbER0byA=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>AllocationItem item</text>
       </register>
       <register name="/" type="4">
         <text>completeWith</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxvYy5zZXRTcmNBY2NvdW50KGFjY291bnREYW8uZ2V0T25lKGRhdGEuZ2V0U3JjQWNjb3VudElkKCkpKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">QWxsb2NhdGlvbkRldGFpbER0byA=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBlbS5jcmVhdGVRdWVyeSgic2VsZWN0ICIpCg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">SXRlcmFibGVzLmZpbmQoYWxsb2MuZ2V0SXRlbXMoKSwgbmV3IFByZWRpY2F0ZTxBbGxvY2F0aW9uSXRlbT4oKSB7CiAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgIHB1YmxpYyBib29sZWFuIGFwcGx5KEBOdWxsYWJsZSBBbGxvY2F0aW9uSXRlbSBpbnB1dCkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk=</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAvL2FsbG9jLnNldEFsbG9jTnVtYmVyKCk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnZlcnNpb24gPSB2ZXJzaW9uOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFZlcnNpb24oSW50ZWdlciB2ZXJzaW9uKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnZlcnNpb24gPSB2ZXJzaW9uOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFZlcnNpb24oSW50ZWdlciB2ZXJzaW9uKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdmVyc2lvbjsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBJbnRlZ2VyIGdldFZlcnNpb24oKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdmVyc2lvbjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
