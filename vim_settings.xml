@@ -287,7 +287,7 @@
         <mark key="." line="37" column="69" />
         <mark key="^" line="37" column="69" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/EquipmentEntrySelector.js" timestamp="1510634563763">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/EquipmentEntrySelector.js" timestamp="1511158209339">
         <mark key="[" line="131" column="5" />
         <mark key="]" line="131" column="5" />
         <mark key="^" line="131" column="5" />
@@ -386,17 +386,20 @@
         <mark key="^" line="167" column="33" />
         <mark key="." line="167" column="33" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/reuse/Edit.js" timestamp="1511158159334">
+        <mark key="[" line="67" column="52" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchingSummaryDto.java" timestamp="1510641011071">
         <mark key="[" line="113" column="5" />
         <mark key="]" line="115" column="33" />
         <mark key="^" line="115" column="33" />
         <mark key="." line="115" column="33" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/resources/spring-root.xml" timestamp="1510880790609">
+      <file name="D:/IdeaProjects/lems/src/main/resources/spring-root.xml" timestamp="1511158727221">
         <mark key="[" line="27" column="37" />
-        <mark key="]" line="27" column="43" />
+        <mark key="]" line="27" column="37" />
         <mark key="^" line="27" column="43" />
-        <mark key="." line="27" column="43" />
+        <mark key="." line="27" column="37" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/dto/StopChargingRequestSummaryDto.java" timestamp="1510503629177">
         <mark key="[" line="25" column="144" />
@@ -689,10 +692,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">QWxsb2NhdGlvbkRldGFpbER0byA=</text>
+        <text>2871495</text>
       </register>
       <register name="-" type="4">
-        <text>AllocationItem item</text>
+        <text>2871495</text>
       </register>
       <register name="/" type="4">
         <text>completeWith</text>
