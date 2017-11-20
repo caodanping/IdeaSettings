@@ -777,7 +777,7 @@
         <text encoding="base64">ICAgICAgICBlbS5jcmVhdGVRdWVyeSgic2VsZWN0ICIpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>832</text>
       </register>
     </registers>
     <search>
@@ -813,7 +813,6 @@
         <entry encoding="base64">XDxyZXVzZUVxdWlwbWVudHNcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5tMjMw</entry>
         <entry encoding="base64">JzwsJz5tMzg=</entry>
         <entry encoding="base64">JzwsJz5tMzE=</entry>
         <entry>17</entry>
@@ -833,6 +832,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>832</entry>
       </history-cmd>
       <history-expr />
       <history-input />
