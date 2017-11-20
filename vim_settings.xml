@@ -287,11 +287,11 @@
         <mark key="." line="37" column="69" />
         <mark key="^" line="37" column="69" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/EquipmentEntrySelector.js" timestamp="1511158209339">
-        <mark key="[" line="131" column="5" />
-        <mark key="]" line="131" column="5" />
-        <mark key="^" line="131" column="5" />
-        <mark key="." line="131" column="5" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/EquipmentEntrySelector.js" timestamp="1511160212088">
+        <mark key="[" line="167" column="41" />
+        <mark key="]" line="167" column="46" />
+        <mark key="^" line="167" column="46" />
+        <mark key="." line="167" column="46" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/MtwConfirmOutDto.java" timestamp="1510827287395">
         <mark key="[" line="16" column="30" />
@@ -359,6 +359,12 @@
         <mark key="^" line="24" column="39" />
         <mark key="." line="24" column="39" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentReuseRequest.java" timestamp="1511161174816">
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="13" column="62" />
+        <mark key="^" line="13" column="62" />
+        <mark key="." line="13" column="62" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/RowModel.js" timestamp="1510733064213">
         <mark key="[" line="36" column="49" />
         <mark key="]" line="39" column="20" />
@@ -386,7 +392,7 @@
         <mark key="^" line="167" column="33" />
         <mark key="." line="167" column="33" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/reuse/Edit.js" timestamp="1511158159334">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/reuse/Edit.js" timestamp="1511159968891">
         <mark key="[" line="67" column="52" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchingSummaryDto.java" timestamp="1510641011071">
@@ -442,6 +448,11 @@
         <mark key="]" line="33" column="32" />
         <mark key="^" line="33" column="32" />
         <mark key="." line="33" column="32" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentReuseServiceImpl.java" timestamp="1511161158721">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/dto/InventoryItemDto.java" timestamp="1510492003175">
         <mark key="[" line="9" column="29" />
@@ -565,7 +576,7 @@
         <mark key="^" line="113" column="52" />
         <mark key="." line="113" column="52" />
       </file>
-      <file name="D:/IdeaProjects/GeoProj/src/test/java/GaussProjectTest.java" timestamp="1511150877202" />
+      <file name="D:/IdeaProjects/GeoProj/src/test/java/GaussProjectTest.java" timestamp="1511160510505" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/NamedEquipmentSpecInventory.java" timestamp="1510552973271">
         <mark key="[" line="29" column="32" />
         <mark key="]" line="42" column="36" />
@@ -691,8 +702,8 @@
       <jump line="130" column="56" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DispatchingController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2871495</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoU2VjdXJpdHlVdGlscy5nZXRTdWJqZWN0KCkuaGFzUm9sZSgiRE0iKSkgewogICAgICAgICAgICByZXVzZUVxdWlwbWVudHMocmV1c2UpOwogICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>2871495</text>
@@ -704,31 +715,31 @@
         <text encoding="base64">QWxsb2NhdGlvbkRldGFpbER0byA=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoU2VjdXJpdHlVdGlscy5nZXRTdWJqZWN0KCkuaGFzUm9sZSgiRE0iKSkgewogICAgICAgICAgICByZXVzZUVxdWlwbWVudHMocmV1c2UpOwogICAgICAgIH0K</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBlbS5jcmVhdGVRdWVyeSgic2VsZWN0ICIpCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">SXRlcmFibGVzLmZpbmQoYWxsb2MuZ2V0SXRlbXMoKSwgbmV3IFByZWRpY2F0ZTxBbGxvY2F0aW9uSXRlbT4oKSB7CiAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgIHB1YmxpYyBib29sZWFuIGFwcGx5KEBOdWxsYWJsZSBBbGxvY2F0aW9uSXRlbSBpbnB1dCkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAvL2FsbG9jLnNldEFsbG9jTnVtYmVyKCk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnZlcnNpb24gPSB2ZXJzaW9uOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFZlcnNpb24oSW50ZWdlciB2ZXJzaW9uKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnZlcnNpb24gPSB2ZXJzaW9uOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFZlcnNpb24oSW50ZWdlciB2ZXJzaW9uKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdmVyc2lvbjsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
