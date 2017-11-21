@@ -533,11 +533,11 @@
         <mark key="^" line="17" column="58" />
         <mark key="." line="17" column="58" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/impl/AllocationDaoImpl.java" timestamp="1511237049454">
-        <mark key="[" line="41" column="9" />
-        <mark key="]" line="44" column="66" />
-        <mark key="." line="44" column="66" />
-        <mark key="^" line="44" column="66" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/impl/AllocationDaoImpl.java" timestamp="1511244327257">
+        <mark key="[" line="125" column="30" />
+        <mark key="]" line="125" column="40" />
+        <mark key="." line="125" column="40" />
+        <mark key="^" line="125" column="40" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/UserServiceImpl.java" timestamp="1510454831484">
         <mark key="[" line="142" column="48" />
@@ -727,10 +727,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>销</text>
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text>销</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWltYnVyc2VTZXJ2aWNlXD4=</text>
