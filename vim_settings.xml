@@ -83,11 +83,11 @@
         <mark key="." line="724" column="0" />
         <mark key="^" line="718" column="33" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/AllocationQueryDto.java" timestamp="1511234193453">
-        <mark key="[" line="15" column="57" />
-        <mark key="]" line="19" column="23" />
-        <mark key="^" line="19" column="23" />
-        <mark key="." line="19" column="23" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/AllocationQueryDto.java" timestamp="1511235451346">
+        <mark key="[" line="26" column="31" />
+        <mark key="]" line="34" column="23" />
+        <mark key="^" line="34" column="23" />
+        <mark key="." line="34" column="23" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/StopChargingRequestRepository.java" timestamp="1510813071543">
         <mark key="[" line="31" column="68" />
@@ -533,11 +533,11 @@
         <mark key="^" line="17" column="58" />
         <mark key="." line="17" column="58" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/impl/AllocationDaoImpl.java" timestamp="1511234119800">
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/impl/AllocationDaoImpl.java" timestamp="1511235556536">
         <mark key="[" line="33" column="54" />
-        <mark key="]" line="139" column="39" />
-        <mark key="." line="139" column="39" />
-        <mark key="^" line="139" column="39" />
+        <mark key="]" line="52" column="77" />
+        <mark key="." line="52" column="77" />
+        <mark key="^" line="52" column="77" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/UserServiceImpl.java" timestamp="1510454831484">
         <mark key="[" line="142" column="48" />
@@ -597,7 +597,7 @@
         <mark key="^" line="113" column="52" />
         <mark key="." line="113" column="52" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/restful/AllocationJersey.java" timestamp="1511233921042">
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/restful/AllocationJersey.java" timestamp="1511235297440">
         <mark key="[" line="33" column="60" />
         <mark key="]" line="33" column="65" />
         <mark key="^" line="33" column="65" />
