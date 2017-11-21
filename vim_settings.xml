@@ -597,11 +597,11 @@
         <mark key="^" line="113" column="52" />
         <mark key="." line="113" column="52" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/restful/AllocationJersey.java" timestamp="1511235297440">
-        <mark key="[" line="33" column="60" />
-        <mark key="]" line="33" column="65" />
-        <mark key="^" line="33" column="65" />
-        <mark key="." line="33" column="65" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/restful/AllocationJersey.java" timestamp="1511239862860">
+        <mark key="[" line="87" column="17" />
+        <mark key="]" line="87" column="21" />
+        <mark key="^" line="87" column="21" />
+        <mark key="." line="87" column="21" />
       </file>
       <file name="D:/IdeaProjects/GeoProj/src/test/java/GaussProjectTest.java" timestamp="1511160510505" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/NamedEquipmentSpecInventory.java" timestamp="1510552973271">
@@ -727,10 +727,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ze</text>
+        <text>销</text>
       </register>
       <register name="-" type="4">
-        <text>ze</text>
+        <text>销</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWltYnVyc2VTZXJ2aWNlXD4=</text>
