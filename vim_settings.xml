@@ -71,11 +71,11 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="16" column="45" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/Allocation.java" timestamp="1511099905237">
-        <mark key="[" line="29" column="16" />
-        <mark key="]" line="30" column="7" />
-        <mark key="^" line="30" column="7" />
-        <mark key="." line="30" column="7" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/Allocation.java" timestamp="1511232319114">
+        <mark key="[" line="64" column="14" />
+        <mark key="]" line="64" column="30" />
+        <mark key="^" line="64" column="30" />
+        <mark key="." line="64" column="30" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentServiceV2Impl.java" timestamp="1511170594712">
         <mark key="[" line="724" column="0" />
@@ -83,11 +83,11 @@
         <mark key="." line="724" column="0" />
         <mark key="^" line="718" column="33" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/AllocationQueryDto.java" timestamp="1510906319596">
-        <mark key="[" line="31" column="35" />
-        <mark key="]" line="13" column="14" />
-        <mark key="^" line="13" column="14" />
-        <mark key="." line="13" column="14" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/AllocationQueryDto.java" timestamp="1511234193453">
+        <mark key="[" line="15" column="57" />
+        <mark key="]" line="19" column="23" />
+        <mark key="^" line="19" column="23" />
+        <mark key="." line="19" column="23" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/StopChargingRequestRepository.java" timestamp="1510813071543">
         <mark key="[" line="31" column="68" />
@@ -149,11 +149,11 @@
         <mark key="^" line="18" column="24" />
         <mark key="." line="18" column="24" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/AllocationListItemDto.java" timestamp="1511156467694">
-        <mark key="[" line="24" column="35" />
-        <mark key="]" line="26" column="24" />
-        <mark key="." line="26" column="24" />
-        <mark key="^" line="26" column="24" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/AllocationListItemDto.java" timestamp="1511233271259">
+        <mark key="[" line="16" column="34" />
+        <mark key="]" line="27" column="24" />
+        <mark key="." line="27" column="24" />
+        <mark key="^" line="27" column="24" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/ShippingServiceImpl.java" timestamp="1510838617484">
         <mark key="[" line="49" column="62" />
@@ -327,7 +327,7 @@
         <mark key="." line="13" column="23" />
       </file>
       <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/restful/AccountJersey.java" timestamp="1511229962104" />
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/SerialNumber.java" timestamp="1511102794252">
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/SerialNumber.java" timestamp="1511233112201">
         <mark key="[" line="8" column="3" />
         <mark key="]" line="30" column="22" />
         <mark key="." line="30" column="22" />
@@ -387,17 +387,18 @@
         <mark key="^" line="63" column="49" />
         <mark key="." line="63" column="49" />
       </file>
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/util/SecurityUtils.java" timestamp="1511232517921" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/RowModel.js" timestamp="1510733064213">
         <mark key="[" line="36" column="49" />
         <mark key="]" line="39" column="20" />
         <mark key="^" line="39" column="20" />
         <mark key="." line="39" column="20" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/impl/AllocationServiceImpl.java" timestamp="1511079075332">
-        <mark key="[" line="170" column="15" />
-        <mark key="]" line="170" column="15" />
-        <mark key="^" line="137" column="57" />
-        <mark key="." line="170" column="15" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/impl/AllocationServiceImpl.java" timestamp="1511232604781">
+        <mark key="[" line="157" column="50" />
+        <mark key="]" line="158" column="37" />
+        <mark key="^" line="158" column="37" />
+        <mark key="." line="158" column="37" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/Renders.js" timestamp="1510543331738">
         <mark key="[" line="46" column="5" />
@@ -472,13 +473,6 @@
         <mark key="^" line="33" column="32" />
         <mark key="." line="33" column="32" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentReuseServiceImpl.java" timestamp="1511168786843">
-        <mark key="'" line="155" column="8" />
-        <mark key="[" line="149" column="47" />
-        <mark key="]" line="150" column="59" />
-        <mark key="." line="150" column="59" />
-        <mark key="^" line="150" column="59" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/dto/InventoryItemDto.java" timestamp="1510492003175">
         <mark key="[" line="9" column="29" />
         <mark key="]" line="9" column="52" />
@@ -539,11 +533,11 @@
         <mark key="^" line="17" column="58" />
         <mark key="." line="17" column="58" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/impl/AllocationDaoImpl.java" timestamp="1511104094786">
-        <mark key="[" line="76" column="27" />
-        <mark key="]" line="76" column="28" />
-        <mark key="." line="76" column="8" />
-        <mark key="^" line="76" column="7" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/impl/AllocationDaoImpl.java" timestamp="1511234119800">
+        <mark key="[" line="33" column="54" />
+        <mark key="]" line="139" column="39" />
+        <mark key="." line="139" column="39" />
+        <mark key="^" line="139" column="39" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/UserServiceImpl.java" timestamp="1510454831484">
         <mark key="[" line="142" column="48" />
@@ -603,11 +597,11 @@
         <mark key="^" line="113" column="52" />
         <mark key="." line="113" column="52" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/restful/AllocationJersey.java" timestamp="1511230974345">
-        <mark key="[" line="51" column="8" />
-        <mark key="]" line="29" column="19" />
-        <mark key="^" line="29" column="19" />
-        <mark key="." line="29" column="19" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/restful/AllocationJersey.java" timestamp="1511233921042">
+        <mark key="[" line="33" column="60" />
+        <mark key="]" line="33" column="65" />
+        <mark key="^" line="33" column="65" />
+        <mark key="." line="33" column="65" />
       </file>
       <file name="D:/IdeaProjects/GeoProj/src/test/java/GaussProjectTest.java" timestamp="1511160510505" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/NamedEquipmentSpecInventory.java" timestamp="1510552973271">
@@ -733,16 +727,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>listpage</text>
+        <text>ze</text>
       </register>
       <register name="-" type="4">
-        <text>listpage</text>
+        <text>ze</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWltYnVyc2VTZXJ2aWNlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">QWxsb2NhdGlvbkRldGFpbER0byA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBhbGxvYy5zZXRTdW1tYXJ5KGRhdGEuZ2V0U3VtbWFyeSgpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBQYXRoKCJ7aWQ6XFxkK30iKQogICAgQFByb2R1Y2VzKE1lZGlhVHlwZS5BUFBMSUNBVElPTl9KU09OKQo=</text>
