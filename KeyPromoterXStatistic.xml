@@ -249,6 +249,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'SpringBootDemoApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'SpringBootDemoApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'finance [compile]'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -335,6 +343,22 @@
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
           <Count>31</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'SpringBootDemoApplic...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'SpringBootDemoApplic...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'SpringBootDemoApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'SpringBootDemoApplication'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'finance [jetty:run]'">
