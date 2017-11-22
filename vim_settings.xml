@@ -65,8 +65,11 @@
         <mark key="^" line="33" column="32" />
         <mark key="." line="33" column="32" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/LoanService.java" timestamp="1511319952255">
-        <mark key="[" line="12" column="30" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/LoanService.java" timestamp="1511322628173">
+        <mark key="[" line="23" column="7" />
+        <mark key="]" line="23" column="8" />
+        <mark key="^" line="23" column="8" />
+        <mark key="." line="23" column="8" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentInventory.java" timestamp="1510552875643">
         <mark key="[" line="38" column="51" />
@@ -815,11 +818,11 @@
       <jump line="361" column="79" filename="D:/IdeaProjects/lems/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+OS40LjcudjIwMTcwOTE0PC92ZXJzaW9uPgo=</text>
+      <register name="&quot;" type="4">
+        <text>核</text>
       </register>
       <register name="-" type="4">
-        <text>9.2.19.v20160908</text>
+        <text>核</text>
       </register>
       <register name="/" type="4">
         <text>jetty</text>
