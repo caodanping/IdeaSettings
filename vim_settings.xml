@@ -61,11 +61,12 @@
       </file>
       <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/restful/ReimburseJersey.java" timestamp="1511230566588" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ConfirmOut.js" timestamp="1511171308190" />
-      <file name="D:/IdeaProjects/lems/pom.xml" timestamp="1511315359428">
-        <mark key="[" line="359" column="41" />
-        <mark key="]" line="359" column="42" />
-        <mark key="^" line="358" column="33" />
-        <mark key="." line="359" column="42" />
+      <file name="D:/IdeaProjects/lems/pom.xml" timestamp="1511318009073">
+        <mark key="'" line="364" column="79" />
+        <mark key="[" line="252" column="23" />
+        <mark key="]" line="358" column="47" />
+        <mark key="." line="358" column="47" />
+        <mark key="^" line="358" column="47" />
       </file>
       <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/impl/SerialNumberServiceImpl.java" timestamp="1510975213761">
         <mark key="[" line="16" column="0" />
@@ -101,7 +102,7 @@
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/EquipmentReuseEditDto.java" timestamp="1511164679541">
         <mark key="[" line="11" column="49" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/pom.xml" timestamp="1511315297011">
+      <file name="D:/IdeaProjects/finance-service/pom.xml" timestamp="1511317589870">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/MovingToWarehouseServiceImpl.java" timestamp="1511170735163">
@@ -199,7 +200,7 @@
         <mark key="[" line="11" column="24" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/List.js" timestamp="1511163985814" />
-      <file name="/Dummy.txt" timestamp="1510884780101">
+      <file name="/Dummy.txt" timestamp="1511317815540">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -228,8 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="289" column="29" filename="D:/IdeaProjects/lems/pom.xml" />
-      <jump line="51" column="28" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
       <jump line="305" column="46" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
       <jump line="326" column="15" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
       <jump line="150" column="23" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
@@ -328,13 +327,15 @@
       <jump line="99" column="24" filename="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/restful/AllocationJersey.java" />
       <jump line="116" column="24" filename="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/restful/AllocationJersey.java" />
       <jump line="0" column="0" filename="D:/IdeaProjects/finance-service/pom.xml" />
+      <jump line="357" column="38" filename="D:/IdeaProjects/lems/pom.xml" />
+      <jump line="361" column="79" filename="D:/IdeaProjects/lems/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2871495</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+OS40LjcudjIwMTcwOTE0PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>2871495</text>
+        <text>9.2.19.v20160908</text>
       </register>
       <register name="/" type="4">
         <text>jetty</text>
@@ -343,31 +344,31 @@
         <text>g</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+OS40LjcudjIwMTcwOTE0PC92ZXJzaW9uPgo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb21tZW50c0JpbmQ6ICd7Y29tbWVudHN9JywK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">Ci8vICAgICAgICAvKioKLy8gICAgICAgICAqILDXzPUKLy8gICAgICAgICAqLwovLyAgICAgICAgSU9VLAovLwovLyAgICAgICAgLyoqCi8vICAgICAgICAgKiDS0danuLYKLy8gICAgICAgICAqLwovLyAgICAgICAgUEFJRCwKLy8KLy8gICAgICAgIC8qKgovLyAgICAgICAgICogs+W96Mz1Ci8vICAgICAgICAgKi8KLy8gICAgICAgIENKVCw=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHF1ZXJ5KTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHF1ZXJ5KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBQYXRoKCIvcGVyc29uYWwiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHF1ZXJ5KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBRQWxsb2NhdGlvbiBhbGxvYyA9IEFMTE9DQVRJT047Cg==</text>
+        <text encoding="base64">ICAgIEBQYXRoKCIvcGVyc29uYWwiKQo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBRQWxsb2NhdGlvbiBhbGxvYyA9IEFMTE9DQVRJT047Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFFSZWltYnVyc2UgcmVpbSA9IFFSZWltYnVyc2UucmVpbWJ1cnNlOwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">cHVibGljIHN0YXRpYyBQcmVkaWNhdGUgZnJvbVF1ZXJ5KEFsbG9jYXRpb25RdWVyeUR0byBxdWVyeSkgewogICAgICAgIEJvb2xlYW5CdWlsZGVyIGJ1aWxkZXIgPSBuZXcgQm9vbGVhbkJ1aWxkZXIoKTsKICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNOb3RFbXB0eShxdWVyeS5nZXRRdWVyeSgpKSkgewogICAgICAgICAgICBidWlsZGVyLmFuZCgKICAgICAgICAgICAgICAgICAgICByZWltLnJlaW1idXJzZU51bWJlci5jb250YWlucyhxdWVyeS5nZXRRdWVyeSgpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLm9yKHJlaW0ucHJvamVjdC5wcm9qZWN0TnVtYmVyLmNvbnRhaW5zKHF1ZXJ5LmdldFF1ZXJ5KCkpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLm9yKHJlaW0ucHJvamVjdC5wcm9qZWN0TmFtZS5jb250YWlucyhxdWVyeS5nZXRRdWVyeSgpKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5vcihyZWltLnN1bW1hcnkuY29udGFpbnMocXVlcnkuZ2V0UXVlcnkoKSkpCiAgICAgICAgICAgICk7CiAgICAgICAgfQoKICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNOb3RFbXB0eShxdWVyeS5nZXRDYXRlZ29yeSgpKSkgewogICAgICAgICAgICBidWlsZGVyLmFuZChyZWltLmNhdGVnb3J5LmVxKHF1ZXJ5LmdldENhdGVnb3J5KCkpKTsKICAgICAgICB9CgogICAgICAgIGlmIChxdWVyeS5nZXREZXB0SWQoKSAhPSBudWxsKSB7CiAgICAgICAgICAgIGJ1aWxkZXIuYW5kKHJlaW0uZGVwYXJ0bWVudC5pZC5lcShxdWVyeS5nZXREZXB0SWQoKSkpOwogICAgICAgIH0KCiAgICAgICAgaWYgKHF1ZXJ5LmdldFVzZXJJZCgpICE9IG51bGwpIHsKICAgICAgICAgICAgYnVpbGRlci5hbmQocmVpbS5yZWltYnVyc2VQZXJzb24uaWQuZXEocXVlcnkuZ2V0VXNlcklkKCkpKTsKICAgICAgICB9CgogICAgICAgIGlmIChxdWVyeS5nZXREYXRlUmFuZ2UoKSAhPSBudWxsICYmICFxdWVyeS5nZXREYXRlUmFuZ2UoKS5pc1VuYm91bmRlZCgpKSB7CiAgICAgICAgICAgIGlmIChxdWVyeS5nZXREYXRlUmFuZ2UoKS5oYXNCb3RoQm91bmQoKSkgewogICAgICAgICAgICAgICAgYnVpbGRlci5hbmQocmVpbS5yZWltYnVyc2VUaW1lLmJldHdlZW4oCiAgICAgICAgICAgICAgICAgICAgICAgIHF1ZXJ5LmdldERhdGVSYW5nZSgpLmdldFN0YXJ0KCksIHF1ZXJ5LmdldERhdGVSYW5nZSgpLmdldEVuZCgpKSk7CiAgICAgICAgICAgIH0gZWxzZSBpZiAocXVlcnkuZ2V0RGF0ZVJhbmdlKCkuaGFzVXBwZXJCb3VuZCgpKSB7CiAgICAgICAgICAgICAgICBidWlsZGVyLmFuZChyZWltLnJlaW1idXJzZVRpbWUubG9lKHF1ZXJ5LmdldERhdGVSYW5nZSgpLmdldEVuZCgpKSk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBidWlsZGVyLmFuZChyZWltLnJlaW1idXJzZVRpbWUuZ29lKHF1ZXJ5LmdldERhdGVSYW5nZSgpLmdldFN0YXJ0KCkpKTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgaWYgKHF1ZXJ5LmdldEF1ZGl0UHJvY2Vzc2VkKCkgIT0gbnVsbCkgewogICAgICAgICAgICBpZiAocXVlcnkuZ2V0QXVkaXRQcm9jZXNzZWQoKS5ib29sZWFuVmFsdWUoKSkgewogICAgICAgICAgICAgICAgYnVpbGRlci5hbmQocmVpbS5hdWRpdFRpbWUuaXNOb3ROdWxsKCkpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgYnVpbGRlci5hbmQocmVpbS5hdWRpdFRpbWUuaXNOdWxsKCkpOwogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICBpZiAocXVlcnkuZ2V0UmVnaXN0ZXJQcm9jZXNzZWQoKSAhPSBudWxsKSB7CiAgICAgICAgICAgIGlmIChxdWVyeS5nZXRSZWdpc3RlclByb2Nlc3NlZCgpLmJvb2xlYW5WYWx1ZSgpKSB7CiAgICAgICAgICAgICAgICBidWlsZGVyLmFuZChyZWltLnJlZ2lzdGVyVGltZS5pc05vdE51bGwoKSk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBidWlsZGVyLmFuZChyZWltLnJlZ2lzdGVyVGltZS5pc051bGwoKSk7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIGlmIChxdWVyeS5nZXREZXB0Q2hlY2tlZCgpICE9IG51bGwpIHsKICAgICAgICAgICAgaWYgKHF1ZXJ5LmdldERlcHRDaGVja2VkKCkuYm9vbGVhblZhbHVlKCkpIHsKICAgICAgICAgICAgICAgIGJ1aWxkZXIuYW5kKHJlaW0uZGVwdENoZWNrVGltZS5pc05vdE51bGwoKSk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBidWlsZGVyLmFuZChyZWltLmRlcHRDaGVja1RpbWUuaXNOdWxsKCkpOwogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNOb3RFbXB0eShxdWVyeS5nZXRQcm9mZXNzaW9uKCkpKSB7CiAgICAgICAgICAgIGJ1aWxkZXIuYW5kKHJlaW0ucHJvZmVzc2lvbi5lcShxdWVyeS5nZXRQcm9mZXNzaW9uKCkpKTsKICAgICAgICB9CgogICAgICAgIGlmIChTdHJpbmdVdGlscy5pc05vdEVtcHR5KHF1ZXJ5LmdldENvc3RDYXRlZ29yeSgpKSkgewogICAgICAgICAgICBidWlsZGVyLmFuZChyZWltLmNvc3RDYXRlZ29yeS5lcShxdWVyeS5nZXRDb3N0Q2F0ZWdvcnkoKSkpOwogICAgICAgIH0KCiAgICAgICAgaWYgKHF1ZXJ5LmdldEFjY291bnRJZCgpICE9IG51bGwpIHsKICAgICAgICAgICAgYnVpbGRlci5hbmQocmVpbS5hY2NvdW50LmlkLmVxKHF1ZXJ5LmdldEFjY291bnRJZCgpKSk7CiAgICAgICAgfQoKICAgICAgICBpZiAocXVlcnkuZ2V0UmVpbWJ1cnNlUGVyc29uSWQoKSAhPSBudWxsKSB7CiAgICAgICAgICAgIGJ1aWxkZXIuYW5kKHJlaW0ucmVpbWJ1cnNlUGVyc29uLmlkLmVxKHF1ZXJ5LmdldFJlaW1idXJzZVBlcnNvbklkKCkpKTsKICAgICAgICB9CgogICAgICAgIGlmIChxdWVyeS5nZXRBdWRpdG9ySWQoKSAhPSBudWxsKSB7CiAgICAgICAgICAgIGJ1aWxkZXIuYW5kKHJlaW0uYXVkaXRvci5pZC5lcShxdWVyeS5nZXRBdWRpdG9ySWQoKSkpOwogICAgICAgIH0KCiAgICAgICAgaWYgKHF1ZXJ5LmdldFJlZ2lzdG9ySWQoKSAhPSBudWxsKSB7CiAgICAgICAgICAgIGJ1aWxkZXIuYW5kKHJlaW0ucmVnaXN0ZXJQZXJzb24uaWQuZXEocXVlcnkuZ2V0UmVnaXN0b3JJZCgpKSk7CiAgICAgICAgfQoKICAgICAgICBpZiAocXVlcnkuZ2V0RGVwdENoZWNrUGVyc29uSWQoKSAhPSBudWxsKSB7CiAgICAgICAgICAgIGJ1aWxkZXIuYW5kKHJlaW0uZGVwdENoZWNrUGVyc29uLmlkLmVxKHF1ZXJ5LmdldERlcHRDaGVja1BlcnNvbklkKCkpKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiBidWlsZGVyLmdldFZhbHVlKCk7CiAgICB9</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
