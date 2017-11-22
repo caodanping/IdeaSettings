@@ -16,7 +16,8 @@
         <mark key="." line="24" column="39" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/EquipmentReuseService.java" timestamp="1511164792572" />
-      <file name="/a.dummy" timestamp="1511248872847">
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/LoanDaoCustom.java" timestamp="1511336279625" />
+      <file name="/a.dummy" timestamp="1511336438411">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="7" />
@@ -76,6 +77,12 @@
         <mark key="]" line="38" column="3" />
         <mark key="." line="38" column="3" />
         <mark key="^" line="38" column="3" />
+      </file>
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/impl/LoanDaoImpl.java" timestamp="1511337563871">
+        <mark key="[" line="30" column="25" />
+        <mark key="]" line="30" column="24" />
+        <mark key="^" line="30" column="24" />
+        <mark key="." line="30" column="24" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/DeptEquipFeeEvent.java" timestamp="1510537849358">
         <mark key="[" line="15" column="7" />
@@ -293,11 +300,11 @@
         <mark key="^" line="174" column="75" />
         <mark key="." line="174" column="75" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/impl/LoanServiceImpl.java" timestamp="1511333436058">
-        <mark key="[" line="43" column="48" />
-        <mark key="]" line="43" column="48" />
-        <mark key="^" line="31" column="107" />
-        <mark key="." line="43" column="48" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/impl/LoanServiceImpl.java" timestamp="1511336104425">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="55" column="22" />
+        <mark key="^" line="55" column="22" />
+        <mark key="." line="55" column="22" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/UniqueEquipmentRepository.java" timestamp="1480319170147">
         <mark key="[" line="12" column="83" />
@@ -451,9 +458,6 @@
         <mark key="^" line="46" column="5" />
         <mark key="." line="46" column="5" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/AccountEntry.java" timestamp="1511253755159">
-        <mark key="[" line="56" column="36" />
-      </file>
       <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/LoanListItemDto.java" timestamp="1511318936521">
         <mark key="[" line="7" column="28" />
       </file>
@@ -564,7 +568,7 @@
         <mark key="." line="13" column="10" />
         <mark key="^" line="13" column="10" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/Loan.java" timestamp="1511314449701">
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/Loan.java" timestamp="1511336142489">
         <mark key="[" line="102" column="29" />
         <mark key="]" line="14" column="3" />
         <mark key="^" line="14" column="3" />
@@ -666,11 +670,11 @@
         <mark key="^" line="60" column="44" />
         <mark key="." line="60" column="44" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/LoanDao.java" timestamp="1511332469153">
-        <mark key="[" line="17" column="35" />
-        <mark key="]" line="17" column="35" />
-        <mark key="^" line="17" column="48" />
-        <mark key="." line="17" column="35" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/LoanDao.java" timestamp="1511336262553">
+        <mark key="[" line="16" column="90" />
+        <mark key="]" line="17" column="29" />
+        <mark key="^" line="17" column="29" />
+        <mark key="." line="17" column="29" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/RoutesDetail.js" timestamp="1510732059680">
         <mark key="[" line="183" column="55" />
@@ -727,8 +731,8 @@
         <mark key="^" line="41" column="33" />
         <mark key="." line="41" column="33" />
       </file>
-      <file name="/fragment.java" timestamp="1511331354591">
-        <mark key="[" line="0" column="15" />
+      <file name="/fragment.java" timestamp="1511336248296">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
