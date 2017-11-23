@@ -84,11 +84,10 @@
         <mark key="." line="38" column="3" />
         <mark key="^" line="38" column="3" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/impl/LoanDaoImpl.java" timestamp="1511421814852">
-        <mark key="[" line="33" column="28" />
-        <mark key="]" line="34" column="42" />
-        <mark key="^" line="34" column="42" />
-        <mark key="." line="34" column="42" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/impl/LoanDaoImpl.java" timestamp="1511422472147">
+        <mark key="[" line="76" column="17" />
+        <mark key="]" line="76" column="17" />
+        <mark key="." line="76" column="17" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/DeptEquipFeeEvent.java" timestamp="1510537849358">
         <mark key="[" line="15" column="7" />
@@ -227,6 +226,12 @@
         <mark key="]" line="27" column="24" />
         <mark key="^" line="27" column="24" />
         <mark key="." line="27" column="24" />
+      </file>
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/LoanDetailDto.java" timestamp="1511422535104">
+        <mark key="[" line="17" column="37" />
+        <mark key="]" line="17" column="37" />
+        <mark key="^" line="12" column="17" />
+        <mark key="." line="17" column="37" />
       </file>
       <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/restful/ReimburseJersey.java" timestamp="1511230566588" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/List.js" timestamp="1510501799187">
@@ -449,6 +454,11 @@
         <mark key="]" line="24" column="39" />
         <mark key="^" line="24" column="39" />
         <mark key="." line="24" column="39" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/Detail.js" timestamp="1511315253226">
+        <mark key="[" line="102" column="36" />
+        <mark key="]" line="102" column="36" />
+        <mark key="." line="102" column="36" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentReuseRequest.java" timestamp="1511164829914">
         <mark key="[" line="61" column="30" />
@@ -761,6 +771,11 @@
         <mark key="^" line="41" column="33" />
         <mark key="." line="41" column="33" />
       </file>
+      <file name="/fragment.java" timestamp="1511422380750">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="305" column="46" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
@@ -865,11 +880,11 @@
       <jump line="361" column="79" filename="D:/IdeaProjects/lems/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTZWN1cml0eVV0aWxzLmNoZWNrTG9nZ2VkSW4oKTsK</text>
+      <register name="&quot;" type="4">
+        <text>as(&quot;deptName&quot;),</text>
       </register>
       <register name="-" type="4">
-        <text>GET</text>
+        <text>as(&quot;deptName&quot;),</text>
       </register>
       <register name="/" type="4">
         <text>jetty</text>
@@ -878,16 +893,17 @@
         <text encoding="base64">ICAgICAgICBTZWN1cml0eVV0aWxzLmNoZWNrTG9nZ2VkSW4oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vZmZzZXQocGFnZWFibGUuZ2V0T2YK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgVGFza0hpc3RvcnkgdGFza0hpc3RvcnkgPSBuZXcgVGFza0hpc3RvcnkoKTsKICAgICAgICB0YXNrSGlzdG9yeS5zZXQKICAgICAgICB0YXNrSGlzdG9yeURhby5zYXZlKCk=</text>
+        <text>fset())
+                .limit(pageable.getPageSize())</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgVGFza0hpc3RvcnkgdGFza0hpc3RvcnkgPSBuZXcgVGFza0hpc3RvcnkoKTsKICAgICAgICB0YXNrSGlzdG9yeS5zZXQKICAgICAgICB0YXNrSGlzdG9yeURhby5zYXZlKCk=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
