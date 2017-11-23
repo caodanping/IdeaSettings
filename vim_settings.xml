@@ -227,11 +227,11 @@
         <mark key="^" line="27" column="24" />
         <mark key="." line="27" column="24" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/LoanDetailDto.java" timestamp="1511423788419">
-        <mark key="[" line="18" column="37" />
-        <mark key="]" line="21" column="26" />
-        <mark key="^" line="21" column="26" />
-        <mark key="." line="21" column="26" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/LoanDetailDto.java" timestamp="1511444836482">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="42" />
+        <mark key="^" line="35" column="40" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/restful/ReimburseJersey.java" timestamp="1511230566588" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/List.js" timestamp="1510501799187">
@@ -880,8 +880,8 @@
       <jump line="361" column="79" filename="D:/IdeaProjects/lems/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Qm9vbGVhbkV4cHJlc3Npb24g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBYbWxKYXZhVHlwZUFkYXB0ZXIoRGF0ZUFkYXB0ZXIuY2xhc3MpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Qm9vbGVhbkV4cHJlc3Npb24g</text>
@@ -890,7 +890,7 @@
         <text>jetty</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvYW4uYXVkaXRvci5mdWxsbmFtZS5hcygicmV2aWV3MVBlcnNvbk5hbWUiKSwKICAgICAgICAgICAgICAgIGxvYW4uYXVkaXRUaW1lLmFzKCJyZXZpZXcxVGltZSIpLAogICAgICAgICAgICAgICAgbG9hbi5hdWRpdG9yQ29tbWVudHMuYXMoInJldmlldzFDb21tZW50cyIpLAo=</text>
+        <text encoding="base64">ICAgIEBYbWxKYXZhVHlwZUFkYXB0ZXIoRGF0ZUFkYXB0ZXIuY2xhc3MpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxvYW4uYXVkaXRvckNvbW1lbnRzLmFzKCJyZXZpZXcxQ29tbWVudHMiKSwK</text>
