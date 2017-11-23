@@ -84,11 +84,11 @@
         <mark key="." line="38" column="3" />
         <mark key="^" line="38" column="3" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/impl/LoanDaoImpl.java" timestamp="1511338790666">
-        <mark key="[" line="30" column="25" />
-        <mark key="]" line="26" column="81" />
-        <mark key="^" line="26" column="81" />
-        <mark key="." line="26" column="81" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/impl/LoanDaoImpl.java" timestamp="1511421814852">
+        <mark key="[" line="33" column="28" />
+        <mark key="]" line="34" column="42" />
+        <mark key="^" line="34" column="42" />
+        <mark key="." line="34" column="42" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/DeptEquipFeeEvent.java" timestamp="1510537849358">
         <mark key="[" line="15" column="7" />
@@ -102,8 +102,11 @@
         <mark key="^" line="64" column="30" />
         <mark key="." line="135" column="28" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/LoanDto.java" timestamp="1511407313481">
-        <mark key="[" line="7" column="22" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/LoanDto.java" timestamp="1511421295436">
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="66" column="34" />
+        <mark key="^" line="66" column="34" />
+        <mark key="." line="66" column="34" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentServiceV2Impl.java" timestamp="1511401430943">
         <mark key="[" line="724" column="0" />
@@ -311,10 +314,11 @@
         <mark key="^" line="174" column="75" />
         <mark key="." line="174" column="75" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/impl/LoanServiceImpl.java" timestamp="1511411945942">
-        <mark key="[" line="172" column="0" />
-        <mark key="]" line="172" column="0" />
-        <mark key="." line="172" column="0" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/impl/LoanServiceImpl.java" timestamp="1511421936865">
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="205" column="38" />
+        <mark key="^" line="55" column="37" />
+        <mark key="." line="205" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/UniqueEquipmentRepository.java" timestamp="1480319170147">
         <mark key="[" line="12" column="83" />
@@ -446,11 +450,6 @@
         <mark key="^" line="24" column="39" />
         <mark key="." line="24" column="39" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/Detail.js" timestamp="1511315253226">
-        <mark key="[" line="102" column="36" />
-        <mark key="]" line="102" column="36" />
-        <mark key="." line="102" column="36" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentReuseRequest.java" timestamp="1511164829914">
         <mark key="[" line="61" column="30" />
         <mark key="]" line="63" column="49" />
@@ -477,8 +476,8 @@
         <mark key="^" line="46" column="5" />
         <mark key="." line="46" column="5" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/LoanListItemDto.java" timestamp="1511318936521">
-        <mark key="[" line="7" column="28" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/LoanListItemDto.java" timestamp="1511421021245">
+        <mark key="[" line="13" column="54" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/StopChargingRequestRepositoryCustom.java" timestamp="1510812800992">
         <mark key="[" line="12" column="46" />
@@ -587,11 +586,11 @@
         <mark key="." line="13" column="10" />
         <mark key="^" line="13" column="10" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/Loan.java" timestamp="1511406708401">
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/Loan.java" timestamp="1511420906311">
         <mark key="[" line="108" column="30" />
-        <mark key="]" line="14" column="3" />
-        <mark key="^" line="14" column="3" />
-        <mark key="." line="14" column="3" />
+        <mark key="]" line="190" column="30" />
+        <mark key="^" line="190" column="30" />
+        <mark key="." line="190" column="30" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ConfirmIn.js" timestamp="1511179929547">
         <mark key="[" line="45" column="20" />
@@ -762,11 +761,6 @@
         <mark key="^" line="41" column="33" />
         <mark key="." line="41" column="33" />
       </file>
-      <file name="/fragment.java" timestamp="1511358907480">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="305" column="46" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
@@ -872,7 +866,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTZWN1cml0eVV0aWxzLmNoZWNrTG9nZ2VkSW4oKTsK</text>
       </register>
       <register name="-" type="4">
         <text>GET</text>
@@ -881,7 +875,7 @@
         <text>jetty</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
+        <text encoding="base64">ICAgICAgICBTZWN1cml0eVV0aWxzLmNoZWNrTG9nZ2VkSW4oKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
