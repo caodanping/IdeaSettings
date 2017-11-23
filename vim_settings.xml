@@ -84,10 +84,11 @@
         <mark key="." line="38" column="3" />
         <mark key="^" line="38" column="3" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/impl/LoanDaoImpl.java" timestamp="1511435709550">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/impl/LoanDaoImpl.java" timestamp="1511446369497">
+        <mark key="[" line="83" column="35" />
+        <mark key="]" line="83" column="43" />
+        <mark key="." line="83" column="43" />
+        <mark key="^" line="83" column="43" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/DeptEquipFeeEvent.java" timestamp="1510537849358">
         <mark key="[" line="15" column="7" />
@@ -227,11 +228,11 @@
         <mark key="^" line="27" column="24" />
         <mark key="." line="27" column="24" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/LoanDetailDto.java" timestamp="1511444836482">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="42" />
-        <mark key="^" line="35" column="40" />
-        <mark key="." line="27" column="0" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/LoanDetailDto.java" timestamp="1511445825235">
+        <mark key="[" line="34" column="26" />
+        <mark key="]" line="34" column="31" />
+        <mark key="^" line="34" column="31" />
+        <mark key="." line="34" column="31" />
       </file>
       <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/restful/ReimburseJersey.java" timestamp="1511230566588" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/List.js" timestamp="1510501799187">
