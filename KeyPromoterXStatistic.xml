@@ -30,7 +30,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>77</Count>
+          <Count>82</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -38,7 +38,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>76</Count>
+          <Count>77</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'HibernateJPATest.testJpaFetchi...'">
@@ -166,7 +166,7 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Messages</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Method...">
@@ -190,7 +190,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
           <Description>Paste</Description>
-          <Count>24</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -270,7 +270,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'finance [jetty:run]'</Description>
-          <Count>26</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'hibernate-man [compile]'">
@@ -342,7 +342,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>31</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'SpringBootDemoApplic...'">
@@ -422,7 +422,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>15</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Dependencies...">
@@ -430,6 +430,14 @@
           <IdeaActionID>ShowUmlDiagram</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+U'</ShortCut>
           <Description>Show Dependencies...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SpringBootDemoApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'SpringBootDemoApplication'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -478,7 +486,7 @@
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>TODO</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -486,7 +494,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>42</Count>
+          <Count>43</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
