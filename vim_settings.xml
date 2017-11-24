@@ -44,6 +44,9 @@
         <mark key="." line="30" column="3" />
         <mark key="^" line="30" column="3" />
       </file>
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/IouDao.java" timestamp="1511533861772">
+        <mark key="[" line="5" column="23" />
+      </file>
       <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/Reimburse.java" timestamp="1511528918726">
         <mark key="[" line="391" column="5" />
         <mark key="]" line="393" column="26" />
@@ -205,8 +208,8 @@
         <mark key="." line="27" column="24" />
         <mark key="^" line="27" column="24" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/Iou.java" timestamp="1511525370015">
-        <mark key="[" line="8" column="18" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/Iou.java" timestamp="1511533364358">
+        <mark key="[" line="8" column="3" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/ShippingServiceImpl.java" timestamp="1510838617484">
         <mark key="[" line="49" column="62" />
@@ -231,6 +234,9 @@
         <mark key="]" line="41" column="21" />
         <mark key="^" line="24" column="25" />
         <mark key="." line="41" column="21" />
+      </file>
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/SerialNumberService.java" timestamp="1510974282087">
+        <mark key="[" line="7" column="38" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/StopChargingRequestDto.java" timestamp="1510305107622">
         <mark key="[" line="5" column="30" />
@@ -425,11 +431,14 @@
         <mark key="^" line="18" column="97" />
         <mark key="." line="18" column="97" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/SerialNumber.java" timestamp="1511407878561">
-        <mark key="[" line="14" column="31" />
-        <mark key="]" line="14" column="25" />
-        <mark key="." line="14" column="25" />
-        <mark key="^" line="14" column="25" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/SerialNumber.java" timestamp="1511533790742">
+        <mark key="[" line="14" column="42" />
+        <mark key="]" line="14" column="44" />
+        <mark key="." line="14" column="44" />
+        <mark key="^" line="14" column="44" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/EquipmentReuseEditDto.java" timestamp="1511164679541">
+        <mark key="[" line="11" column="49" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/task/List.js" timestamp="1510632408759">
         <mark key="[" line="45" column="62" />
@@ -517,6 +526,9 @@
         <mark key="]" line="146" column="35" />
         <mark key="." line="146" column="35" />
         <mark key="^" line="146" column="35" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/StopChargingRequestRepositoryCustom.java" timestamp="1510812800992">
+        <mark key="[" line="12" column="46" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/UnbalanceProc.java" timestamp="1510817057870">
         <mark key="[" line="165" column="36" />
@@ -644,11 +656,11 @@
         <mark key="^" line="53" column="19" />
         <mark key="." line="53" column="19" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/impl/ReimburseServiceImpl.java" timestamp="1511532610448">
-        <mark key="[" line="284" column="29" />
-        <mark key="]" line="284" column="40" />
-        <mark key="." line="284" column="40" />
-        <mark key="^" line="284" column="40" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/impl/ReimburseServiceImpl.java" timestamp="1511533799958">
+        <mark key="[" line="297" column="90" />
+        <mark key="]" line="297" column="86" />
+        <mark key="^" line="297" column="86" />
+        <mark key="." line="297" column="86" />
       </file>
       <file name="D:/IdeaProjects/spring-boot-demo/src/main/java/com/caodanping/web/Greeting.java" timestamp="1511400022136">
         <mark key="[" line="14" column="60" />
@@ -919,7 +931,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>now);</text>
+        <text encoding="base64">TG9hbiBsb2FuID0gbG9hbkRhby5maW5kT25lKGNqdC5nZXRMb2FuSWQoKSk7CiAgICAgICAgaWYgKGxvYW4uZ2V0UmVtYWluQW1vdW50KCkuY29tcGFyZVRvKHJlaW0uZ2V0QW1vdW50KCkpIDwgMCkgewogICAgICAgICAgICB0aHJvdyBuZXcgV2ViQXBwbGljYXRpb25FeGNlcHRpb24oCiAgICAgICAgICAgICAgICAgICAgU3RyaW5nLmZvcm1hdCgisb60zrGoz/q98LbuJXO089PavejM9cqj0+C98LbuJXMiLCByZWltLmdldEFtb3VudCgpLCBsb2FuLmdldFJlbWFpbkFtb3VudCgpKSwKICAgICAgICAgICAgICAgICAgICBSZXNwb25zZS5TdGF0dXMuQ09ORkxJQ1QpOwogICAgICAgIH0KICAgICAgICByZWltLnNldExvYW4obG9hbik7CiAgICAgICAgcmVpbS5zZXRBY2NvdW50KGNqdC5nZXRBY2NvdW50SWQoKSA9PSBudWxsID8gbnVsbCA6IGFjY291bnREYW8uZmluZE9uZShjanQuZ2V0QWNjb3VudElkKCkpKTsKICAgICAgICByZWltLnNldFByb2NUeXBlKFJlaW1idXJzZS5Qcm9jVHlwZS5DSlQpOwogICAgICAgIHJlaW0uc2V0UmVnaXN0ZXJQZXJzb24oU2VjdXJpdHlVdGlscy5nZXRDdXJyZW50VXNlcigpKTsKICAgICAgICByZWltLnNldFJlZ2lzdGVyVGltZShuZXcgRGF0ZSgpKTsKICAgICAgICByZWltLnNldFN0YXRlKFJlaW1idXJzZS5TdGF0ZS5SRUdJU1RPUl9BUFBST1ZFRCk7CiAgICAgICAgcmVpbWJ1cnNlRGFvLnNhdmUocmVpbSk7</text>
       </register>
       <register name="-" type="4">
         <text>now);</text>
@@ -930,32 +942,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBYbWxKYXZhVHlwZUFkYXB0ZXIoRGF0ZUFkYXB0ZXIuY2xhc3MpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2FuLnNldAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">TG9hbiBsb2FuID0gbG9hbkRhby5maW5kT25lKGNqdC5nZXRMb2FuSWQoKSk7CiAgICAgICAgaWYgKGxvYW4uZ2V0UmVtYWluQW1vdW50KCkuY29tcGFyZVRvKHJlaW0uZ2V0QW1vdW50KCkpIDwgMCkgewogICAgICAgICAgICB0aHJvdyBuZXcgV2ViQXBwbGljYXRpb25FeGNlcHRpb24oCiAgICAgICAgICAgICAgICAgICAgU3RyaW5nLmZvcm1hdCgisb60zrGoz/q98LbuJXO089PavejM9cqj0+C98LbuJXMiLCByZWltLmdldEFtb3VudCgpLCBsb2FuLmdldFJlbWFpbkFtb3VudCgpKSwKICAgICAgICAgICAgICAgICAgICBSZXNwb25zZS5TdGF0dXMuQ09ORkxJQ1QpOwogICAgICAgIH0KICAgICAgICByZWltLnNldExvYW4obG9hbik7CiAgICAgICAgcmVpbS5zZXRBY2NvdW50KGNqdC5nZXRBY2NvdW50SWQoKSA9PSBudWxsID8gbnVsbCA6IGFjY291bnREYW8uZmluZE9uZShjanQuZ2V0QWNjb3VudElkKCkpKTsKICAgICAgICByZWltLnNldFByb2NUeXBlKFJlaW1idXJzZS5Qcm9jVHlwZS5DSlQpOwogICAgICAgIHJlaW0uc2V0UmVnaXN0ZXJQZXJzb24oU2VjdXJpdHlVdGlscy5nZXRDdXJyZW50VXNlcigpKTsKICAgICAgICByZWltLnNldFJlZ2lzdGVyVGltZShuZXcgRGF0ZSgpKTsKICAgICAgICByZWltLnNldFN0YXRlKFJlaW1idXJzZS5TdGF0ZS5SRUdJU1RPUl9BUFBST1ZFRCk7CiAgICAgICAgcmVpbWJ1cnNlRGFvLnNhdmUocmVpbSk7</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2p0LnNldAo=</text>
+        <text encoding="base64">ICAgICAgICBSZWltYnVyc2UgcmVpbSA9IHJlaW1idXJzZURhby5maW5kT25lKHJlaW1idXJzZUlkKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBTZWN1cml0eVV0aWxzLmNoZWNrTG9nZ2VkSW4oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpc0NvbmZpcm1lZCA9IGNvbmZpcm1lZDsK</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldENvbmZpcm1lZChib29sZWFuIGNvbmZpcm1lZCkgewo=</text>
+        <text encoding="base64">ICAgICAgICBsb2FuLnNldAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2p0LnNldAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaXNDb25maXJtZWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpc0NvbmZpcm1lZCA9IGNvbmZpcm1lZDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGlzQ29uZmlybWVkKCkgewo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldENvbmZpcm1lZChib29sZWFuIGNvbmZpcm1lZCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
