@@ -176,8 +176,8 @@
         <mark key="^" line="18" column="24" />
         <mark key="." line="18" column="24" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1511495016309">
-        <mark key="'" line="183" column="16" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1511504753663">
+        <mark key="'" line="607" column="62" />
       </file>
       <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/AllocationListItemDto.java" timestamp="1511233271259">
         <mark key="[" line="16" column="34" />
@@ -204,11 +204,10 @@
         <mark key="." line="41" column="21" />
       </file>
       <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/restful/RuntimeExceptionMapper.java" timestamp="1511405466361" />
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" timestamp="1511500600232">
-        <mark key="[" line="210" column="42" />
-        <mark key="]" line="211" column="40" />
-        <mark key="^" line="211" column="40" />
-        <mark key="." line="211" column="40" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" timestamp="1511504276096">
+        <mark key="[" line="211" column="0" />
+        <mark key="]" line="211" column="0" />
+        <mark key="." line="211" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/StopChargingRequestDto.java" timestamp="1510305107622">
         <mark key="[" line="5" column="30" />
@@ -326,6 +325,7 @@
         <mark key="^" line="98" column="15" />
         <mark key="." line="99" column="61" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/SiteRepositoryImpl.java" timestamp="1511505102454" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/UniqueEquipmentRepository.java" timestamp="1480319170147">
         <mark key="[" line="12" column="83" />
         <mark key="]" line="12" column="115" />
@@ -404,6 +404,9 @@
         <mark key="]" line="14" column="25" />
         <mark key="." line="14" column="25" />
         <mark key="^" line="14" column="25" />
+      </file>
+      <file name="D:/IdeaProjects/finance-service/pom.xml" timestamp="1511317589870">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/task/List.js" timestamp="1510632408759">
         <mark key="[" line="45" column="62" />
@@ -557,7 +560,12 @@
         <mark key="^" line="34" column="12" />
         <mark key="." line="34" column="12" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" timestamp="1510630746425">
+      <file name="D:/IdeaProjects/lems/src/main/resources/META-INF/native-queries.xml" timestamp="1511505565152">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" timestamp="1511504231214">
         <mark key="[" line="237" column="50" />
         <mark key="]" line="238" column="26" />
         <mark key="." line="238" column="26" />
@@ -776,7 +784,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="23" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
       <jump line="43" column="37" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DeviceSelect.js" />
       <jump line="108" column="19" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DeviceSelect.js" />
       <jump line="546" column="39" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" />
@@ -876,55 +883,56 @@
       <jump line="361" column="79" filename="D:/IdeaProjects/lems/pom.xml" />
       <jump line="657" column="28" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
       <jump line="183" column="16" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="607" column="62" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>return null;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFVOSU9OIEFMTAo=</text>
       </register>
       <register name="-" type="4">
-        <text>return null;</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>onLoad</text>
+        <text>saveInnerDept</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBYbWxKYXZhVHlwZUFkYXB0ZXIoRGF0ZUFkYXB0ZXIuY2xhc3MpCiAgICBwcml2YXRlIERhdGUgcmV2aWV3MVRpbWU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZ2VhYmxlLCBMb2FuUXVlcnlTcGVjcy5zb3J0Rm9yRGVwdENoZWNrKCkpO3JldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgIFVOSU9OIEFMTAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBQYXRoKCIiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvYW4uYXVkaXRvckNvbW1lbnRzLmFzKCJyZXZpZXcxQ29tbWVudHMiKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zdG9yZS5zb3J0KCdpbicsICdERVNDJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvYW4uYXVkaXRUaW1lLmFzKCJyZXZpZXcxVGltZSIpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZ2VhYmxlLCBMb2FuUXVlcnlTcGVjcy5zb3J0Rm9yRGVwdENoZWNrKCkpO3JldHVybiBudWxsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmxlZnRKb2luKGxvYW4ucmVnaXN0ZXJQZXJzb24pCg==</text>
+        <text encoding="base64">ICAgIEBQYXRoKCIiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmxlZnRKb2luKGxvYW4uYXVkaXRvcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvYW4uYXVkaXRvckNvbW1lbnRzLmFzKCJyZXZpZXcxQ29tbWVudHMiKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvYW4uYXVkaXRUaW1lLmFzKCJyZXZpZXcxVGltZSIpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvYW4uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmxlZnRKb2luKGxvYW4ucmVnaXN0ZXJQZXJzb24pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vZmZzZXQocGFnZWFibGUuZ2V0T2YK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmxlZnRKb2luKGxvYW4uYXVkaXRvcikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>onLoad</last-search>
+      <last-search>saveInnerDept</last-search>
       <last-offset />
-      <last-pattern>onLoad</last-pattern>
+      <last-pattern>saveInnerDept</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -932,7 +940,6 @@
     </search>
     <history>
       <history-search>
-        <entry>findDisp</entry>
         <entry>onEdit</entry>
         <entry>edit</entry>
         <entry>s</entry>
@@ -952,6 +959,7 @@
         <entry>dispInnerDept</entry>
         <entry>innerDept</entry>
         <entry>onLoad</entry>
+        <entry>saveInnerDept</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5tMzg=</entry>
