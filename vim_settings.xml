@@ -17,7 +17,7 @@
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/EquipmentReuseService.java" timestamp="1511164792572" />
       <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/LoanDaoCustom.java" timestamp="1511336279625" />
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/restful/LoanJersey.java" timestamp="1511496602780">
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/restful/LoanJersey.java" timestamp="1511501301738">
         <mark key="[" line="62" column="27" />
         <mark key="]" line="62" column="27" />
         <mark key="^" line="62" column="39" />
@@ -204,7 +204,12 @@
         <mark key="." line="41" column="21" />
       </file>
       <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/restful/RuntimeExceptionMapper.java" timestamp="1511405466361" />
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" timestamp="1511499430384" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" timestamp="1511500600232">
+        <mark key="[" line="210" column="42" />
+        <mark key="]" line="211" column="40" />
+        <mark key="^" line="211" column="40" />
+        <mark key="." line="211" column="40" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/StopChargingRequestDto.java" timestamp="1510305107622">
         <mark key="[" line="5" column="30" />
         <mark key="]" line="5" column="30" />
@@ -315,7 +320,7 @@
         <mark key="^" line="174" column="75" />
         <mark key="." line="174" column="75" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/impl/LoanServiceImpl.java" timestamp="1511498445483">
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/impl/LoanServiceImpl.java" timestamp="1511501294074">
         <mark key="[" line="99" column="61" />
         <mark key="]" line="99" column="61" />
         <mark key="^" line="98" column="15" />
@@ -880,7 +885,7 @@
         <text>return null;</text>
       </register>
       <register name="/" type="4">
-        <text>innerDept</text>
+        <text>onLoad</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBYbWxKYXZhVHlwZUFkYXB0ZXIoRGF0ZUFkYXB0ZXIuY2xhc3MpCiAgICBwcml2YXRlIERhdGUgcmV2aWV3MVRpbWU7Cg==</text>
@@ -917,9 +922,9 @@
       </register>
     </registers>
     <search>
-      <last-search>innerDept</last-search>
+      <last-search>onLoad</last-search>
       <last-offset />
-      <last-pattern>innerDept</last-pattern>
+      <last-pattern>onLoad</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -927,7 +932,6 @@
     </search>
     <history>
       <history-search>
-        <entry>renderCharging</entry>
         <entry>findDisp</entry>
         <entry>onEdit</entry>
         <entry>edit</entry>
@@ -947,6 +951,7 @@
         <entry>cancel</entry>
         <entry>dispInnerDept</entry>
         <entry>innerDept</entry>
+        <entry>onLoad</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5tMzg=</entry>
