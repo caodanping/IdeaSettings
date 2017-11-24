@@ -317,11 +317,11 @@
         <mark key="^" line="174" column="75" />
         <mark key="." line="174" column="75" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/impl/LoanServiceImpl.java" timestamp="1511489192155">
-        <mark key="[" line="89" column="48" />
-        <mark key="]" line="90" column="60" />
-        <mark key="^" line="90" column="60" />
-        <mark key="." line="90" column="60" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/impl/LoanServiceImpl.java" timestamp="1511490926747">
+        <mark key="[" line="68" column="94" />
+        <mark key="]" line="68" column="94" />
+        <mark key="^" line="91" column="60" />
+        <mark key="." line="68" column="94" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/UniqueEquipmentRepository.java" timestamp="1480319170147">
         <mark key="[" line="12" column="83" />
@@ -560,11 +560,11 @@
         <mark key="." line="238" column="26" />
         <mark key="^" line="238" column="26" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/LoanQuerySpecs.java" timestamp="1511488756971">
-        <mark key="[" line="76" column="8" />
-        <mark key="]" line="93" column="4" />
-        <mark key="." line="93" column="4" />
-        <mark key="^" line="93" column="4" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/LoanQuerySpecs.java" timestamp="1511490904101">
+        <mark key="[" line="67" column="18" />
+        <mark key="]" line="68" column="75" />
+        <mark key="." line="68" column="75" />
+        <mark key="^" line="68" column="75" />
       </file>
       <file name="D:/IdeaProjects/finance-service/src/main/resources/applicationContext.xml" timestamp="1511401804092">
         <mark key="[" line="30" column="41" />
@@ -875,11 +875,11 @@
       <jump line="361" column="79" filename="D:/IdeaProjects/lems/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBYbWxKYXZhVHlwZUFkYXB0ZXIoRGF0ZUFkYXB0ZXIuY2xhc3MpCiAgICBwcml2YXRlIERhdGUgcmV2aWV3MVRpbWU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.getValue()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGxvYW5UaW1l</text>
+        <text>.getValue()</text>
       </register>
       <register name="/" type="4">
         <text>jetty</text>
