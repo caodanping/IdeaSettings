@@ -23,7 +23,7 @@
         <mark key="^" line="62" column="39" />
         <mark key="." line="62" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1511424245466">
+      <file name="/a.dummy" timestamp="1511525884708">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="7" />
@@ -696,6 +696,12 @@
         <mark key="]" line="13" column="55" />
         <mark key="." line="13" column="55" />
         <mark key="^" line="13" column="55" />
+      </file>
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/Cjt.java" timestamp="1511526482778">
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="22" column="54" />
+        <mark key="^" line="22" column="54" />
+        <mark key="." line="22" column="54" />
       </file>
       <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/AllocationDao.java" timestamp="1511275034708">
         <mark key="[" line="16" column="109" />
