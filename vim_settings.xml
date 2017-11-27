@@ -115,11 +115,11 @@
         <mark key="^" line="66" column="34" />
         <mark key="." line="66" column="34" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentServiceV2Impl.java" timestamp="1511762369012">
-        <mark key="[" line="486" column="50" />
-        <mark key="]" line="729" column="35" />
-        <mark key="." line="729" column="0" />
-        <mark key="^" line="723" column="33" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentServiceV2Impl.java" timestamp="1511763388245">
+        <mark key="[" line="420" column="12" />
+        <mark key="]" line="485" column="38" />
+        <mark key="." line="485" column="38" />
+        <mark key="^" line="485" column="38" />
       </file>
       <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/AllocationQueryDto.java" timestamp="1511235451346">
         <mark key="[" line="26" column="31" />
@@ -988,14 +988,14 @@
       <jump line="299" column="7" filename="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/impl/ReimburseServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlOiAndHJ1ZScsCg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gbnVsbDs=</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>changeDispatch</text>
+        <text>isIns</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBoaXMuc2V0UHJvY2VzcygisajP+rWlIik7Cg==</text>
@@ -1032,9 +1032,9 @@
       </register>
     </registers>
     <search>
-      <last-search>changeDispatch</last-search>
+      <last-search>isIns</last-search>
       <last-offset />
-      <last-pattern>changeDispatch</last-pattern>
+      <last-pattern>isIns</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1042,7 +1042,6 @@
     </search>
     <history>
       <history-search>
-        <entry>edit</entry>
         <entry>s</entry>
         <entry>replace</entry>
         <entry>Collection</entry>
@@ -1062,6 +1061,7 @@
         <entry>onLoad</entry>
         <entry>saveInnerDept</entry>
         <entry>changeDispatch</entry>
+        <entry>isIns</entry>
       </history-search>
       <history-cmd>
         <entry>17</entry>
