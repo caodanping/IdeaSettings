@@ -14,7 +14,7 @@
           <IdeaActionID>CloseContent</IdeaActionID>
           <ShortCut>'Ctrl+W'</ShortCut>
           <Description>Close</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Constant...">
@@ -46,7 +46,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>82</Count>
+          <Count>83</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'HibernateJPATest.testJpaFetchi...'">
@@ -94,7 +94,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -302,7 +302,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'lems [jetty:run]'</Description>
-          <Count>98</Count>
+          <Count>99</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'lems [org.eclipse.jetty:jetty-maven-plugin:9.2.19.v20160908:run]'">
@@ -334,7 +334,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>86</Count>
+          <Count>87</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -510,7 +510,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>61</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">

@@ -198,7 +198,7 @@
         <mark key="^" line="18" column="24" />
         <mark key="." line="18" column="24" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1511525814422">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1511748794401">
         <mark key="'" line="1189" column="24" />
         <mark key="[" line="426" column="55" />
         <mark key="]" line="426" column="82" />
@@ -530,7 +530,7 @@
         <mark key="^" line="175" column="52" />
         <mark key="." line="175" column="52" />
       </file>
-      <file name="/JPA QL Fragment (LoanDao.java:838).ql" timestamp="1511745736575">
+      <file name="/JPA QL Fragment (LoanDao.java:838).ql" timestamp="1511748564022">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/Renders.js" timestamp="1510543331738">
@@ -786,8 +786,8 @@
         <mark key="^" line="60" column="44" />
         <mark key="." line="60" column="44" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/LoanDao.java" timestamp="1511745727330">
-        <mark key="[" line="23" column="63" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/LoanDao.java" timestamp="1511748580823">
+        <mark key="[" line="23" column="34" />
         <mark key="]" line="23" column="62" />
         <mark key="^" line="23" column="62" />
         <mark key="." line="23" column="62" />
@@ -809,6 +809,9 @@
         <mark key="]" line="1" column="30" />
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="30" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/InnerDeptEdit.js" timestamp="1511507246811">
+        <mark key="[" line="109" column="10" />
       </file>
       <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/restful/ItemTypeJersey.java" timestamp="1511406157754">
         <mark key="[" line="55" column="5" />
@@ -846,7 +849,7 @@
         <mark key="^" line="41" column="33" />
         <mark key="." line="41" column="33" />
       </file>
-      <file name="/fragment.java" timestamp="1511529374557">
+      <file name="/fragment.java" timestamp="1511748788235">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
