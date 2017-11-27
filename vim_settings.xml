@@ -241,6 +241,9 @@
         <mark key="^" line="24" column="25" />
         <mark key="." line="41" column="21" />
       </file>
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/SerialNumberService.java" timestamp="1510974282087">
+        <mark key="[" line="7" column="38" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/StopChargingRequestDto.java" timestamp="1510305107622">
         <mark key="[" line="5" column="30" />
         <mark key="]" line="5" column="30" />
@@ -440,6 +443,9 @@
         <mark key="." line="14" column="44" />
         <mark key="^" line="14" column="44" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/EquipmentReuseEditDto.java" timestamp="1511164679541">
+        <mark key="[" line="11" column="49" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/task/List.js" timestamp="1510632408759">
         <mark key="[" line="45" column="62" />
         <mark key="]" line="46" column="56" />
@@ -451,6 +457,12 @@
         <mark key="]" line="11" column="66" />
         <mark key="." line="11" column="66" />
         <mark key="^" line="11" column="66" />
+      </file>
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/restful/SelectOptionJersey.java" timestamp="1511745602790">
+        <mark key="[" line="76" column="15" />
+        <mark key="]" line="76" column="15" />
+        <mark key="^" line="76" column="42" />
+        <mark key="." line="76" column="15" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/EquipmentService.java" timestamp="1480318877476">
         <mark key="[" line="36" column="62" />
@@ -518,6 +530,9 @@
         <mark key="^" line="175" column="52" />
         <mark key="." line="175" column="52" />
       </file>
+      <file name="/JPA QL Fragment (LoanDao.java:838).ql" timestamp="1511745736575">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/Renders.js" timestamp="1510543331738">
         <mark key="[" line="46" column="5" />
         <mark key="]" line="46" column="5" />
@@ -535,6 +550,9 @@
         <mark key="]" line="146" column="35" />
         <mark key="." line="146" column="35" />
         <mark key="^" line="146" column="35" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/StopChargingRequestRepositoryCustom.java" timestamp="1510812800992">
+        <mark key="[" line="12" column="46" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/UnbalanceProc.java" timestamp="1510817057870">
         <mark key="[" line="165" column="36" />
@@ -607,6 +625,9 @@
         <mark key="]" line="34" column="12" />
         <mark key="^" line="34" column="12" />
         <mark key="." line="34" column="12" />
+      </file>
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/LoanSummaryDto.java" timestamp="1511745459113">
+        <mark key="[" line="7" column="29" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" timestamp="1511504231214">
         <mark key="[" line="237" column="50" />
@@ -765,11 +786,11 @@
         <mark key="^" line="60" column="44" />
         <mark key="." line="60" column="44" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/LoanDao.java" timestamp="1511336262553">
-        <mark key="[" line="16" column="90" />
-        <mark key="]" line="17" column="29" />
-        <mark key="^" line="17" column="29" />
-        <mark key="." line="17" column="29" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/LoanDao.java" timestamp="1511745727330">
+        <mark key="[" line="23" column="63" />
+        <mark key="]" line="23" column="62" />
+        <mark key="^" line="23" column="62" />
+        <mark key="." line="23" column="62" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/RoutesDetail.js" timestamp="1510732059680">
         <mark key="[" line="183" column="55" />
@@ -935,10 +956,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Account</text>
+        <text>s &quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>Account</text>
+        <text>s &quot;)</text>
       </register>
       <register name="/" type="4">
         <text>changeDispatch</text>
