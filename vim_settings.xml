@@ -198,7 +198,7 @@
         <mark key="^" line="18" column="24" />
         <mark key="." line="18" column="24" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1511748794401">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1511759658062">
         <mark key="'" line="1189" column="24" />
         <mark key="[" line="426" column="55" />
         <mark key="]" line="426" column="82" />
@@ -1005,7 +1005,7 @@
         <text encoding="base64">ICAgICAgICAgICAgY2p0LnNldAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>482</text>
       </register>
     </registers>
     <search>
@@ -1041,7 +1041,6 @@
         <entry>changeDispatch</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5tMzE=</entry>
         <entry>17</entry>
         <entry>439</entry>
         <entry>wq</entry>
@@ -1061,6 +1060,7 @@
         <entry>W</entry>
         <entry>g</entry>
         <entry>w</entry>
+        <entry>482</entry>
       </history-cmd>
       <history-expr />
       <history-input />
