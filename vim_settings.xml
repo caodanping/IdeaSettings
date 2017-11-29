@@ -738,10 +738,11 @@
         <mark key="^" line="24" column="25" />
         <mark key="." line="41" column="21" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" timestamp="1511957044239">
-        <mark key="[" line="211" column="0" />
-        <mark key="]" line="211" column="0" />
-        <mark key="." line="211" column="0" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" timestamp="1511959047181">
+        <mark key="[" line="282" column="23" />
+        <mark key="]" line="282" column="24" />
+        <mark key="^" line="286" column="19" />
+        <mark key="." line="282" column="24" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StateEquipmentSpecInventory.java" timestamp="1510552909834">
         <mark key="[" line="37" column="29" />
@@ -1173,7 +1174,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTG9hbkRhbyBsb2FuRGEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpZHRoOiA0MDAsCg==</text>
       </register>
       <register name="-" type="4">
         <text>o</text>
@@ -1185,31 +1186,31 @@
         <text encoding="base64">ICAgICAgICBkbS5zZXRQcm9mZXNzaW9uKGRhdGEuZ2V0UHJvZmVzc2lvbigpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTG9hbkRhbyBsb2FuRGEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpZHRoOiA0MDAsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTG9hbkRhbyBsb2FuRGEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">QAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0ZPUk1fVVJMRU5DT0RFRAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0ZPUk1fVVJMRU5DT0RFRAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBDb25zdW1lcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0ZPUk1fVVJMRU5DT0RFRAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBDb25zdW1lcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBQcgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBQYXRoKCIiKQo=</text>
+        <text encoding="base64">ICAgIEBQcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
