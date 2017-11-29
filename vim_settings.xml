@@ -449,7 +449,8 @@
         <mark key="^" line="86" column="32" />
         <mark key="." line="86" column="32" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" timestamp="1511956491445">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" timestamp="1511959194390">
+        <mark key="'" line="101" column="23" />
         <mark key="[" line="237" column="50" />
         <mark key="]" line="238" column="26" />
         <mark key="." line="238" column="26" />
@@ -738,10 +739,10 @@
         <mark key="^" line="24" column="25" />
         <mark key="." line="41" column="21" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" timestamp="1511959047181">
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" timestamp="1511959301281">
         <mark key="[" line="282" column="23" />
         <mark key="]" line="282" column="24" />
-        <mark key="^" line="286" column="19" />
+        <mark key="^" line="284" column="19" />
         <mark key="." line="282" column="24" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StateEquipmentSpecInventory.java" timestamp="1510552909834">
@@ -789,6 +790,11 @@
         <mark key="]" line="125" column="33" />
         <mark key="^" line="125" column="33" />
         <mark key="." line="125" column="33" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/scripts/MyControls.js" timestamp="1511959741598">
+        <mark key="[" line="118" column="73" />
+        <mark key="]" line="117" column="0" />
+        <mark key="." line="117" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/mtw/ConfirmIn.js" timestamp="1511172005367">
         <mark key="[" line="128" column="49" />
@@ -1071,7 +1077,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="29" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Site.java" />
       <jump line="153" column="17" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Site.java" />
       <jump line="172" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Site.java" />
       <jump line="69" column="54" filename="D:/Home/.m2/repository/org/springframework/data/spring-data-jpa/1.9.4.RELEASE/spring-data-jpa-1.9.4.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.java" />
@@ -1171,55 +1176,56 @@
       <jump line="299" column="7" filename="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/impl/ReimburseServiceImpl.java" />
       <jump line="83" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/BaseRepository.java" />
       <jump line="119" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/BaseRepository.java" />
+      <jump line="101" column="23" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpZHRoOiA0MDAsCg==</text>
+        <text encoding="base64">ICAgICAgICBkaXYuc2V0QXR0cmlidXRlKCdjbGFzcycsIHRoaXMuY3NzQ2xhc3MpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text encoding="base64">IEJ1dHRvbkNvbnRyb2w=</text>
       </register>
       <register name="/" type="4">
-        <text>count</text>
+        <text>controls</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkbS5zZXRQcm9mZXNzaW9uKGRhdGEuZ2V0UHJvZmVzc2lvbigpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpZHRoOiA0MDAsCg==</text>
+        <text encoding="base64">ICAgICAgICBkaXYuc2V0QXR0cmlidXRlKCdjbGFzcycsIHRoaXMuY3NzQ2xhc3MpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTG9hbkRhbyBsb2FuRGEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpZHRoOiA0MDAsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTG9hbkRhbyBsb2FuRGEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">QAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0ZPUk1fVVJMRU5DT0RFRAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0ZPUk1fVVJMRU5DT0RFRAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBDb25zdW1lcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0ZPUk1fVVJMRU5DT0RFRAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBDb25zdW1lcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBQcgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>count</last-search>
+      <last-search>controls</last-search>
       <last-offset />
-      <last-pattern>count</last-pattern>
+      <last-pattern>controls</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1227,8 +1233,6 @@
     </search>
     <history>
       <history-search>
-        <entry>replace</entry>
-        <entry>Collection</entry>
         <entry>creditView</entry>
         <entry>saveInner</entry>
         <entry>saveInn</entry>
@@ -1247,6 +1251,8 @@
         <entry>changeDispatch</entry>
         <entry>isIns</entry>
         <entry>count</entry>
+        <entry>initControls</entry>
+        <entry>controls</entry>
       </history-search>
       <history-cmd>
         <entry>832</entry>
