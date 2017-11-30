@@ -372,6 +372,7 @@
         <mark key="." line="257" column="34" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.9.4.RELEASE/spring-data-jpa-1.9.4.RELEASE-sources.jar!/org/springframework/data/jpa/repository/query/QueryUtils.java" timestamp="1511848424921" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/InventoryRecordServiceImpl.java" timestamp="1512025525476" />
       <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/SerialNumber.java" timestamp="1511880795209">
         <mark key="[" line="14" column="8" />
         <mark key="]" line="14" column="62" />
@@ -394,6 +395,13 @@
         <mark key="[" line="102" column="36" />
         <mark key="]" line="102" column="36" />
         <mark key="." line="102" column="36" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/resources/logback.xml" timestamp="1512025634637">
+        <mark key="'" line="8" column="18" />
+        <mark key="[" line="31" column="23" />
+        <mark key="]" line="31" column="29" />
+        <mark key="." line="31" column="29" />
+        <mark key="^" line="31" column="29" />
       </file>
       <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/LoanListItemDto.java" timestamp="1511512777100">
         <mark key="[" line="144" column="5" />
@@ -503,8 +511,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Site.java" />
-      <jump line="69" column="54" filename="D:/Home/.m2/repository/org/springframework/data/spring-data-jpa/1.9.4.RELEASE/spring-data-jpa-1.9.4.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.java" />
       <jump line="143" column="19" filename="D:/Home/.m2/repository/org/springframework/data/spring-data-jpa/1.9.4.RELEASE/spring-data-jpa-1.9.4.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.java" />
       <jump line="0" column="78625" filename="D:/IdeaProjects/lems/src/main/frontend/bootstrap.json" />
       <jump line="0" column="0" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/mtw/ConfirmOut.js" />
@@ -603,16 +609,18 @@
       <jump line="119" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/BaseRepository.java" />
       <jump line="101" column="23" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
       <jump line="223" column="39" filename="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/impl/LoanServiceImpl.java" />
+      <jump line="3" column="22" filename="D:/IdeaProjects/lems/src/main/resources/logback.xml" />
+      <jump line="8" column="18" filename="D:/IdeaProjects/lems/src/main/resources/logback.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1130提交（借款、白条、分摊等）</text>
+        <text>FILE</text>
       </register>
       <register name="-" type="4">
-        <text>1130提交（借款、白条、分摊等）</text>
+        <text>FILE</text>
       </register>
       <register name="/" type="4">
-        <text>taskHistory</text>
+        <text>FILE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBRdWVyeVBhcmFtKCJyZWltYnVyc2VQZXJzb25OYW1lIikK</text>
@@ -649,9 +657,9 @@
       </register>
     </registers>
     <search>
-      <last-search>taskHistory</last-search>
+      <last-search>FILE</last-search>
       <last-offset />
-      <last-pattern>taskHistory</last-pattern>
+      <last-pattern>FILE</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -659,7 +667,6 @@
     </search>
     <history>
       <history-search>
-        <entry>saveInner</entry>
         <entry>saveInn</entry>
         <entry>saveIn</entry>
         <entry>在</entry>
@@ -679,6 +686,7 @@
         <entry>initControls</entry>
         <entry>controls</entry>
         <entry>taskHistory</entry>
+        <entry>FILE</entry>
       </history-search>
       <history-cmd>
         <entry>832</entry>
@@ -686,7 +694,6 @@
         <entry>482</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>ww</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz50NDA=</entry>
         <entry>42,50to50</entry>
         <entry encoding="base64">PDQyLDUwPnRvNTA=</entry>
@@ -700,6 +707,7 @@
         <entry>90,99t100</entry>
         <entry>24,212t230</entry>
         <entry>204,212t230</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
