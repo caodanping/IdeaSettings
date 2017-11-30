@@ -150,6 +150,7 @@
         <mark key="." line="40" column="41" />
         <mark key="^" line="40" column="41" />
       </file>
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/base/FlowState.java" timestamp="1512020420280" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentReuseRequest.java" timestamp="1511164829914">
         <mark key="[" line="61" column="30" />
         <mark key="]" line="63" column="49" />
@@ -243,11 +244,7 @@
         <mark key="." line="11" column="99" />
         <mark key="^" line="11" column="99" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512012629861">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
+      <file name="/Dummy.txt" timestamp="1512014153598" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/ProjectSiteServiceImpl.java" timestamp="1511851232386">
         <mark key="[" line="41" column="8" />
         <mark key="]" line="44" column="95" />
@@ -392,7 +389,7 @@
         <mark key="^" line="388" column="94" />
         <mark key="." line="388" column="94" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/restful/SysDictJersey.java" timestamp="1512013882823" />
+      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/restful/SysDictJersey.java" timestamp="1512020397393" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/Detail.js" timestamp="1511315253226">
         <mark key="[" line="102" column="36" />
         <mark key="]" line="102" column="36" />
