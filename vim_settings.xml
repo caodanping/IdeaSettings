@@ -192,12 +192,12 @@
         <mark key="^" line="14" column="87" />
         <mark key="." line="14" column="87" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1512374238881">
-        <mark key="'" line="1215" column="24" />
-        <mark key="[" line="285" column="8" />
-        <mark key="]" line="254" column="61" />
-        <mark key="." line="452" column="82" />
-        <mark key="^" line="452" column="82" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1512374905058">
+        <mark key="'" line="294" column="53" />
+        <mark key="[" line="289" column="43" />
+        <mark key="]" line="284" column="17" />
+        <mark key="." line="284" column="17" />
+        <mark key="^" line="284" column="17" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/CreditView.js" timestamp="1511750246847">
         <mark key="[" line="323" column="25" />
@@ -504,7 +504,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="78625" filename="D:/IdeaProjects/lems/src/main/frontend/bootstrap.json" />
       <jump line="0" column="0" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/mtw/ConfirmOut.js" />
       <jump line="0" column="0" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/unbalanceProc/Audit.js" />
       <jump line="0" column="0" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/unbalanceProc/Edit.js" />
@@ -604,13 +603,14 @@
       <jump line="3" column="22" filename="D:/IdeaProjects/lems/src/main/resources/logback.xml" />
       <jump line="8" column="18" filename="D:/IdeaProjects/lems/src/main/resources/logback.xml" />
       <jump line="27" column="74" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/ProjectController.java" />
+      <jump line="295" column="53" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBEaXNwYXRjaGluZyBkaXNwID0gZGlzcGF0Y2hpbmdSZXBvc2l0b3J5LmZpbmRPbmUoaWQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>TASK_NAME_DM_APPROVAL</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFwcHJvdmVSZXF1ZXN0Rm9yUE0=</text>
+        <text>TASK_NAME_DM_APPROVAL</text>
       </register>
       <register name="/" type="4">
         <text>FILE</text>
@@ -619,31 +619,31 @@
         <text encoding="base64">ICAgICAgICBEaXNwYXRjaGluZyBkaXNwID0gZGlzcGF0Y2hpbmdSZXBvc2l0b3J5LmZpbmRPbmUoaWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBhcHByb3ZlZAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkaXYuc2V0QXR0cmlidXRlKCdjbGFzcycsIHRoaXMuY3NzQ2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpZHRoOiA0MDAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9EaXNwYXRjaGluZyhkaXNwKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTG9hbkRhbyBsb2FuRGEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlzcC5zZXRTdGF0ZShEaXNwYXRjaGluZy5TdGF0ZS5QRU5ESU5HX0RJU1ApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYXBwcm92ZWQpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBhcHByb3ZlZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0ZPUk1fVVJMRU5DT0RFRAo=</text>
+        <text encoding="base64">ICAgICAgICBkaXYuc2V0QXR0cmlidXRlKCdjbGFzcycsIHRoaXMuY3NzQ2xhc3MpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0ZPUk1fVVJMRU5DT0RFRAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpZHRoOiA0MDAsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBDb25zdW1lcwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTG9hbkRhbyBsb2FuRGEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
