@@ -222,6 +222,7 @@
         <mark key="." line="27" column="24" />
         <mark key="^" line="27" column="24" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/AuditController.js" timestamp="1512375835298" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/equipment/Add.js" timestamp="1511760973590">
         <mark key="[" line="121" column="23" />
         <mark key="]" line="124" column="42" />
@@ -240,6 +241,12 @@
         <mark key="]" line="68" column="75" />
         <mark key="." line="68" column="75" />
         <mark key="^" line="68" column="75" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DispatchingController.java" timestamp="1512376228849">
+        <mark key="[" line="121" column="60" />
+        <mark key="]" line="121" column="62" />
+        <mark key="^" line="121" column="62" />
+        <mark key="." line="121" column="62" />
       </file>
       <file name="D:/IdeaProjects/finance-service/src/main/resources/applicationContext.xml" timestamp="1511401804092">
         <mark key="[" line="30" column="41" />
@@ -298,6 +305,7 @@
         <mark key="^" line="14" column="55" />
         <mark key="." line="14" column="55" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Audit.js" timestamp="1512375160688" />
       <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/impl/DrawMoneyDaoImpl.java" timestamp="1511941103744">
         <mark key="[" line="80" column="53" />
         <mark key="]" line="80" column="53" />
@@ -357,6 +365,13 @@
         <mark key="[" line="102" column="0" />
         <mark key="]" line="102" column="0" />
         <mark key="." line="102" column="0" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingController.js" timestamp="1512376880150">
+        <mark key="'" line="63" column="9" />
+        <mark key="[" line="52" column="42" />
+        <mark key="]" line="52" column="43" />
+        <mark key="^" line="52" column="43" />
+        <mark key="." line="52" column="43" />
       </file>
       <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/impl/ReimburseDaoImpl.java" timestamp="1511839652218">
         <mark key="[" line="190" column="16" />
@@ -471,6 +486,7 @@
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/ProjectSpecs.java" timestamp="1512357704859">
         <mark key="[" line="9" column="27" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/AuditWindow.js" timestamp="1512375573936" />
       <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/restful/SelectOptionJersey.java" timestamp="1511921373153">
         <mark key="[" line="88" column="8" />
         <mark key="]" line="88" column="123" />
@@ -482,6 +498,12 @@
         <mark key="]" line="154" column="39" />
         <mark key="." line="154" column="39" />
         <mark key="^" line="154" column="39" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Dispatching.js" timestamp="1512375198385">
+        <mark key="[" line="16" column="9" />
+        <mark key="]" line="19" column="29" />
+        <mark key="^" line="19" column="29" />
+        <mark key="." line="19" column="29" />
       </file>
       <file name="/fragment.java" timestamp="1512359324770">
         <mark key="[" line="0" column="0" />
@@ -504,7 +526,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/mtw/ConfirmOut.js" />
       <jump line="0" column="0" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/unbalanceProc/Audit.js" />
       <jump line="0" column="0" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/unbalanceProc/Edit.js" />
       <jump line="25" column="39" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/unbalanceProc/EquipmentCheckList.js" />
@@ -604,46 +625,47 @@
       <jump line="8" column="18" filename="D:/IdeaProjects/lems/src/main/resources/logback.xml" />
       <jump line="27" column="74" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/ProjectController.java" />
       <jump line="295" column="53" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="36" column="9" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingController.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TASK_NAME_DM_APPROVAL</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>TASK_NAME_DM_APPROVAL</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>FILE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBEaXNwYXRjaGluZyBkaXNwID0gZGlzcGF0Y2hpbmdSZXBvc2l0b3J5LmZpbmRPbmUoaWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFJlc3BvbnNlRW50aXR5PFJlc3VsdER0bz4obmV3IFJlc3VsdER0bygitfe2yM3qs8khIiksIEh0dHBTdGF0dXMuT0spOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9keVBhZGRpbmc6IDAsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVhZGVyOiBmYWxzZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9EaXNwYXRjaGluZyhkaXNwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF4aW1pemVkOiB0cnVlLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlzcC5zZXRTdGF0ZShEaXNwYXRjaGluZy5TdGF0ZS5QRU5ESU5HX0RJU1ApOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYXBwcm92ZWQpIHsK</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBhcHByb3ZlZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9EaXNwYXRjaGluZyhkaXNwKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkaXYuc2V0QXR0cmlidXRlKCdjbGFzcycsIHRoaXMuY3NzQ2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlzcC5zZXRTdGF0ZShEaXNwYXRjaGluZy5TdGF0ZS5QRU5ESU5HX0RJU1ApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpZHRoOiA0MDAsCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYXBwcm92ZWQpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTG9hbkRhbyBsb2FuRGEK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBhcHByb3ZlZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
