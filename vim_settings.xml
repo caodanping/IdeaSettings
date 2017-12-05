@@ -180,11 +180,11 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="310" column="7" />
       </file>
-      <file name="D:/IdeaProjects/GeoProj/src/main/java/com/aucdi/MeassureUtils.java" timestamp="1512439695266">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="24" column="3" />
-        <mark key="." line="24" column="3" />
-        <mark key="^" line="24" column="3" />
+      <file name="D:/IdeaProjects/GeoProj/src/main/java/com/aucdi/MeassureUtils.java" timestamp="1512441239522">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="40" column="37" />
+        <mark key="." line="40" column="37" />
+        <mark key="^" line="40" column="37" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/UserRealm.java" timestamp="1512372631274" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/EquipmentEntrySelector.js" timestamp="1511160212088">
@@ -563,17 +563,17 @@
       <jump line="36" column="9" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingController.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuYXd0Lmdlb20uUG9pbnQyRDsK</text>
+      <register name="&quot;" type="4">
+        <text>200-20</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2xhc3Mg</text>
+        <text>200-20</text>
       </register>
       <register name="/" type="4">
         <text>FILE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFBhZ2U8VGFza1N1bW1hcnlEdG8+IGZpbmRNeVVucHJvY2Vzc2VkVGFza3MoaW50IHN0YXJ0LCBpbnQgbGltaXQpOwo=</text>
+        <text encoding="base64">ICAgICAqILLOv7yhtsr919ay4s281K3A7dPrt723qKG3IM7kurq089Gns/aw5snnIMXL1f2357XI1vihozIwMC0yMDHSs6GjCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEuYXd0Lmdlb20uUG9pbnQyRDsK</text>
