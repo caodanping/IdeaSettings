@@ -180,11 +180,11 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="310" column="7" />
       </file>
-      <file name="D:/IdeaProjects/GeoProj/src/main/java/com/aucdi/MeassureUtils.java" timestamp="1512442628662">
-        <mark key="[" line="51" column="9" />
-        <mark key="]" line="50" column="67" />
-        <mark key="." line="50" column="67" />
-        <mark key="^" line="50" column="67" />
+      <file name="D:/IdeaProjects/GeoProj/src/main/java/com/aucdi/MeassureUtils.java" timestamp="1512444091218">
+        <mark key="[" line="23" column="75" />
+        <mark key="]" line="47" column="31" />
+        <mark key="." line="47" column="31" />
+        <mark key="^" line="47" column="31" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/UserRealm.java" timestamp="1512372631274" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/EquipmentEntrySelector.js" timestamp="1511160212088">
@@ -564,7 +564,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZGVsdGFYID09IGRlbHRhWSAmJiBkZSkK</text>
+        <text encoding="base64">Ly8gICAgICAgIH0gZWxzZSBpZiAoZGVsdGFZIDwgMCAmJiBkZWx0YVggPiAwKSB7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>200-20</text>
@@ -576,31 +576,31 @@
         <text encoding="base64">ICAgICAqILLOv7yhtsr919ay4s281K3A7dPrt723qKG3IM7kurq089Gns/aw5snnIMXL1f2357XI1vihozIwMC0yMDHSs6GjCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZGVsdGFYID09IGRlbHRhWSAmJiBkZSkK</text>
+        <text encoding="base64">Ly8gICAgICAgIH0gZWxzZSBpZiAoZGVsdGFZIDwgMCAmJiBkZWx0YVggPiAwKSB7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuYXd0Lmdlb20uUG9pbnQyRDsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZGVsdGFYID09IGRlbHRhWSAmJiBkZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgUG9pbnQyRAo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuYXd0Lmdlb20uUG9pbnQyRDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9keVBhZGRpbmc6IDAsCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgUG9pbnQyRAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGVhZGVyOiBmYWxzZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9keVBhZGRpbmc6IDAsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF4aW1pemVkOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVhZGVyOiBmYWxzZSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF4aW1pemVkOiB0cnVlLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9EaXNwYXRjaGluZyhkaXNwKTsK</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
