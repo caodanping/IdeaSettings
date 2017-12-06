@@ -96,11 +96,11 @@
         <mark key="^" line="64" column="30" />
         <mark key="." line="135" column="28" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/TaskRepositoryCustom.java" timestamp="1512436823981">
-        <mark key="[" line="5" column="7" />
-        <mark key="]" line="5" column="16" />
-        <mark key="." line="5" column="16" />
-        <mark key="^" line="5" column="16" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/TaskRepositoryCustom.java" timestamp="1512522860025">
+        <mark key="[" line="8" column="39" />
+        <mark key="]" line="8" column="16" />
+        <mark key="." line="8" column="16" />
+        <mark key="^" line="8" column="16" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentServiceV2Impl.java" timestamp="1511963920419">
         <mark key="[" line="771" column="0" />
@@ -334,8 +334,11 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/TaskRepository.java" timestamp="1512436764628">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/TaskRepository.java" timestamp="1512522836971">
         <mark key="[" line="25" column="73" />
+        <mark key="]" line="13" column="86" />
+        <mark key="^" line="13" column="86" />
+        <mark key="." line="13" column="86" />
       </file>
       <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/AllocationQuerySpecs.java" timestamp="1511248561268">
         <mark key="[" line="30" column="0" />
