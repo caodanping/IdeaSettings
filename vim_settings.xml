@@ -143,8 +143,11 @@
         <mark key="." line="36" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/AjaxAuthenticationFilter.java" timestamp="1512368695326" />
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/InventoryRecordQuerySpecs.java" timestamp="1512973595563">
-        <mark key="[" line="7" column="40" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/InventoryRecordQuerySpecs.java" timestamp="1512974335197">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="15" />
+        <mark key="^" line="13" column="30" />
+        <mark key="." line="14" column="15" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/ProjectSiteRepositoryImpl.java" timestamp="1512524940133">
         <mark key="[" line="56" column="40" />
@@ -295,10 +298,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>用</text>
+        <text>Spec</text>
       </register>
       <register name="-" type="4">
-        <text>用</text>
+        <text>Spec</text>
       </register>
       <register name="/" type="4">
         <text>FILE</text>
