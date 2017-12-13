@@ -418,6 +418,12 @@
         <mark key="^" line="323" column="30" />
         <mark key="." line="323" column="30" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/EquipmentReuseRepository.java" timestamp="1513147740865">
+        <mark key="[" line="24" column="61" />
+        <mark key="]" line="24" column="82" />
+        <mark key="^" line="24" column="82" />
+        <mark key="." line="24" column="82" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/resources/META-INF/native-queries.xml" timestamp="1513137919557">
         <mark key="[" line="23" column="10" />
         <mark key="]" line="96" column="14" />
@@ -457,12 +463,12 @@
         <mark key="." line="55" column="43" />
         <mark key="^" line="55" column="43" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentReuseServiceImpl.java" timestamp="1513143791675">
-        <mark key="'" line="155" column="8" />
-        <mark key="[" line="174" column="140" />
-        <mark key="]" line="174" column="143" />
-        <mark key="." line="174" column="143" />
-        <mark key="^" line="174" column="143" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentReuseServiceImpl.java" timestamp="1513149984182">
+        <mark key="'" line="160" column="8" />
+        <mark key="[" line="51" column="13" />
+        <mark key="]" line="60" column="12" />
+        <mark key="." line="60" column="12" />
+        <mark key="^" line="60" column="12" />
       </file>
       <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/Loan.java" timestamp="1511854517281">
         <mark key="[" line="206" column="69" />
@@ -698,46 +704,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(SELECT d.id FROM dispatchings d WHERE d.DEBIT_ID = s.id) AS dispatchingId,</text>
+        <text>EquipmentReuseRequest</text>
       </register>
       <register name="-" type="4">
-        <text>(SELECT d.id FROM dispatchings d WHERE d.DEBIT_ID = s.id) AS dispatchingId,</text>
+        <text>findRequestsForUser(username, pageRequest);</text>
       </register>
       <register name="/" type="4">
         <text>dispatch</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFJlc3BvbnNlRW50aXR5PFNpdGVSZXF1aXJlbWVudERldGFpbER0bz4oZHRvLCBIdHRwU3RhdHVzLk9LKTsK</text>
+      <register name="0" type="4">
+        <text>EquipmentReuseRequest</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwYXRjaGluZ1JlcG9zaXRvcnkuc2F2ZShkaXNwKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyIGFwcGx5VXNlciA9IHVzZXJSZXBvc2l0b3J5LmZpbmRCeVVzZXJuYW1lKHVzZXJuYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXNlcm5hbWUgPSAoU3RyaW5nKSBTZWN1cml0eVV0aWxzLmdldFN1YmplY3QoKS5nZXRQcmluY2lwYWwoKTsK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9qZWN0U2l0ZVJlcG9zaXRvcnkuc2F2ZShwcm9qKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSW52ZW50b3J5UmVjb3JkU2VydmljZSBpbnZlbnRvcnlSZWNvcmRTZXJ2aWNlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBFcXVpcG1lbnRFdmVudFJlcG9zaXRvcnkgZXF1aXBtZW50RXZlbnRSZXBvc2l0b3J5Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgQEF1dG93aXJlZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBVbmlxdWVFcXVpcG1lbnRSZXBvc2l0b3J5IHVuaXF1ZUVxdWlwbWVudFJlcG9zaXRvcnk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>112</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -789,10 +795,10 @@
         <entry>90,99t100</entry>
         <entry>24,212t230</entry>
         <entry>204,212t230</entry>
-        <entry>w</entry>
         <entry>554</entry>
         <entry>112</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
