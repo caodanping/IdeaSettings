@@ -156,12 +156,12 @@
         <mark key="^" line="8" column="22" />
         <mark key="." line="8" column="22" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1513134298179">
-        <mark key="'" line="647" column="16" />
-        <mark key="[" line="348" column="54" />
-        <mark key="]" line="350" column="26" />
-        <mark key="^" line="350" column="26" />
-        <mark key="." line="350" column="26" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1513137816456">
+        <mark key="'" line="340" column="8" />
+        <mark key="[" line="365" column="0" />
+        <mark key="]" line="365" column="0" />
+        <mark key="." line="365" column="0" />
+        <mark key="^" line="355" column="29" />
       </file>
       <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/Iou.java" timestamp="1511946544259">
         <mark key="[" line="117" column="5" />
@@ -407,7 +407,12 @@
         <mark key="^" line="323" column="30" />
         <mark key="." line="323" column="30" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/resources/META-INF/native-queries.xml" timestamp="1513134613754" />
+      <file name="D:/IdeaProjects/lems/src/main/resources/META-INF/native-queries.xml" timestamp="1513137919557">
+        <mark key="[" line="23" column="10" />
+        <mark key="]" line="96" column="14" />
+        <mark key="." line="96" column="14" />
+        <mark key="^" line="96" column="14" />
+      </file>
       <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/LoanQuerySpecs.java" timestamp="1511490904101">
         <mark key="[" line="67" column="18" />
         <mark key="]" line="68" column="75" />
@@ -572,32 +577,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="44" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/unbalanceProc/EquipmentCheckList.js" />
-      <jump line="92" column="16" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/unbalanceProc/EquipmentCheckList.js" />
-      <jump line="157" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ConfirmOut.js" />
-      <jump line="142" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/mtw/ConfirmOut.js" />
-      <jump line="37" column="4" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/StopCharingRequestServiceImpl.java" />
-      <jump line="23" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/StopCharingRequestServiceImpl.java" />
-      <jump line="35" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/StopCharingRequestServiceImpl.java" />
-      <jump line="40" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/StopCharingRequestServiceImpl.java" />
-      <jump line="60" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/StopCharingRequestServiceImpl.java" />
-      <jump line="47" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/StopCharingRequestServiceImpl.java" />
-      <jump line="30" column="94" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StopChargingRequest.java" />
-      <jump line="0" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StopChargingRequest.java" />
-      <jump line="115" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StopChargingRequest.java" />
-      <jump line="32" column="5" filename="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.1.10.Final/hibernate-core-5.1.10.Final-sources.jar!/org/hibernate/bytecode/internal/javassist/ProxyFactoryFactoryImpl.java" />
-      <jump line="31" column="45" filename="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.1.10.Final/hibernate-core-5.1.10.Final-sources.jar!/org/hibernate/bytecode/internal/javassist/ProxyFactoryFactoryImpl.java" />
-      <jump line="106" column="27" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/StopChargingRequest.java" />
-      <jump line="121" column="38" filename="D:/IdeaProjects/lems/src/main/frontend/app/controller/Root.js" />
-      <jump line="61" column="0" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/main/Main.js" />
-      <jump line="6" column="45" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ListController.js" />
-      <jump line="38" column="12" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ListController.js" />
-      <jump line="47" column="16" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ListController.js" />
-      <jump line="24" column="62" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ListController.js" />
-      <jump line="43" column="39" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ListController.js" />
-      <jump line="81" column="56" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ListController.js" />
-      <jump line="99" column="56" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ListController.js" />
-      <jump line="118" column="39" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ListController.js" />
       <jump line="133" column="3" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/Edit.js" />
       <jump line="16" column="14" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/Edit.js" />
       <jump line="19" column="0" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/Audit.js" />
@@ -655,7 +634,6 @@
       <jump line="357" column="38" filename="D:/IdeaProjects/lems/pom.xml" />
       <jump line="361" column="79" filename="D:/IdeaProjects/lems/pom.xml" />
       <jump line="657" column="28" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="183" column="16" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
       <jump line="607" column="62" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
       <jump line="1186" column="24" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
       <jump line="39" column="20" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/InnerDeptEditController.js" />
@@ -667,21 +645,48 @@
       <jump line="3" column="22" filename="D:/IdeaProjects/lems/src/main/resources/logback.xml" />
       <jump line="8" column="18" filename="D:/IdeaProjects/lems/src/main/resources/logback.xml" />
       <jump line="27" column="74" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/ProjectController.java" />
-      <jump line="295" column="53" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
       <jump line="36" column="9" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingController.js" />
       <jump line="56" column="14" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/InventoryRecordQuerySpecs.java" />
       <jump line="192" column="45" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
       <jump line="629" column="16" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="228" column="44" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="235" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="236" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="237" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="238" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="245" column="12" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="246" column="22" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="248" column="12" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="256" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="142" column="41" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="143" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="149" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="183" column="27" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="190" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="220" column="27" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="227" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="233" column="27" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="239" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="254" column="27" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="270" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="286" column="27" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="295" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="299" column="18" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="300" column="29" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="308" column="10" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="326" column="16" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="327" column="27" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="340" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(SELECT d.id FROM dispatchings d WHERE d.DEBIT_ID = s.id) AS dispatchingId,</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>(SELECT d.id FROM dispatchings d WHERE d.DEBIT_ID = s.id) AS dispatchingId,</text>
       </register>
       <register name="/" type="4">
-        <text>confirm</text>
+        <text>dispatch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFJlc3BvbnNlRW50aXR5PFNpdGVSZXF1aXJlbWVudERldGFpbER0bz4oZHRvLCBIdHRwU3RhdHVzLk9LKTsK</text>
@@ -689,40 +694,38 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgLy8gzeqzybX3tsjIzs7xCiAgICAgICAgVGFzayB0YXNrID0gdGFza1NlcnZpY2UuZmluZFRhc2soRGlzcGF0Y2hpbmcuRkxPV19OQU1FX0RJU1BBVENISU5HLCBEaXNwYXRjaGluZy5UQVNLX05BTUVfRElTUEFUQ0hJTkcsIERpc3BhdGNoaW5nLmNsYXNzLmdldE5hbWUoKSwgZGlzcC5nZXRJZCgpKTsKICAgICAgICB0YXNrU2VydmljZS5jb21wbGV0ZVRhc2sodGFzay5nZXRJZCgpLCBudWxsKTsK</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBkaXNwYXRjaGluZ1JlcG9zaXRvcnkuc2F2ZShkaXNwKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc29sZS5sb2cocXVlcnkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBVc2VyIGFwcGx5VXNlciA9IHVzZXJSZXBvc2l0b3J5LmZpbmRCeVVzZXJuYW1lKHVzZXJuYW1lKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">dmFyIHNvcnRlcnMgPSBzdG9yZS5nZXRTb3J0ZXJzKCksCiAgICAgICAgICAgICAgICBmaWx0ZXJzID0gc3RvcmUuZ2V0RmlsdGVycygpLAogICAgICAgICAgICAgICAgcHJveHkgPSBzdG9yZS5nZXRQcm94eSgpLAogICAgICAgICAgICAgICAgcGFyYW1zID0ge307CiAgICAgICAgICAgIGlmIChzb3J0ZXJzICYmIHNvcnRlcnMubGVuZ3RoID4gMCkgewogICAgICAgICAgICAgICAgcGFyYW1zWydzb3J0J10gPSBwcm94eS5lbmNvZGVTb3J0ZXJzKHNvcnRlcnMpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBpZiAoZmlsdGVycyAmJiBmaWx0ZXJzLmxlbmd0aCA+IDApIHsKICAgICAgICAgICAgICAgIHBhcmFtc1snZmlsdGVyJ10gPSBwcm94eS5lbmNvZGVGaWx0ZXJzKGZpbHRlcnMuaXRlbXMpOwogICAgICAgICAgICB9Cg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXNlcm5hbWUgPSAoU3RyaW5nKSBTZWN1cml0eVV0aWxzLmdldFN1YmplY3QoKS5nZXRQcmluY2lwYWwoKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-                params: q
-            })</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcm9qZWN0U2l0ZVJlcG9zaXRvcnkuc2F2ZShwcm9qKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2NvcGU6IHRoaXMK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYmVmb3JlbG9hZDogJ29uQmVmb3JlTG9hZCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>confirm</last-search>
+      <last-search>dispatch</last-search>
       <last-offset />
-      <last-pattern>confirm</last-pattern>
+      <last-pattern>dispatch</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -730,8 +733,6 @@
     </search>
     <history>
       <history-search>
-        <entry>saveIn</entry>
-        <entry>在</entry>
         <entry>调整</entry>
         <entry>completeWith</entry>
         <entry encoding="base64">XDxyZXVzZUVxdWlwbWVudHNcPg==</entry>
@@ -750,6 +751,8 @@
         <entry>taskHistory</entry>
         <entry>FILE</entry>
         <entry>confirm</entry>
+        <entry>disp</entry>
+        <entry>dispatch</entry>
       </history-search>
       <history-cmd>
         <entry>832</entry>
