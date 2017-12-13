@@ -98,6 +98,12 @@
         <mark key="." line="48" column="50" />
         <mark key="^" line="48" column="50" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentInventory.java" timestamp="1513144110211">
+        <mark key="[" line="12" column="72" />
+        <mark key="]" line="12" column="81" />
+        <mark key="^" line="12" column="81" />
+        <mark key="." line="12" column="81" />
+      </file>
       <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/impl/LoanDaoImpl.java" timestamp="1511751985161">
         <mark key="[" line="128" column="36" />
         <mark key="]" line="130" column="45" />
@@ -115,6 +121,11 @@
         <mark key="]" line="9" column="16" />
         <mark key="." line="9" column="16" />
         <mark key="^" line="9" column="16" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentServiceV2Impl.java" timestamp="1513143821076">
+        <mark key="[" line="771" column="0" />
+        <mark key="]" line="771" column="0" />
+        <mark key="." line="771" column="0" />
       </file>
       <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/AllocationQueryDto.java" timestamp="1511235451346">
         <mark key="[" line="26" column="31" />
@@ -446,6 +457,13 @@
         <mark key="." line="55" column="43" />
         <mark key="^" line="55" column="43" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentReuseServiceImpl.java" timestamp="1513143791675">
+        <mark key="'" line="155" column="8" />
+        <mark key="[" line="174" column="140" />
+        <mark key="]" line="174" column="143" />
+        <mark key="." line="174" column="143" />
+        <mark key="^" line="174" column="143" />
+      </file>
       <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/Loan.java" timestamp="1511854517281">
         <mark key="[" line="206" column="69" />
         <mark key="]" line="206" column="108" />
@@ -719,7 +737,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>112</text>
       </register>
     </registers>
     <search>
@@ -755,8 +773,6 @@
         <entry>dispatch</entry>
       </history-search>
       <history-cmd>
-        <entry>832</entry>
-        <entry>g</entry>
         <entry>482</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>ww</entry>
@@ -773,8 +789,10 @@
         <entry>90,99t100</entry>
         <entry>24,212t230</entry>
         <entry>204,212t230</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>554</entry>
+        <entry>112</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
