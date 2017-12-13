@@ -1,4 +1,8 @@
 <keymap version="1" name="caodanping" parent="$default">
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
+  </action>
+  <action id="ActivateTODOToolWindow" />
   <action id="InsertLiveTemplate" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
