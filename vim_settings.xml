@@ -166,8 +166,8 @@
         <mark key="^" line="8" column="22" />
         <mark key="." line="8" column="22" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1513233582292">
-        <mark key="'" line="489" column="16" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1513235089045">
+        <mark key="'" line="1139" column="33" />
         <mark key="[" line="494" column="39" />
         <mark key="]" line="494" column="56" />
         <mark key="." line="494" column="56" />
@@ -586,78 +586,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="368" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="113" column="62" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ItemSelector.js" />
-      <jump line="249" column="61" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ItemSelector.js" />
-      <jump line="20" column="16" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ItemSelector.js" />
-      <jump line="29" column="16" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ItemSelector.js" />
-      <jump line="118" column="51" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ItemSelector.js" />
-      <jump line="254" column="51" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ItemSelector.js" />
-      <jump line="627" column="105" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="12" column="5" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/List.js" />
-      <jump line="0" column="30" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/List.js" />
-      <jump line="66" column="30" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/List.js" />
-      <jump line="414" column="34" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/InnerDeptEdit.js" />
-      <jump line="434" column="29" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/InnerDeptEdit.js" />
-      <jump line="93" column="37" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/InnerDeptEdit.js" />
-      <jump line="330" column="35" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="466" column="17" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="1087" column="66" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="474" column="35" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="1172" column="40" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="189" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="441" column="16" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="397" column="17" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="122" column="36" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="64" column="29" filename="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/ReimburseEditDto.java" />
-      <jump line="0" column="0" filename="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/ReimburseEditDto.java" />
-      <jump line="0" column="0" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" />
-      <jump line="489" column="22" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" />
-      <jump line="29" column="20" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" />
-      <jump line="1225" column="5" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="130" column="56" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DispatchingController.java" />
-      <jump line="164" column="17" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentReuseServiceImpl.java" />
-      <jump line="155" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentReuseServiceImpl.java" />
-      <jump line="87" column="24" filename="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/restful/AllocationJersey.java" />
-      <jump line="99" column="24" filename="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/restful/AllocationJersey.java" />
-      <jump line="116" column="24" filename="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/restful/AllocationJersey.java" />
-      <jump line="0" column="0" filename="D:/IdeaProjects/finance-service/pom.xml" />
-      <jump line="357" column="38" filename="D:/IdeaProjects/lems/pom.xml" />
-      <jump line="361" column="79" filename="D:/IdeaProjects/lems/pom.xml" />
-      <jump line="657" column="28" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="607" column="62" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="1186" column="24" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="39" column="20" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/InnerDeptEditController.js" />
-      <jump line="299" column="7" filename="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/impl/ReimburseServiceImpl.java" />
-      <jump line="83" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/BaseRepository.java" />
-      <jump line="119" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/BaseRepository.java" />
-      <jump line="101" column="23" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
-      <jump line="223" column="39" filename="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/impl/LoanServiceImpl.java" />
-      <jump line="3" column="22" filename="D:/IdeaProjects/lems/src/main/resources/logback.xml" />
-      <jump line="8" column="18" filename="D:/IdeaProjects/lems/src/main/resources/logback.xml" />
-      <jump line="27" column="74" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/ProjectController.java" />
-      <jump line="36" column="9" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingController.js" />
-      <jump line="56" column="14" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/InventoryRecordQuerySpecs.java" />
-      <jump line="192" column="45" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="629" column="16" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="228" column="44" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="235" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="236" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="237" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="238" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="245" column="12" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="246" column="22" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="248" column="12" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="256" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="142" column="41" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="143" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="149" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="183" column="27" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="190" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="220" column="27" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="227" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="233" column="27" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="239" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
       <jump line="254" column="27" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
       <jump line="270" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
       <jump line="286" column="27" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
@@ -686,6 +614,78 @@
       <jump line="199" column="24" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
       <jump line="225" column="12" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
       <jump line="488" column="16" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="494" column="56" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="512" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="529" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="530" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="552" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="656" column="29" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="657" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="678" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="701" column="29" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="702" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="745" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="760" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="767" column="10" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="777" column="29" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="778" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="786" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="803" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="819" column="57" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="820" column="31" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="867" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="873" column="52" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="880" column="52" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="884" column="52" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="888" column="52" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="898" column="52" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="912" column="31" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="913" column="18" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="914" column="29" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="915" column="27" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="916" column="24" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="917" column="20" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="918" column="22" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="919" column="30" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="920" column="24" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="921" column="24" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="923" column="28" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="924" column="28" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="925" column="30" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="926" column="25" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="927" column="27" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="928" column="54" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="933" column="64" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="940" column="31" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="941" column="32" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="942" column="26" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="943" column="22" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="944" column="27" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="945" column="19" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="946" column="19" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="948" column="53" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="950" column="44" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="951" column="28" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="952" column="36" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="954" column="45" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="955" column="30" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="956" column="37" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="957" column="44" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="959" column="44" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="960" column="45" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="961" column="30" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="962" column="37" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="975" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="1003" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="1027" column="14" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="1031" column="66" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="1032" column="57" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="1069" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="1077" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="1094" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="1099" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="1109" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="1139" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -695,7 +695,7 @@
         <text>findRequestsForUser(username, pageRequest);</text>
       </register>
       <register name="/" type="4">
-        <text>cancel</text>
+        <text>dispatch</text>
       </register>
       <register name="0" type="4">
         <text>EquipmentReuseRequest</text>
@@ -732,9 +732,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cancel</last-search>
+      <last-search>dispatch</last-search>
       <last-offset />
-      <last-pattern>cancel</last-pattern>
+      <last-pattern>dispatch</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -759,9 +759,9 @@
         <entry>FILE</entry>
         <entry>confirm</entry>
         <entry>disp</entry>
-        <entry>dispatch</entry>
         <entry>innerDept</entry>
         <entry>cancel</entry>
+        <entry>dispatch</entry>
       </history-search>
       <history-cmd>
         <entry>482</entry>
