@@ -50,6 +50,11 @@
         <mark key="^" line="471" column="24" />
         <mark key="." line="471" column="24" />
       </file>
+      <file name="D:/IdeaProjects/GeoProj/src/main/java/com/aucdi/Coord.java" timestamp="1513306647378">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/IouDao.java" timestamp="1511921172105">
         <mark key="[" line="16" column="101" />
         <mark key="]" line="16" column="102" />
@@ -314,7 +319,7 @@
       <file name="/fragment.js" timestamp="1512981902580">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/IdeaProjects/GeoProj/src/test/java/PilePositionTest.java" timestamp="1513257096458">
+      <file name="D:/IdeaProjects/GeoProj/src/test/java/PilePositionTest.java" timestamp="1513306592693">
         <mark key="[" line="49" column="5" />
         <mark key="]" line="56" column="56" />
         <mark key="." line="56" column="56" />
@@ -689,7 +694,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>EquipmentReuseRequest</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmdCdWlsZGVyIHNiID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKICAgICAgICBzYi5hcHBlbmQoIng9IikuYXBwZW5kKHgpOwogICAgICAgIHNiLmFwcGVuZCgiLCB5PSIpLmFwcGVuZCh5KTsKICAgICAgICByZXR1cm4gc2IudG9TdHJpbmcoKTs=</text>
       </register>
       <register name="-" type="4">
         <text>findRequestsForUser(username, pageRequest);</text>
@@ -700,32 +705,32 @@
       <register name="0" type="4">
         <text>EquipmentReuseRequest</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmdCdWlsZGVyIHNiID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKICAgICAgICBzYi5hcHBlbmQoIng9IikuYXBwZW5kKHgpOwogICAgICAgIHNiLmFwcGVuZCgiLCB5PSIpLmFwcGVuZCh5KTsKICAgICAgICByZXR1cm4gc2IudG9TdHJpbmcoKTs=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSW52ZW50b3J5UmVjb3JkU2VydmljZSBpbnZlbnRvcnlSZWNvcmRTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBFcXVpcG1lbnRFdmVudFJlcG9zaXRvcnkgZXF1aXBtZW50RXZlbnRSZXBvc2l0b3J5Owo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSW52ZW50b3J5UmVjb3JkU2VydmljZSBpbnZlbnRvcnlSZWNvcmRTZXJ2aWNlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgQEF1dG93aXJlZAo=</text>
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBFcXVpcG1lbnRFdmVudFJlcG9zaXRvcnkgZXF1aXBtZW50RXZlbnRSZXBvc2l0b3J5Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBVbmlxdWVFcXVpcG1lbnRSZXBvc2l0b3J5IHVuaXF1ZUVxdWlwbWVudFJlcG9zaXRvcnk7Cg==</text>
+        <text encoding="base64">Ly8gICAgQEF1dG93aXJlZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
