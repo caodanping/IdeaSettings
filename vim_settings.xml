@@ -73,8 +73,8 @@
         <mark key="^" line="123" column="26" />
         <mark key="." line="123" column="26" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/pjEquipInfo/Main.js" timestamp="1512360164199">
-        <mark key="[" line="24" column="33" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/pjEquipInfo/Main.js" timestamp="1513927219917">
+        <mark key="[" line="41" column="35" />
         <mark key="]" line="26" column="38" />
         <mark key="." line="26" column="38" />
         <mark key="^" line="26" column="38" />
@@ -392,6 +392,9 @@
         <mark key="^" line="13" column="86" />
         <mark key="." line="13" column="86" />
       </file>
+      <file name="D:/IdeaProjects/oauth-demo/src/main/java/com/dpcao/examples/config/ShiroConfig.java" timestamp="1513926835187">
+        <mark key="[" line="6" column="3" />
+      </file>
       <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/AllocationQuerySpecs.java" timestamp="1511248561268">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -538,6 +541,11 @@
         <mark key="]" line="11" column="99" />
         <mark key="." line="11" column="99" />
         <mark key="^" line="11" column="99" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/free/Free.js" timestamp="1513927321749">
+        <mark key="[" line="34" column="35" />
+        <mark key="]" line="31" column="29" />
+        <mark key="." line="31" column="29" />
       </file>
       <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/AllocationItemDto.java" timestamp="1511245463383">
         <mark key="[" line="10" column="3" />
