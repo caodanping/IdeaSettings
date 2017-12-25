@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1513232322765">
@@ -9,12 +9,13 @@
         <mark key="^" line="471" column="24" />
         <mark key="." line="471" column="24" />
       </file>
-      <file name="D:/IdeaProjects/GeoProj/src/main/java/com/aucdi/Coord.java" timestamp="1513306647378">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-      </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/resources/generatorConfig.xml" timestamp="1514179918008" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dao/ChannelMapper.java" timestamp="1514184573816">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/pjEquipInfo/Main.js" timestamp="1513927219917">
         <mark key="[" line="41" column="35" />
         <mark key="]" line="26" column="38" />
@@ -24,14 +25,13 @@
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchInputDto.java" timestamp="1513073245223">
         <mark key="[" line="9" column="31" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1513235089045">
-        <mark key="'" line="1139" column="33" />
-        <mark key="[" line="494" column="39" />
-        <mark key="]" line="494" column="56" />
-        <mark key="." line="494" column="56" />
-        <mark key="^" line="494" column="56" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dao/ProjectMapper.java" timestamp="1514184600820">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="6" />
+        <mark key="^" line="5" column="6" />
+        <mark key="." line="5" column="6" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/pom.xml" timestamp="1514172414045">
+      <file name="D:/IdeaProjects/jlsz-service/pom.xml" timestamp="1514184084107">
         <mark key="[" line="54" column="21" />
       </file>
       <file name="D:/IdeaProjects/GeoProj/src/main/java/com/aucdi/MeassureUtils.java" timestamp="1513861840860">
@@ -64,12 +64,11 @@
       <file name="D:/IdeaProjects/oauth-demo/pom.xml" timestamp="1514172388953">
         <mark key="[" line="54" column="21" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentReuseServiceImpl.java" timestamp="1513851172495">
-        <mark key="'" line="160" column="8" />
-        <mark key="[" line="51" column="13" />
-        <mark key="]" line="60" column="12" />
-        <mark key="." line="60" column="12" />
-        <mark key="^" line="60" column="12" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/JlszServiceApplication.java" timestamp="1514184866780">
+        <mark key="[" line="24" column="60" />
+        <mark key="]" line="24" column="60" />
+        <mark key="^" line="24" column="60" />
+        <mark key="." line="24" column="60" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/free/Free.js" timestamp="1514164657185">
         <mark key="[" line="34" column="35" />
@@ -190,10 +189,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>distortionmonitor</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>distortionmonitor</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>dispatch</text>
