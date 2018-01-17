@@ -46,7 +46,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>128</Count>
+          <Count>129</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'HibernateJPATest.testJpaFetchi...'">
@@ -353,6 +353,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'TestHtmlUnit'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'TestHtmlUnit'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Util'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -454,7 +462,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>49</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'JlszDataServerApplic...'">
@@ -647,6 +655,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'SpringBootDemoApplication'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'TestHtmlUnit'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'TestHtmlUnit'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'finance [jetty:run]'">
