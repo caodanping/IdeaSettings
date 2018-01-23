@@ -1,696 +1,91 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/restful/DrawMoneyJersey.java" timestamp="1511939677974">
-        <mark key="[" line="68" column="38" />
-        <mark key="]" line="68" column="38" />
-        <mark key="^" line="51" column="17" />
-        <mark key="." line="68" column="38" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DtoDomainConverter.java" timestamp="1512031763504">
-        <mark key="[" line="201" column="21" />
-        <mark key="]" line="201" column="21" />
-        <mark key="^" line="201" column="21" />
-        <mark key="." line="201" column="21" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/InventoryRecordExportController.java" timestamp="1512983532402">
-        <mark key="[" line="46" column="69" />
-        <mark key="]" line="57" column="12" />
-        <mark key="^" line="57" column="12" />
-        <mark key="." line="57" column="12" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/InventoryRecordController.java" timestamp="1512986631353">
-        <mark key="[" line="37" column="46" />
-        <mark key="]" line="37" column="60" />
-        <mark key="^" line="37" column="60" />
-        <mark key="." line="37" column="60" />
-      </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/restful/LoanJersey.java" timestamp="1511511218237">
-        <mark key="[" line="62" column="27" />
-        <mark key="]" line="62" column="27" />
-        <mark key="^" line="62" column="39" />
-        <mark key="." line="62" column="27" />
-      </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/DrawMoneyDetailDto.java" timestamp="1511940279139">
-        <mark key="[" line="197" column="5" />
-        <mark key="]" line="199" column="35" />
-        <mark key="^" line="199" column="35" />
-        <mark key="." line="199" column="35" />
-      </file>
-      <file name="/a.dummy" timestamp="1513073447367">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1513133150420">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1513232322765">
         <mark key="[" line="209" column="38" />
         <mark key="]" line="471" column="24" />
         <mark key="^" line="471" column="24" />
         <mark key="." line="471" column="24" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/IouDao.java" timestamp="1511921172105">
-        <mark key="[" line="16" column="101" />
-        <mark key="]" line="16" column="102" />
-        <mark key="^" line="16" column="102" />
-        <mark key="." line="16" column="102" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/resources/generatorConfig.xml" timestamp="1514179918008" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dao/ChannelMapper.java" timestamp="1514184573816">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/Reimburse.java" timestamp="1511910575397">
-        <mark key="[" line="414" column="5" />
-        <mark key="]" line="216" column="9" />
-        <mark key="." line="216" column="9" />
-        <mark key="^" line="216" column="9" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/reuse/List.js" timestamp="1511165551691">
-        <mark key="[" line="122" column="29" />
-        <mark key="]" line="123" column="26" />
-        <mark key="^" line="123" column="26" />
-        <mark key="." line="123" column="26" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/pjEquipInfo/Main.js" timestamp="1512360164199">
-        <mark key="[" line="24" column="33" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/pjEquipInfo/Main.js" timestamp="1513927219917">
+        <mark key="[" line="41" column="35" />
         <mark key="]" line="26" column="38" />
         <mark key="." line="26" column="38" />
         <mark key="^" line="26" column="38" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/EquipmentReuseController.java" timestamp="1511164957533">
-        <mark key="[" line="35" column="5" />
-        <mark key="]" line="33" column="32" />
-        <mark key="^" line="33" column="32" />
-        <mark key="." line="33" column="32" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/TaskSummaryDto.java" timestamp="1512436625478">
-        <mark key="[" line="12" column="12" />
-        <mark key="]" line="12" column="16" />
-        <mark key="." line="12" column="16" />
-        <mark key="^" line="12" column="16" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/equipStateRec/List.js" timestamp="1513050650244">
-        <mark key="[" line="228" column="26" />
-        <mark key="]" line="229" column="54" />
-        <mark key="." line="229" column="54" />
-        <mark key="^" line="229" column="54" />
-      </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/DrawMoneySpecs.java" timestamp="1511936530279">
-        <mark key="[" line="48" column="41" />
-        <mark key="]" line="48" column="50" />
-        <mark key="." line="48" column="50" />
-        <mark key="^" line="48" column="50" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentInventory.java" timestamp="1513144110211">
-        <mark key="[" line="12" column="72" />
-        <mark key="]" line="12" column="81" />
-        <mark key="^" line="12" column="81" />
-        <mark key="." line="12" column="81" />
-      </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/impl/LoanDaoImpl.java" timestamp="1511751985161">
-        <mark key="[" line="128" column="36" />
-        <mark key="]" line="130" column="45" />
-        <mark key="." line="130" column="45" />
-        <mark key="^" line="130" column="45" />
-      </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/Allocation.java" timestamp="1511261829417">
-        <mark key="[" line="135" column="28" />
-        <mark key="]" line="135" column="28" />
-        <mark key="^" line="64" column="30" />
-        <mark key="." line="135" column="28" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/TaskRepositoryCustom.java" timestamp="1512524786924">
-        <mark key="[" line="9" column="39" />
-        <mark key="]" line="9" column="16" />
-        <mark key="." line="9" column="16" />
-        <mark key="^" line="9" column="16" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentServiceV2Impl.java" timestamp="1513143821076">
-        <mark key="[" line="771" column="0" />
-        <mark key="]" line="771" column="0" />
-        <mark key="." line="771" column="0" />
-      </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/AllocationQueryDto.java" timestamp="1511235451346">
-        <mark key="[" line="26" column="31" />
-        <mark key="]" line="34" column="23" />
-        <mark key="^" line="34" column="23" />
-        <mark key="." line="34" column="23" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/StopChargingRequestRepository.java" timestamp="1512961834917">
-        <mark key="[" line="21" column="56" />
-        <mark key="]" line="30" column="82" />
-        <mark key="^" line="30" column="82" />
-        <mark key="." line="30" column="82" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/mtw/ConfirmOutModel.js" timestamp="1511171522487">
-        <mark key="[" line="26" column="52" />
-        <mark key="]" line="27" column="24" />
-        <mark key="^" line="27" column="24" />
-        <mark key="." line="27" column="24" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchInputDto.java" timestamp="1513073245223">
         <mark key="[" line="9" column="31" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchingService.java" timestamp="1513071576156">
-        <mark key="[" line="160" column="0" />
-        <mark key="]" line="166" column="53" />
-        <mark key="^" line="166" column="53" />
-        <mark key="." line="166" column="53" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dao/ProjectMapper.java" timestamp="1514184600820">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="6" />
+        <mark key="^" line="5" column="6" />
+        <mark key="." line="5" column="6" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-entitymanager/5.1.2.Final/hibernate-entitymanager-5.1.2.Final-sources.jar!/org/hibernate/jpa/criteria/OrderImpl.java" timestamp="1512988845231" />
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/DrawMoneyListItemDto.java" timestamp="1511933833486">
-        <mark key="[" line="27" column="31" />
-        <mark key="]" line="29" column="24" />
-        <mark key="^" line="29" column="24" />
-        <mark key="." line="29" column="24" />
+      <file name="D:/IdeaProjects/jlsz-service/pom.xml" timestamp="1514184084107">
+        <mark key="[" line="54" column="21" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/equipStateRec/ListModel.js" timestamp="1512978816310">
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="8" column="22" />
-        <mark key="^" line="8" column="22" />
-        <mark key="." line="8" column="22" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" timestamp="1513137816456">
-        <mark key="'" line="340" column="8" />
-        <mark key="[" line="365" column="0" />
-        <mark key="]" line="365" column="0" />
-        <mark key="." line="365" column="0" />
-        <mark key="^" line="355" column="29" />
-      </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/Iou.java" timestamp="1511946544259">
-        <mark key="[" line="117" column="5" />
-        <mark key="]" line="119" column="32" />
-        <mark key="^" line="119" column="32" />
-        <mark key="." line="119" column="32" />
-      </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/AllocationListItemDto.java" timestamp="1511233271259">
-        <mark key="[" line="16" column="34" />
-        <mark key="]" line="27" column="24" />
-        <mark key="." line="27" column="24" />
-        <mark key="^" line="27" column="24" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/TaskServiceImpl.java" timestamp="1512436602116" />
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/AuditController.js" timestamp="1512375835298" />
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/equipment/Add.js" timestamp="1511760973590">
-        <mark key="[" line="121" column="23" />
-        <mark key="]" line="124" column="42" />
-        <mark key="^" line="124" column="42" />
-        <mark key="." line="124" column="42" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/equipmentuse/List.js" timestamp="1512968930696" />
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" timestamp="1511959301281">
-        <mark key="[" line="282" column="23" />
-        <mark key="]" line="282" column="24" />
-        <mark key="^" line="284" column="19" />
-        <mark key="." line="282" column="24" />
-      </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/LoanDetailDto.java" timestamp="1511857132602">
-        <mark key="[" line="225" column="5" />
-        <mark key="]" line="227" column="38" />
-        <mark key="^" line="227" column="38" />
-        <mark key="." line="227" column="38" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/SiteServiceImpl.java" timestamp="1511775128455">
-        <mark key="[" line="165" column="77" />
-        <mark key="]" line="172" column="0" />
-        <mark key="." line="172" column="0" />
-        <mark key="^" line="165" column="25" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/SiteRequirementDetailDto.java" timestamp="1513071464922" />
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/SiteSpecs.java" timestamp="1512357700615">
-        <mark key="[" line="39" column="5" />
-        <mark key="]" line="36" column="43" />
-        <mark key="." line="36" column="43" />
-        <mark key="^" line="36" column="43" />
-      </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/impl/ReimburseDaoImpl.java" timestamp="1511839652218">
-        <mark key="[" line="190" column="16" />
-        <mark key="]" line="190" column="18" />
-        <mark key="." line="190" column="18" />
-        <mark key="^" line="190" column="18" />
-      </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/DrawMoneyDaoCustom.java" timestamp="1511880351788">
-        <mark key="[" line="12" column="76" />
-        <mark key="]" line="14" column="41" />
-        <mark key="." line="14" column="41" />
-        <mark key="^" line="14" column="41" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/equipmentuse/ListController.js" timestamp="1512971063616">
-        <mark key="[" line="64" column="19" />
-        <mark key="]" line="64" column="25" />
-        <mark key="^" line="64" column="25" />
-        <mark key="." line="64" column="25" />
-      </file>
-      <file name="D:/IdeaProjects/GeoProj/src/main/java/com/aucdi/PilePosition.java" timestamp="1512526888226">
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="150" column="66" />
-        <mark key="^" line="150" column="66" />
-        <mark key="." line="150" column="66" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/SiteRepositoryImpl.java" timestamp="1511775065762">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="310" column="7" />
-      </file>
-      <file name="D:/IdeaProjects/GeoProj/src/main/java/com/aucdi/MeassureUtils.java" timestamp="1512528018746">
+      <file name="D:/IdeaProjects/GeoProj/src/main/java/com/aucdi/MeassureUtils.java" timestamp="1513861840860">
         <mark key="[" line="80" column="6" />
         <mark key="]" line="81" column="6" />
         <mark key="." line="81" column="6" />
         <mark key="^" line="81" column="6" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/UserRealm.java" timestamp="1512372631274" />
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/InventoryRecordServiceImpl.java" timestamp="1513050287756">
-        <mark key="[" line="365" column="51" />
-        <mark key="]" line="339" column="80" />
-        <mark key="." line="339" column="80" />
-        <mark key="^" line="339" column="80" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/EquipmentEntrySelector.js" timestamp="1511160212088">
-        <mark key="[" line="167" column="41" />
-        <mark key="]" line="167" column="46" />
-        <mark key="^" line="167" column="46" />
-        <mark key="." line="167" column="46" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/reuse/ListController.js" timestamp="1511165102501">
-        <mark key="[" line="29" column="31" />
-        <mark key="]" line="29" column="31" />
-        <mark key="^" line="29" column="31" />
-        <mark key="." line="29" column="31" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/mtw/ConfirmInModel.js" timestamp="1511171530510">
-        <mark key="[" line="26" column="52" />
-        <mark key="]" line="27" column="24" />
-        <mark key="." line="27" column="24" />
-        <mark key="^" line="27" column="24" />
-      </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/restful/AccountJersey.java" timestamp="1511405932853">
-        <mark key="[" line="79" column="5" />
-        <mark key="]" line="79" column="10" />
-        <mark key="." line="79" column="10" />
-        <mark key="^" line="79" column="10" />
-      </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/SerialNumber.java" timestamp="1511880795209">
-        <mark key="[" line="14" column="8" />
-        <mark key="]" line="14" column="62" />
-        <mark key="." line="14" column="62" />
-        <mark key="^" line="14" column="62" />
-      </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/restful/SelectOptionJersey.java" timestamp="1511921373153">
-        <mark key="[" line="88" column="8" />
-        <mark key="]" line="88" column="123" />
-        <mark key="^" line="88" column="123" />
-        <mark key="." line="88" column="123" />
-      </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/impl/DrawMoneyServiceImpl.java" timestamp="1511950443241">
-        <mark key="[" line="154" column="40" />
-        <mark key="]" line="154" column="39" />
-        <mark key="." line="154" column="39" />
-        <mark key="^" line="154" column="39" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Dispatching.js" timestamp="1512375198385">
-        <mark key="[" line="16" column="9" />
-        <mark key="]" line="19" column="29" />
-        <mark key="^" line="19" column="29" />
-        <mark key="." line="19" column="29" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/MovingToWarehouseServiceImpl.java" timestamp="1511170735163">
-        <mark key="[" line="387" column="98" />
-        <mark key="]" line="388" column="94" />
-        <mark key="^" line="388" column="94" />
-        <mark key="." line="388" column="94" />
+      <file name="D:/IdeaProjects/oauth-demo/src/main/java/com/dpcao/examples/web/UserController.java" timestamp="1513928611007">
+        <mark key="[" line="6" column="3" />
       </file>
       <file name="/fragment.js" timestamp="1512981902580">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/IdeaProjects/GeoProj/src/test/java/PilePositionTest.java" timestamp="1513046374176">
-        <mark key="[" line="49" column="5" />
-        <mark key="]" line="56" column="56" />
-        <mark key="." line="56" column="56" />
-        <mark key="^" line="56" column="56" />
+      <file name="D:/IdeaProjects/GeoProj/src/test/java/PilePositionTest.java" timestamp="1513917975727">
+        <mark key="[" line="47" column="48" />
+        <mark key="]" line="49" column="95" />
+        <mark key="." line="49" column="95" />
+        <mark key="^" line="49" column="95" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentReuseRequest.java" timestamp="1511164829914">
-        <mark key="[" line="61" column="30" />
-        <mark key="]" line="63" column="49" />
-        <mark key="^" line="63" column="49" />
-        <mark key="." line="63" column="49" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/resources/logback.xml" timestamp="1512617896727">
-        <mark key="'" line="8" column="18" />
-        <mark key="[" line="31" column="23" />
-        <mark key="]" line="31" column="29" />
-        <mark key="." line="31" column="29" />
-        <mark key="^" line="31" column="29" />
-      </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/impl/AllocationServiceImpl.java" timestamp="1512008459386">
-        <mark key="[" line="174" column="56" />
-        <mark key="]" line="175" column="52" />
-        <mark key="^" line="175" column="52" />
-        <mark key="." line="175" column="52" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/TaskRepositoryImpl.java" timestamp="1512562254206">
-        <mark key="[" line="19" column="90" />
-        <mark key="]" line="19" column="89" />
-        <mark key="." line="19" column="89" />
-        <mark key="^" line="19" column="89" />
-      </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/AccountEntry.java" timestamp="1511536652723">
-        <mark key="[" line="75" column="30" />
-        <mark key="]" line="179" column="32" />
-        <mark key="^" line="179" column="32" />
-        <mark key="." line="179" column="32" />
-      </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/LoanListItemDto.java" timestamp="1511512777100">
-        <mark key="[" line="144" column="5" />
-        <mark key="]" line="146" column="35" />
-        <mark key="." line="146" column="35" />
-        <mark key="^" line="146" column="35" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/ShippingService.java" timestamp="1513043449442" />
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/reuse/Edit.js" timestamp="1511164664413">
-        <mark key="[" line="92" column="32" />
-        <mark key="]" line="92" column="34" />
-        <mark key="^" line="92" column="34" />
-        <mark key="." line="92" column="34" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/resources/spring-root.xml" timestamp="1511340555981">
+      <file name="D:/IdeaProjects/lems/src/main/resources/spring-root.xml" timestamp="1514173410146">
         <mark key="[" line="27" column="37" />
         <mark key="]" line="27" column="37" />
         <mark key="^" line="27" column="43" />
         <mark key="." line="27" column="37" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentSpecEntry.java" timestamp="1511508387837">
-        <mark key="[" line="47" column="16" />
-        <mark key="]" line="47" column="11" />
-        <mark key="^" line="47" column="11" />
-        <mark key="." line="47" column="11" />
+      <file name="D:/IdeaProjects/oauth-demo/src/main/java/com/dpcao/examples/config/ShiroConfig.java" timestamp="1513926835187">
+        <mark key="[" line="6" column="3" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/LoanQueryDto.java" timestamp="1511425892281">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="13" column="3" />
-        <mark key="." line="77" column="0" />
+      <file name="D:/IdeaProjects/oauth-demo/pom.xml" timestamp="1514172388953">
+        <mark key="[" line="54" column="21" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/TaskRepository.java" timestamp="1512522836971">
-        <mark key="[" line="25" column="73" />
-        <mark key="]" line="13" column="86" />
-        <mark key="^" line="13" column="86" />
-        <mark key="." line="13" column="86" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/JlszServiceApplication.java" timestamp="1514184866780">
+        <mark key="[" line="24" column="60" />
+        <mark key="]" line="24" column="60" />
+        <mark key="^" line="24" column="60" />
+        <mark key="." line="24" column="60" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/AllocationQuerySpecs.java" timestamp="1511248561268">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="27" column="4" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/free/Free.js" timestamp="1514164657185">
+        <mark key="[" line="34" column="35" />
+        <mark key="]" line="31" column="29" />
+        <mark key="." line="31" column="29" />
       </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/DrawMoneyDao.java" timestamp="1511877316736">
-        <mark key="[" line="14" column="68" />
-        <mark key="]" line="14" column="87" />
-        <mark key="^" line="14" column="87" />
-        <mark key="." line="14" column="87" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/dto/InventoryRecordQueryDto.java" timestamp="1512984702800">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="43" />
-        <mark key="^" line="11" column="29" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/CreditView.js" timestamp="1511750246847">
-        <mark key="[" line="323" column="25" />
-        <mark key="]" line="323" column="30" />
-        <mark key="^" line="323" column="30" />
-        <mark key="." line="323" column="30" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/EquipmentReuseRepository.java" timestamp="1513147740865">
-        <mark key="[" line="24" column="61" />
-        <mark key="]" line="24" column="82" />
-        <mark key="^" line="24" column="82" />
-        <mark key="." line="24" column="82" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/resources/META-INF/native-queries.xml" timestamp="1513137919557">
-        <mark key="[" line="23" column="10" />
-        <mark key="]" line="96" column="14" />
-        <mark key="." line="96" column="14" />
-        <mark key="^" line="96" column="14" />
-      </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/LoanQuerySpecs.java" timestamp="1511490904101">
-        <mark key="[" line="67" column="18" />
-        <mark key="]" line="68" column="75" />
-        <mark key="." line="68" column="75" />
-        <mark key="^" line="68" column="75" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DispatchingController.java" timestamp="1513073135025">
-        <mark key="[" line="191" column="32" />
-        <mark key="]" line="191" column="35" />
-        <mark key="^" line="191" column="35" />
-        <mark key="." line="191" column="35" />
-      </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/resources/applicationContext.xml" timestamp="1511401804092">
-        <mark key="[" line="30" column="41" />
-        <mark key="]" line="30" column="47" />
-        <mark key="^" line="30" column="47" />
-        <mark key="." line="30" column="47" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/AjaxAuthenticationFilter.java" timestamp="1512368695326" />
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/InventoryRecordQuerySpecs.java" timestamp="1513059882260">
-        <mark key="'" line="60" column="14" />
-        <mark key="[" line="31" column="51" />
-        <mark key="]" line="33" column="49" />
-        <mark key="^" line="33" column="49" />
-        <mark key="." line="33" column="49" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.11.4.RELEASE/spring-data-commons-1.11.4.RELEASE-sources.jar!/org/springframework/data/domain/Sort.java" timestamp="1512989026685" />
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/ProjectSiteRepositoryImpl.java" timestamp="1512524940133">
-        <mark key="[" line="56" column="40" />
-        <mark key="]" line="55" column="43" />
-        <mark key="." line="55" column="43" />
-        <mark key="^" line="55" column="43" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentReuseServiceImpl.java" timestamp="1513151528845">
-        <mark key="'" line="160" column="8" />
-        <mark key="[" line="51" column="13" />
-        <mark key="]" line="60" column="12" />
-        <mark key="." line="60" column="12" />
-        <mark key="^" line="60" column="12" />
-      </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/domain/Loan.java" timestamp="1511854517281">
-        <mark key="[" line="206" column="69" />
-        <mark key="]" line="206" column="108" />
-        <mark key="^" line="206" column="108" />
-        <mark key="." line="206" column="108" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-entitymanager/5.1.2.Final/hibernate-entitymanager-5.1.2.Final-sources.jar!/org/hibernate/jpa/criteria/predicate/CompoundPredicate.java" timestamp="1512987681727" />
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/ConfirmIn.js" timestamp="1511179929547">
-        <mark key="[" line="45" column="20" />
-        <mark key="]" line="53" column="19" />
-        <mark key="^" line="53" column="19" />
-        <mark key="." line="53" column="19" />
-      </file>
-      <file name="D:/IdeaProjects/spring-boot-demo/src/main/java/com/caodanping/web/Greeting.java" timestamp="1511400022136">
-        <mark key="[" line="14" column="60" />
-        <mark key="]" line="14" column="55" />
-        <mark key="^" line="14" column="55" />
-        <mark key="." line="14" column="55" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/Audit.js" timestamp="1512375160688" />
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/impl/DrawMoneyDaoImpl.java" timestamp="1511941103744">
-        <mark key="[" line="80" column="53" />
-        <mark key="]" line="80" column="53" />
-        <mark key="." line="80" column="53" />
-        <mark key="^" line="80" column="53" />
-      </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/AllocationDaoCustom.java" timestamp="1511248678780">
-        <mark key="[" line="13" column="46" />
-        <mark key="]" line="13" column="55" />
-        <mark key="." line="13" column="55" />
-        <mark key="^" line="13" column="55" />
-      </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/AllocationDao.java" timestamp="1511275034708">
-        <mark key="[" line="16" column="109" />
-        <mark key="]" line="17" column="58" />
-        <mark key="^" line="17" column="58" />
-        <mark key="." line="17" column="58" />
-      </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/impl/AllocationDaoImpl.java" timestamp="1511248633349">
-        <mark key="[" line="31" column="53" />
-        <mark key="]" line="31" column="53" />
-        <mark key="." line="31" column="53" />
-        <mark key="^" line="31" column="69" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/mtw/ConfirmInController.js" timestamp="1511172090445">
-        <mark key="[" line="11" column="30" />
-        <mark key="]" line="10" column="14" />
-        <mark key="." line="10" column="14" />
-        <mark key="^" line="10" column="14" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/SiteController.java" timestamp="1511767533376">
-        <mark key="[" line="40" column="5" />
-        <mark key="]" line="43" column="71" />
-        <mark key="." line="43" column="71" />
-        <mark key="^" line="43" column="71" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingController.js" timestamp="1512376880150">
-        <mark key="'" line="63" column="9" />
-        <mark key="[" line="52" column="42" />
-        <mark key="]" line="52" column="43" />
-        <mark key="^" line="52" column="43" />
-        <mark key="." line="52" column="43" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/TaskService.java" timestamp="1512436432475">
-        <mark key="[" line="36" column="31" />
-        <mark key="]" line="36" column="39" />
-        <mark key="^" line="36" column="39" />
-        <mark key="." line="36" column="39" />
-      </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dao/LoanDao.java" timestamp="1511751401981">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="99" />
-        <mark key="." line="11" column="99" />
-        <mark key="^" line="11" column="99" />
-      </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/AllocationItemDto.java" timestamp="1511245463383">
-        <mark key="[" line="10" column="3" />
-        <mark key="]" line="11" column="14" />
-        <mark key="^" line="11" column="14" />
-        <mark key="." line="11" column="14" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-servlet-api/7.0.47/tomcat-servlet-api-7.0.47-sources.jar!/javax/servlet/http/HttpServletResponse.java" timestamp="1512369459676" />
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/ProjectSiteServiceImpl.java" timestamp="1512359696150">
-        <mark key="[" line="47" column="12" />
-        <mark key="]" line="49" column="56" />
-        <mark key="." line="49" column="56" />
-        <mark key="^" line="49" column="56" />
-      </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/ReimburseRegistrationDto.java" timestamp="1511840574728">
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="43" column="28" />
-        <mark key="^" line="43" column="28" />
-        <mark key="." line="43" column="28" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/ProjectSiteService.java" timestamp="1511849349067">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="14" column="60" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/AllocationDetailDto.java" timestamp="1511246727246">
-        <mark key="[" line="19" column="31" />
-        <mark key="]" line="31" column="41" />
-        <mark key="^" line="31" column="41" />
-        <mark key="." line="31" column="41" />
-      </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/restful/AllocationJersey.java" timestamp="1511402895188">
-        <mark key="[" line="59" column="37" />
-        <mark key="]" line="57" column="8" />
-        <mark key="." line="57" column="8" />
-        <mark key="^" line="57" column="8" />
-      </file>
-      <file name="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/ReimburseQueryDto.java" timestamp="1512012098464">
-        <mark key="[" line="51" column="17" />
-        <mark key="]" line="53" column="35" />
-        <mark key="^" line="53" column="35" />
-        <mark key="." line="53" column="35" />
+      <file name="D:/IdeaProjects/jlsz-service/generatorConfig.xml" timestamp="1514174444444">
+        <mark key="[" line="27" column="71" />
+        <mark key="]" line="27" column="71" />
+        <mark key="." line="27" column="71" />
+        <mark key="^" line="27" column="87" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/ProjectSpecs.java" timestamp="1512357704859">
         <mark key="[" line="9" column="27" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/AuditWindow.js" timestamp="1512375573936" />
-      <file name="D:/IdeaProjects/GeoProj/src/main/java/com/aucdi/LatLng.java" timestamp="1513046291711" />
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Shipping.java" timestamp="1513042103836" />
-      <file name="/fragment.java" timestamp="1512984230662">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="3" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/Edit.js" />
-      <jump line="16" column="14" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/Edit.js" />
-      <jump line="19" column="0" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/Audit.js" />
-      <jump line="47" column="0" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/Audit.js" />
-      <jump line="57" column="30" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/Edit.js" />
-      <jump line="2" column="0" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/equipment/List.js" />
-      <jump line="116" column="28" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ItemSelector.js" />
-      <jump line="25" column="28" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/dto/StopChargingRequestDto.java" />
-      <jump line="0" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/dto/StopChargingRequestDto.java" />
-      <jump line="55" column="100" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/StopChargingRequestServiceImpl.java" />
-      <jump line="37" column="4" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/StopChargingRequestServiceImpl.java" />
-      <jump line="309" column="7" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="399" column="16" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="368" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="113" column="62" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ItemSelector.js" />
-      <jump line="249" column="61" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ItemSelector.js" />
-      <jump line="20" column="16" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ItemSelector.js" />
-      <jump line="29" column="16" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ItemSelector.js" />
-      <jump line="118" column="51" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ItemSelector.js" />
-      <jump line="254" column="51" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/stopCharging/ItemSelector.js" />
-      <jump line="627" column="105" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="12" column="5" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/List.js" />
-      <jump line="0" column="30" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/List.js" />
-      <jump line="66" column="30" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/List.js" />
-      <jump line="414" column="34" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/InnerDeptEdit.js" />
-      <jump line="434" column="29" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/InnerDeptEdit.js" />
-      <jump line="93" column="37" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/InnerDeptEdit.js" />
-      <jump line="330" column="35" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="466" column="17" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="1087" column="66" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="474" column="35" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="1172" column="40" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="189" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="193" column="22" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="194" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="197" column="17" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="199" column="24" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="225" column="12" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="441" column="16" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="397" column="17" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="122" column="36" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="64" column="29" filename="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/ReimburseEditDto.java" />
-      <jump line="0" column="0" filename="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/dto/ReimburseEditDto.java" />
-      <jump line="0" column="0" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" />
-      <jump line="489" column="22" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" />
-      <jump line="29" column="20" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingCenter.js" />
-      <jump line="1225" column="5" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="130" column="56" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/DispatchingController.java" />
-      <jump line="164" column="17" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentReuseServiceImpl.java" />
-      <jump line="155" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentReuseServiceImpl.java" />
-      <jump line="87" column="24" filename="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/restful/AllocationJersey.java" />
-      <jump line="99" column="24" filename="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/restful/AllocationJersey.java" />
-      <jump line="116" column="24" filename="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/restful/AllocationJersey.java" />
-      <jump line="0" column="0" filename="D:/IdeaProjects/finance-service/pom.xml" />
-      <jump line="357" column="38" filename="D:/IdeaProjects/lems/pom.xml" />
-      <jump line="361" column="79" filename="D:/IdeaProjects/lems/pom.xml" />
-      <jump line="657" column="28" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="607" column="62" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="1186" column="24" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="39" column="20" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/InnerDeptEditController.js" />
-      <jump line="299" column="7" filename="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/impl/ReimburseServiceImpl.java" />
-      <jump line="83" column="0" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/BaseRepository.java" />
-      <jump line="119" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/BaseRepository.java" />
-      <jump line="101" column="23" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/BMap.js" />
-      <jump line="223" column="39" filename="D:/IdeaProjects/finance-service/src/main/java/com/aucdi/csfy/service/impl/LoanServiceImpl.java" />
-      <jump line="3" column="22" filename="D:/IdeaProjects/lems/src/main/resources/logback.xml" />
-      <jump line="8" column="18" filename="D:/IdeaProjects/lems/src/main/resources/logback.xml" />
-      <jump line="27" column="74" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/web/ProjectController.java" />
-      <jump line="36" column="9" filename="D:/IdeaProjects/lems/src/main/frontend/app/view/deviceDispatching/DispatchingController.js" />
-      <jump line="56" column="14" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/InventoryRecordQuerySpecs.java" />
-      <jump line="192" column="45" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="629" column="16" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="228" column="44" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="235" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="236" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="237" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="238" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="245" column="12" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="246" column="22" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="248" column="12" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="256" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="142" column="41" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="143" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="149" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="183" column="27" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="190" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="220" column="27" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="227" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="233" column="27" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="239" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
       <jump line="254" column="27" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
       <jump line="270" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
       <jump line="286" column="27" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
@@ -701,46 +96,136 @@
       <jump line="326" column="16" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
       <jump line="327" column="27" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
       <jump line="340" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="81" column="34" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="712" column="31" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="1248" column="39" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="1253" column="50" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="1255" column="55" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="1257" column="39" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="1163" column="14" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="1170" column="30" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="1243" column="28" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="1166" column="66" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="182" column="16" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="184" column="13" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="193" column="22" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="194" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="197" column="17" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="199" column="24" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="225" column="12" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="488" column="16" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="494" column="56" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="512" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="529" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="530" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="552" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="656" column="29" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="657" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="678" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="701" column="29" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="702" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="745" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="760" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="767" column="10" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="777" column="29" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="778" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="786" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="803" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="819" column="57" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="820" column="31" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="867" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="873" column="52" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="880" column="52" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="884" column="52" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="888" column="52" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="898" column="52" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="912" column="31" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="913" column="18" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="914" column="29" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="915" column="27" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="916" column="24" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="917" column="20" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="918" column="22" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="919" column="30" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="920" column="24" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="921" column="24" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="923" column="28" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="924" column="28" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="925" column="30" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="926" column="25" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="927" column="27" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="928" column="54" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="933" column="64" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="940" column="31" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="941" column="32" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="942" column="26" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="943" column="22" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="944" column="27" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="945" column="19" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="946" column="19" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="948" column="53" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="950" column="44" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="951" column="28" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="952" column="36" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="954" column="45" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="955" column="30" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="956" column="37" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="957" column="44" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="959" column="44" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="960" column="45" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="961" column="30" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="962" column="37" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="975" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="1003" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="1027" column="14" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="1031" column="66" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="1032" column="57" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="1069" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="1077" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="1094" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="1099" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="1109" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="1139" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>EquipmentReuseRequest</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>findRequestsForUser(username, pageRequest);</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>dispatch</text>
       </register>
-      <register name="0" type="4">
-        <text>EquipmentReuseRequest</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIrzGy+O1w7P2167Nt7XE0MLOu9bDOiIgKyBsb2MpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZGlzdG9ydGlvbm1vbml0b3IuZGFvIiB0YXJnZXRQcm9qZWN0PSJzcmMvbWFpbi9qYXZhIj4KICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImVuYWJsZVN1YlBhY2thZ2VzIiB2YWx1ZT0idHJ1ZSIvPg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmdCdWlsZGVyIHNiID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKICAgICAgICBzYi5hcHBlbmQoIng9IikuYXBwZW5kKHgpOwogICAgICAgIHNiLmFwcGVuZCgiLCB5PSIpLmFwcGVuZCh5KTsKICAgICAgICByZXR1cm4gc2IudG9TdHJpbmcoKTs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSW52ZW50b3J5UmVjb3JkU2VydmljZSBpbnZlbnRvcnlSZWNvcmRTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBFcXVpcG1lbnRFdmVudFJlcG9zaXRvcnkgZXF1aXBtZW50RXZlbnRSZXBvc2l0b3J5Owo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgQEF1dG93aXJlZAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSW52ZW50b3J5UmVjb3JkU2VydmljZSBpbnZlbnRvcnlSZWNvcmRTZXJ2aWNlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBVbmlxdWVFcXVpcG1lbnRSZXBvc2l0b3J5IHVuaXF1ZUVxdWlwbWVudFJlcG9zaXRvcnk7Cg==</text>
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBFcXVpcG1lbnRFdmVudFJlcG9zaXRvcnkgZXF1aXBtZW50RXZlbnRSZXBvc2l0b3J5Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -762,9 +247,7 @@
         <entry encoding="base64">XDxyZXVzZUVxdWlwbWVudHNcPg==</entry>
         <entry encoding="base64">XDxyZWltYnVyc2VTZXJ2aWNlXD4=</entry>
         <entry>jetty</entry>
-        <entry>cancel</entry>
         <entry>dispInnerDept</entry>
-        <entry>innerDept</entry>
         <entry>onLoad</entry>
         <entry>saveInnerDept</entry>
         <entry>changeDispatch</entry>
@@ -776,6 +259,8 @@
         <entry>FILE</entry>
         <entry>confirm</entry>
         <entry>disp</entry>
+        <entry>innerDept</entry>
+        <entry>cancel</entry>
         <entry>dispatch</entry>
       </history-search>
       <history-cmd>
