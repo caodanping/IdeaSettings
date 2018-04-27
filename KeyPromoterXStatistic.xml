@@ -446,7 +446,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'jlsz-service [org.springframework.boot:spring-boot-maven-plugin:1.5.9.RELEASE:run]'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'labs [org.apache.maven.plugins:maven-clean-plugin:2.4.1:clean]'">
