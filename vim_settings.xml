@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/rest/JlszOnlineController.java" timestamp="1524817380353">
+        <mark key="[" line="80" column="53" />
+        <mark key="]" line="80" column="58" />
+        <mark key="." line="80" column="58" />
+        <mark key="^" line="80" column="58" />
+      </file>
       <file name="D:/IdeaProjects/oauth-demo/src/main/java/com/dpcao/examples/web/UserController.java" timestamp="1513928611007">
         <mark key="[" line="6" column="3" />
       </file>
@@ -58,8 +64,8 @@
         <mark key="." line="27" column="71" />
         <mark key="^" line="27" column="87" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/pom.xml" timestamp="1514184084107">
-        <mark key="[" line="54" column="21" />
+      <file name="D:/IdeaProjects/jlsz-service/pom.xml" timestamp="1524817614569">
+        <mark key="[" line="81" column="0" />
       </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dao/ChannelMapper.java" timestamp="1514184573816">
         <mark key="[" line="4" column="0" />
@@ -77,12 +83,12 @@
         <mark key="[" line="9" column="27" />
       </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dao/DevOnlineChannelMapper.java" timestamp="1524814855045" />
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/service/impl/JlszOnlineServiceImpl.java" timestamp="1524815756589">
-        <mark key="'" line="178" column="8" />
-        <mark key="[" line="178" column="73" />
-        <mark key="]" line="173" column="40" />
-        <mark key="." line="173" column="40" />
-        <mark key="^" line="173" column="40" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/service/impl/JlszOnlineServiceImpl.java" timestamp="1524819394345">
+        <mark key="'" line="179" column="8" />
+        <mark key="[" line="190" column="59" />
+        <mark key="]" line="190" column="59" />
+        <mark key="." line="190" column="59" />
+        <mark key="^" line="216" column="71" />
       </file>
       <file name="D:/IdeaProjects/oauth-demo/pom.xml" timestamp="1514172388953">
         <mark key="[" line="54" column="21" />
@@ -92,11 +98,11 @@
         <mark key="]" line="31" column="29" />
         <mark key="." line="31" column="29" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dto/DevOnlineChannelDto.java" timestamp="1524815239068">
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dto/DevOnlineChannelDto.java" timestamp="1524816911948">
         <mark key="[" line="31" column="4" />
-        <mark key="]" line="29" column="3" />
-        <mark key="." line="29" column="3" />
-        <mark key="^" line="29" column="3" />
+        <mark key="]" line="97" column="20" />
+        <mark key="." line="97" column="20" />
+        <mark key="^" line="97" column="20" />
       </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dto/OnlineDataDto.java" timestamp="1524814059819">
         <mark key="[" line="41" column="33" />
@@ -209,13 +215,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DevOnlineChannel</text>
+        <text>d()));</text>
       </register>
       <register name="-" type="4">
-        <text>DevOnlineChannel</text>
+        <text>d()));</text>
       </register>
       <register name="/" type="4">
-        <text>dispatch</text>
+        <text>dev</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIrzGy+O1w7P2167Nt7XE0MLOu9bDOiIgKyBsb2MpOwo=</text>
@@ -252,9 +258,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dispatch</last-search>
+      <last-search>dev</last-search>
       <last-offset />
-      <last-pattern>dispatch</last-pattern>
+      <last-pattern>dev</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -262,7 +268,6 @@
     </search>
     <history>
       <history-search>
-        <entry>调整</entry>
         <entry>completeWith</entry>
         <entry encoding="base64">XDxyZXVzZUVxdWlwbWVudHNcPg==</entry>
         <entry encoding="base64">XDxyZWltYnVyc2VTZXJ2aWNlXD4=</entry>
@@ -282,6 +287,7 @@
         <entry>innerDept</entry>
         <entry>cancel</entry>
         <entry>dispatch</entry>
+        <entry>dev</entry>
       </history-search>
       <history-cmd>
         <entry>482</entry>
