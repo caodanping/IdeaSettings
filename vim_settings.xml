@@ -83,7 +83,7 @@
         <mark key="[" line="9" column="27" />
       </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dao/DevOnlineChannelMapper.java" timestamp="1524814855045" />
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/service/impl/JlszOnlineServiceImpl.java" timestamp="1524819394345">
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/service/impl/JlszOnlineServiceImpl.java" timestamp="1524820051922">
         <mark key="'" line="179" column="8" />
         <mark key="[" line="190" column="59" />
         <mark key="]" line="190" column="59" />
@@ -98,8 +98,8 @@
         <mark key="]" line="31" column="29" />
         <mark key="." line="31" column="29" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dto/DevOnlineChannelDto.java" timestamp="1524816911948">
-        <mark key="[" line="31" column="4" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dto/DevOnlineChannelDto.java" timestamp="1524820295339">
+        <mark key="[" line="57" column="30" />
         <mark key="]" line="97" column="20" />
         <mark key="." line="97" column="20" />
         <mark key="^" line="97" column="20" />
