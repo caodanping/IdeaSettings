@@ -51,6 +51,7 @@
         <mark key="." line="81" column="6" />
         <mark key="^" line="81" column="6" />
       </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/service/JlszOnlineService.java" timestamp="1524814088523" />
       <file name="D:/IdeaProjects/jlsz-service/generatorConfig.xml" timestamp="1514174444444">
         <mark key="[" line="27" column="71" />
         <mark key="]" line="27" column="71" />
@@ -83,11 +84,17 @@
         <mark key="]" line="31" column="29" />
         <mark key="." line="31" column="29" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dto/DevOnlineChannelDto.java" timestamp="1524813837733">
-        <mark key="[" line="56" column="33" />
-        <mark key="]" line="35" column="3" />
-        <mark key="." line="35" column="3" />
-        <mark key="^" line="35" column="3" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dto/DevOnlineChannelDto.java" timestamp="1524813988587">
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="29" column="3" />
+        <mark key="." line="29" column="3" />
+        <mark key="^" line="29" column="3" />
+      </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dto/OnlineDataDto.java" timestamp="1524814059819">
+        <mark key="[" line="41" column="33" />
+        <mark key="]" line="41" column="33" />
+        <mark key="." line="41" column="38" />
+        <mark key="^" line="19" column="35" />
       </file>
     </filemarks>
     <jumps>
@@ -193,11 +200,11 @@
       <jump line="1139" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+      <register name="&quot;" type="4">
+        <text>DevOnlineChannel</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>DevOnlineChannel</text>
       </register>
       <register name="/" type="4">
         <text>dispatch</text>
