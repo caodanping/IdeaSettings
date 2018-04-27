@@ -69,6 +69,7 @@
         <mark key="^" line="27" column="43" />
         <mark key="." line="27" column="37" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/swagger/swagger-annotations/1.5.10/swagger-annotations-1.5.10-sources.jar!/io/swagger/annotations/ApiModelProperty.java" timestamp="1524823147654" />
       <file name="D:/IdeaProjects/oauth-demo/src/main/java/com/dpcao/examples/config/ShiroConfig.java" timestamp="1513926835187">
         <mark key="[" line="6" column="3" />
       </file>
@@ -99,11 +100,11 @@
       <file name="D:/IdeaProjects/oauth-demo/pom.xml" timestamp="1514172388953">
         <mark key="[" line="54" column="21" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dto/DevOnlineChannelDto.java" timestamp="1524821197669">
-        <mark key="[" line="57" column="30" />
-        <mark key="]" line="97" column="20" />
-        <mark key="." line="97" column="20" />
-        <mark key="^" line="97" column="20" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dto/DevOnlineChannelDto.java" timestamp="1524823523340">
+        <mark key="[" line="58" column="38" />
+        <mark key="]" line="58" column="38" />
+        <mark key="." line="58" column="38" />
+        <mark key="^" line="98" column="20" />
       </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dto/OnlineDataDto.java" timestamp="1524814059819">
         <mark key="[" line="41" column="33" />
@@ -216,10 +217,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d()));</text>
+        <text>, dataType = &quot;dateTime&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>d()));</text>
+        <text>, dataType = &quot;dateTime&quot;</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
