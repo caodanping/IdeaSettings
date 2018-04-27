@@ -1,15 +1,65 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/IdeaProjects/oauth-demo/src/main/java/com/dpcao/examples/web/UserController.java" timestamp="1513928611007">
+        <mark key="[" line="6" column="3" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchInputDto.java" timestamp="1513073245223">
+        <mark key="[" line="9" column="31" />
+      </file>
+      <file name="/fragment.js" timestamp="1512981902580">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/resources/spring-root.xml" timestamp="1514173410146">
+        <mark key="[" line="27" column="37" />
+        <mark key="]" line="27" column="37" />
+        <mark key="^" line="27" column="43" />
+        <mark key="." line="27" column="37" />
+      </file>
+      <file name="D:/IdeaProjects/GeoProj/src/test/java/PilePositionTest.java" timestamp="1513917975727">
+        <mark key="[" line="47" column="48" />
+        <mark key="]" line="49" column="95" />
+        <mark key="." line="49" column="95" />
+        <mark key="^" line="49" column="95" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1513232322765">
         <mark key="[" line="209" column="38" />
         <mark key="]" line="471" column="24" />
         <mark key="^" line="471" column="24" />
         <mark key="." line="471" column="24" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/resources/generatorConfig.xml" timestamp="1514179918008" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dao/ProjectMapper.java" timestamp="1514184600820">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="6" />
+        <mark key="^" line="5" column="6" />
+        <mark key="." line="5" column="6" />
+      </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/JlszServiceApplication.java" timestamp="1514184866780">
+        <mark key="[" line="24" column="60" />
+        <mark key="]" line="24" column="60" />
+        <mark key="^" line="24" column="60" />
+        <mark key="." line="24" column="60" />
+      </file>
+      <file name="D:/IdeaProjects/oauth-demo/src/main/java/com/dpcao/examples/config/ShiroConfig.java" timestamp="1513926835187">
+        <mark key="[" line="6" column="3" />
+      </file>
+      <file name="D:/IdeaProjects/GeoProj/src/main/java/com/aucdi/MeassureUtils.java" timestamp="1513861840860">
+        <mark key="[" line="80" column="6" />
+        <mark key="]" line="81" column="6" />
+        <mark key="." line="81" column="6" />
+        <mark key="^" line="81" column="6" />
+      </file>
+      <file name="D:/IdeaProjects/jlsz-service/generatorConfig.xml" timestamp="1514174444444">
+        <mark key="[" line="27" column="71" />
+        <mark key="]" line="27" column="71" />
+        <mark key="." line="27" column="71" />
+        <mark key="^" line="27" column="87" />
+      </file>
+      <file name="D:/IdeaProjects/jlsz-service/pom.xml" timestamp="1514184084107">
+        <mark key="[" line="54" column="21" />
+      </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dao/ChannelMapper.java" timestamp="1514184573816">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="5" column="0" />
@@ -22,67 +72,22 @@
         <mark key="." line="26" column="38" />
         <mark key="^" line="26" column="38" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchInputDto.java" timestamp="1513073245223">
-        <mark key="[" line="9" column="31" />
-      </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dao/ProjectMapper.java" timestamp="1514184600820">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="6" />
-        <mark key="^" line="5" column="6" />
-        <mark key="." line="5" column="6" />
-      </file>
-      <file name="D:/IdeaProjects/jlsz-service/pom.xml" timestamp="1514184084107">
-        <mark key="[" line="54" column="21" />
-      </file>
-      <file name="D:/IdeaProjects/GeoProj/src/main/java/com/aucdi/MeassureUtils.java" timestamp="1513861840860">
-        <mark key="[" line="80" column="6" />
-        <mark key="]" line="81" column="6" />
-        <mark key="." line="81" column="6" />
-        <mark key="^" line="81" column="6" />
-      </file>
-      <file name="D:/IdeaProjects/oauth-demo/src/main/java/com/dpcao/examples/web/UserController.java" timestamp="1513928611007">
-        <mark key="[" line="6" column="3" />
-      </file>
-      <file name="/fragment.js" timestamp="1512981902580">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/IdeaProjects/GeoProj/src/test/java/PilePositionTest.java" timestamp="1513917975727">
-        <mark key="[" line="47" column="48" />
-        <mark key="]" line="49" column="95" />
-        <mark key="." line="49" column="95" />
-        <mark key="^" line="49" column="95" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/resources/spring-root.xml" timestamp="1514173410146">
-        <mark key="[" line="27" column="37" />
-        <mark key="]" line="27" column="37" />
-        <mark key="^" line="27" column="43" />
-        <mark key="." line="27" column="37" />
-      </file>
-      <file name="D:/IdeaProjects/oauth-demo/src/main/java/com/dpcao/examples/config/ShiroConfig.java" timestamp="1513926835187">
-        <mark key="[" line="6" column="3" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/ProjectSpecs.java" timestamp="1512357704859">
+        <mark key="[" line="9" column="27" />
       </file>
       <file name="D:/IdeaProjects/oauth-demo/pom.xml" timestamp="1514172388953">
         <mark key="[" line="54" column="21" />
-      </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/JlszServiceApplication.java" timestamp="1514184866780">
-        <mark key="[" line="24" column="60" />
-        <mark key="]" line="24" column="60" />
-        <mark key="^" line="24" column="60" />
-        <mark key="." line="24" column="60" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/free/Free.js" timestamp="1514164657185">
         <mark key="[" line="34" column="35" />
         <mark key="]" line="31" column="29" />
         <mark key="." line="31" column="29" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/generatorConfig.xml" timestamp="1514174444444">
-        <mark key="[" line="27" column="71" />
-        <mark key="]" line="27" column="71" />
-        <mark key="." line="27" column="71" />
-        <mark key="^" line="27" column="87" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/ProjectSpecs.java" timestamp="1512357704859">
-        <mark key="[" line="9" column="27" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dto/DevOnlineChannelDto.java" timestamp="1524813837733">
+        <mark key="[" line="56" column="33" />
+        <mark key="]" line="35" column="3" />
+        <mark key="." line="35" column="3" />
+        <mark key="^" line="35" column="3" />
       </file>
     </filemarks>
     <jumps>
@@ -188,8 +193,8 @@
       <jump line="1139" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -200,32 +205,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIrzGy+O1w7P2167Nt7XE0MLOu9bDOiIgKyBsb2MpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ZGlzdG9ydGlvbm1vbml0b3IuZGFvIiB0YXJnZXRQcm9qZWN0PSJzcmMvbWFpbi9qYXZhIj4KICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImVuYWJsZVN1YlBhY2thZ2VzIiB2YWx1ZT0idHJ1ZSIvPg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmdCdWlsZGVyIHNiID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKICAgICAgICBzYi5hcHBlbmQoIng9IikuYXBwZW5kKHgpOwogICAgICAgIHNiLmFwcGVuZCgiLCB5PSIpLmFwcGVuZCh5KTsKICAgICAgICByZXR1cm4gc2IudG9TdHJpbmcoKTs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAqIEBtYmcuZ2VuZXJhdGVkIFRodSBKYW4gMDQgMTM6NTY6MDYgQ1NUIDIwMTgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgICAqIFRoaXMgZmllbGQgY29ycmVzcG9uZHMgdG8gdGhlIGRhdGFiYXNlIGNvbHVtbiBkZXZfb25saW5lX2NoYW5uZWwuZGF0YV91cGRhdGVkX3RpbWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAqIFRoaXMgZmllbGQgd2FzIGdlbmVyYXRlZCBieSBNeUJhdGlzIEdlbmVyYXRvci4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSW52ZW50b3J5UmVjb3JkU2VydmljZSBpbnZlbnRvcnlSZWNvcmRTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgICAqIEBtYmcuZ2VuZXJhdGVkIFRodSBKYW4gMDQgMTM6NTY6MDYgQ1NUIDIwMTgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBFcXVpcG1lbnRFdmVudFJlcG9zaXRvcnkgZXF1aXBtZW50RXZlbnRSZXBvc2l0b3J5Owo=</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
