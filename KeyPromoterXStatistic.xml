@@ -169,12 +169,20 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Find Action...">
+        <Item>
+          <IdeaActionID>GotoAction</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+P'</ShortCut>
+          <Description>Find Action...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Find Usages">
         <Item>
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>59</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find...">
@@ -206,7 +214,7 @@
           <IdeaActionID>ActivateHierarchyToolWindow</IdeaActionID>
           <ShortCut>'Alt+8'</ShortCut>
           <Description>Hierarchy</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -350,7 +358,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'JlszServiceApplication'</Description>
-          <Count>115</Count>
+          <Count>120</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'MessagingJmsApplication'">
@@ -494,7 +502,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>52</Count>
+          <Count>55</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'JlszDataServerApplic...'">
@@ -518,7 +526,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'JlszServiceApplication'</Description>
-          <Count>13</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'MessagingJmsApplicat...'">
@@ -670,7 +678,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'JlszServiceApplication'</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MessagingJmsApplication'">
@@ -775,6 +783,14 @@
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
           <Count>45</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Test">
+        <Item>
+          <IdeaActionID>GotoTest</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+T'</ShortCut>
+          <Description>Test</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
