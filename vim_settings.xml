@@ -21,6 +21,9 @@
         <mark key="." line="49" column="95" />
         <mark key="^" line="49" column="95" />
       </file>
+      <file name="/a.dummy" timestamp="1524882442156">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1513232322765">
         <mark key="[" line="209" column="38" />
         <mark key="]" line="471" column="24" />
@@ -56,11 +59,6 @@
         <mark key="." line="26" column="38" />
         <mark key="^" line="26" column="38" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/free/Free.js" timestamp="1514164657185">
-        <mark key="[" line="34" column="35" />
-        <mark key="]" line="31" column="29" />
-        <mark key="." line="31" column="29" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchInputDto.java" timestamp="1513073245223">
         <mark key="[" line="9" column="31" />
       </file>
@@ -90,7 +88,13 @@
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/ProjectSpecs.java" timestamp="1512357704859">
         <mark key="[" line="9" column="27" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.10/jackson-databind-2.8.10-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" timestamp="1524880198998">
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/config/WebMvcConfig.java" timestamp="1524882446449">
+        <mark key="[" line="29" column="52" />
+        <mark key="]" line="29" column="51" />
+        <mark key="^" line="29" column="51" />
+        <mark key="." line="29" column="51" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.10/jackson-databind-2.8.10-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" timestamp="1524881304136">
         <mark key="'" line="3366" column="17" />
       </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dao/DevOnlineChannelMapper.java" timestamp="1524814855045" />
@@ -103,6 +107,9 @@
       </file>
       <file name="D:/IdeaProjects/oauth-demo/pom.xml" timestamp="1514172388953">
         <mark key="[" line="54" column="21" />
+      </file>
+      <file name="/fragment.java" timestamp="1524882442176">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dto/DevOnlineChannelDto.java" timestamp="1524879728165">
         <mark key="[" line="58" column="38" />
@@ -221,10 +228,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, dataType = &quot;dateTime&quot;</text>
+        <text>YYYY_MM_DD_T_HH_MM_SS_SSS_Z_XXX</text>
       </register>
       <register name="-" type="4">
-        <text>, dataType = &quot;dateTime&quot;</text>
+        <text>YYYY_MM_DD_T_HH_MM_SS_SSS_Z_XXX</text>
       </register>
       <register name="/" type="4">
         <text>dateFormat</text>
