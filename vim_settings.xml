@@ -59,6 +59,18 @@
         <mark key="." line="26" column="38" />
         <mark key="^" line="26" column="38" />
       </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/test/java/com/aucdi/jlsz/TestBean.java" timestamp="1524888546695">
+        <mark key="[" line="9" column="23" />
+      </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/test/java/com/aucdi/jlsz/JacksonTests.java" timestamp="1524888501977">
+        <mark key="[" line="11" column="27" />
+      </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/test/java/com/aucdi/jlsz/DateFormatTests.java" timestamp="1524887967779">
+        <mark key="[" line="31" column="52" />
+        <mark key="]" line="31" column="52" />
+        <mark key="^" line="29" column="73" />
+        <mark key="." line="31" column="52" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchInputDto.java" timestamp="1513073245223">
         <mark key="[" line="9" column="31" />
       </file>
@@ -68,6 +80,7 @@
         <mark key="^" line="27" column="43" />
         <mark key="." line="27" column="37" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Date.java" timestamp="1524886800529" />
       <file name="$MAVEN_REPOSITORY$/io/swagger/swagger-annotations/1.5.10/swagger-annotations-1.5.10-sources.jar!/io/swagger/annotations/ApiModelProperty.java" timestamp="1524823147654" />
       <file name="D:/IdeaProjects/oauth-demo/src/main/java/com/dpcao/examples/config/ShiroConfig.java" timestamp="1513926835187">
         <mark key="[" line="6" column="3" />
@@ -88,11 +101,11 @@
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/ProjectSpecs.java" timestamp="1512357704859">
         <mark key="[" line="9" column="27" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/config/WebMvcConfig.java" timestamp="1524882446449">
-        <mark key="[" line="29" column="52" />
-        <mark key="]" line="29" column="51" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/config/WebMvcConfig.java" timestamp="1524886653667">
+        <mark key="[" line="18" column="78" />
+        <mark key="]" line="18" column="78" />
         <mark key="^" line="29" column="51" />
-        <mark key="." line="29" column="51" />
+        <mark key="." line="18" column="78" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.10/jackson-databind-2.8.10-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" timestamp="1524881304136">
         <mark key="'" line="3366" column="17" />
@@ -111,7 +124,7 @@
       <file name="/fragment.java" timestamp="1524882442176">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dto/DevOnlineChannelDto.java" timestamp="1524879728165">
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dto/DevOnlineChannelDto.java" timestamp="1524888488761">
         <mark key="[" line="58" column="38" />
         <mark key="]" line="58" column="38" />
         <mark key="." line="58" column="38" />
@@ -228,16 +241,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>YYYY_MM_DD_T_HH_MM_SS_SSS_Z_XXX</text>
+        <text>Z</text>
       </register>
       <register name="-" type="4">
-        <text>YYYY_MM_DD_T_HH_MM_SS_SSS_Z_XXX</text>
+        <text>Z</text>
       </register>
       <register name="/" type="4">
         <text>dateFormat</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIrzGy+O1w7P2167Nt7XE0MLOu9bDOiIgKyBsb2MpOwo=</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKCIyMDE4LTA0LTI4VDAzOjM5OjIzLjIzNFoiLCBzZGYuZm9ybWF0KGRhdGUpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAqLwo=</text>
