@@ -21,7 +21,7 @@
         <mark key="." line="49" column="95" />
         <mark key="^" line="49" column="95" />
       </file>
-      <file name="/a.dummy" timestamp="1525251028105">
+      <file name="/a.dummy" timestamp="1525257505242">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1513232322765">
@@ -29,6 +29,13 @@
         <mark key="]" line="471" column="24" />
         <mark key="^" line="471" column="24" />
         <mark key="." line="471" column="24" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.11.4.RELEASE/spring-data-commons-1.11.4.RELEASE-sources.jar!/org/springframework/data/mapping/PropertyPath.java" timestamp="1525256509266" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/InventoryRecordRepository.java" timestamp="1525257622539">
+        <mark key="[" line="13" column="50" />
+        <mark key="]" line="13" column="50" />
+        <mark key="." line="13" column="50" />
+        <mark key="^" line="13" column="165" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/InventoryRecordReposotry.java" timestamp="1525227046421">
         <mark key="[" line="13" column="81" />
@@ -51,17 +58,18 @@
       <file name="D:/IdeaProjects/jlsz-service/src/test/java/com/aucdi/jlsz/TestBean.java" timestamp="1524888546695">
         <mark key="[" line="9" column="23" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/EquipmentStateRecordDto.java" timestamp="1525248580791">
-        <mark key="[" line="11" column="13" />
-        <mark key="]" line="11" column="36" />
-        <mark key="^" line="11" column="26" />
-        <mark key="." line="11" column="26" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/EquipmentStateRecordDto.java" timestamp="1525259224365">
+        <mark key="[" line="30" column="12" />
+        <mark key="]" line="30" column="12" />
+        <mark key="^" line="12" column="26" />
+        <mark key="." line="30" column="12" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.9.4.RELEASE/spring-data-jpa-1.9.4.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/Querydsl.java" timestamp="1525255952144" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchInputDto.java" timestamp="1513073245223">
         <mark key="[" line="9" column="31" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/resources/spring-root.xml" timestamp="1514173410146">
-        <mark key="[" line="27" column="37" />
+      <file name="D:/IdeaProjects/lems/src/main/resources/spring-root.xml" timestamp="1525257965618">
+        <mark key="[" line="68" column="65" />
         <mark key="]" line="27" column="37" />
         <mark key="^" line="27" column="43" />
         <mark key="." line="27" column="37" />
@@ -79,11 +87,11 @@
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/BaseEntity.java" timestamp="1525246224069">
         <mark key="[" line="12" column="79" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/InventoryRecordRepositoryImpl.java" timestamp="1525250961954">
-        <mark key="[" line="127" column="22" />
-        <mark key="]" line="127" column="21" />
-        <mark key="." line="127" column="21" />
-        <mark key="^" line="127" column="21" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/InventoryRecordRepositoryImpl.java" timestamp="1525259208419">
+        <mark key="[" line="27" column="3" />
+        <mark key="]" line="75" column="48" />
+        <mark key="." line="75" column="48" />
+        <mark key="^" line="75" column="47" />
       </file>
       <file name="D:/IdeaProjects/oauth-demo/pom.xml" timestamp="1514172388953">
         <mark key="[" line="54" column="21" />
@@ -102,10 +110,6 @@
         <mark key="^" line="19" column="35" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/mysema/querydsl/querydsl-codegen/3.4.3/querydsl-codegen-3.4.3.jar!/com/mysema/query/codegen/TypeResolver.class" timestamp="1525246072232" />
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/InventoryRecordRepositoryCustom.java" timestamp="1525227027513">
-        <mark key="[" line="7" column="17" />
-        <mark key="]" line="7" column="48" />
-      </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dao/ProjectMapper.java" timestamp="1514184600820">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="5" column="6" />
@@ -118,22 +122,23 @@
         <mark key="^" line="24" column="60" />
         <mark key="." line="24" column="60" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.13.9.RELEASE/spring-data-commons-1.13.9.RELEASE-sources.jar!/org/springframework/data/web/querydsl/QuerydslPredicateArgumentResolver.java" timestamp="1525255202774" />
       <file name="D:/IdeaProjects/jlsz-service/pom.xml" timestamp="1524817614569">
         <mark key="[" line="81" column="0" />
       </file>
-      <file name="D:/IdeaProjects/lems/pom.xml" timestamp="1525245717716">
-        <mark key="'" line="111" column="17" />
+      <file name="D:/IdeaProjects/lems/pom.xml" timestamp="1525257823163">
+        <mark key="'" line="52" column="24" />
         <mark key="[" line="251" column="22" />
         <mark key="]" line="251" column="22" />
         <mark key="." line="251" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525251180554">
+      <file name="/Dummy.txt" timestamp="1525256257283">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/jlsz-service/src/test/java/com/aucdi/jlsz/JacksonTests.java" timestamp="1524890521430">
         <mark key="[" line="11" column="27" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.9.4.RELEASE/spring-data-jpa-1.9.4.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/QueryDslRepositorySupport.java" timestamp="1525241447697">
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.9.4.RELEASE/spring-data-jpa-1.9.4.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/QueryDslRepositorySupport.java" timestamp="1525254858678">
         <mark key="[" line="41" column="17" />
         <mark key="]" line="41" column="28" />
       </file>
@@ -149,13 +154,16 @@
         <mark key="." line="33" column="17" />
         <mark key="^" line="33" column="17" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/BorrowingRepository.java" timestamp="1525256584138">
+        <mark key="[" line="24" column="35" />
+      </file>
       <file name="D:/IdeaProjects/GeoProj/src/main/java/com/aucdi/MeassureUtils.java" timestamp="1513861840860">
         <mark key="[" line="80" column="6" />
         <mark key="]" line="81" column="6" />
         <mark key="." line="81" column="6" />
         <mark key="^" line="81" column="6" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/InventoryRecordServiceImpl.java" timestamp="1525251705370">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/InventoryRecordServiceImpl.java" timestamp="1525257195153">
         <mark key="[" line="49" column="61" />
       </file>
       <file name="D:/IdeaProjects/jlsz-service/generatorConfig.xml" timestamp="1514174444444">
@@ -173,13 +181,11 @@
         <mark key="^" line="29" column="51" />
         <mark key="." line="18" column="78" />
       </file>
-      <file name="/fragment.java" timestamp="1525251362526">
+      <file name="/fragment.java" timestamp="1525256257277">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1255" column="55" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="1257" column="39" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
       <jump line="1163" column="14" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
       <jump line="1170" column="30" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
       <jump line="1243" column="28" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
@@ -278,19 +284,21 @@
       <jump line="3360" column="66" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.10/jackson-databind-2.8.10-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" />
       <jump line="3366" column="17" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.10/jackson-databind-2.8.10-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" />
       <jump line="111" column="17" filename="D:/IdeaProjects/lems/pom.xml" />
+      <jump line="295" column="22" filename="D:/IdeaProjects/lems/pom.xml" />
+      <jump line="52" column="24" filename="D:/IdeaProjects/lems/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aW52ZW50b3J5UmVjb3JkIA==</text>
+        <text encoding="base64">ZG91YmxlIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW52ZW50b3J5UmVjb3JkIA==</text>
+        <text encoding="base64">ZG91YmxlIA==</text>
       </register>
       <register name="/" type="4">
-        <text>querydsl</text>
+        <text>spring-data</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBRSW52ZW50b3J5UmVjb3JkIGlyID0gUUludmVudG9yeVJlY29yZC5pbnZlbnRvcnlSZWNvcmQ7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">IEludmVudG9yeVJlY29yZFJlcG9zaXRvcnlDdXN0b20=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBGaWx0ZXIgcGVybUZpbHRlciA9IEZpbHRlci5lbXB0eSgpOwo=</text>
@@ -338,9 +346,9 @@
       </register>
     </registers>
     <search>
-      <last-search>querydsl</last-search>
+      <last-search>spring-data</last-search>
       <last-offset />
-      <last-pattern>querydsl</last-pattern>
+      <last-pattern>spring-data</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -348,8 +356,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dispInnerDept</entry>
-        <entry>onLoad</entry>
         <entry>saveInnerDept</entry>
         <entry>changeDispatch</entry>
         <entry>isIns</entry>
@@ -368,6 +374,8 @@
         <entry>dateformat</entry>
         <entry>dateFormat</entry>
         <entry>querydsl</entry>
+        <entry>spring</entry>
+        <entry>spring-data</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
