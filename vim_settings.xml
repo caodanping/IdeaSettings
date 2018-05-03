@@ -45,6 +45,7 @@
         <mark key="." line="13" column="81" />
         <mark key="^" line="13" column="81" />
       </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/command/UploadAllCommand.java" timestamp="1525337407725" />
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dao/ChannelMapper.java" timestamp="1514184573816">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="5" column="0" />
@@ -115,6 +116,9 @@
         <mark key="]" line="42" column="44" />
         <mark key="^" line="42" column="44" />
         <mark key="." line="42" column="44" />
+      </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/distortion_monitor_system_service/VerticalDisplacement.java" timestamp="1525338163214">
+        <mark key="[" line="5" column="35" />
       </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dao/ProjectMapper.java" timestamp="1514184600820">
         <mark key="[" line="4" column="0" />
@@ -190,6 +194,7 @@
         <mark key="." line="27" column="71" />
         <mark key="^" line="27" column="87" />
       </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/model/JlszChannelData.java" timestamp="1525337270396" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/ProjectSpecs.java" timestamp="1512357704859">
         <mark key="[" line="9" column="27" />
       </file>
