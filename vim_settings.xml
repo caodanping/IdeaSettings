@@ -69,8 +69,10 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="30" column="12" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentServiceV2Impl.java" timestamp="1525326377184">
-        <mark key="[" line="77" column="48" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentServiceV2Impl.java" timestamp="1525332326815">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchInputDto.java" timestamp="1513073245223">
         <mark key="[" line="9" column="31" />
@@ -108,7 +110,7 @@
         <mark key="." line="41" column="38" />
         <mark key="^" line="19" column="35" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/ProjectSiteRepositoryImpl.java" timestamp="1525330273945">
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/ProjectSiteRepositoryImpl.java" timestamp="1525332039336">
         <mark key="[" line="42" column="39" />
         <mark key="]" line="42" column="44" />
         <mark key="^" line="42" column="44" />
@@ -299,8 +301,8 @@
       <jump line="52" column="24" filename="D:/IdeaProjects/lems/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>restriction</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbnVsbCA6IGlucHV0LmdldFNpdGUoKS5nZXRNYW5hZ2VyKCkuZ2V0RnVsbE5hbWUoKSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>restriction</text>
@@ -312,18 +314,24 @@
         <text encoding="base64">ICAgICAgICBQcmVkaWNhdGUgcmVzdHJpY3Rpb24gPSBmaWx0ZXIudG9QcmVkaWNhdGUocm9vdCwgY3JpdGVyaWEsIGNiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBGaWx0ZXIgcGVybUZpbHRlciA9IEZpbHRlci5lbXB0eSgpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbnVsbCA6IGlucHV0LmdldFNpdGUoKS5nZXRNYW5hZ2VyKCkuZ2V0RnVsbE5hbWUoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL2Zyb20obmV3IEVudGl0eVBhdGhCYXNlKEludmVudG9yeVJlY29yZC5jbGFzcywgImlyIikpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBkdG8uc2V0TWFuYWdlck5hbWUoaW5wdXQuZ2V0U2l0ZSgpLmdldE1hbmFnZXIoKSA9PSBudWxsID8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBQYXRoQnVpbGRlcjxJbnZlbnRvcnlSZWNvcmQ+IGJ1aWxkZXIgPSBnZXRCdWlsZGVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBGaWx0ZXIgcGVybUZpbHRlciA9IEZpbHRlci5lbXB0eSgpOwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvL2Zyb20obmV3IEVudGl0eVBhdGhCYXNlKEludmVudG9yeVJlY29yZC5jbGFzcywgImlyIikpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBQYXRoQnVpbGRlcjxJbnZlbnRvcnlSZWNvcmQ+IGJ1aWxkZXIgPSBnZXRCdWlsZGVyKCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAvL2Zyb20oUSkK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>QInventoryRecord ir = QInventoryRecord.inventoryRecord;
         QEquipmentDetail equip = ir.equipment;
         QEquipmentType equiType = equip.equipmentType;
@@ -340,17 +348,11 @@
         BooleanBuilder bb = getBooleanBuilder(query, ir);
         q.count()</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Ly8gICAgICAgIHByaXZhdGUgZG91YmxlIHRvdGFsRmVlOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHByaXZhdGUgZG91YmxlIHByaWNlOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHByaXZhdGUgSW50ZWdlciBkYXlzOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHByaXZhdGUgYm9vbGVhbiBpc0NoYXJnaW5nOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHByaXZhdGUgZG91YmxlIHByaWNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

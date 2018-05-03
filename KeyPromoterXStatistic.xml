@@ -478,7 +478,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'lems [jetty:run]'</Description>
-          <Count>195</Count>
+          <Count>196</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'lems [org.eclipse.jetty:jetty-maven-plugin:9.2.19.v20160908:run]'">
@@ -622,7 +622,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'lems [jetty:run]'</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'lems [package]'">
@@ -630,7 +630,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'lems [package]'</Description>
-          <Count>32</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'lems [tomcat7:run-war]'">
@@ -782,7 +782,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'lems [jetty:run]'</Description>
-          <Count>63</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'lems [org.eclipse.jetty:jetty-maven-plugin:9.2.19.v20160908:run]'">
