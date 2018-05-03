@@ -366,7 +366,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'JlszServiceApplication'</Description>
-          <Count>130</Count>
+          <Count>131</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'MessagingJmsApplication'">
@@ -470,7 +470,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'lems [jetty:run]'</Description>
-          <Count>181</Count>
+          <Count>183</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'lems [org.eclipse.jetty:jetty-maven-plugin:9.2.19.v20160908:run]'">
@@ -486,7 +486,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'lems [package]'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -614,7 +614,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'lems [jetty:run]'</Description>
-          <Count>9</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'lems [package]'">
@@ -710,7 +710,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'JlszServiceApplication'</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MessagingJmsApplication'">
@@ -774,7 +774,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'lems [jetty:run]'</Description>
-          <Count>54</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'lems [org.eclipse.jetty:jetty-maven-plugin:9.2.19.v20160908:run]'">
@@ -822,7 +822,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>48</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
       <Statistic Action="Test">

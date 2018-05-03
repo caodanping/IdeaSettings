@@ -30,7 +30,18 @@
         <mark key="^" line="471" column="24" />
         <mark key="." line="471" column="24" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.11.4.RELEASE/spring-data-commons-1.11.4.RELEASE-sources.jar!/org/springframework/data/mapping/PropertyPath.java" timestamp="1525256509266" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dao/ProjectMapper.java" timestamp="1514184600820">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="6" />
+        <mark key="^" line="5" column="6" />
+        <mark key="." line="5" column="6" />
+      </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/JlszServiceApplication.java" timestamp="1514184866780">
+        <mark key="[" line="24" column="60" />
+        <mark key="]" line="24" column="60" />
+        <mark key="^" line="24" column="60" />
+        <mark key="." line="24" column="60" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/InventoryRecordRepository.java" timestamp="1525257622539">
         <mark key="[" line="13" column="50" />
         <mark key="]" line="13" column="50" />
@@ -42,6 +53,9 @@
         <mark key="]" line="13" column="81" />
         <mark key="." line="13" column="81" />
         <mark key="^" line="13" column="81" />
+      </file>
+      <file name="D:/IdeaProjects/jlsz-service/pom.xml" timestamp="1524817614569">
+        <mark key="[" line="81" column="0" />
       </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dao/ChannelMapper.java" timestamp="1514184573816">
         <mark key="[" line="4" column="0" />
@@ -55,6 +69,15 @@
         <mark key="." line="26" column="38" />
         <mark key="^" line="26" column="38" />
       </file>
+      <file name="D:/IdeaProjects/lems/pom.xml" timestamp="1525316931091">
+        <mark key="'" line="52" column="24" />
+        <mark key="[" line="251" column="22" />
+        <mark key="]" line="251" column="22" />
+        <mark key="." line="251" column="22" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/equipStateRec/List.js" timestamp="1525316074400">
+        <mark key="[" line="134" column="21" />
+      </file>
       <file name="D:/IdeaProjects/jlsz-service/src/test/java/com/aucdi/jlsz/TestBean.java" timestamp="1524888546695">
         <mark key="[" line="9" column="23" />
       </file>
@@ -63,74 +86,6 @@
         <mark key="]" line="30" column="12" />
         <mark key="^" line="12" column="26" />
         <mark key="." line="30" column="12" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.9.4.RELEASE/spring-data-jpa-1.9.4.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/Querydsl.java" timestamp="1525255952144" />
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchInputDto.java" timestamp="1513073245223">
-        <mark key="[" line="9" column="31" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/resources/spring-root.xml" timestamp="1525257965618">
-        <mark key="[" line="68" column="65" />
-        <mark key="]" line="27" column="37" />
-        <mark key="^" line="27" column="43" />
-        <mark key="." line="27" column="37" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/mysema/querydsl/querydsl-codegen/3.4.3/querydsl-codegen-3.4.3-sources.jar!/com/mysema/query/codegen/TypeResolver.java" timestamp="1525246468537" />
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/NamedEntity.java" timestamp="1525246665059">
-        <mark key="[" line="11" column="34" />
-        <mark key="]" line="11" column="34" />
-        <mark key="." line="11" column="34" />
-      </file>
-      <file name="D:/IdeaProjects/oauth-demo/src/main/java/com/dpcao/examples/config/ShiroConfig.java" timestamp="1513926835187">
-        <mark key="[" line="6" column="3" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/mysema/querydsl/querydsl-apt/3.4.3/querydsl-apt-3.4.3-sources.jar!/com/mysema/query/apt/AbstractQuerydslProcessor.java" timestamp="1525246011860" />
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/BaseEntity.java" timestamp="1525246224069">
-        <mark key="[" line="12" column="79" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/InventoryRecordRepositoryImpl.java" timestamp="1525259208419">
-        <mark key="[" line="27" column="3" />
-        <mark key="]" line="75" column="48" />
-        <mark key="." line="75" column="48" />
-        <mark key="^" line="75" column="47" />
-      </file>
-      <file name="D:/IdeaProjects/oauth-demo/pom.xml" timestamp="1514172388953">
-        <mark key="[" line="54" column="21" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/InventoryRecordQuerySpecs.java" timestamp="1525247718310" />
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dto/DevOnlineChannelDto.java" timestamp="1524888488761">
-        <mark key="[" line="58" column="38" />
-        <mark key="]" line="58" column="38" />
-        <mark key="." line="58" column="38" />
-        <mark key="^" line="97" column="20" />
-      </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dto/OnlineDataDto.java" timestamp="1524814059819">
-        <mark key="[" line="41" column="33" />
-        <mark key="]" line="41" column="33" />
-        <mark key="." line="41" column="38" />
-        <mark key="^" line="19" column="35" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/mysema/querydsl/querydsl-codegen/3.4.3/querydsl-codegen-3.4.3.jar!/com/mysema/query/codegen/TypeResolver.class" timestamp="1525246072232" />
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dao/ProjectMapper.java" timestamp="1514184600820">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="6" />
-        <mark key="^" line="5" column="6" />
-        <mark key="." line="5" column="6" />
-      </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/JlszServiceApplication.java" timestamp="1514184866780">
-        <mark key="[" line="24" column="60" />
-        <mark key="]" line="24" column="60" />
-        <mark key="^" line="24" column="60" />
-        <mark key="." line="24" column="60" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.13.9.RELEASE/spring-data-commons-1.13.9.RELEASE-sources.jar!/org/springframework/data/web/querydsl/QuerydslPredicateArgumentResolver.java" timestamp="1525255202774" />
-      <file name="D:/IdeaProjects/jlsz-service/pom.xml" timestamp="1524817614569">
-        <mark key="[" line="81" column="0" />
-      </file>
-      <file name="D:/IdeaProjects/lems/pom.xml" timestamp="1525257823163">
-        <mark key="'" line="52" column="24" />
-        <mark key="[" line="251" column="22" />
-        <mark key="]" line="251" column="22" />
-        <mark key="." line="251" column="22" />
       </file>
       <file name="/Dummy.txt" timestamp="1525256257283">
         <mark key="[" line="0" column="0" />
@@ -148,14 +103,31 @@
         <mark key="^" line="29" column="73" />
         <mark key="." line="31" column="52" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchInputDto.java" timestamp="1513073245223">
+        <mark key="[" line="9" column="31" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/resources/spring-root.xml" timestamp="1525257965618">
+        <mark key="[" line="68" column="65" />
+        <mark key="]" line="27" column="37" />
+        <mark key="^" line="27" column="43" />
+        <mark key="." line="27" column="37" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/Header.js" timestamp="1525232011014">
         <mark key="[" line="33" column="16" />
         <mark key="]" line="33" column="17" />
         <mark key="." line="33" column="17" />
         <mark key="^" line="33" column="17" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/NamedEntity.java" timestamp="1525246665059">
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="11" column="34" />
+        <mark key="." line="11" column="34" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/BorrowingRepository.java" timestamp="1525256584138">
         <mark key="[" line="24" column="35" />
+      </file>
+      <file name="D:/IdeaProjects/oauth-demo/src/main/java/com/dpcao/examples/config/ShiroConfig.java" timestamp="1513926835187">
+        <mark key="[" line="6" column="3" />
       </file>
       <file name="D:/IdeaProjects/GeoProj/src/main/java/com/aucdi/MeassureUtils.java" timestamp="1513861840860">
         <mark key="[" line="80" column="6" />
@@ -172,6 +144,9 @@
         <mark key="." line="27" column="71" />
         <mark key="^" line="27" column="87" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/BaseEntity.java" timestamp="1525246224069">
+        <mark key="[" line="12" column="79" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/ProjectSpecs.java" timestamp="1512357704859">
         <mark key="[" line="9" column="27" />
       </file>
@@ -181,8 +156,29 @@
         <mark key="^" line="29" column="51" />
         <mark key="." line="18" column="78" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/InventoryRecordRepositoryImpl.java" timestamp="1525259208419">
+        <mark key="[" line="27" column="3" />
+        <mark key="]" line="75" column="48" />
+        <mark key="." line="75" column="48" />
+        <mark key="^" line="75" column="47" />
+      </file>
+      <file name="D:/IdeaProjects/oauth-demo/pom.xml" timestamp="1514172388953">
+        <mark key="[" line="54" column="21" />
+      </file>
       <file name="/fragment.java" timestamp="1525256257277">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dto/DevOnlineChannelDto.java" timestamp="1524888488761">
+        <mark key="[" line="58" column="38" />
+        <mark key="]" line="58" column="38" />
+        <mark key="." line="58" column="38" />
+        <mark key="^" line="97" column="20" />
+      </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dto/OnlineDataDto.java" timestamp="1524814059819">
+        <mark key="[" line="41" column="33" />
+        <mark key="]" line="41" column="33" />
+        <mark key="." line="41" column="38" />
+        <mark key="^" line="19" column="35" />
       </file>
     </filemarks>
     <jumps>
