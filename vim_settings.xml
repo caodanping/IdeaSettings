@@ -179,6 +179,11 @@
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/InventoryRecordServiceImpl.java" timestamp="1525257195153">
         <mark key="[" line="49" column="61" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/FeeReportRepositoryImpl.java" timestamp="1525336146716">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+      </file>
       <file name="D:/IdeaProjects/jlsz-service/generatorConfig.xml" timestamp="1514174444444">
         <mark key="[" line="27" column="71" />
         <mark key="]" line="27" column="71" />
@@ -302,10 +307,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbnVsbCA6IGlucHV0LmdldFNpdGUoKS5nZXRNYW5hZ2VyKCkuZ2V0RnVsbE5hbWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYi50dXBsZSgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>restriction</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>spring-data</text>
@@ -314,24 +319,30 @@
         <text encoding="base64">ICAgICAgICBQcmVkaWNhdGUgcmVzdHJpY3Rpb24gPSBmaWx0ZXIudG9QcmVkaWNhdGUocm9vdCwgY3JpdGVyaWEsIGNiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbnVsbCA6IGlucHV0LmdldFNpdGUoKS5nZXRNYW5hZ2VyKCkuZ2V0RnVsbE5hbWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYi50dXBsZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBkdG8uc2V0TWFuYWdlck5hbWUoaW5wdXQuZ2V0U2l0ZSgpLmdldE1hbmFnZXIoKSA9PSBudWxsID8K</text>
+        <text encoding="base64">ICAgICAgICBDcml0ZXJpYUJ1aWxkZXIgY2IgPSBlbS5nZXRDcml0ZXJpYUJ1aWxkZXIoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBGaWx0ZXIgcGVybUZpbHRlciA9IEZpbHRlci5lbXB0eSgpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbnVsbCA6IGlucHV0LmdldFNpdGUoKS5nZXRNYW5hZ2VyKCkuZ2V0RnVsbE5hbWUoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL2Zyb20obmV3IEVudGl0eVBhdGhCYXNlKEludmVudG9yeVJlY29yZC5jbGFzcywgImlyIikpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBkdG8uc2V0TWFuYWdlck5hbWUoaW5wdXQuZ2V0U2l0ZSgpLmdldE1hbmFnZXIoKSA9PSBudWxsID8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBQYXRoQnVpbGRlcjxJbnZlbnRvcnlSZWNvcmQ+IGJ1aWxkZXIgPSBnZXRCdWlsZGVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBGaWx0ZXIgcGVybUZpbHRlciA9IEZpbHRlci5lbXB0eSgpOwo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvL2Zyb20obmV3IEVudGl0eVBhdGhCYXNlKEludmVudG9yeVJlY29yZC5jbGFzcywgImlyIikpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBQYXRoQnVpbGRlcjxJbnZlbnRvcnlSZWNvcmQ+IGJ1aWxkZXIgPSBnZXRCdWlsZGVyKCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAvL2Zyb20oUSkK</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>QInventoryRecord ir = QInventoryRecord.inventoryRecord;
         QEquipmentDetail equip = ir.equipment;
         QEquipmentType equiType = equip.equipmentType;
@@ -347,12 +358,6 @@
             .join(pricing).on(spec.id.eq(pricing.equipSpec.id));
         BooleanBuilder bb = getBooleanBuilder(query, ir);
         q.count()</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHByaXZhdGUgZG91YmxlIHRvdGFsRmVlOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHByaXZhdGUgZG91YmxlIHByaWNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
