@@ -657,6 +657,14 @@
           <Count>13</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'testIsAssignable()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'testIsAssignable()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'testJpaFetching001()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
