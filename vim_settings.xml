@@ -12,7 +12,7 @@
       <file name="/fragment.js" timestamp="1512981902580">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1525406527746">
+      <file name="/a.dummy" timestamp="1525416849321">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/dto/EquipmentInventorySummaryDto.java" timestamp="1525322554308">
@@ -66,20 +66,20 @@
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentInventorySpecs.java" timestamp="1525320601612">
         <mark key="[" line="68" column="38" />
       </file>
-      <file name="D:/IdeaProjects/spring-boot-demos/src/test/java/com/caodanping/demo/reflection/ReflectionTest.java" timestamp="1525416026792">
-        <mark key="[" line="135" column="21" />
-        <mark key="]" line="135" column="22" />
-        <mark key="." line="135" column="22" />
-        <mark key="^" line="135" column="22" />
+      <file name="D:/IdeaProjects/spring-boot-demos/src/test/java/com/caodanping/demo/reflection/ReflectionTest.java" timestamp="1525420208667">
+        <mark key="[" line="50" column="21" />
+        <mark key="]" line="50" column="21" />
+        <mark key="." line="50" column="21" />
+        <mark key="^" line="50" column="7" />
       </file>
       <file name="D:/IdeaProjects/jlsz-service/pom.xml" timestamp="1524817614569">
         <mark key="[" line="81" column="0" />
       </file>
       <file name="D:/IdeaProjects/spring-boot-demos/src/test/java/com/caodanping/demo/reflection/Foo.java" timestamp="1525413960975">
-        <mark key="[" line="44" column="5" />
-        <mark key="]" line="39" column="35" />
-        <mark key="^" line="43" column="37" />
-        <mark key="." line="39" column="35" />
+        <mark key="[" line="53" column="5" />
+        <mark key="]" line="48" column="35" />
+        <mark key="^" line="52" column="37" />
+        <mark key="." line="48" column="35" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/equipment/List.js" timestamp="1525320727367">
         <mark key="[" line="160" column="22" />
@@ -114,11 +114,11 @@
       <file name="D:/IdeaProjects/spring-boot-demos/src/test/java/com/caodanping/demo/reflection/FooA.java" timestamp="1525408807827">
         <mark key="[" line="5" column="17" />
       </file>
-      <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/reflection/Reflection.java" timestamp="1525415369559">
-        <mark key="[" line="196" column="5" />
-        <mark key="]" line="194" column="15" />
-        <mark key="^" line="194" column="15" />
-        <mark key="." line="194" column="15" />
+      <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/reflection/Reflection.java" timestamp="1525419626841">
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="^" line="240" column="12" />
+        <mark key="." line="151" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1525395776511">
         <mark key="[" line="0" column="0" />
@@ -228,47 +228,47 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>100</text>
+        <text encoding="base64">CiAgICAgICAgZm9yIChTdHJpbmcgZ2V0dGVyIDogZ2V0dGVycyhwcm9wKSkgewogICAgICAgICAgICAKICAgICAgICB9</text>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text>999</text>
       </register>
       <register name="/" type="4">
         <text>spring-data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoTG9uZy52YWx1ZU9mKDEwMDFMKSwgZm9vLmdldElkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoOTk5LCAoaW50KSByZi5wcm9wZXJ0eSgidG90YWwiKS5nZXQoKSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgZm9yIChTdHJpbmcgZ2V0dGVyIDogZ2V0dGVycyhwcm9wKSkgewogICAgICAgICAgICAKICAgICAgICB9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzLnNldENoYXJBdCgwLCBDaGFyYWN0ZXIudG9VcHBlckNhc2Uocy5jaGFyQXQoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIHMgPSBuZXcgU3RyaW5nQnVpbGRlcihwcm9wKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUxLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzLnNldENoYXJBdCgwLCBDaGFyYWN0ZXIudG9VcHBlckNhc2Uocy5jaGFyQXQoCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIHMgPSBuZXcgU3RyaW5nQnVpbGRlcihwcm9wKTsK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>Object o = Reflection.of(&quot;java.lang.String&quot;)
                 .create(&quot;Hello world!&quot;)
                 .invoke(&quot;substring&quot;, 0, 5)
                 .get();
         assertEquals(&quot;Hello&quot;, o);</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text encoding="base64">Q2xhc3M8Pz5bXSB0eXBlcyA9IHR5cGVzKGFyZ3MpOwogICAgICAgIE1ldGhvZCBtZXRob2QgPSBudWxsOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIG1ldGhvZCA9IHR5cGUuZ2V0RGVjbGFyZWRNZXRob2QobmFtZSwgdHlwZXMpOwogICAgICAgIH0gY2F0Y2ggKE5vU3VjaE1ldGhvZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGZvciAoTWV0aG9kIG0gOiB0eXBlLmdldERlY2xhcmVkTWV0aG9kcygpKSB7CiAgICAgICAgICAgICAgICBpZiAobmFtZS5lcXVhbHMobS5nZXROYW1lKCkpKSB7CgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiBudWxsOw==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">Q2xhc3M8Pz5bXSB0eXBlcyA9IHR5cGVzKGFyZ3MpOwogICAgICAgIE1ldGhvZCBtZXRob2QgPSBudWxsOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIG1ldGhvZCA9IHR5cGUuZ2V0RGVjbGFyZWRNZXRob2QobmFtZSwgdHlwZXMpOwogICAgICAgIH0gY2F0Y2ggKE5vU3VjaE1ldGhvZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGZvciAoTWV0aG9kIG0gOiB0eXBlLmdldERlY2xhcmVkTWV0aG9kcygpKSB7CiAgICAgICAgICAgICAgICBpZiAobmFtZS5lcXVhbHMobS5nZXROYW1lKCkpICYmIG1hdGNoKHR5cGVzLCBhcmdzKSkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBtZXRob2Q7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
