@@ -66,17 +66,20 @@
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentInventorySpecs.java" timestamp="1525320601612">
         <mark key="[" line="68" column="38" />
       </file>
-      <file name="D:/IdeaProjects/spring-boot-demos/src/test/java/com/caodanping/demo/reflection/ReflectionTest.java" timestamp="1525407186932">
-        <mark key="[" line="127" column="40" />
-        <mark key="]" line="127" column="42" />
-        <mark key="^" line="127" column="42" />
-        <mark key="." line="127" column="42" />
+      <file name="D:/IdeaProjects/spring-boot-demos/src/test/java/com/caodanping/demo/reflection/ReflectionTest.java" timestamp="1525408931563">
+        <mark key="[" line="125" column="49" />
+        <mark key="]" line="127" column="111" />
+        <mark key="^" line="123" column="107" />
+        <mark key="." line="127" column="0" />
       </file>
       <file name="D:/IdeaProjects/jlsz-service/pom.xml" timestamp="1524817614569">
         <mark key="[" line="81" column="0" />
       </file>
-      <file name="D:/IdeaProjects/spring-boot-demos/src/test/java/com/caodanping/demo/reflection/Foo.java" timestamp="1525399801889">
-        <mark key="[" line="5" column="18" />
+      <file name="D:/IdeaProjects/spring-boot-demos/src/test/java/com/caodanping/demo/reflection/Foo.java" timestamp="1525409175923">
+        <mark key="[" line="39" column="34" />
+        <mark key="]" line="39" column="35" />
+        <mark key="^" line="43" column="37" />
+        <mark key="." line="39" column="35" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/equipment/List.js" timestamp="1525320727367">
         <mark key="[" line="160" column="22" />
@@ -108,7 +111,10 @@
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/ProjectSpecs.java" timestamp="1512357704859">
         <mark key="[" line="9" column="27" />
       </file>
-      <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/reflection/Reflection.java" timestamp="1525406756562">
+      <file name="D:/IdeaProjects/spring-boot-demos/src/test/java/com/caodanping/demo/reflection/FooA.java" timestamp="1525408807827">
+        <mark key="[" line="5" column="17" />
+      </file>
+      <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/reflection/Reflection.java" timestamp="1525409702028">
         <mark key="[" line="115" column="16" />
         <mark key="]" line="116" column="51" />
         <mark key="^" line="116" column="51" />
@@ -221,8 +227,8 @@
       <jump line="52" column="24" filename="D:/IdeaProjects/lems/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -231,34 +237,34 @@
         <text>spring-data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU3RyaW5ncy5qb2luKEFycmF5cy5hc0xpc3QobWV0aG9kcyksICdcbicpKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIm1ldGhvZDMiICsgbmFtZSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">aWYgKCF0eXBlczBbaV0uZXF1YWxzKHR5cGVzMVtpXSkKICAgICAgICAgICAgICAgICAgICAmJiAhd3JhcHBlcih0eXBlczBbaV0pLmVxdWFscyh0eXBlczFbaV0pCiAgICAgICAgICAgICAgICAgICAgJiYgIXR5cGVzMFtpXS5pc0Fzc2lnbmFibGVGcm9tKHR5cGVzMVtpXSkpIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gb2YoKTsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">aWYgKCF0eXBlczBbaV0uZXF1YWxzKHR5cGVzMVtpXSkKICAgICAgICAgICAgICAgICAgICAmJiAhd3JhcHBlcih0eXBlczBbaV0pLmVxdWFscyh0eXBlczFbaV0pCiAgICAgICAgICAgICAgICAgICAgJiYgIXR5cGVzMFtpXS5pc0Fzc2lnbmFibGVGcm9tKHR5cGVzMVtpXSkpIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdmFsID0gcmYuZ2V0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjYi50dXBsZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb2YoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDcml0ZXJpYUJ1aWxkZXIgY2IgPSBlbS5nZXRDcml0ZXJpYUJ1aWxkZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdmFsID0gcmYuZ2V0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbnVsbCA6IGlucHV0LmdldFNpdGUoKS5nZXRNYW5hZ2VyKCkuZ2V0RnVsbE5hbWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYi50dXBsZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBkdG8uc2V0TWFuYWdlck5hbWUoaW5wdXQuZ2V0U2l0ZSgpLmdldE1hbmFnZXIoKSA9PSBudWxsID8K</text>
+        <text encoding="base64">ICAgICAgICBDcml0ZXJpYUJ1aWxkZXIgY2IgPSBlbS5nZXRDcml0ZXJpYUJ1aWxkZXIoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBGaWx0ZXIgcGVybUZpbHRlciA9IEZpbHRlci5lbXB0eSgpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbnVsbCA6IGlucHV0LmdldFNpdGUoKS5nZXRNYW5hZ2VyKCkuZ2V0RnVsbE5hbWUoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

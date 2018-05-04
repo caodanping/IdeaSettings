@@ -30,7 +30,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>227</Count>
+          <Count>230</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -286,7 +286,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
           <Description>Paste</Description>
-          <Count>55</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -598,7 +598,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'ReflectionTest'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ReflectionTest.testCreate004'">
@@ -710,6 +710,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'testJpaFetching004()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'testMethods()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'testMethods()'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
