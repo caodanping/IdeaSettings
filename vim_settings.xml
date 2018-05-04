@@ -12,7 +12,8 @@
       <file name="/fragment.js" timestamp="1512981902580">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1525424232109">
+      <file name="/a.dummy" timestamp="1525425755005">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/dto/EquipmentInventorySummaryDto.java" timestamp="1525322554308">
@@ -22,11 +23,19 @@
         <mark key="[" line="5" column="27" />
       </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/command/UploadAllCommand.java" timestamp="1525337407725" />
+      <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/lems/PropertyDef.java" timestamp="1525426316295">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/equipStateRec/List.js" timestamp="1525316074400">
         <mark key="[" line="135" column="21" />
       </file>
       <file name="D:/IdeaProjects/jlsz-service/src/test/java/com/aucdi/jlsz/TestBean.java" timestamp="1524888546695">
         <mark key="[" line="9" column="23" />
+      </file>
+      <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/lems/PropertyType.java" timestamp="1525425877652">
+        <mark key="[" line="5" column="26" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentServiceV2Impl.java" timestamp="1525332326815">
         <mark key="[" line="78" column="0" />
@@ -47,6 +56,9 @@
         <mark key="]" line="75" column="48" />
         <mark key="." line="75" column="48" />
         <mark key="^" line="75" column="47" />
+      </file>
+      <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/lems/PropertiesDef.java" timestamp="1525425812975">
+        <mark key="[" line="5" column="28" />
       </file>
       <file name="D:/IdeaProjects/oauth-demo/pom.xml" timestamp="1514172388953">
         <mark key="[" line="54" column="21" />
@@ -138,7 +150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1163" column="14" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
       <jump line="1170" column="30" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
       <jump line="1243" column="28" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
       <jump line="1166" column="66" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
@@ -238,10 +249,11 @@
       <jump line="111" column="17" filename="D:/IdeaProjects/lems/pom.xml" />
       <jump line="295" column="22" filename="D:/IdeaProjects/lems/pom.xml" />
       <jump line="52" column="24" filename="D:/IdeaProjects/lems/pom.xml" />
+      <jump line="0" column="0" filename="/a.dummy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBib29sZWFuIGVxdWFscyhPYmplY3Qgb2JqKSB7CiAgICAgICAgCiAgICAgICAgcmV0dXJuIHByb3BlcnRpZXMuZXF1YWxzKCkKICAgIH0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGlzVmFsaWQoKSB7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>999</text>
@@ -252,36 +264,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoOTk5LCAoaW50KSByZi5wcm9wZXJ0eSgidG90YWwiKS5nZXQoKSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBib29sZWFuIGVxdWFscyhPYmplY3Qgb2JqKSB7CiAgICAgICAgCiAgICAgICAgcmV0dXJuIHByb3BlcnRpZXMuZXF1YWxzKCkKICAgIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGlzVmFsaWQoKSB7Cg==</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBib29sZWFuIGVxdWFscyhPYmplY3Qgb2JqKSB7CiAgICAgICAgCiAgICAgICAgcmV0dXJuIHByb3BlcnRpZXMuZXF1YWxzKCkKICAgIH0=</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CiAgICAgICAgZm9yIChTdHJpbmcgZ2V0dGVyIDogZ2V0dGVycyhwcm9wKSkgewogICAgICAgICAgICAKICAgICAgICB9</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGUxLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBzLnNldENoYXJBdCgwLCBDaGFyYWN0ZXIudG9VcHBlckNhc2Uocy5jaGFyQXQoCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIHMgPSBuZXcgU3RyaW5nQnVpbGRlcihwcm9wKTsK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="9" type="4">
-        <text>Object o = Reflection.of(&quot;java.lang.String&quot;)
-                .create(&quot;Hello world!&quot;)
-                .invoke(&quot;substring&quot;, 0, 5)
-                .get();
-        assertEquals(&quot;Hello&quot;, o);</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
