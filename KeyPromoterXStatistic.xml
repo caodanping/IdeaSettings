@@ -9,6 +9,14 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Class...">
+        <Item>
+          <IdeaActionID>GotoClass</IdeaActionID>
+          <ShortCut>'Ctrl+N'</ShortCut>
+          <Description>Class...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Close">
         <Item>
           <IdeaActionID>CloseContent</IdeaActionID>
@@ -190,7 +198,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>62</Count>
+          <Count>63</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find...">
