@@ -9,6 +9,7 @@
       <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/aaa/AuthManager.java" timestamp="1526020325846">
         <mark key="[" line="5" column="26" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/filter/authc/UserFilter.java" timestamp="1526288320061" />
       <file name="D:/IdeaProjects/oauth-demo/src/main/java/com/dpcao/examples/web/UserController.java" timestamp="1513928611007">
         <mark key="[" line="6" column="3" />
       </file>
@@ -49,10 +50,6 @@
         <mark key="[" line="73" column="13" />
         <mark key="]" line="73" column="13" />
         <mark key="." line="73" column="13" />
-      </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/resources/com/aucdi/jlsz/dao/sqlmap/TestMapper.xml" timestamp="1526269237281">
-        <mark key="'" line="14" column="37" />
-        <mark key="[" line="245" column="11" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentServiceV2Impl.java" timestamp="1525332326815">
         <mark key="[" line="78" column="0" />
@@ -98,6 +95,11 @@
       <file name="D:/IdeaProjects/spring-boot-demos/pom.xml" timestamp="1525343486937">
         <mark key="[" line="26" column="18" />
       </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/shiro/UserRealm.java" timestamp="1526289506556">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/shiro/ApiAuthenticationFilter.java" timestamp="1526287174723">
         <mark key="[" line="5" column="36" />
       </file>
@@ -128,6 +130,10 @@
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dao/JlszHistoricalDataDao.java" timestamp="1526282429654" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/equipment/List.js" timestamp="1525320727367">
         <mark key="[" line="160" column="22" />
+      </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/shiro/AjaxLogoutFilter.java" timestamp="1526289840223" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/shiro/AjaxAuthenticationFilter.java" timestamp="1526289806840">
+        <mark key="[" line="70" column="49" />
       </file>
       <file name="/Dummy.txt" timestamp="1525326600484">
         <mark key="[" line="0" column="0" />
@@ -162,6 +168,7 @@
       <file name="D:/IdeaProjects/spring-boot-demos/src/test/java/com/caodanping/demo/reflection/FooA.java" timestamp="1525408807827">
         <mark key="[" line="5" column="17" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/filter/authz/PortFilter.java" timestamp="1526288550703" />
       <file name="/fragment.java" timestamp="1526286240767">
         <mark key="[" line="0" column="0" />
       </file>
@@ -272,8 +279,8 @@
       <jump line="39" column="51" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.10.9.RELEASE/spring-data-mongodb-1.10.9.RELEASE-sources.jar!/org/springframework/data/mongodb/repository/support/SimpleMongoRepository.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>S</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5hdWNkaS5jc2Z5LnJlcG9zaXRvcnkuVXNlclJlcG9zaXRvcnk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>S</text>
@@ -285,31 +292,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQERhdGVUaW1lRm9ybWF0KHBhdHRlcm4gPSAieXl5eS1NTS1kZCBISDptbTpzcyIpIERhdGUgZGF0ZVRpbWVGcm9tLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBARGF0ZVRpbWVGb3JtYXQocGF0dGVybiA9ICJ5eXl5LU1NLWRkIEhIOm1tOnNzIikgRGF0ZSBkYXRlVGltZVRvLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hdWNkaS5jc2Z5LnJlcG9zaXRvcnkuVXNlclJlcG9zaXRvcnk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hdWNkaS5jc2Z5LmRvbWFpbi5Vc2VyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBtb25nb09wZXJhdGlvbnMuY291bnQocSwgZXhhbXBsZS5nZXRQcm9iZVR5cGUoKSwgZW50aXR5SW5mb3JtYXRpb24uZ2V0Q29sbGVjdGlvbk5hbWUoKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hdWNkaS5jc2Z5LmRvbWFpbi5Sb2xlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIGxvbmcgZ2V0KCkgewo=</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBtb25nb09wZXJhdGlvbnMuY291bnQocSwgZXhhbXBsZS5nZXRQcm9iZVR5cGUoKSwgZW50aXR5SW5mb3JtYXRpb24uZ2V0Q29sbGVjdGlvbk5hbWUoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUGFnZWFibGVFeGVjdXRpb25VdGlscy5nZXRQYWdlKGxpc3QsIHBhZ2VhYmxlLCBuZXcgUGFnZWFibGVFeGVjdXRpb25VdGlscy5Ub3RhbFN1cHBsaWVyKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIGxvbmcgZ2V0KCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBQYWdlSW1wbDxKbHN6SGlzdG9yaWNhbERhdGE+KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
