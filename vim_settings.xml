@@ -36,10 +36,8 @@
       <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/lems/AssetCatolog.java" timestamp="1525424086932">
         <mark key="[" line="5" column="27" />
       </file>
-      <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/lems/PropertyDef.java" timestamp="1525429232751">
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/resources/com/aucdi/jlsz/dao/sqlmap/DevOnlineMapper.xml" timestamp="1526277338008">
+        <mark key="[" line="211" column="11" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/equipStateRec/List.js" timestamp="1525316074400">
         <mark key="[" line="135" column="21" />
@@ -53,11 +51,6 @@
       <file name="D:/IdeaProjects/jlsz-service/src/main/resources/com/aucdi/jlsz/dao/sqlmap/TestMapper.xml" timestamp="1526269237281">
         <mark key="'" line="14" column="37" />
         <mark key="[" line="245" column="11" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentServiceV2Impl.java" timestamp="1525332326815">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchInputDto.java" timestamp="1513073245223">
         <mark key="[" line="9" column="31" />
@@ -106,9 +99,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.9.4.RELEASE/spring-data-jpa-1.9.4.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/QueryDslJpaRepository.java" timestamp="1526018929914" />
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/service/impl/JlszDataServiceImpl.java" timestamp="1526269098943">
-        <mark key="[" line="142" column="14" />
-        <mark key="]" line="142" column="14" />
-        <mark key="." line="142" column="14" />
+        <mark key="[" line="143" column="14" />
+        <mark key="]" line="143" column="14" />
+        <mark key="." line="143" column="14" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/equipment/List.js" timestamp="1525320727367">
         <mark key="[" line="160" column="22" />
@@ -144,6 +137,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.1.2.Final/hibernate-core-5.1.2.Final-sources.jar!/org/hibernate/boot/internal/SessionFactoryOptionsImpl.java" timestamp="1526011102897" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.0.4.RELEASE/spring-security-core-5.0.4.RELEASE-sources.jar!/org/springframework/security/core/userdetails/UserDetails.java" timestamp="1526021111764" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dao/DevOnlineMapper.java" timestamp="1526277288665" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/ProjectSpecs.java" timestamp="1512357704859">
         <mark key="[" line="9" column="27" />
       </file>
