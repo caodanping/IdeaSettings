@@ -38,7 +38,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>242</Count>
+          <Count>246</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -169,6 +169,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Field...">
+        <Item>
+          <IdeaActionID>IntroduceField</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+F'</ShortCut>
+          <Description>Field...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="File...">
         <Item>
           <IdeaActionID>GotoFile</IdeaActionID>
@@ -294,7 +302,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
           <Description>Paste</Description>
-          <Count>63</Count>
+          <Count>66</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
