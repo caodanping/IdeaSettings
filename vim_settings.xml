@@ -55,7 +55,9 @@
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchInputDto.java" timestamp="1513073245223">
         <mark key="[" line="9" column="31" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/service/JlszDataService.java" timestamp="1526266879748" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/service/JlszDataService.java" timestamp="1526278792043">
+        <mark key="[" line="13" column="96" />
+      </file>
       <file name="D:/IdeaProjects/oauth-demo/src/main/java/com/dpcao/examples/config/ShiroConfig.java" timestamp="1513926835187">
         <mark key="[" line="6" column="3" />
       </file>
@@ -83,10 +85,10 @@
       <file name="D:/IdeaProjects/spring-boot-demos/pom.xml" timestamp="1525343486937">
         <mark key="[" line="26" column="18" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/rest/JlszDataController.java" timestamp="1526267325541">
-        <mark key="[" line="49" column="54" />
-        <mark key="]" line="49" column="54" />
-        <mark key="." line="49" column="54" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/rest/JlszDataController.java" timestamp="1526279158612">
+        <mark key="[" line="51" column="54" />
+        <mark key="]" line="51" column="54" />
+        <mark key="." line="51" column="54" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/ProjectSummaryDto.java" timestamp="1525319705251">
         <mark key="[" line="11" column="34" />
@@ -98,10 +100,11 @@
         <mark key="[" line="81" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.9.4.RELEASE/spring-data-jpa-1.9.4.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/QueryDslJpaRepository.java" timestamp="1526018929914" />
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/service/impl/JlszDataServiceImpl.java" timestamp="1526269098943">
-        <mark key="[" line="143" column="14" />
-        <mark key="]" line="143" column="14" />
-        <mark key="." line="143" column="14" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/service/impl/JlszDataServiceImpl.java" timestamp="1526278777598">
+        <mark key="[" line="148" column="15" />
+        <mark key="]" line="148" column="15" />
+        <mark key="." line="148" column="15" />
+        <mark key="^" line="148" column="13" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/equipment/List.js" timestamp="1525320727367">
         <mark key="[" line="160" column="22" />
@@ -255,10 +258,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBQYWdlYWJsZSB0b1BhZ2FibGUoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBvcmcuc3ByaW5nZnJhbWV3b3JrLmRhdGEuZG9tYWluLlBhZ2VSZXF1ZXN0KCkKICAgIH0=</text>
+        <text>getHistoricalDataByDevOnlineId(online.getId(), pageRequest);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG51bGw=</text>
+        <text>getHistoricalDataByDevOnlineId(online.getId(), pageRequest);</text>
       </register>
       <register name="/" type="4">
         <text>spring-data</text>
@@ -266,32 +269,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoOTk5LCAoaW50KSByZi5wcm9wZXJ0eSgidG90YWwiKS5nZXQoKSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBQYWdlYWJsZSB0b1BhZ2FibGUoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBvcmcuc3ByaW5nZnJhbWV3b3JrLmRhdGEuZG9tYWluLlBhZ2VSZXF1ZXN0KCkKICAgIH0=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBQYWdlPEpsc3pIaXN0b3JpY2FsRGF0YT4gZ2V0SGlzdG9yaWNhbERhdGFPZlRlc3QoTG9uZyB0ZXN0SWQpIHsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBQYWdlSW1wbDxKbHN6SGlzdG9yaWNhbERhdGE+KCkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAob25saW5lID09IG51bGwpIHsK</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBQYWdlYWJsZSB0b1BhZ2FibGUoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBvcmcuc3ByaW5nZnJhbWV3b3JrLmRhdGEuZG9tYWluLlBhZ2VSZXF1ZXN0KCkKICAgIH0=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBQYWdlPEpsc3pIaXN0b3JpY2FsRGF0YT4gZ2V0SGlzdG9yaWNhbERhdGFPZlRlc3QoTG9uZyB0ZXN0SWQpIHsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
