@@ -27,15 +27,16 @@
       <file name="/fragment.js" timestamp="1512981902580">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1526295258171">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/dto/EquipmentInventorySummaryDto.java" timestamp="1525322554308">
         <mark key="[" line="20" column="31" />
       </file>
       <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/lems/AssetCatolog.java" timestamp="1525424086932">
         <mark key="[" line="5" column="27" />
+      </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/main/resources/ehcache.xml" timestamp="1526373080776">
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="16" column="28" />
+        <mark key="." line="16" column="28" />
       </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/resources/com/aucdi/jlsz/dao/sqlmap/UserMapper.xml" timestamp="1526371548156">
         <mark key="[" line="212" column="13" />
@@ -46,6 +47,12 @@
       <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/aaa/Permission.java" timestamp="1526367851296">
         <mark key="[" line="7" column="25" />
       </file>
+      <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/lems/PropertyDef.java" timestamp="1525429232751">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/main/resources/com/aucdi/jlsz/dao/sqlmap/ChannelMapper.xml" timestamp="1526372746142" />
       <file name="D:/IdeaProjects/jlsz-service/src/main/resources/com/aucdi/jlsz/dao/sqlmap/DevOnlineMapper.xml" timestamp="1526277338008">
         <mark key="[" line="211" column="11" />
       </file>
@@ -62,6 +69,11 @@
       <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/lems/PropertyType.java" timestamp="1525425877652">
         <mark key="[" line="5" column="26" />
       </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dao/impl/JlszHistoricalDataDaoImpl.java" timestamp="1526283161993">
+        <mark key="[" line="73" column="13" />
+        <mark key="]" line="73" column="13" />
+        <mark key="." line="73" column="13" />
+      </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/resources/application.properties" timestamp="1526370948884">
         <mark key="[" line="11" column="14" />
         <mark key="]" line="11" column="14" />
@@ -70,6 +82,11 @@
       </file>
       <file name="D:/IdeaProjects/jlsz-service/log.log" timestamp="1526370890658">
         <mark key="'" line="19" column="56" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/EquipmentServiceV2Impl.java" timestamp="1525332326815">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchInputDto.java" timestamp="1513073245223">
         <mark key="[" line="9" column="31" />
@@ -80,11 +97,11 @@
       <file name="D:/IdeaProjects/oauth-demo/src/main/java/com/dpcao/examples/config/ShiroConfig.java" timestamp="1513926835187">
         <mark key="[" line="6" column="3" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/config/ShiroConfig.java" timestamp="1526370146868">
-        <mark key="[" line="139" column="78" />
-        <mark key="]" line="139" column="78" />
-        <mark key="." line="139" column="78" />
-        <mark key="^" line="135" column="18" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/config/ShiroConfig.java" timestamp="1526373368790">
+        <mark key="[" line="166" column="78" />
+        <mark key="]" line="166" column="78" />
+        <mark key="." line="166" column="78" />
+        <mark key="^" line="162" column="18" />
       </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/rest/TestController.java" timestamp="1526370536403">
         <mark key="[" line="20" column="15" />
@@ -131,6 +148,11 @@
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/rest/ProjectController.java" timestamp="1526370524451">
         <mark key="[" line="21" column="18" />
       </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/shiro/UserRealm.java" timestamp="1526289506556">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/shiro/ApiAuthenticationFilter.java" timestamp="1526287174723">
         <mark key="[" line="5" column="36" />
       </file>
@@ -140,7 +162,7 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="49" column="53" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/RetryLimitHashedPasswordMatcher.java" timestamp="1526287855300" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/RetryLimitHashedPasswordMatcher.java" timestamp="1526373606527" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/ProjectSummaryDto.java" timestamp="1525319705251">
         <mark key="[" line="11" column="34" />
       </file>
@@ -355,10 +377,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Write to client error happened.</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>Write to client error happened.</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>Page</text>
