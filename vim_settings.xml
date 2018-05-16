@@ -10,7 +10,7 @@
         <mark key="[" line="5" column="26" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/filter/authc/UserFilter.java" timestamp="1526366693415" />
-      <file name="/a.dummy" timestamp="1526458249699">
+      <file name="/a.dummy" timestamp="1526458934493">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -20,12 +20,6 @@
         <mark key="[" line="7" column="26" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/authc/credential/PasswordMatcher.java" timestamp="1526380940328" />
-      <file name="D:/IdeaProjects/jlsz-service/src/main/resources/com/aucdi/jlsz/dao/sqlmap/UserMapper.xml" timestamp="1526371548156">
-        <mark key="[" line="212" column="13" />
-        <mark key="]" line="209" column="86" />
-        <mark key="^" line="209" column="86" />
-        <mark key="." line="209" column="86" />
-      </file>
       <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/aaa/Permission.java" timestamp="1526367851296">
         <mark key="[" line="7" column="25" />
       </file>
@@ -61,12 +55,6 @@
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchInputDto.java" timestamp="1513073245223">
         <mark key="[" line="9" column="31" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/config/ShiroConfig.java" timestamp="1526380725726">
-        <mark key="[" line="92" column="52" />
-        <mark key="]" line="186" column="27" />
-        <mark key="." line="186" column="27" />
-        <mark key="^" line="185" column="7" />
-      </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/rest/TestController.java" timestamp="1526370536403">
         <mark key="[" line="20" column="15" />
       </file>
@@ -84,6 +72,9 @@
       </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/config/App.java" timestamp="1526292706234">
         <mark key="[" line="64" column="0" />
+      </file>
+      <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/domain/FileContentPointer.java" timestamp="1526458385618">
+        <mark key="[" line="5" column="33" />
       </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/shiro/WebUtils.java" timestamp="1526364065796">
         <mark key="[" line="13" column="59" />
@@ -111,11 +102,8 @@
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentInventorySpecs.java" timestamp="1525320601612">
         <mark key="[" line="68" column="38" />
       </file>
-      <file name="D:/IdeaProjects/spring-boot-demos/src/test/java/com/caodanping/demo/reflection/ReflectionTest.java" timestamp="1525420208667">
-        <mark key="[" line="50" column="21" />
-        <mark key="]" line="50" column="21" />
-        <mark key="." line="50" column="21" />
-        <mark key="^" line="50" column="7" />
+      <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/domain/SymboLink.java" timestamp="1526459998568">
+        <mark key="[" line="5" column="22" />
       </file>
       <file name="D:/IdeaProjects/jlsz-service/pom.xml" timestamp="1526457142956">
         <mark key="'" line="14" column="37" />
@@ -182,6 +170,7 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/filter/authc/FormAuthenticationFilter.java" timestamp="1526375015712" />
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/realm/jdbc/JdbcRealm.java" timestamp="1526381239055" />
       <file name="D:/IdeaProjects/lems/src/main/resources/spring-shiro-web.xml" timestamp="1526363734653" />
+      <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/domain/Node.java" timestamp="1526460196370" />
       <file name="D:/IdeaProjects/jlsz-service/src/test/java/com/aucdi/jlsz/TestBean.java" timestamp="1524888546695">
         <mark key="[" line="9" column="23" />
       </file>
@@ -190,11 +179,10 @@
         <mark key="]" line="73" column="13" />
         <mark key="." line="73" column="13" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/resources/application.properties" timestamp="1526370948884">
-        <mark key="[" line="11" column="14" />
-        <mark key="]" line="11" column="14" />
-        <mark key="." line="11" column="14" />
-        <mark key="^" line="10" column="24" />
+      <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/domain/FileSystemService.java" timestamp="1526460723446">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="4" />
       </file>
       <file name="D:/IdeaProjects/jlsz-service/src/test/java/com/aucdi/jlsz/JlszServiceApplicationTests.java" timestamp="1526374194870">
         <mark key="[" line="20" column="0" />
@@ -206,6 +194,11 @@
         <mark key="[" line="6" column="3" />
       </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/shiro/RetryLimitPasswordMatcher.java" timestamp="1526439088591" />
+      <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/domain/File.java" timestamp="1526461076098">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/InventoryRecordRepositoryImpl.java" timestamp="1526014789085">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="75" column="48" />
@@ -217,12 +210,6 @@
       </file>
       <file name="D:/IdeaProjects/oauth-demo/pom.xml" timestamp="1514172388953">
         <mark key="[" line="54" column="21" />
-      </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/ProjectSiteRepositoryImpl.java" timestamp="1525332039336">
-        <mark key="[" line="42" column="39" />
-        <mark key="]" line="42" column="44" />
-        <mark key="^" line="42" column="44" />
-        <mark key="." line="42" column="44" />
       </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/rest/ProjectController.java" timestamp="1526370524451">
         <mark key="[" line="21" column="18" />
@@ -239,12 +226,6 @@
         <mark key="]" line="147" column="15" />
         <mark key="." line="147" column="15" />
         <mark key="^" line="147" column="13" />
-      </file>
-      <file name="D:/IdeaProjects/spring-boot-demos/src/test/java/com/caodanping/demo/reflection/Foo.java" timestamp="1525413960975">
-        <mark key="[" line="53" column="5" />
-        <mark key="]" line="48" column="35" />
-        <mark key="^" line="52" column="37" />
-        <mark key="." line="48" column="35" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/equipment/List.js" timestamp="1525320727367">
         <mark key="[" line="160" column="22" />
@@ -266,16 +247,20 @@
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/ProjectSiteServiceImpl.java" timestamp="1525329480961">
         <mark key="[" line="57" column="126" />
       </file>
-      <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/lems/DynmicObject.java" timestamp="1525425262863">
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="12" column="12" />
-        <mark key="." line="12" column="12" />
-        <mark key="^" line="12" column="12" />
+      <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/domain/Directory.java" timestamp="1526459060890">
+        <mark key="[" line="5" column="22" />
       </file>
       <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/lems/AssetType.java" timestamp="1525424494997">
         <mark key="[" line="5" column="24" />
       </file>
-      <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/domain/FileContentStorage.java" timestamp="1526458339816" />
+      <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/domain/SymbolLink.java" timestamp="1526458945380">
+        <mark key="[" line="5" column="25" />
+      </file>
+      <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/domain/FileContentStorage.java" timestamp="1526458355964">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="4" />
+      </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/ProjectSpecs.java" timestamp="1512357704859">
         <mark key="[" line="9" column="27" />
       </file>
@@ -284,12 +269,6 @@
       </file>
       <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/domain/FileContentService.java" timestamp="1526458116319">
         <mark key="[" line="7" column="33" />
-      </file>
-      <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/reflection/Reflection.java" timestamp="1525419626841">
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="^" line="240" column="12" />
-        <mark key="." line="151" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/filter/authz/PortFilter.java" timestamp="1526288550703" />
       <file name="/fragment.java" timestamp="1526373660931">
@@ -402,8 +381,8 @@
       <jump line="14" column="37" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">RmlsZUNvbnRlbnRTZXJ2aWNlCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHVibGljIHZvaWQgbWtkaXIoU3RyaW5nIGRpciwgU3RyaW5nIGZpbGVuYW1lKSB7CgogICAgfQoKICAgIHB1YmxpYyB2b2lkIHJtZGlyKFN0cmluZyBkaXIpIHsKCiAgICB9CgogICAgcHVibGljIEZpbGUgbWtmaWxlKFN0cmluZyBkaXIsIFN0cmluZyBmaWxlbmFtZSkgewoKICAgIH0KCiAgICBwdWJsaWMgRmlsZSBjb3B5CgogICAgcHVibGljIHZvaWQgcm1maWxlKFN0cmluZyBmaWxlbmFtZSkgewoKICAgIH0KCiAgICBwdWJsaWMgQ29sbGVjdGlvbjxOb2RlPiBsaXN0RmlsZXMoU3RyaW5nIGRpcikgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIHB1YmxpYwoKICAgIHB1YmxpYyB2b2lkIHJlbmFtZShTdHJpbmcgZmlsZW5hbWUsIFN0cmluZyBuZXdOYW1lKSB7CgogICAgfQ==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;application/json&quot;</text>
@@ -414,32 +393,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQERhdGVUaW1lRm9ybWF0KHBhdHRlcm4gPSAieXl5eS1NTS1kZCBISDptbTpzcyIpIERhdGUgZGF0ZVRpbWVGcm9tLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBARGF0ZVRpbWVGb3JtYXQocGF0dGVybiA9ICJ5eXl5LU1NLWRkIEhIOm1tOnNzIikgRGF0ZSBkYXRlVGltZVRvLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">RmlsZUNvbnRlbnRTZXJ2aWNlCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">cHVibGljIHZvaWQgbWtkaXIoU3RyaW5nIGRpciwgU3RyaW5nIGZpbGVuYW1lKSB7CgogICAgfQoKICAgIHB1YmxpYyB2b2lkIHJtZGlyKFN0cmluZyBkaXIpIHsKCiAgICB9CgogICAgcHVibGljIEZpbGUgbWtmaWxlKFN0cmluZyBkaXIsIFN0cmluZyBmaWxlbmFtZSkgewoKICAgIH0KCiAgICBwdWJsaWMgRmlsZSBjb3B5CgogICAgcHVibGljIHZvaWQgcm1maWxlKFN0cmluZyBmaWxlbmFtZSkgewoKICAgIH0KCiAgICBwdWJsaWMgQ29sbGVjdGlvbjxOb2RlPiBsaXN0RmlsZXMoU3RyaW5nIGRpcikgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIHB1YmxpYwoKICAgIHB1YmxpYyB2b2lkIHJlbmFtZShTdHJpbmcgZmlsZW5hbWUsIFN0cmluZyBuZXdOYW1lKSB7CgogICAgfQ==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIAogICAgcHVibGljIENvbGxlY3Rpb248RmlsZT4gY2hpbGRyZW4oKSB7CiAgICAgICAgCiAgICB9</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBdXRoZW50aWNhdGluZ0ZpbHRlciBhdXRoZW50aWNhdGluZ0ZpbHRlciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFVzZXJGaWx0ZXIgdXNlckZpbHRlciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIExvZ291dEZpbHRlciBsb2dvdXRGaWx0ZXI=</text>
+      <register name="3" type="2">
+        <text encoding="base64">U29mdExpbmsK</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICBAQmVhbgogICAgcHVibGljIA==</text>
+        <text>public FileContent findByHash(String hash) {
+        return null;
+    }
+
+    public void save(String hash, InputStream content) {
+
+    }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBFbnRlcnByaXNlQ2FjaGVTZXNzaW9uREFPIGVudGVycHJpc2VDYWNoZVNlc3Npb25EQU8gPSBuZXcgRW50ZXJwcmlzZUNhY2hlU2Vzc2lvbkRBTygpOwo=</text>
+        <text encoding="base64">RmlsZUNvbnRlbnRTZXJ2aWNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hdWNkaS5jc2Z5LnJlcG9zaXRvcnkuVXNlclJlcG9zaXRvcnk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hdWNkaS5jc2Z5LmRvbWFpbi5Vc2VyOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBdXRoZW50aWNhdGluZ0ZpbHRlciBhdXRoZW50aWNhdGluZ0ZpbHRlciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFVzZXJGaWx0ZXIgdXNlckZpbHRlciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIExvZ291dEZpbHRlciBsb2dvdXRGaWx0ZXI=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hdWNkaS5jc2Z5LmRvbWFpbi5Sb2xlOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICBAQmVhbgogICAgcHVibGljIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBFbnRlcnByaXNlQ2FjaGVTZXNzaW9uREFPIGVudGVycHJpc2VDYWNoZVNlc3Npb25EQU8gPSBuZXcgRW50ZXJwcmlzZUNhY2hlU2Vzc2lvbkRBTygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
