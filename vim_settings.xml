@@ -117,11 +117,11 @@
       <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/lems/AssetCatalogEntry.java" timestamp="1525429817490">
         <mark key="[" line="5" column="32" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/rest/AuthController.java" timestamp="1526439310489">
-        <mark key="[" line="48" column="57" />
-        <mark key="]" line="44" column="12" />
-        <mark key="^" line="44" column="12" />
-        <mark key="." line="44" column="12" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/rest/AuthController.java" timestamp="1526442859394">
+        <mark key="[" line="33" column="46" />
+        <mark key="]" line="33" column="46" />
+        <mark key="^" line="45" column="12" />
+        <mark key="." line="33" column="46" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/BaseEntity.java" timestamp="1525246224069">
         <mark key="[" line="12" column="79" />
@@ -167,8 +167,8 @@
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/shiro/ApiAuthenticationFilter.java" timestamp="1526287174723">
         <mark key="[" line="5" column="36" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/rest/JlszDataController.java" timestamp="1526370461163">
-        <mark key="[" line="24" column="17" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/rest/JlszDataController.java" timestamp="1526442990214">
+        <mark key="[" line="45" column="42" />
         <mark key="]" line="50" column="119" />
         <mark key="." line="49" column="0" />
         <mark key="^" line="49" column="53" />
@@ -389,10 +389,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>loginUrl</text>
+        <text>&quot;application/json&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>loginUrl</text>
+        <text>&quot;application/json&quot;</text>
       </register>
       <register name="/" type="4">
         <text>boot</text>
