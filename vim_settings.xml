@@ -117,11 +117,17 @@
         <mark key="]" line="82" column="23" />
         <mark key="." line="82" column="23" />
       </file>
+      <file name="D:/IdeaProjects/eis-parent/ecm/src/test/java/com/caodanping/eis/ecm/FileTests.java" timestamp="1526473765804">
+        <mark key="[" line="12" column="29" />
+        <mark key="]" line="12" column="28" />
+        <mark key="^" line="12" column="28" />
+        <mark key="." line="12" column="28" />
+      </file>
       <file name="D:/IdeaProjects/jlsz-service/src/test/java/com/aucdi/jlsz/JacksonTests.java" timestamp="1524890521430">
         <mark key="[" line="11" column="27" />
       </file>
-      <file name="D:/IdeaProjects/eis-parent/ecm/pom.xml" timestamp="1526457161531">
-        <mark key="[" line="16" column="21" />
+      <file name="D:/IdeaProjects/eis-parent/ecm/pom.xml" timestamp="1526472913458">
+        <mark key="[" line="58" column="21" />
         <mark key="]" line="16" column="22" />
         <mark key="." line="16" column="22" />
       </file>
@@ -174,8 +180,8 @@
       <file name="D:/IdeaProjects/jlsz-service/src/test/java/com/aucdi/jlsz/TestBean.java" timestamp="1524888546695">
         <mark key="[" line="9" column="23" />
       </file>
-      <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/domain/Path.java" timestamp="1526462201162">
-        <mark key="[" line="5" column="7" />
+      <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/domain/Path.java" timestamp="1526472829565">
+        <mark key="[" line="7" column="7" />
       </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dao/impl/JlszHistoricalDataDaoImpl.java" timestamp="1526283161993">
         <mark key="[" line="73" column="13" />
@@ -196,6 +202,7 @@
       <file name="D:/IdeaProjects/oauth-demo/src/main/java/com/dpcao/examples/config/ShiroConfig.java" timestamp="1513926835187">
         <mark key="[" line="6" column="3" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/io/File.java" timestamp="1526473618719" />
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/shiro/RetryLimitPasswordMatcher.java" timestamp="1526439088591" />
       <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/domain/File.java" timestamp="1526462053596">
         <mark key="[" line="101" column="18" />
