@@ -110,18 +110,18 @@
         <mark key="." line="186" column="27" />
         <mark key="^" line="185" column="7" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/shiro/RetryLimitPasswordMatcher.java" timestamp="1526380340727" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/shiro/RetryLimitPasswordMatcher.java" timestamp="1526439088591" />
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/rest/TestController.java" timestamp="1526370536403">
         <mark key="[" line="20" column="15" />
       </file>
       <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/lems/AssetCatalogEntry.java" timestamp="1525429817490">
         <mark key="[" line="5" column="32" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/rest/AuthController.java" timestamp="1526380014029">
-        <mark key="[" line="27" column="75" />
-        <mark key="]" line="38" column="12" />
-        <mark key="^" line="38" column="12" />
-        <mark key="." line="38" column="12" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/rest/AuthController.java" timestamp="1526439310489">
+        <mark key="[" line="48" column="57" />
+        <mark key="]" line="44" column="12" />
+        <mark key="^" line="44" column="12" />
+        <mark key="." line="44" column="12" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/BaseEntity.java" timestamp="1525246224069">
         <mark key="[" line="12" column="79" />
@@ -189,7 +189,8 @@
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/base/JSON.java" timestamp="1526292870786">
         <mark key="[" line="7" column="3" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/pom.xml" timestamp="1526438245041">
+      <file name="D:/IdeaProjects/jlsz-service/pom.xml" timestamp="1526439391171">
+        <mark key="'" line="14" column="37" />
         <mark key="[" line="62" column="21" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.9.4.RELEASE/spring-data-jpa-1.9.4.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/QueryDslJpaRepository.java" timestamp="1526018929914" />
@@ -285,23 +286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="656" column="29" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="657" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="678" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="701" column="29" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="702" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="745" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="760" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="767" column="10" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="777" column="29" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="778" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="786" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="803" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="819" column="57" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="820" column="31" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="867" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="873" column="52" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="880" column="52" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
       <jump line="884" column="52" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
       <jump line="888" column="52" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
       <jump line="898" column="52" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
@@ -385,6 +369,23 @@
       <jump line="39" column="51" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.10.9.RELEASE/spring-data-mongodb-1.10.9.RELEASE-sources.jar!/org/springframework/data/mongodb/repository/support/SimpleMongoRepository.java" />
       <jump line="19" column="56" filename="D:/IdeaProjects/jlsz-service/log.log" />
       <jump line="103" column="40" filename="D:/IdeaProjects/jlsz-service/jlsz-service-log.log" />
+      <jump line="24" column="43" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
+      <jump line="40" column="41" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
+      <jump line="41" column="31" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
+      <jump line="44" column="41" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
+      <jump line="45" column="31" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
+      <jump line="48" column="41" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
+      <jump line="49" column="31" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
+      <jump line="100" column="41" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
+      <jump line="101" column="31" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
+      <jump line="107" column="41" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
+      <jump line="108" column="31" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
+      <jump line="116" column="45" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
+      <jump line="117" column="35" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
+      <jump line="30" column="39" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
+      <jump line="29" column="40" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
+      <jump line="15" column="27" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
+      <jump line="14" column="37" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -394,7 +395,7 @@
         <text>loginUrl</text>
       </register>
       <register name="/" type="4">
-        <text>Page</text>
+        <text>boot</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQERhdGVUaW1lRm9ybWF0KHBhdHRlcm4gPSAieXl5eS1NTS1kZCBISDptbTpzcyIpIERhdGUgZGF0ZVRpbWVGcm9tLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBARGF0ZVRpbWVGb3JtYXQocGF0dGVybiA9ICJ5eXl5LU1NLWRkIEhIOm1tOnNzIikgRGF0ZSBkYXRlVGltZVRvLAo=</text>
@@ -431,9 +432,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Page</last-search>
+      <last-search>boot</last-search>
       <last-offset />
-      <last-pattern>Page</last-pattern>
+      <last-pattern>boot</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -441,7 +442,6 @@
     </search>
     <history>
       <history-search>
-        <entry>changeDispatch</entry>
         <entry>isIns</entry>
         <entry>count</entry>
         <entry>initControls</entry>
@@ -461,6 +461,7 @@
         <entry>spring</entry>
         <entry>spring-data</entry>
         <entry>Page</entry>
+        <entry>boot</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz50NDA=</entry>
