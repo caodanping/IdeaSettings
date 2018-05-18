@@ -593,6 +593,14 @@
           <Count>60</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'DateFormatTests'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'DateFormatTests'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'JlszDataServerApplic...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
