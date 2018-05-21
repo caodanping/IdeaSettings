@@ -111,6 +111,7 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.9.4.RELEASE/spring-data-jpa-1.9.4.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/QueryDslJpaRepository.java" timestamp="1526018929914" />
       <file name="D:/IdeaProjects/lems/pom.xml" timestamp="1526287259364" />
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dao/JlszHistoricalDataDao.java" timestamp="1526282429654" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/model/ExternalVerticalShift.java" timestamp="1526875547632" />
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/shiro/AjaxAuthenticationFilter.java" timestamp="1526375369498">
         <mark key="[" line="82" column="23" />
         <mark key="]" line="82" column="23" />
@@ -229,7 +230,7 @@
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/model/PointData.java" timestamp="1526549143914">
         <mark key="[" line="7" column="24" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/distortion_monitor_system_service/UploadDataTasks.java" timestamp="1526874227305">
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/distortion_monitor_system_service/UploadDataTasks.java" timestamp="1526875243568">
         <mark key="[" line="47" column="13" />
         <mark key="]" line="23" column="12" />
         <mark key="^" line="23" column="12" />
@@ -290,8 +291,12 @@
       <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/domain/Directory.java" timestamp="1526459060890">
         <mark key="[" line="5" column="22" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/resources/com/aucdi/jlsz/dao/sqlmap/DevOnlineChannelMapper.xml" timestamp="1526870810619">
-        <mark key="[" line="262" column="11" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/resources/com/aucdi/jlsz/dao/sqlmap/DevOnlineChannelMapper.xml" timestamp="1526875823665">
+        <mark key="'" line="22" column="57" />
+        <mark key="[" line="268" column="20" />
+        <mark key="]" line="268" column="20" />
+        <mark key="^" line="268" column="81" />
+        <mark key="." line="268" column="20" />
       </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/distortion_monitor_system_service/UploadDataTask.java" timestamp="1526869699081" />
       <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/lems/AssetType.java" timestamp="1525424494997">
@@ -325,7 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="898" column="52" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
       <jump line="912" column="31" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
       <jump line="913" column="18" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
       <jump line="914" column="29" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
@@ -425,13 +429,14 @@
       <jump line="14" column="37" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
       <jump line="533" column="19" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23-sources.jar!/org/apache/catalina/servlets/DefaultServlet.java" />
       <jump line="488" column="22" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23-sources.jar!/org/apache/catalina/servlets/DefaultServlet.java" />
+      <jump line="22" column="57" filename="D:/IdeaProjects/jlsz-service/src/main/resources/com/aucdi/jlsz/dao/sqlmap/DevOnlineChannelMapper.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICA8c2VsZWN0IGlkPSJzZWxlY3RFeHRlcm5hbFByb2plY3RzIiByZXN1bHRNYXA9IkJhc2VSZXN1bHRNYXAiPgogICAgU0VMRUNUCiAgICAgIDxpbmNsdWRlIHJlZmlkPSJCYXNlX0NvbHVtbl9MaXN0IiAvPgogICAgRlJPTSBwcm9qZWN0CiAgICBXSEVSRSBpc19leHRlcm5hbF9wcm9qID0gMSBBTkQgaXNfZGVsZXRlZCA9IDAKICA8L3NlbGVjdD4=</text>
+        <text>totalChange</text>
       </register>
       <register name="-" type="4">
-        <text>projectWebService.xml</text>
+        <text>totalChange</text>
       </register>
       <register name="/" type="4">
         <text>doPost</text>
