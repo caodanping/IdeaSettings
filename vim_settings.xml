@@ -58,7 +58,7 @@
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/BaseEntity.java" timestamp="1525246224069">
         <mark key="[" line="12" column="79" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dao/DevOnlineChannelMapper.java" timestamp="1526870223984">
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dao/DevOnlineChannelMapper.java" timestamp="1526870807007">
         <mark key="[" line="81" column="75" />
       </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/config/App.java" timestamp="1526292706234">
@@ -75,11 +75,6 @@
       </file>
       <file name="D:/IdeaProjects/spring-boot-demos/pom.xml" timestamp="1525343486937">
         <mark key="[" line="26" column="18" />
-      </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/shiro/UserRealm.java" timestamp="1526381366056">
-        <mark key="[" line="17" column="21" />
-        <mark key="]" line="17" column="21" />
-        <mark key="." line="17" column="21" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23-sources.jar!/org/apache/catalina/servlets/WebdavServlet.java" timestamp="1526615136519" />
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/shiro/ApiAuthenticationFilter.java" timestamp="1526287174723">
@@ -111,11 +106,6 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.9.4.RELEASE/spring-data-jpa-1.9.4.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/QueryDslJpaRepository.java" timestamp="1526018929914" />
       <file name="D:/IdeaProjects/lems/pom.xml" timestamp="1526287259364" />
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dao/JlszHistoricalDataDao.java" timestamp="1526282429654" />
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/shiro/AjaxAuthenticationFilter.java" timestamp="1526375369498">
-        <mark key="[" line="82" column="23" />
-        <mark key="]" line="82" column="23" />
-        <mark key="." line="82" column="23" />
-      </file>
       <file name="D:/IdeaProjects/eis-parent/ecm/src/test/java/com/caodanping/eis/ecm/FileTests.java" timestamp="1526473765804">
         <mark key="[" line="12" column="29" />
         <mark key="]" line="12" column="28" />
@@ -124,11 +114,6 @@
       </file>
       <file name="D:/IdeaProjects/jlsz-service/src/test/java/com/aucdi/jlsz/JacksonTests.java" timestamp="1524890521430">
         <mark key="[" line="11" column="27" />
-      </file>
-      <file name="D:/IdeaProjects/eis-parent/ecm/pom.xml" timestamp="1526523380946">
-        <mark key="[" line="58" column="21" />
-        <mark key="]" line="16" column="22" />
-        <mark key="." line="16" column="22" />
       </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/base/spring/PageUtils.java" timestamp="1526267373704">
         <mark key="[" line="8" column="24" />
@@ -139,21 +124,11 @@
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/InventoryRecordServiceImpl.java" timestamp="1525257195153">
         <mark key="[" line="49" column="61" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/FeeReportRepositoryImpl.java" timestamp="1526009434855">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.1.2.Final/hibernate-core-5.1.2.Final-sources.jar!/org/hibernate/boot/internal/SessionFactoryOptionsImpl.java" timestamp="1526011102897" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.0.4.RELEASE/spring-security-core-5.0.4.RELEASE-sources.jar!/org/springframework/security/core/userdetails/UserDetails.java" timestamp="1526021111764" />
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dao/DevOnlineMapper.java" timestamp="1526277288665" />
       <file name="D:/IdeaProjects/spring-boot-demos/src/test/java/com/caodanping/demo/reflection/FooA.java" timestamp="1525408807827">
         <mark key="[" line="5" column="17" />
-      </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/base/PageRequest.java" timestamp="1526267186410">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="D:/IdeaProjects/oauth-demo/src/main/java/com/dpcao/examples/web/UserController.java" timestamp="1513928611007">
         <mark key="[" line="6" column="3" />
@@ -177,11 +152,6 @@
       <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/domain/Path.java" timestamp="1526472829565">
         <mark key="[" line="7" column="7" />
       </file>
-      <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/domain/FileSystemService.java" timestamp="1526460723446">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="6" column="4" />
-        <mark key="." line="6" column="4" />
-      </file>
       <file name="D:/IdeaProjects/jlsz-service/src/test/java/com/aucdi/jlsz/JlszServiceApplicationTests.java" timestamp="1526374194870">
         <mark key="[" line="20" column="0" />
       </file>
@@ -196,11 +166,6 @@
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/io/File.java" timestamp="1526473618719" />
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/shiro/RetryLimitPasswordMatcher.java" timestamp="1526439088591" />
-      <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/domain/File.java" timestamp="1526474306680">
-        <mark key="[" line="101" column="18" />
-        <mark key="]" line="101" column="18" />
-        <mark key="." line="101" column="18" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.5.RELEASE/spring-core-5.0.5.RELEASE.jar!/org/springframework/core/io/Resource.class" timestamp="1526522679602" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/InventoryRecordRepositoryImpl.java" timestamp="1526014789085">
         <mark key="[" line="59" column="0" />
@@ -250,18 +215,8 @@
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/equipment/List.js" timestamp="1525320727367">
         <mark key="[" line="160" column="22" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/shiro/AjaxLogoutFilter.java" timestamp="1526292206290">
-        <mark key="[" line="34" column="36" />
-        <mark key="]" line="34" column="36" />
-        <mark key="." line="34" column="36" />
-      </file>
       <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/files/File.java" timestamp="1526646865928">
         <mark key="[" line="8" column="18" />
-      </file>
-      <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/domain/Filename.java" timestamp="1526474873860">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1525326600484">
         <mark key="[" line="0" column="0" />
@@ -276,17 +231,15 @@
       <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/domain/Directory.java" timestamp="1526459060890">
         <mark key="[" line="5" column="22" />
       </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/main/resources/com/aucdi/jlsz/dao/sqlmap/DevOnlineChannelMapper.xml" timestamp="1526870810619">
+        <mark key="[" line="262" column="11" />
+      </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/distortion_monitor_system_service/UploadDataTask.java" timestamp="1526869699081" />
       <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/lems/AssetType.java" timestamp="1525424494997">
         <mark key="[" line="5" column="24" />
       </file>
       <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/domain/SymbolLink.java" timestamp="1526458945380">
         <mark key="[" line="5" column="25" />
-      </file>
-      <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/domain/FileContentStorage.java" timestamp="1526458355964">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="6" column="4" />
-        <mark key="." line="6" column="4" />
       </file>
       <file name="D:/IdeaProjects/jlsz-service/target/generated-sources/xjc/META-INF/sun-jaxb.episode" timestamp="1526552166306" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/ProjectSpecs.java" timestamp="1512357704859">
@@ -299,6 +252,7 @@
         <mark key="[" line="7" column="33" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/filter/authz/PortFilter.java" timestamp="1526288550703" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/service/impl/JlszOnlineServiceImpl.java" timestamp="1526871248012" />
       <file name="/fragment.java" timestamp="1526373660931">
         <mark key="[" line="0" column="0" />
       </file>
