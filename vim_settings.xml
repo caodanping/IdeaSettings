@@ -56,6 +56,7 @@
         <mark key="^" line="45" column="12" />
         <mark key="." line="33" column="46" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.13.RELEASE/spring-web-4.3.13.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java" timestamp="1526966926766" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/BaseEntity.java" timestamp="1525246224069">
         <mark key="[" line="12" column="79" />
       </file>
@@ -111,7 +112,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.9.4.RELEASE/spring-data-jpa-1.9.4.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/QueryDslJpaRepository.java" timestamp="1526018929914" />
       <file name="D:/IdeaProjects/lems/pom.xml" timestamp="1526287259364" />
-      <file name="D:/IdeaProjects/jlsz-data-server/src/main/resources/application.properties" timestamp="1526963882790">
+      <file name="D:/IdeaProjects/jlsz-data-server/src/main/resources/application.properties" timestamp="1526966292065">
         <mark key="[" line="0" column="57" />
       </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dao/JlszHistoricalDataDao.java" timestamp="1526282429654" />
@@ -156,6 +157,9 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.0.4.RELEASE/spring-security-core-5.0.4.RELEASE-sources.jar!/org/springframework/security/core/userdetails/UserDetails.java" timestamp="1526021111764" />
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.10/jackson-databind-2.8.10-sources.jar!/com/fasterxml/jackson/databind/ser/std/DateSerializer.java" timestamp="1526886179181" />
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dao/DevOnlineMapper.java" timestamp="1526277288665" />
+      <file name="D:/IdeaProjects/jlsz-data-server/src/main/java/com/aucdi/jlsz/util/Util.java" timestamp="1526965844973">
+        <mark key="[" line="68" column="5" />
+      </file>
       <file name="D:/IdeaProjects/spring-boot-demos/src/test/java/com/caodanping/demo/reflection/FooA.java" timestamp="1525408807827">
         <mark key="[" line="5" column="17" />
       </file>
@@ -303,7 +307,17 @@
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/model/JlszHistoricalData.java" timestamp="1526885651180" />
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/distortion_monitor_system_service/UploadDataTask.java" timestamp="1526869699081" />
       <file name="D:/IdeaProjects/jlsz-data-server/src/main/java/com/aucdi/jlsz/JlszDataServer.java" timestamp="1526959772848" />
-      <file name="D:/IdeaProjects/jlsz-data-server/src/main/java/com/aucdi/jlsz/handler/JlszDataHandler.java" timestamp="1526963855896" />
+      <file name="D:/IdeaProjects/jlsz-data-server/src/main/java/com/aucdi/jlsz/service/impl/JlszDataServiceImpl.java" timestamp="1526967233030">
+        <mark key="[" line="31" column="24" />
+        <mark key="]" line="31" column="24" />
+        <mark key="^" line="31" column="24" />
+        <mark key="." line="31" column="24" />
+      </file>
+      <file name="D:/IdeaProjects/jlsz-data-server/src/main/java/com/aucdi/jlsz/handler/JlszDataHandler.java" timestamp="1526966118007">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+      </file>
       <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/lems/AssetType.java" timestamp="1525424494997">
         <mark key="[" line="5" column="24" />
       </file>
@@ -325,7 +339,7 @@
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/ProjectSpecs.java" timestamp="1512357704859">
         <mark key="[" line="9" column="27" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/config/WebMvcConfig.java" timestamp="1526961310834">
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/config/WebMvcConfig.java" timestamp="1526965119189">
         <mark key="[" line="59" column="28" />
         <mark key="]" line="59" column="28" />
         <mark key="." line="59" column="28" />
@@ -446,47 +460,47 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>doPost</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBASnNvbkZvcm1hdChwYXR0ZXJuID0gQ29uc3RhbnRzLlJGQzMzMzlfRlVMTF9EQVRFX1RJTUUsIHNoYXBlID0gSnNvbkZvcm1hdC5TaGFwZS5TVFJJTkcsIHRpbWV6b25lID0gQ29uc3RhbnRzLkRGVF9USU1FX1pPTkUpCg==</text>
+      <register name="0" type="4">
+        <text />
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCJKTFNaIi5lcXVhbHNJZ25vcmVDYXNlKGRhdGFUeXBlKSkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IEpzb25Qcm9jZXNzaW5nRXhjZXB0aW9uKGUxKTsK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgIAogICAgQFZhbHVlKCIke2psc3ouanNvbi5kYXRlVGltZUZvcm1hdDp9IikKICAgIHByaXZhdGUgU3RyaW5nIGpzb25EYXRlVGltZUZvcm1hdDs=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>if (_serializers == null) {
             _serializers = new SimpleSerializers();
         }
         _serializers.addSerializer(ser);
         return this;</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICA8c2VsZWN0IGlkPSJzZWxlY3RFeHRlcm5hbFByb2plY3RzIiByZXN1bHRNYXA9IkJhc2VSZXN1bHRNYXAiPgogICAgU0VMRUNUCiAgICAgIDxpbmNsdWRlIHJlZmlkPSJCYXNlX0NvbHVtbl9MaXN0IiAvPgogICAgRlJPTSBwcm9qZWN0CiAgICBXSEVSRSBpc19leHRlcm5hbF9wcm9qID0gMSBBTkQgaXNfZGVsZXRlZCA9IDAKICA8L3NlbGVjdD4=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CTxidWlsZD4KCQk8cGx1Z2lucz4KCQkJPHBsdWdpbj4KCQkJCTxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPnNwcmluZy1ib290LW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkJCTxkZXBlbmRlbmNpZXM+CgkJCQkJPGRlcGVuZGVuY3k+CgkJCQkJCTxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcms8L2dyb3VwSWQ+CgkJCQkJCTxhcnRpZmFjdElkPnNwcmluZ2xvYWRlZDwvYXJ0aWZhY3RJZD4KCQkJCQkJPHZlcnNpb24+MS4yLjguUkVMRUFTRTwvdmVyc2lvbj4KCQkJCQk8L2RlcGVuZGVuY3k+CgkJCQk8L2RlcGVuZGVuY2llcz4KCQkJPC9wbHVnaW4+CgkJCTxwbHVnaW4+CgkJCQk8Z3JvdXBJZD5vcmcubXliYXRpcy5nZW5lcmF0b3I8L2dyb3VwSWQ+CgkJCQk8YXJ0aWZhY3RJZD5teWJhdGlzLWdlbmVyYXRvci1tYXZlbi1wbHVnaW48L2FydGlmYWN0SWQ+CgkJCQk8dmVyc2lvbj4xLjMuNjwvdmVyc2lvbj4KCQkJCTxjb25maWd1cmF0aW9uPgoJCQkJCTxpbmNsdWRlQWxsRGVwZW5kZW5jaWVzPnRydWU8L2luY2x1ZGVBbGxEZXBlbmRlbmNpZXM+CgkJCQkJPG92ZXJ3cml0ZT50cnVlPC9vdmVyd3JpdGU+CgkJCQk8L2NvbmZpZ3VyYXRpb24+CgkJCTwvcGx1Z2luPgoJCQk8IS0tIHRhZzo6d3NkbFtdIC0tPgoJCQk8cGx1Z2luPgoJCQkJPGdyb3VwSWQ+b3JnLmp2bmV0LmpheGIyLm1hdmVuMjwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPm1hdmVuLWpheGIyLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkJCTx2ZXJzaW9uPjAuMTMuMTwvdmVyc2lvbj4KCQkJCTxleGVjdXRpb25zPgoJCQkJCTxleGVjdXRpb24+CgkJCQkJCTxnb2Fscz4KCQkJCQkJCTxnb2FsPmdlbmVyYXRlPC9nb2FsPgoJCQkJCQk8L2dvYWxzPgoJCQkJCTwvZXhlY3V0aW9uPgoJCQkJPC9leGVjdXRpb25zPgoJCQkJPGNvbmZpZ3VyYXRpb24+CgkJCQkJPHNjaGVtYUxhbmd1YWdlPldTREw8L3NjaGVtYUxhbmd1YWdlPgoJCQkJCTxnZW5lcmF0ZVBhY2thZ2U+Y29tLmF1Y2RpLmRpc3RvcnRpb25fbW9uaXRvci53czwvZ2VuZXJhdGVQYWNrYWdlPgoJCQkJCTxzY2hlbWFzPgoJCQkJCQk8c2NoZW1hPgoJCQkJCQkJPHVybD5odHRwOi8vbG9jYWxob3N0OjgwODAvZGlzdG9ydGlvbi1tb25pdG9yL3dlYnNlcnZpY2UvcHJvamVjdFdlYlNlcnZpY2U/d3NkbDwvdXJsPgoJCQkJCQk8L3NjaGVtYT4KCQkJCQk8L3NjaGVtYXM+CgkJCQk8L2NvbmZpZ3VyYXRpb24+CgkJCTwvcGx1Z2luPgoJCQk8IS0tIGVuZDo6d3NkbFtdIC0tPgoJCTwvcGx1Z2lucz4KCTwvYnVpbGQ+CjwvcHJvamVjdD4=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgIAogICAgcHVibGljIGJvb2xlYW4gaXNBYnNvbHV0ZSgpIHsKICAgICAgICByZXR1cm4gZmlsZW5hbWUuc3RhcnRzV2l0aChST09UX1BBVEgpOwogICAgfQ==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgIH0sCiAgICAgICAgU1lNQk9MX0xJTksgewogICAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
