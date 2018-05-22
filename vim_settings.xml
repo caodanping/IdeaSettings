@@ -147,8 +147,11 @@
         <mark key="^" line="12" column="28" />
         <mark key="." line="12" column="28" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/test/java/com/aucdi/jlsz/JacksonTests.java" timestamp="1526898957613">
-        <mark key="[" line="16" column="108" />
+      <file name="D:/IdeaProjects/jlsz-service/src/test/java/com/aucdi/jlsz/JacksonTests.java" timestamp="1526951278415">
+        <mark key="[" line="33" column="94" />
+        <mark key="]" line="46" column="96" />
+        <mark key="^" line="46" column="96" />
+        <mark key="." line="46" column="96" />
       </file>
       <file name="D:/IdeaProjects/eis-parent/ecm/pom.xml" timestamp="1526523380946">
         <mark key="[" line="58" column="21" />
@@ -375,7 +378,7 @@
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/ProjectSpecs.java" timestamp="1512357704859">
         <mark key="[" line="9" column="27" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/config/WebMvcConfig.java" timestamp="1526898876571">
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/config/WebMvcConfig.java" timestamp="1526951047663">
         <mark key="[" line="57" column="49" />
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
@@ -501,11 +504,11 @@
       <jump line="22" column="57" filename="D:/IdeaProjects/jlsz-service/src/main/resources/com/aucdi/jlsz/dao/sqlmap/DevOnlineChannelMapper.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IEpzb25Qcm9jZXNzaW5nRXhjZXB0aW9uKGUxKTsK</text>
+      <register name="&quot;" type="4">
+        <text>RFC3339_DATE_TIME</text>
       </register>
       <register name="-" type="4">
-        <text>util</text>
+        <text>RFC3339_DATE_TIME</text>
       </register>
       <register name="/" type="4">
         <text>doPost</text>
