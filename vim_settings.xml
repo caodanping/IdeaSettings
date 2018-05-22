@@ -10,12 +10,6 @@
         <mark key="[" line="5" column="26" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/filter/authc/UserFilter.java" timestamp="1526366693415" />
-      <file name="/a.dummy" timestamp="1526884666773">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.10/jackson-databind-2.8.10-sources.jar!/com/fasterxml/jackson/databind/JsonDeserializer.java" timestamp="1526898570163" />
       <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/domain/FileContent.java" timestamp="1526625957629">
         <mark key="[" line="8" column="22" />
@@ -288,7 +282,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525326600484">
+      <file name="/Dummy.txt" timestamp="1526959786462">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/reflection/ReflectionException.java" timestamp="1525397290030">
@@ -312,6 +306,7 @@
       </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/model/JlszHistoricalData.java" timestamp="1526885651180" />
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/distortion_monitor_system_service/UploadDataTask.java" timestamp="1526869699081" />
+      <file name="D:/IdeaProjects/jlsz-data-server/src/main/java/com/aucdi/jlsz/JlszDataServer.java" timestamp="1526959772848" />
       <file name="D:/IdeaProjects/jlsz-data-server/src/main/java/com/aucdi/jlsz/handler/JlszDataHandler.java" timestamp="1526957830665" />
       <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/lems/AssetType.java" timestamp="1525424494997">
         <mark key="[" line="5" column="24" />
@@ -344,7 +339,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/filter/authz/PortFilter.java" timestamp="1526288550703" />
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/service/impl/JlszOnlineServiceImpl.java" timestamp="1526871248012" />
-      <file name="/fragment.java" timestamp="1526884666793">
+      <file name="/fragment.java" timestamp="1526959786435">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/lems/AssetEntry.java" timestamp="1525429596967">
