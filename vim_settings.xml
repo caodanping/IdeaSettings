@@ -98,7 +98,7 @@
         <mark key="]" line="60" column="128" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="D:/IdeaProjects/tdd-demo/src/test/java/com/caodanping/tdd/ch1/MoneyTest.java" timestamp="1526985107837">
+      <file name="D:/IdeaProjects/tdd-demo/src/test/java/com/caodanping/tdd/ch1/MoneyTest.java" timestamp="1526992483724">
         <mark key="[" line="29" column="22" />
         <mark key="]" line="29" column="22" />
         <mark key="^" line="27" column="7" />
@@ -130,11 +130,11 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="49" column="53" />
       </file>
-      <file name="D:/IdeaProjects/tdd-demo/src/main/java/com/caodanping/tdd/ch1/Money.java" timestamp="1526986978632">
-        <mark key="[" line="30" column="18" />
-        <mark key="]" line="30" column="18" />
-        <mark key="." line="30" column="18" />
-        <mark key="^" line="30" column="22" />
+      <file name="D:/IdeaProjects/tdd-demo/src/main/java/com/caodanping/tdd/ch1/Money.java" timestamp="1526992283949">
+        <mark key="[" line="39" column="18" />
+        <mark key="]" line="39" column="18" />
+        <mark key="." line="39" column="18" />
+        <mark key="^" line="39" column="21" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentInventorySpecs.java" timestamp="1525320601612">
         <mark key="[" line="68" column="38" />
@@ -517,10 +517,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">RG9sbGFyIA==</text>
+        <text encoding="base64">IEZyYW5r</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RG9sbGFyIA==</text>
+        <text encoding="base64">IEZyYW5r</text>
       </register>
       <register name="/" type="4">
         <text>doPost</text>
