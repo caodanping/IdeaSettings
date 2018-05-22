@@ -9,7 +9,13 @@
       <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/aaa/AuthManager.java" timestamp="1526020325846">
         <mark key="[" line="5" column="26" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/filter/authc/UserFilter.java" timestamp="1526968976590" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/filter/authc/UserFilter.java" timestamp="1526971527118" />
+      <file name="/a.dummy" timestamp="1526970666646">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.10/jackson-databind-2.8.10-sources.jar!/com/fasterxml/jackson/databind/JsonDeserializer.java" timestamp="1526898570163" />
       <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/domain/FileContent.java" timestamp="1526625957629">
         <mark key="[" line="8" column="22" />
@@ -46,7 +52,7 @@
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchInputDto.java" timestamp="1513073245223">
         <mark key="[" line="9" column="31" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/config/ShiroConfig.java" timestamp="1526969594100">
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/config/ShiroConfig.java" timestamp="1526970053342">
         <mark key="[" line="92" column="52" />
         <mark key="]" line="186" column="27" />
         <mark key="." line="186" column="27" />
@@ -103,7 +109,7 @@
         <mark key="." line="17" column="21" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23-sources.jar!/org/apache/catalina/servlets/WebdavServlet.java" timestamp="1526615136519" />
-      <file name="D:/IdeaProjects/jlsz-data-server/src/main/java/com/aucdi/jlsz/config/AppConfig.java" timestamp="1526968630050">
+      <file name="D:/IdeaProjects/jlsz-data-server/src/main/java/com/aucdi/jlsz/config/AppConfig.java" timestamp="1526973390335">
         <mark key="[" line="49" column="24" />
         <mark key="]" line="49" column="24" />
         <mark key="." line="49" column="24" />
@@ -140,7 +146,7 @@
       </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dao/JlszHistoricalDataDao.java" timestamp="1526282429654" />
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/model/ExternalVerticalShift.java" timestamp="1526875547632" />
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/shiro/AjaxAuthenticationFilter.java" timestamp="1526969118435">
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/shiro/AjaxAuthenticationFilter.java" timestamp="1526971864786">
         <mark key="[" line="82" column="23" />
         <mark key="]" line="82" column="23" />
         <mark key="." line="82" column="23" />
@@ -151,6 +157,12 @@
         <mark key="]" line="12" column="28" />
         <mark key="^" line="12" column="28" />
         <mark key="." line="12" column="28" />
+      </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/shiro/AjaxUserFilter.java" timestamp="1526973297101">
+        <mark key="[" line="24" column="3" />
+        <mark key="]" line="24" column="3" />
+        <mark key="." line="24" column="3" />
+        <mark key="^" line="24" column="17" />
       </file>
       <file name="D:/IdeaProjects/jlsz-service/src/test/java/com/aucdi/jlsz/JacksonTests.java" timestamp="1526951278415">
         <mark key="[" line="33" column="94" />
@@ -178,9 +190,12 @@
         <mark key="." line="92" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.1.2.Final/hibernate-core-5.1.2.Final-sources.jar!/org/hibernate/boot/internal/SessionFactoryOptionsImpl.java" timestamp="1526011102897" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/filter/authc/AuthenticatingFilter.java" timestamp="1526969517693" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/filter/authc/AuthenticatingFilter.java" timestamp="1526972064303" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.0.4.RELEASE/spring-security-core-5.0.4.RELEASE-sources.jar!/org/springframework/security/core/userdetails/UserDetails.java" timestamp="1526021111764" />
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.10/jackson-databind-2.8.10-sources.jar!/com/fasterxml/jackson/databind/ser/std/DateSerializer.java" timestamp="1526886179181" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/shiro/BasicAuthFilter.java" timestamp="1526970391585">
+        <mark key="[" line="11" column="28" />
+      </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dao/DevOnlineMapper.java" timestamp="1526277288665" />
       <file name="D:/IdeaProjects/jlsz-data-server/src/main/java/com/aucdi/jlsz/util/Util.java" timestamp="1526965844973">
         <mark key="[" line="68" column="5" />
@@ -214,7 +229,7 @@
       <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/lems/AssetCatolog.java" timestamp="1525424086932">
         <mark key="[" line="5" column="27" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/filter/authc/FormAuthenticationFilter.java" timestamp="1526969483644" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/filter/authc/FormAuthenticationFilter.java" timestamp="1526972113886" />
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/realm/jdbc/JdbcRealm.java" timestamp="1526381239055" />
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/command/UploadAllCommand.java" timestamp="1526884767975">
         <mark key="[" line="233" column="0" />
@@ -308,9 +323,9 @@
       </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/service/impl/JlszDataServiceImpl.java" timestamp="1526969792616">
         <mark key="[" line="82" column="41" />
-        <mark key="]" line="147" column="15" />
-        <mark key="." line="147" column="15" />
-        <mark key="^" line="147" column="13" />
+        <mark key="]" line="148" column="15" />
+        <mark key="." line="148" column="15" />
+        <mark key="^" line="148" column="13" />
       </file>
       <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/application/FileService.java" timestamp="1526612540328">
         <mark key="[" line="10" column="11" />
@@ -318,6 +333,7 @@
         <mark key="^" line="10" column="10" />
         <mark key="." line="10" column="10" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/filter/AccessControlFilter.java" timestamp="1526971068554" />
       <file name="D:/IdeaProjects/spring-boot-demos/src/test/java/com/caodanping/demo/reflection/Foo.java" timestamp="1525413960975">
         <mark key="[" line="53" column="5" />
         <mark key="]" line="48" column="35" />
@@ -325,11 +341,11 @@
         <mark key="." line="48" column="35" />
       </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/distortion_monitor_system_service/TVerticalShift.java" timestamp="1526550640560" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/filter/authc/AuthenticationFilter.java" timestamp="1526969197523" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/filter/authc/AuthenticationFilter.java" timestamp="1526971513062" />
       <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/equipment/List.js" timestamp="1525320727367">
         <mark key="[" line="160" column="22" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/shiro/AjaxLogoutFilter.java" timestamp="1526292206290">
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/shiro/AjaxLogoutFilter.java" timestamp="1526970032287">
         <mark key="[" line="34" column="36" />
         <mark key="]" line="34" column="36" />
         <mark key="." line="34" column="36" />
@@ -526,10 +542,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>admin</text>
+        <text>uuuuuuuuuuuuucauu</text>
       </register>
       <register name="-" type="4">
-        <text>admin</text>
+        <text>uuuuuuuuuuuuucauu</text>
       </register>
       <register name="/" type="4">
         <text>doPost</text>
@@ -538,38 +554,38 @@
         <text />
       </register>
       <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICBIdHRwU2VydmxldFJlcXVlc3QgcmVxID0gKEh0dHBTZXJ2bGV0UmVxdWVzdCkgcmVxdWVzdDsKICAgICAgICBpZiAoIkJhc2ljIi5lcXVhbHMocmVxLmdldEF1dGhUeXBlKCkpKSB7CiAgICAgICAgICAgIAogICAgICAgIH0=</text>
+      </register>
+      <register name="2" type="4">
         <text>HttpHeaders httpHeaders() {
                 HttpHeaders headers = new HttpHeaders();
                 return headers;
             }</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgICAgICAgICAgSHR0cEhlYWRlcnMgaGVhZGVycyA9IG5ldyBIdHRwSGVhZGVycygpOwogICAgICAgICAgICBoZWFkZXJzLnB1dCgiIik=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCJKTFNaIi5lcXVhbHNJZ25vcmVDYXNlKGRhdGFUeXBlKSkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IEpzb25Qcm9jZXNzaW5nRXhjZXB0aW9uKGUxKTsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgIAogICAgQFZhbHVlKCIke2psc3ouanNvbi5kYXRlVGltZUZvcm1hdDp9IikKICAgIHByaXZhdGUgU3RyaW5nIGpzb25EYXRlVGltZUZvcm1hdDs=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>if (_serializers == null) {
             _serializers = new SimpleSerializers();
         }
         _serializers.addSerializer(ser);
         return this;</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICA8c2VsZWN0IGlkPSJzZWxlY3RFeHRlcm5hbFByb2plY3RzIiByZXN1bHRNYXA9IkJhc2VSZXN1bHRNYXAiPgogICAgU0VMRUNUCiAgICAgIDxpbmNsdWRlIHJlZmlkPSJCYXNlX0NvbHVtbl9MaXN0IiAvPgogICAgRlJPTSBwcm9qZWN0CiAgICBXSEVSRSBpc19leHRlcm5hbF9wcm9qID0gMSBBTkQgaXNfZGVsZXRlZCA9IDAKICA8L3NlbGVjdD4=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CTxidWlsZD4KCQk8cGx1Z2lucz4KCQkJPHBsdWdpbj4KCQkJCTxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPnNwcmluZy1ib290LW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkJCTxkZXBlbmRlbmNpZXM+CgkJCQkJPGRlcGVuZGVuY3k+CgkJCQkJCTxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcms8L2dyb3VwSWQ+CgkJCQkJCTxhcnRpZmFjdElkPnNwcmluZ2xvYWRlZDwvYXJ0aWZhY3RJZD4KCQkJCQkJPHZlcnNpb24+MS4yLjguUkVMRUFTRTwvdmVyc2lvbj4KCQkJCQk8L2RlcGVuZGVuY3k+CgkJCQk8L2RlcGVuZGVuY2llcz4KCQkJPC9wbHVnaW4+CgkJCTxwbHVnaW4+CgkJCQk8Z3JvdXBJZD5vcmcubXliYXRpcy5nZW5lcmF0b3I8L2dyb3VwSWQ+CgkJCQk8YXJ0aWZhY3RJZD5teWJhdGlzLWdlbmVyYXRvci1tYXZlbi1wbHVnaW48L2FydGlmYWN0SWQ+CgkJCQk8dmVyc2lvbj4xLjMuNjwvdmVyc2lvbj4KCQkJCTxjb25maWd1cmF0aW9uPgoJCQkJCTxpbmNsdWRlQWxsRGVwZW5kZW5jaWVzPnRydWU8L2luY2x1ZGVBbGxEZXBlbmRlbmNpZXM+CgkJCQkJPG92ZXJ3cml0ZT50cnVlPC9vdmVyd3JpdGU+CgkJCQk8L2NvbmZpZ3VyYXRpb24+CgkJCTwvcGx1Z2luPgoJCQk8IS0tIHRhZzo6d3NkbFtdIC0tPgoJCQk8cGx1Z2luPgoJCQkJPGdyb3VwSWQ+b3JnLmp2bmV0LmpheGIyLm1hdmVuMjwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPm1hdmVuLWpheGIyLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkJCTx2ZXJzaW9uPjAuMTMuMTwvdmVyc2lvbj4KCQkJCTxleGVjdXRpb25zPgoJCQkJCTxleGVjdXRpb24+CgkJCQkJCTxnb2Fscz4KCQkJCQkJCTxnb2FsPmdlbmVyYXRlPC9nb2FsPgoJCQkJCQk8L2dvYWxzPgoJCQkJCTwvZXhlY3V0aW9uPgoJCQkJPC9leGVjdXRpb25zPgoJCQkJPGNvbmZpZ3VyYXRpb24+CgkJCQkJPHNjaGVtYUxhbmd1YWdlPldTREw8L3NjaGVtYUxhbmd1YWdlPgoJCQkJCTxnZW5lcmF0ZVBhY2thZ2U+Y29tLmF1Y2RpLmRpc3RvcnRpb25fbW9uaXRvci53czwvZ2VuZXJhdGVQYWNrYWdlPgoJCQkJCTxzY2hlbWFzPgoJCQkJCQk8c2NoZW1hPgoJCQkJCQkJPHVybD5odHRwOi8vbG9jYWxob3N0OjgwODAvZGlzdG9ydGlvbi1tb25pdG9yL3dlYnNlcnZpY2UvcHJvamVjdFdlYlNlcnZpY2U/d3NkbDwvdXJsPgoJCQkJCQk8L3NjaGVtYT4KCQkJCQk8L3NjaGVtYXM+CgkJCQk8L2NvbmZpZ3VyYXRpb24+CgkJCTwvcGx1Z2luPgoJCQk8IS0tIGVuZDo6d3NkbFtdIC0tPgoJCTwvcGx1Z2lucz4KCTwvYnVpbGQ+CjwvcHJvamVjdD4=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgIAogICAgcHVibGljIGJvb2xlYW4gaXNBYnNvbHV0ZSgpIHsKICAgICAgICByZXR1cm4gZmlsZW5hbWUuc3RhcnRzV2l0aChST09UX1BBVEgpOwogICAgfQ==</text>
+        <text encoding="base64">CTxidWlsZD4KCQk8cGx1Z2lucz4KCQkJPHBsdWdpbj4KCQkJCTxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPnNwcmluZy1ib290LW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkJCTxkZXBlbmRlbmNpZXM+CgkJCQkJPGRlcGVuZGVuY3k+CgkJCQkJCTxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcms8L2dyb3VwSWQ+CgkJCQkJCTxhcnRpZmFjdElkPnNwcmluZ2xvYWRlZDwvYXJ0aWZhY3RJZD4KCQkJCQkJPHZlcnNpb24+MS4yLjguUkVMRUFTRTwvdmVyc2lvbj4KCQkJCQk8L2RlcGVuZGVuY3k+CgkJCQk8L2RlcGVuZGVuY2llcz4KCQkJPC9wbHVnaW4+CgkJCTxwbHVnaW4+CgkJCQk8Z3JvdXBJZD5vcmcubXliYXRpcy5nZW5lcmF0b3I8L2dyb3VwSWQ+CgkJCQk8YXJ0aWZhY3RJZD5teWJhdGlzLWdlbmVyYXRvci1tYXZlbi1wbHVnaW48L2FydGlmYWN0SWQ+CgkJCQk8dmVyc2lvbj4xLjMuNjwvdmVyc2lvbj4KCQkJCTxjb25maWd1cmF0aW9uPgoJCQkJCTxpbmNsdWRlQWxsRGVwZW5kZW5jaWVzPnRydWU8L2luY2x1ZGVBbGxEZXBlbmRlbmNpZXM+CgkJCQkJPG92ZXJ3cml0ZT50cnVlPC9vdmVyd3JpdGU+CgkJCQk8L2NvbmZpZ3VyYXRpb24+CgkJCTwvcGx1Z2luPgoJCQk8IS0tIHRhZzo6d3NkbFtdIC0tPgoJCQk8cGx1Z2luPgoJCQkJPGdyb3VwSWQ+b3JnLmp2bmV0LmpheGIyLm1hdmVuMjwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPm1hdmVuLWpheGIyLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkJCTx2ZXJzaW9uPjAuMTMuMTwvdmVyc2lvbj4KCQkJCTxleGVjdXRpb25zPgoJCQkJCTxleGVjdXRpb24+CgkJCQkJCTxnb2Fscz4KCQkJCQkJCTxnb2FsPmdlbmVyYXRlPC9nb2FsPgoJCQkJCQk8L2dvYWxzPgoJCQkJCTwvZXhlY3V0aW9uPgoJCQkJPC9leGVjdXRpb25zPgoJCQkJPGNvbmZpZ3VyYXRpb24+CgkJCQkJPHNjaGVtYUxhbmd1YWdlPldTREw8L3NjaGVtYUxhbmd1YWdlPgoJCQkJCTxnZW5lcmF0ZVBhY2thZ2U+Y29tLmF1Y2RpLmRpc3RvcnRpb25fbW9uaXRvci53czwvZ2VuZXJhdGVQYWNrYWdlPgoJCQkJCTxzY2hlbWFzPgoJCQkJCQk8c2NoZW1hPgoJCQkJCQkJPHVybD5odHRwOi8vbG9jYWxob3N0OjgwODAvZGlzdG9ydGlvbi1tb25pdG9yL3dlYnNlcnZpY2UvcHJvamVjdFdlYlNlcnZpY2U/d3NkbDwvdXJsPgoJCQkJCQk8L3NjaGVtYT4KCQkJCQk8L3NjaGVtYXM+CgkJCQk8L2NvbmZpZ3VyYXRpb24+CgkJCTwvcGx1Z2luPgoJCQk8IS0tIGVuZDo6d3NkbFtdIC0tPgoJCTwvcGx1Z2lucz4KCTwvYnVpbGQ+CjwvcHJvamVjdD4=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
