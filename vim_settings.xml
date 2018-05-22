@@ -10,7 +10,7 @@
         <mark key="[" line="5" column="26" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/filter/authc/UserFilter.java" timestamp="1526971527118" />
-      <file name="/a.dummy" timestamp="1526976986676">
+      <file name="/a.dummy" timestamp="1526984367348">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -45,6 +45,12 @@
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchInputDto.java" timestamp="1513073245223">
         <mark key="[" line="9" column="31" />
+      </file>
+      <file name="D:/IdeaProjects/tdd-demo/src/main/java/com/caodanping/tdd/ch1/Frank.java" timestamp="1526986343119">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="11" column="25" />
+        <mark key="." line="11" column="25" />
+        <mark key="^" line="13" column="0" />
       </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/config/ShiroConfig.java" timestamp="1526970053342">
         <mark key="[" line="92" column="52" />
@@ -86,16 +92,17 @@
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/shiro/WebUtils.java" timestamp="1526364065796">
         <mark key="[" line="13" column="59" />
       </file>
-      <file name="D:/IdeaProjects/tdd-demo/src/main/java/com/caodanping/tdd/ch1/Dollar.java" timestamp="1526981105639">
-        <mark key="[" line="5" column="21" />
-      </file>
+      <file name="D:/IdeaProjects/tdd-demo/src/main/java/com/caodanping/tdd/ch1/Dollar.java" timestamp="1526986374639" />
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dto/DevOnlineChannelDto.java" timestamp="1526885498884">
         <mark key="[" line="59" column="38" />
         <mark key="]" line="60" column="128" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="D:/IdeaProjects/tdd-demo/src/test/java/com/caodanping/tdd/ch1/MoneyTest.java" timestamp="1526980926946">
-        <mark key="[" line="9" column="24" />
+      <file name="D:/IdeaProjects/tdd-demo/src/test/java/com/caodanping/tdd/ch1/MoneyTest.java" timestamp="1526985107837">
+        <mark key="[" line="29" column="22" />
+        <mark key="]" line="29" column="22" />
+        <mark key="^" line="27" column="7" />
+        <mark key="." line="29" column="22" />
       </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/distortion_monitor_system_service/VerticalDisplacement.java" timestamp="1525744758745">
         <mark key="[" line="5" column="35" />
@@ -122,6 +129,12 @@
         <mark key="]" line="50" column="119" />
         <mark key="." line="49" column="0" />
         <mark key="^" line="49" column="53" />
+      </file>
+      <file name="D:/IdeaProjects/tdd-demo/src/main/java/com/caodanping/tdd/ch1/Money.java" timestamp="1526986978632">
+        <mark key="[" line="30" column="18" />
+        <mark key="]" line="30" column="18" />
+        <mark key="." line="30" column="18" />
+        <mark key="^" line="30" column="22" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentInventorySpecs.java" timestamp="1525320601612">
         <mark key="[" line="68" column="38" />
@@ -330,7 +343,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526959786462">
+      <file name="/Dummy.txt" timestamp="1526986002835">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/reflection/ReflectionException.java" timestamp="1525397290030">
@@ -393,7 +406,7 @@
         <mark key="[" line="83" column="51" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/servlet/OncePerRequestFilter.java" timestamp="1526969292436" />
-      <file name="/fragment.java" timestamp="1526975284496">
+      <file name="/fragment.java" timestamp="1526986002839">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/lems/AssetEntry.java" timestamp="1525429596967">
@@ -504,50 +517,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>jlsz</text>
+        <text encoding="base64">RG9sbGFyIA==</text>
       </register>
       <register name="-" type="4">
-        <text>jlsz</text>
+        <text encoding="base64">RG9sbGFyIA==</text>
       </register>
       <register name="/" type="4">
         <text>doPost</text>
       </register>
-      <register name="0" type="4">
-        <text />
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKG5ldyBEb2xsYXIoNSkuZXF1YWxzKG5ldyBEb2xsYXIoNSkpKTsKICAgICAgICBhc3NlcnRGYWxzZShuZXcgRG9sbGFyKDUpLmVxdWFscyhuZXcgRG9sbGFyKDYpKSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICBIdHRwU2VydmxldFJlcXVlc3QgcmVxID0gKEh0dHBTZXJ2bGV0UmVxdWVzdCkgcmVxdWVzdDsKICAgICAgICBpZiAoIkJhc2ljIi5lcXVhbHMocmVxLmdldEF1dGhUeXBlKCkpKSB7CiAgICAgICAgICAgIAogICAgICAgIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="2" type="4">
-        <text>HttpHeaders httpHeaders() {
-                HttpHeaders headers = new HttpHeaders();
-                return headers;
-            }</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgSHR0cEhlYWRlcnMgaGVhZGVycyA9IG5ldyBIdHRwSGVhZGVycygpOwogICAgICAgICAgICBoZWFkZXJzLnB1dCgiIik=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCJKTFNaIi5lcXVhbHNJZ25vcmVDYXNlKGRhdGFUeXBlKSkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IEpzb25Qcm9jZXNzaW5nRXhjZXB0aW9uKGUxKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuaGFzaENvZGUoKSA9PSBmcmFuay5oYXNoQ29kZSgpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIAogICAgQFZhbHVlKCIke2psc3ouanNvbi5kYXRlVGltZUZvcm1hdDp9IikKICAgIHByaXZhdGUgU3RyaW5nIGpzb25EYXRlVGltZUZvcm1hdDs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>if (_serializers == null) {
-            _serializers = new SimpleSerializers();
-        }
-        _serializers.addSerializer(ser);
-        return this;</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBNb25leSBmcmFuayA9IChNb25leSkgbzsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICA8c2VsZWN0IGlkPSJzZWxlY3RFeHRlcm5hbFByb2plY3RzIiByZXN1bHRNYXA9IkJhc2VSZXN1bHRNYXAiPgogICAgU0VMRUNUCiAgICAgIDxpbmNsdWRlIHJlZmlkPSJCYXNlX0NvbHVtbl9MaXN0IiAvPgogICAgRlJPTSBwcm9qZWN0CiAgICBXSEVSRSBpc19leHRlcm5hbF9wcm9qID0gMSBBTkQgaXNfZGVsZXRlZCA9IDAKICA8L3NlbGVjdD4=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CTxidWlsZD4KCQk8cGx1Z2lucz4KCQkJPHBsdWdpbj4KCQkJCTxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPnNwcmluZy1ib290LW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkJCTxkZXBlbmRlbmNpZXM+CgkJCQkJPGRlcGVuZGVuY3k+CgkJCQkJCTxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcms8L2dyb3VwSWQ+CgkJCQkJCTxhcnRpZmFjdElkPnNwcmluZ2xvYWRlZDwvYXJ0aWZhY3RJZD4KCQkJCQkJPHZlcnNpb24+MS4yLjguUkVMRUFTRTwvdmVyc2lvbj4KCQkJCQk8L2RlcGVuZGVuY3k+CgkJCQk8L2RlcGVuZGVuY2llcz4KCQkJPC9wbHVnaW4+CgkJCTxwbHVnaW4+CgkJCQk8Z3JvdXBJZD5vcmcubXliYXRpcy5nZW5lcmF0b3I8L2dyb3VwSWQ+CgkJCQk8YXJ0aWZhY3RJZD5teWJhdGlzLWdlbmVyYXRvci1tYXZlbi1wbHVnaW48L2FydGlmYWN0SWQ+CgkJCQk8dmVyc2lvbj4xLjMuNjwvdmVyc2lvbj4KCQkJCTxjb25maWd1cmF0aW9uPgoJCQkJCTxpbmNsdWRlQWxsRGVwZW5kZW5jaWVzPnRydWU8L2luY2x1ZGVBbGxEZXBlbmRlbmNpZXM+CgkJCQkJPG92ZXJ3cml0ZT50cnVlPC9vdmVyd3JpdGU+CgkJCQk8L2NvbmZpZ3VyYXRpb24+CgkJCTwvcGx1Z2luPgoJCQk8IS0tIHRhZzo6d3NkbFtdIC0tPgoJCQk8cGx1Z2luPgoJCQkJPGdyb3VwSWQ+b3JnLmp2bmV0LmpheGIyLm1hdmVuMjwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPm1hdmVuLWpheGIyLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkJCTx2ZXJzaW9uPjAuMTMuMTwvdmVyc2lvbj4KCQkJCTxleGVjdXRpb25zPgoJCQkJCTxleGVjdXRpb24+CgkJCQkJCTxnb2Fscz4KCQkJCQkJCTxnb2FsPmdlbmVyYXRlPC9nb2FsPgoJCQkJCQk8L2dvYWxzPgoJCQkJCTwvZXhlY3V0aW9uPgoJCQkJPC9leGVjdXRpb25zPgoJCQkJPGNvbmZpZ3VyYXRpb24+CgkJCQkJPHNjaGVtYUxhbmd1YWdlPldTREw8L3NjaGVtYUxhbmd1YWdlPgoJCQkJCTxnZW5lcmF0ZVBhY2thZ2U+Y29tLmF1Y2RpLmRpc3RvcnRpb25fbW9uaXRvci53czwvZ2VuZXJhdGVQYWNrYWdlPgoJCQkJCTxzY2hlbWFzPgoJCQkJCQk8c2NoZW1hPgoJCQkJCQkJPHVybD5odHRwOi8vbG9jYWxob3N0OjgwODAvZGlzdG9ydGlvbi1tb25pdG9yL3dlYnNlcnZpY2UvcHJvamVjdFdlYlNlcnZpY2U/d3NkbDwvdXJsPgoJCQkJCQk8L3NjaGVtYT4KCQkJCQk8L3NjaGVtYXM+CgkJCQk8L2NvbmZpZ3VyYXRpb24+CgkJCTwvcGx1Z2luPgoJCQk8IS0tIGVuZDo6d3NkbFtdIC0tPgoJCTwvcGx1Z2lucz4KCTwvYnVpbGQ+CjwvcHJvamVjdD4=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobyA9PSBudWxsIHx8IGdldENsYXNzKCkgIT0gby5nZXRDbGFzcygpKSByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
