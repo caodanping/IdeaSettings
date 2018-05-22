@@ -111,6 +111,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.9.4.RELEASE/spring-data-jpa-1.9.4.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/QueryDslJpaRepository.java" timestamp="1526018929914" />
       <file name="D:/IdeaProjects/lems/pom.xml" timestamp="1526287259364" />
+      <file name="D:/IdeaProjects/jlsz-data-server/src/main/resources/application.properties" timestamp="1526963882790">
+        <mark key="[" line="0" column="57" />
+      </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dao/JlszHistoricalDataDao.java" timestamp="1526282429654" />
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/model/ExternalVerticalShift.java" timestamp="1526875547632" />
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/shiro/AjaxAuthenticationFilter.java" timestamp="1526375369498">
@@ -297,17 +300,10 @@
       <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/domain/Directory.java" timestamp="1526459060890">
         <mark key="[" line="5" column="22" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/resources/com/aucdi/jlsz/dao/sqlmap/DevOnlineChannelMapper.xml" timestamp="1526885157508">
-        <mark key="'" line="22" column="57" />
-        <mark key="[" line="268" column="68" />
-        <mark key="]" line="268" column="71" />
-        <mark key="^" line="268" column="71" />
-        <mark key="." line="268" column="71" />
-      </file>
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/model/JlszHistoricalData.java" timestamp="1526885651180" />
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/distortion_monitor_system_service/UploadDataTask.java" timestamp="1526869699081" />
       <file name="D:/IdeaProjects/jlsz-data-server/src/main/java/com/aucdi/jlsz/JlszDataServer.java" timestamp="1526959772848" />
-      <file name="D:/IdeaProjects/jlsz-data-server/src/main/java/com/aucdi/jlsz/handler/JlszDataHandler.java" timestamp="1526957830665" />
+      <file name="D:/IdeaProjects/jlsz-data-server/src/main/java/com/aucdi/jlsz/handler/JlszDataHandler.java" timestamp="1526963855896" />
       <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/lems/AssetType.java" timestamp="1525424494997">
         <mark key="[" line="5" column="24" />
       </file>
