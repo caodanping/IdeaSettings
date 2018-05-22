@@ -61,6 +61,7 @@
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/base/Constants.java" timestamp="1526884315620">
         <mark key="[" line="5" column="24" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.3.1/mybatis-spring-boot-autoconfigure-1.3.1-sources.jar!/org/mybatis/spring/boot/autoconfigure/MybatisProperties.java" timestamp="1526953553911" />
       <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/rest/TestController.java" timestamp="1526370536403">
         <mark key="[" line="20" column="15" />
       </file>
@@ -179,6 +180,7 @@
       <file name="D:/IdeaProjects/spring-boot-demos/src/test/java/com/caodanping/demo/reflection/FooA.java" timestamp="1525408807827">
         <mark key="[" line="5" column="17" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.1/mybatis-spring-1.3.1-sources.jar!/org/mybatis/spring/SqlSessionTemplate.java" timestamp="1526953507489" />
       <file name="D:/IdeaProjects/jlsz-service/src/main/resources/com/aucdi/jlsz/dao/sqlmap/ProjectMapper.xml" timestamp="1526874698354">
         <mark key="[" line="261" column="0" />
         <mark key="]" line="261" column="0" />
@@ -378,10 +380,10 @@
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/ProjectSpecs.java" timestamp="1512357704859">
         <mark key="[" line="9" column="27" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/config/WebMvcConfig.java" timestamp="1526952370289">
-        <mark key="[" line="57" column="49" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/config/WebMvcConfig.java" timestamp="1526953839954">
+        <mark key="[" line="64" column="49" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/domain/FileContentService.java" timestamp="1526458116319">
         <mark key="[" line="7" column="33" />
