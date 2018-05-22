@@ -38,7 +38,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>274</Count>
+          <Count>275</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -62,7 +62,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>145</Count>
+          <Count>146</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'HibernateJPATest.testJpaFetchi...'">
@@ -422,7 +422,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'JlszServiceApplication'</Description>
-          <Count>170</Count>
+          <Count>173</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'MessagingJmsApplication'">
@@ -870,7 +870,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'JlszServiceApplication'</Description>
-          <Count>21</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'JlszServiceApplicationTests.testShiroHashService'">
