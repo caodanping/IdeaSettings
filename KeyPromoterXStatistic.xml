@@ -646,7 +646,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'lems [jetty:run]'</Description>
-          <Count>219</Count>
+          <Count>221</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'lems [org.eclipse.jetty:jetty-maven-plugin:9.2.19.v20160908:run]'">
@@ -686,7 +686,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>293</Count>
+          <Count>294</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1198,7 +1198,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'lems [jetty:run]'</Description>
-          <Count>75</Count>
+          <Count>76</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'lems [org.eclipse.jetty:jetty-maven-plugin:9.2.19.v20160908:run]'">
