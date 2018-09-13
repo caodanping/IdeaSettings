@@ -457,6 +457,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ElTest.testSetVar (1)'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'ElTest.testSetVar (1)'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ElTest.testSetVar'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'ElTest.testSetVar'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'FieldTypeParserTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1201,6 +1217,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'testSetVar()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'testSetVar()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'testSingleFrameWit...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1494,7 +1518,7 @@
           <IdeaActionID>IntroduceVariable</IdeaActionID>
           <ShortCut>'Ctrl+Alt+V'</ShortCut>
           <Description>Variable...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
