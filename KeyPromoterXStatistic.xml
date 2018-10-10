@@ -641,6 +641,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'SimpleApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'SimpleApplication'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'SpringBootDemoApplication'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1015,6 +1023,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ReflectionTest.testCreate004'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'SimpleApplication'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'SimpleApplication'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'SpringBootDemoApplic...'">
@@ -1439,6 +1455,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'ReflectionTest.testInvoke001'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SimpleApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'SimpleApplication'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SpringBootDemoApplication'">
