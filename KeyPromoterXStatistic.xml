@@ -390,7 +390,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'AuthServerApplication'</Description>
-          <Count>26</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'BdsDecorderTest'">
@@ -1390,6 +1390,14 @@
           <IdeaActionID>ShowUmlDiagram</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+U'</ShortCut>
           <Description>Show Dependencies...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'AuthServerApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'AuthServerApplication'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
