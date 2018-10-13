@@ -3,42 +3,189 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/Dispatching.java" timestamp="1513232322765">
-        <mark key="[" line="209" column="38" />
-        <mark key="]" line="471" column="24" />
-        <mark key="^" line="471" column="24" />
-        <mark key="." line="471" column="24" />
+      <file name="D:/IdeaProjects/spring-boot-demos/src/test/java/com/caodanping/demo/reflection/FooB.java" timestamp="1525399796950">
+        <mark key="[" line="5" column="19" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/resources/generatorConfig.xml" timestamp="1514179918008" />
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dao/ChannelMapper.java" timestamp="1514184573816">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/aaa/AuthManager.java" timestamp="1526020325846">
+        <mark key="[" line="5" column="26" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/pjEquipInfo/Main.js" timestamp="1513927219917">
-        <mark key="[" line="41" column="35" />
-        <mark key="]" line="26" column="38" />
-        <mark key="." line="26" column="38" />
-        <mark key="^" line="26" column="38" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/filter/authc/UserFilter.java" timestamp="1526971527118" />
+      <file name="/a.dummy" timestamp="1526984367348">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.10/jackson-databind-2.8.10-sources.jar!/com/fasterxml/jackson/databind/JsonDeserializer.java" timestamp="1526898570163" />
+      <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/domain/FileContent.java" timestamp="1526625957629">
+        <mark key="[" line="8" column="22" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/authc/credential/PasswordMatcher.java" timestamp="1526380940328" />
+      <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/aaa/Permission.java" timestamp="1526367851296">
+        <mark key="[" line="7" column="25" />
+      </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/main/resources/com/aucdi/jlsz/dao/sqlmap/ChannelMapper.xml" timestamp="1526372746142" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/util/JdbcUtils.java" timestamp="1526381265456" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/resources/com/aucdi/jlsz/dao/sqlmap/DevOnlineMapper.xml" timestamp="1526277338008">
+        <mark key="[" line="211" column="11" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/equipStateRec/List.js" timestamp="1525316074400">
+        <mark key="[" line="135" column="21" />
+      </file>
+      <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/aaa/User.java" timestamp="1526368020026">
+        <mark key="[" line="5" column="19" />
+      </file>
+      <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/lems/PropertyType.java" timestamp="1525425877652">
+        <mark key="[" line="5" column="26" />
       </file>
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/DispatchInputDto.java" timestamp="1513073245223">
         <mark key="[" line="9" column="31" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dao/ProjectMapper.java" timestamp="1514184600820">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="6" />
-        <mark key="^" line="5" column="6" />
-        <mark key="." line="5" column="6" />
+      <file name="D:/IdeaProjects/tdd-demo/src/main/java/com/caodanping/tdd/ch1/Frank.java" timestamp="1526986343119">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="11" column="25" />
+        <mark key="." line="11" column="25" />
+        <mark key="^" line="13" column="0" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/pom.xml" timestamp="1514184084107">
-        <mark key="[" line="54" column="21" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/config/ShiroConfig.java" timestamp="1526970053342">
+        <mark key="[" line="92" column="52" />
+        <mark key="]" line="186" column="27" />
+        <mark key="." line="186" column="27" />
+        <mark key="^" line="185" column="7" />
       </file>
-      <file name="D:/IdeaProjects/GeoProj/src/main/java/com/aucdi/MeassureUtils.java" timestamp="1513861840860">
-        <mark key="[" line="80" column="6" />
-        <mark key="]" line="81" column="6" />
-        <mark key="." line="81" column="6" />
-        <mark key="^" line="81" column="6" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/base/Constants.java" timestamp="1526884315620">
+        <mark key="[" line="5" column="24" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.3.1/mybatis-spring-boot-autoconfigure-1.3.1-sources.jar!/org/mybatis/spring/boot/autoconfigure/MybatisProperties.java" timestamp="1526953553911" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/rest/TestController.java" timestamp="1526370536403">
+        <mark key="[" line="20" column="15" />
+      </file>
+      <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/lems/AssetCatalogEntry.java" timestamp="1525429817490">
+        <mark key="[" line="5" column="32" />
+      </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/rest/AuthController.java" timestamp="1526442859394">
+        <mark key="[" line="33" column="46" />
+        <mark key="]" line="33" column="46" />
+        <mark key="^" line="45" column="12" />
+        <mark key="." line="33" column="46" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.13.RELEASE/spring-web-4.3.13.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java" timestamp="1526966926766" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/BaseEntity.java" timestamp="1525246224069">
+        <mark key="[" line="12" column="79" />
+      </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/config/App.java" timestamp="1526292706234">
+        <mark key="[" line="64" column="0" />
+      </file>
+      <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/domain/FileContentPointer.java" timestamp="1526458385618">
+        <mark key="[" line="5" column="33" />
+      </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/shiro/WebUtils.java" timestamp="1526364065796">
+        <mark key="[" line="13" column="59" />
+      </file>
+      <file name="D:/IdeaProjects/tdd-demo/src/main/java/com/caodanping/tdd/ch1/Dollar.java" timestamp="1526986374639" />
+      <file name="D:/IdeaProjects/tdd-demo/src/test/java/com/caodanping/tdd/ch1/MoneyTest.java" timestamp="1527037967977">
+        <mark key="[" line="50" column="14" />
+        <mark key="]" line="50" column="17" />
+        <mark key="^" line="50" column="17" />
+        <mark key="." line="50" column="17" />
+      </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/distortion_monitor_system_service/VerticalDisplacement.java" timestamp="1525744758745">
+        <mark key="[" line="5" column="35" />
+      </file>
+      <file name="D:/IdeaProjects/spring-boot-demos/pom.xml" timestamp="1525343486937">
+        <mark key="[" line="26" column="18" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23-sources.jar!/org/apache/catalina/servlets/WebdavServlet.java" timestamp="1526615136519" />
+      <file name="D:/IdeaProjects/tdd-demo/src/main/java/com/caodanping/tdd/ch1/Sum.java" timestamp="1527037862521">
+        <mark key="[" line="5" column="16" />
+      </file>
+      <file name="D:/IdeaProjects/jlsz-data-server/src/main/java/com/aucdi/jlsz/config/AppConfig.java" timestamp="1526976249684" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/shiro/ApiAuthenticationFilter.java" timestamp="1526287174723">
+        <mark key="[" line="5" column="36" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE-sources.jar!/org/springframework/http/ResponseEntity.java" timestamp="1526525179797" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/distortion_monitor_system_service/UploadDataService.java" timestamp="1526867238364">
+        <mark key="[" line="5" column="32" />
+      </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/rest/JlszDataController.java" timestamp="1526884010563">
+        <mark key="[" line="45" column="42" />
+        <mark key="]" line="50" column="119" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="49" column="53" />
+      </file>
+      <file name="D:/IdeaProjects/tdd-demo/src/main/java/com/caodanping/tdd/ch1/Money.java" timestamp="1526995313063">
+        <mark key="[" line="47" column="18" />
+        <mark key="]" line="47" column="18" />
+        <mark key="." line="47" column="18" />
+        <mark key="^" line="47" column="22" />
+      </file>
+      <file name="D:/IdeaProjects/tdd-demo/src/main/java/com/caodanping/tdd/ch1/Bank.java" timestamp="1527037326633">
+        <mark key="[" line="6" column="53" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/EquipmentInventorySpecs.java" timestamp="1525320601612">
+        <mark key="[" line="68" column="38" />
+      </file>
+      <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/domain/SymboLink.java" timestamp="1526459998568">
+        <mark key="[" line="5" column="22" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.9.4.RELEASE/spring-data-jpa-1.9.4.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/QueryDslJpaRepository.java" timestamp="1526018929914" />
+      <file name="D:/IdeaProjects/lems/pom.xml" timestamp="1526287259364" />
+      <file name="D:/IdeaProjects/jlsz-data-server/src/main/resources/application.properties" timestamp="1526976819051">
+        <mark key="[" line="0" column="52" />
+        <mark key="]" line="0" column="57" />
+        <mark key="^" line="0" column="57" />
+        <mark key="." line="0" column="57" />
+      </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dao/JlszHistoricalDataDao.java" timestamp="1526282429654" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/model/ExternalVerticalShift.java" timestamp="1526875547632" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/servlet/AbstractShiroFilter.java" timestamp="1526969437911" />
+      <file name="D:/IdeaProjects/jlsz-data-server/src/main/java/com/aucdi/jlsz/JlszDataServerApplication.java" timestamp="1526976305782">
+        <mark key="[" line="16" column="22" />
+      </file>
+      <file name="D:/IdeaProjects/eis-parent/ecm/src/test/java/com/caodanping/eis/ecm/FileTests.java" timestamp="1526473765804">
+        <mark key="[" line="12" column="29" />
+        <mark key="]" line="12" column="28" />
+        <mark key="^" line="12" column="28" />
+        <mark key="." line="12" column="28" />
+      </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/shiro/AjaxUserFilter.java" timestamp="1526976444383">
+        <mark key="[" line="25" column="12" />
+        <mark key="]" line="25" column="12" />
+        <mark key="." line="25" column="12" />
+        <mark key="^" line="27" column="17" />
+      </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/test/java/com/aucdi/jlsz/JacksonTests.java" timestamp="1526951278415">
+        <mark key="[" line="33" column="94" />
+        <mark key="]" line="46" column="96" />
+        <mark key="^" line="46" column="96" />
+        <mark key="." line="46" column="96" />
+      </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/base/spring/PageUtils.java" timestamp="1526267373704">
+        <mark key="[" line="8" column="24" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/BorrowingRepository.java" timestamp="1525256584138">
+        <mark key="[" line="24" column="35" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/InventoryRecordServiceImpl.java" timestamp="1525257195153">
+        <mark key="[" line="49" column="61" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.1.2.Final/hibernate-core-5.1.2.Final-sources.jar!/org/hibernate/boot/internal/SessionFactoryOptionsImpl.java" timestamp="1526011102897" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/filter/authc/AuthenticatingFilter.java" timestamp="1526972064303" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.0.4.RELEASE/spring-security-core-5.0.4.RELEASE-sources.jar!/org/springframework/security/core/userdetails/UserDetails.java" timestamp="1526021111764" />
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.10/jackson-databind-2.8.10-sources.jar!/com/fasterxml/jackson/databind/ser/std/DateSerializer.java" timestamp="1526886179181" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/shiro/BasicAuthFilter.java" timestamp="1526970391585">
+        <mark key="[" line="11" column="28" />
+      </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dao/DevOnlineMapper.java" timestamp="1526277288665" />
+      <file name="D:/IdeaProjects/jlsz-data-server/src/main/java/com/aucdi/jlsz/util/Util.java" timestamp="1526965844973">
+        <mark key="[" line="68" column="5" />
+      </file>
+      <file name="D:/IdeaProjects/spring-boot-demos/src/test/java/com/caodanping/demo/reflection/FooA.java" timestamp="1525408807827">
+        <mark key="[" line="5" column="17" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.1/mybatis-spring-1.3.1-sources.jar!/org/mybatis/spring/SqlSessionTemplate.java" timestamp="1526953507489" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/dto/ExternalVerticalShift.java" timestamp="1526874328633">
+        <mark key="[" line="5" column="36" />
       </file>
       <file name="D:/IdeaProjects/oauth-demo/src/main/java/com/dpcao/examples/web/UserController.java" timestamp="1513928611007">
         <mark key="[" line="6" column="3" />
@@ -46,99 +193,148 @@
       <file name="/fragment.js" timestamp="1512981902580">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/IdeaProjects/GeoProj/src/test/java/PilePositionTest.java" timestamp="1513917975727">
-        <mark key="[" line="47" column="48" />
-        <mark key="]" line="49" column="95" />
-        <mark key="." line="49" column="95" />
-        <mark key="^" line="49" column="95" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/dto/EquipmentInventorySummaryDto.java" timestamp="1525322554308">
+        <mark key="[" line="20" column="31" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/resources/spring-root.xml" timestamp="1514173410146">
-        <mark key="[" line="27" column="37" />
-        <mark key="]" line="27" column="37" />
-        <mark key="^" line="27" column="43" />
-        <mark key="." line="27" column="37" />
+      <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/lems/AssetCatolog.java" timestamp="1525424086932">
+        <mark key="[" line="5" column="27" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/filter/authc/FormAuthenticationFilter.java" timestamp="1526972113886" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/realm/jdbc/JdbcRealm.java" timestamp="1526381239055" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/command/UploadAllCommand.java" timestamp="1526884767975">
+        <mark key="[" line="233" column="0" />
+        <mark key="]" line="233" column="132" />
+        <mark key="." line="233" column="14" />
+        <mark key="^" line="233" column="14" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/resources/spring-shiro-web.xml" timestamp="1526363734653" />
+      <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/domain/Node.java" timestamp="1526625750723" />
+      <file name="D:/IdeaProjects/jlsz-service/src/test/java/com/aucdi/jlsz/TestBean.java" timestamp="1526899024439">
+        <mark key="[" line="15" column="22" />
+      </file>
+      <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/domain/Path.java" timestamp="1526472829565">
+        <mark key="[" line="7" column="7" />
+      </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/test/java/com/aucdi/jlsz/JlszServiceApplicationTests.java" timestamp="1526976520646">
+        <mark key="[" line="24" column="62" />
+        <mark key="]" line="24" column="62" />
+        <mark key="." line="24" column="62" />
+        <mark key="^" line="24" column="62" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.10/jackson-databind-2.8.10-sources.jar!/com/fasterxml/jackson/databind/deser/std/DateDeserializers.java" timestamp="1526898724603" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/service/JlszDataService.java" timestamp="1526278792043">
+        <mark key="[" line="15" column="96" />
       </file>
       <file name="D:/IdeaProjects/oauth-demo/src/main/java/com/dpcao/examples/config/ShiroConfig.java" timestamp="1513926835187">
         <mark key="[" line="6" column="3" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/io/File.java" timestamp="1526473618719" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/shiro/RetryLimitPasswordMatcher.java" timestamp="1526439088591" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.5.RELEASE/spring-core-5.0.5.RELEASE.jar!/org/springframework/core/io/Resource.class" timestamp="1526522679602" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/repository/impl/InventoryRecordRepositoryImpl.java" timestamp="1526014789085">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="75" column="48" />
+        <mark key="." line="75" column="48" />
+        <mark key="^" line="75" column="47" />
+      </file>
+      <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/lems/PropertiesDef.java" timestamp="1525425812975">
+        <mark key="[" line="5" column="28" />
+      </file>
       <file name="D:/IdeaProjects/oauth-demo/pom.xml" timestamp="1514172388953">
         <mark key="[" line="54" column="21" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/JlszServiceApplication.java" timestamp="1514184866780">
-        <mark key="[" line="24" column="60" />
-        <mark key="]" line="24" column="60" />
-        <mark key="^" line="24" column="60" />
-        <mark key="." line="24" column="60" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.5.RELEASE/spring-core-5.0.5.RELEASE.jar!/org/springframework/core/io/FileSystemResource.class" timestamp="1526522712993" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/rest/ProjectController.java" timestamp="1526370524451">
+        <mark key="[" line="21" column="18" />
       </file>
-      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/free/Free.js" timestamp="1514164657185">
-        <mark key="[" line="34" column="35" />
-        <mark key="]" line="31" column="29" />
-        <mark key="." line="31" column="29" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/model/PointData.java" timestamp="1526549143914">
+        <mark key="[" line="7" column="24" />
       </file>
-      <file name="D:/IdeaProjects/jlsz-service/generatorConfig.xml" timestamp="1514174444444">
-        <mark key="[" line="27" column="71" />
-        <mark key="]" line="27" column="71" />
-        <mark key="." line="27" column="71" />
-        <mark key="^" line="27" column="87" />
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/shiro/RetryLimitHashedPasswordMatcher.java" timestamp="1526373606527" />
+      <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/web/FileController.java" timestamp="1526648631792">
+        <mark key="[" line="18" column="35" />
+        <mark key="]" line="18" column="31" />
+        <mark key="^" line="18" column="31" />
+        <mark key="." line="18" column="31" />
       </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/ProjectSummaryDto.java" timestamp="1525319705251">
+        <mark key="[" line="11" column="34" />
+      </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/base/JSON.java" timestamp="1526292870786">
+        <mark key="[" line="7" column="3" />
+      </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/service/impl/JlszDataServiceImpl.java" timestamp="1526969792616">
+        <mark key="[" line="82" column="41" />
+        <mark key="]" line="148" column="15" />
+        <mark key="." line="148" column="15" />
+        <mark key="^" line="148" column="13" />
+      </file>
+      <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/application/FileService.java" timestamp="1526612540328">
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="10" column="10" />
+        <mark key="^" line="10" column="10" />
+        <mark key="." line="10" column="10" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/filter/AccessControlFilter.java" timestamp="1526971068554" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/distortion_monitor_system_service/TVerticalShift.java" timestamp="1526550640560" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/filter/authc/AuthenticationFilter.java" timestamp="1526971513062" />
+      <file name="D:/IdeaProjects/lems/src/main/frontend/app/view/equipment/List.js" timestamp="1525320727367">
+        <mark key="[" line="160" column="22" />
+      </file>
+      <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/files/File.java" timestamp="1526646865928">
+        <mark key="[" line="8" column="18" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1526986002835">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/reflection/ReflectionException.java" timestamp="1525397290030">
+        <mark key="[" line="5" column="32" />
+      </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/test/java/com/aucdi/jlsz/DateFormatTests.java" timestamp="1526886090175">
+        <mark key="[" line="33" column="0" />
+      </file>
+      <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/ProjectSiteServiceImpl.java" timestamp="1525329480961">
+        <mark key="[" line="57" column="126" />
+      </file>
+      <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/domain/Directory.java" timestamp="1526459060890">
+        <mark key="[" line="5" column="22" />
+      </file>
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/model/JlszHistoricalData.java" timestamp="1526885651180" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/distortion_monitor_system_service/UploadDataTask.java" timestamp="1526869699081" />
+      <file name="D:/IdeaProjects/jlsz-data-server/src/main/java/com/aucdi/jlsz/JlszDataServer.java" timestamp="1526959772848" />
+      <file name="D:/IdeaProjects/jlsz-data-server/src/main/java/com/aucdi/jlsz/service/impl/JlszDataServiceImpl.java" timestamp="1526976395647">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="31" column="24" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/lems/AssetType.java" timestamp="1525424494997">
+        <mark key="[" line="5" column="24" />
+      </file>
+      <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/domain/SymbolLink.java" timestamp="1526458945380">
+        <mark key="[" line="5" column="25" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.10/jackson-databind-2.8.10-sources.jar!/com/fasterxml/jackson/databind/util/ISO8601Utils.java" timestamp="1526954864727" />
+      <file name="D:/IdeaProjects/jlsz-service/target/generated-sources/xjc/META-INF/sun-jaxb.episode" timestamp="1526552166306" />
       <file name="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/domain/ProjectSpecs.java" timestamp="1512357704859">
         <mark key="[" line="9" column="27" />
       </file>
+      <file name="D:/IdeaProjects/eis-parent/ecm/src/main/java/com/caodanping/eis/ecm/domain/FileContentService.java" timestamp="1526458116319">
+        <mark key="[" line="7" column="33" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/filter/authz/PortFilter.java" timestamp="1526288550703" />
+      <file name="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/service/impl/JlszOnlineServiceImpl.java" timestamp="1526979837575">
+        <mark key="[" line="83" column="51" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/servlet/OncePerRequestFilter.java" timestamp="1526969292436" />
+      <file name="/fragment.java" timestamp="1526995208981">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/IdeaProjects/spring-boot-demos/src/main/java/com/caodanping/demo/lems/AssetEntry.java" timestamp="1525429596967">
+        <mark key="[" line="5" column="25" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="254" column="27" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="270" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="286" column="27" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="295" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="299" column="18" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="300" column="29" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="308" column="10" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="326" column="16" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="327" column="27" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="340" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="81" column="34" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="712" column="31" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="1248" column="39" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="1253" column="50" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="1255" column="55" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="1257" column="39" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="1163" column="14" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="1170" column="30" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="1243" column="28" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="1166" column="66" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="182" column="16" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="184" column="13" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="193" column="22" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="194" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="197" column="17" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="199" column="24" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="225" column="12" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="488" column="16" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="494" column="56" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="512" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="529" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="530" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="552" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="656" column="29" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="657" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="678" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="701" column="29" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="702" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="745" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="760" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="767" column="10" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="777" column="29" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="778" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="786" column="8" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="803" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="819" column="57" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="820" column="31" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="867" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="873" column="52" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="880" column="52" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="884" column="52" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="888" column="52" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
-      <jump line="898" column="52" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
       <jump line="912" column="31" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
       <jump line="913" column="18" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
       <jump line="914" column="29" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
@@ -186,55 +382,108 @@
       <jump line="1099" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
       <jump line="1109" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
       <jump line="1139" column="33" filename="D:/IdeaProjects/lems/src/main/java/com/aucdi/csfy/service/impl/DispatchingServiceImpl.java" />
+      <jump line="178" column="8" filename="D:/IdeaProjects/jlsz-service/src/main/java/com/aucdi/jlsz/service/impl/JlszOnlineServiceImpl.java" />
+      <jump line="149" column="16" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.10/jackson-databind-2.8.10-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" />
+      <jump line="649" column="48" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.10/jackson-databind-2.8.10-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" />
+      <jump line="651" column="66" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.10/jackson-databind-2.8.10-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" />
+      <jump line="1727" column="49" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.10/jackson-databind-2.8.10-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" />
+      <jump line="1729" column="61" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.10/jackson-databind-2.8.10-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" />
+      <jump line="1730" column="57" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.10/jackson-databind-2.8.10-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" />
+      <jump line="3350" column="9" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.10/jackson-databind-2.8.10-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" />
+      <jump line="3353" column="50" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.10/jackson-databind-2.8.10-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" />
+      <jump line="3358" column="58" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.10/jackson-databind-2.8.10-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" />
+      <jump line="3359" column="57" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.10/jackson-databind-2.8.10-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" />
+      <jump line="3360" column="66" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.10/jackson-databind-2.8.10-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" />
+      <jump line="3366" column="17" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.10/jackson-databind-2.8.10-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" />
+      <jump line="111" column="17" filename="D:/IdeaProjects/lems/pom.xml" />
+      <jump line="295" column="22" filename="D:/IdeaProjects/lems/pom.xml" />
+      <jump line="52" column="24" filename="D:/IdeaProjects/lems/pom.xml" />
+      <jump line="0" column="0" filename="/a.dummy" />
+      <jump line="14" column="37" filename="D:/IdeaProjects/jlsz-service/src/main/resources/com/aucdi/jlsz/dao/sqlmap/TestMapper.xml" />
+      <jump line="283" column="11" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.10.9.RELEASE/spring-data-mongodb-1.10.9.RELEASE-sources.jar!/org/springframework/data/mongodb/repository/support/SimpleMongoRepository.java" />
+      <jump line="352" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.10.9.RELEASE/spring-data-mongodb-1.10.9.RELEASE-sources.jar!/org/springframework/data/mongodb/repository/support/SimpleMongoRepository.java" />
+      <jump line="215" column="115" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.10.9.RELEASE/spring-data-mongodb-1.10.9.RELEASE-sources.jar!/org/springframework/data/mongodb/repository/support/SimpleMongoRepository.java" />
+      <jump line="217" column="33" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.10.9.RELEASE/spring-data-mongodb-1.10.9.RELEASE-sources.jar!/org/springframework/data/mongodb/repository/support/SimpleMongoRepository.java" />
+      <jump line="222" column="19" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.10.9.RELEASE/spring-data-mongodb-1.10.9.RELEASE-sources.jar!/org/springframework/data/mongodb/repository/support/SimpleMongoRepository.java" />
+      <jump line="267" column="162" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.10.9.RELEASE/spring-data-mongodb-1.10.9.RELEASE-sources.jar!/org/springframework/data/mongodb/repository/support/SimpleMongoRepository.java" />
+      <jump line="270" column="67" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.10.9.RELEASE/spring-data-mongodb-1.10.9.RELEASE-sources.jar!/org/springframework/data/mongodb/repository/support/SimpleMongoRepository.java" />
+      <jump line="277" column="41" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.10.9.RELEASE/spring-data-mongodb-1.10.9.RELEASE-sources.jar!/org/springframework/data/mongodb/repository/support/SimpleMongoRepository.java" />
+      <jump line="28" column="39" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.10.9.RELEASE/spring-data-mongodb-1.10.9.RELEASE-sources.jar!/org/springframework/data/mongodb/repository/support/SimpleMongoRepository.java" />
+      <jump line="29" column="39" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.10.9.RELEASE/spring-data-mongodb-1.10.9.RELEASE-sources.jar!/org/springframework/data/mongodb/repository/support/SimpleMongoRepository.java" />
+      <jump line="30" column="39" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.10.9.RELEASE/spring-data-mongodb-1.10.9.RELEASE-sources.jar!/org/springframework/data/mongodb/repository/support/SimpleMongoRepository.java" />
+      <jump line="38" column="51" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.10.9.RELEASE/spring-data-mongodb-1.10.9.RELEASE-sources.jar!/org/springframework/data/mongodb/repository/support/SimpleMongoRepository.java" />
+      <jump line="39" column="51" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.10.9.RELEASE/spring-data-mongodb-1.10.9.RELEASE-sources.jar!/org/springframework/data/mongodb/repository/support/SimpleMongoRepository.java" />
+      <jump line="19" column="56" filename="D:/IdeaProjects/jlsz-service/log.log" />
+      <jump line="103" column="40" filename="D:/IdeaProjects/jlsz-service/jlsz-service-log.log" />
+      <jump line="24" column="43" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
+      <jump line="40" column="41" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
+      <jump line="41" column="31" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
+      <jump line="44" column="41" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
+      <jump line="45" column="31" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
+      <jump line="48" column="41" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
+      <jump line="49" column="31" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
+      <jump line="100" column="41" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
+      <jump line="101" column="31" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
+      <jump line="107" column="41" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
+      <jump line="108" column="31" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
+      <jump line="116" column="45" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
+      <jump line="117" column="35" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
+      <jump line="30" column="39" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
+      <jump line="29" column="40" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
+      <jump line="15" column="27" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
+      <jump line="14" column="37" filename="D:/IdeaProjects/jlsz-service/pom.xml" />
+      <jump line="533" column="19" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23-sources.jar!/org/apache/catalina/servlets/DefaultServlet.java" />
+      <jump line="488" column="22" filename="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23-sources.jar!/org/apache/catalina/servlets/DefaultServlet.java" />
+      <jump line="22" column="57" filename="D:/IdeaProjects/jlsz-service/src/main/resources/com/aucdi/jlsz/dao/sqlmap/DevOnlineChannelMapper.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text encoding="base64">IE1vbmV5</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IE1vbmV5</text>
       </register>
       <register name="/" type="4">
-        <text>dispatch</text>
+        <text>doPost</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIrzGy+O1w7P2167Nt7XE0MLOu9bDOiIgKyBsb2MpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKG5ldyBEb2xsYXIoNSkuZXF1YWxzKG5ldyBEb2xsYXIoNSkpKTsKICAgICAgICBhc3NlcnRGYWxzZShuZXcgRG9sbGFyKDUpLmVxdWFscyhuZXcgRG9sbGFyKDYpKSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ZGlzdG9ydGlvbm1vbml0b3IuZGFvIiB0YXJnZXRQcm9qZWN0PSJzcmMvbWFpbi9qYXZhIj4KICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImVuYWJsZVN1YlBhY2thZ2VzIiB2YWx1ZT0idHJ1ZSIvPg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmdCdWlsZGVyIHNiID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKICAgICAgICBzYi5hcHBlbmQoIng9IikuYXBwZW5kKHgpOwogICAgICAgIHNiLmFwcGVuZCgiLCB5PSIpLmFwcGVuZCh5KTsKICAgICAgICByZXR1cm4gc2IudG9TdHJpbmcoKTs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuaGFzaENvZGUoKSA9PSBmcmFuay5oYXNoQ29kZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICBNb25leSBmcmFuayA9IChNb25leSkgbzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSW52ZW50b3J5UmVjb3JkU2VydmljZSBpbnZlbnRvcnlSZWNvcmRTZXJ2aWNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBFcXVpcG1lbnRFdmVudFJlcG9zaXRvcnkgZXF1aXBtZW50RXZlbnRSZXBvc2l0b3J5Owo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobyA9PSBudWxsIHx8IGdldENsYXNzKCkgIT0gby5nZXRDbGFzcygpKSByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dispatch</last-search>
+      <last-search>doPost</last-search>
       <last-offset />
-      <last-pattern>dispatch</last-pattern>
+      <last-pattern>doPost</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -242,17 +491,6 @@
     </search>
     <history>
       <history-search>
-        <entry>调整</entry>
-        <entry>completeWith</entry>
-        <entry encoding="base64">XDxyZXVzZUVxdWlwbWVudHNcPg==</entry>
-        <entry encoding="base64">XDxyZWltYnVyc2VTZXJ2aWNlXD4=</entry>
-        <entry>jetty</entry>
-        <entry>dispInnerDept</entry>
-        <entry>onLoad</entry>
-        <entry>saveInnerDept</entry>
-        <entry>changeDispatch</entry>
-        <entry>isIns</entry>
-        <entry>count</entry>
         <entry>initControls</entry>
         <entry>controls</entry>
         <entry>taskHistory</entry>
@@ -262,11 +500,19 @@
         <entry>innerDept</entry>
         <entry>cancel</entry>
         <entry>dispatch</entry>
+        <entry>dev</entry>
+        <entry>date</entry>
+        <entry>dateformat</entry>
+        <entry>dateFormat</entry>
+        <entry>querydsl</entry>
+        <entry>spring</entry>
+        <entry>spring-data</entry>
+        <entry>Page</entry>
+        <entry>boot</entry>
+        <entry>post</entry>
+        <entry>doPost</entry>
       </history-search>
       <history-cmd>
-        <entry>482</entry>
-        <entry encoding="base64">JzwsJz53</entry>
-        <entry>ww</entry>
         <entry encoding="base64">JzwsJz50NDA=</entry>
         <entry>42,50to50</entry>
         <entry encoding="base64">PDQyLDUwPnRvNTA=</entry>
@@ -283,6 +529,9 @@
         <entry>554</entry>
         <entry>112</entry>
         <entry>W</entry>
+        <entry>q</entry>
+        <entry encoding="base64">JzwsJz50NzE=</entry>
+        <entry encoding="base64">JzwsJz50MTMz</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
