@@ -1,6 +1,4 @@
 <code_scheme name="MyCodeStyle">
-  <option name="FIELD_NAME_PREFIX" value="m" />
-  <option name="STATIC_FIELD_NAME_PREFIX" value="s" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
