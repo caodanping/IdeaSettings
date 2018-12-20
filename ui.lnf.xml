@@ -3,6 +3,7 @@
     <option name="FONT_FACE" value="YaHei Consolas Hybrid" />
     <option name="FONT_SIZE" value="14" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="MAX_LOOKUP_WIDTH2" value="628" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="12" />
   </component>
 </application>
