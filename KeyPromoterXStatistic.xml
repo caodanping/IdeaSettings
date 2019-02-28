@@ -94,7 +94,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'ExportApp'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ExportDialog'">
@@ -185,6 +185,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Tests.testExpression'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Tests.testExpression'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'YbjDataServerApplication'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -246,7 +254,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>35</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -793,6 +801,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Tests.testExpression'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'Tests.testExpression'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Tests.testReplaceZero'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -934,7 +950,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>402</Count>
+          <Count>419</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1054,7 +1070,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ExportApp'</Description>
-          <Count>26</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ExportApp.main()'">
@@ -1654,7 +1670,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'ExportApp'</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ExportDialog'">
@@ -1782,6 +1798,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'TestHtmlUnit'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Tests.testExpression'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Tests.testExpression'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1950,7 +1974,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>282</Count>
+          <Count>291</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
