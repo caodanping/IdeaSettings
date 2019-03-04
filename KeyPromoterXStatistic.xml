@@ -1281,6 +1281,14 @@
           <Count>19</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Test1.testCrc16'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Test1.testCrc16'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Test1.testParseDouble'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
