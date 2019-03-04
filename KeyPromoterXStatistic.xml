@@ -769,6 +769,14 @@
           <Count>58</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Test1.testCmd'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'Test1.testCmd'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Test1.testParseDouble'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
