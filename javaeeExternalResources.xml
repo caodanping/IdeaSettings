@@ -1,5 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="http://maven.apache.org/ASSEMBLY/2.0.0" location="$USER_HOME$/.IntelliJIdea2016.2/system/extResources/a7faf726_assembly-2.0.0.xsd" />
     <resource url="http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" location="$USER_HOME$/.IntelliJIdea2016.2/system/extResources/cf63db72_mybatis-generator-config_1_0.dtd" />
     <resource url="http://xmlns.jcp.org/xml/ns/persistence/orm" location="$USER_HOME$/.IntelliJIdea2016.2/system/extResources/99717ece_orm_2_1.xsd" />
     <ignored-resource url="http://ehcache.org/ehcache.xsd" />
