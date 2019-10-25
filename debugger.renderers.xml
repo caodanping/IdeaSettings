@@ -36,6 +36,16 @@
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="byte[]" />
       </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="NAME" value="io.netty.buffer.ByteBuf" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="io.netty.buffer.ByteBuf" />
+        <Renderer ID="ExpressionChildrenRenderer" role="children">
+          <option name="QUALIFIED_NAME" value="io.netty.buffer.ByteBuf" />
+          <option name="CHILDREN_EXPANDABLE" value="&#13;&#13;JAVA" />
+          <option name="CHILDREN_EXPRESSION" value="io.netty.buffer.ByteBufUtil.prettyHexDump(this)&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
     </CustomRenderers>
   </component>
 </application>
