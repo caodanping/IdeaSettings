@@ -9,7 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.js,*.jsp" />
+    <option name="FILE_MASK" value="*.js,*.jsp,*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -26,6 +26,8 @@
       <mask>*.java</mask>
       <mask>*.js,*.jsp,*.ftl,*.vue</mask>
       <mask>*.js,*.jsp</mask>
+      <mask>*.js,*.jsp,java</mask>
+      <mask>*.js,*.jsp,*.java</mask>
     </recentFileMasks>
   </component>
 </application>
