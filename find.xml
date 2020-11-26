@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.js,*.jsp,*.java" />
+    <option name="FILE_MASK" value="*.jsp,*.html" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -26,6 +26,7 @@
       <mask>*.js,*.jsp</mask>
       <mask>*.js,*.jsp,java</mask>
       <mask>*.js,*.jsp,*.java</mask>
+      <mask>*.jsp,*.html</mask>
     </recentFileMasks>
   </component>
 </application>
